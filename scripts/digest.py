@@ -39,7 +39,8 @@ for g in range(gw, 0, -1):
         picks_gw = g
         break
 
-live = load(f"live_gw{gw}.json") or load(f"live_gw{gw-1}.json")
+live = next((L for L in (load(f"live_gw{gw}.json"), load(f"live_gw{gw-1}.json"))
+             if L and L.get("elements")), None)
 live_map = {}
 if live:
     for e in live.get("elements", []):
