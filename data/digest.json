@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-24T15:20:57Z",
+ "generated_utc": "2026-08-24T17:19:28Z",
  "next_gw": 2,
  "next_deadline_utc": "2026-08-28T17:30:00Z",
  "gw_finished": false,
@@ -144,7 +144,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 37.7,
+   "owned_by": 37.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -426,29 +426,29 @@
     },
     {
      "rank": 7,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 49,
-     "total": 49
-    },
-    {
-     "rank": 7,
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
      "gw": 49,
      "total": 49
     },
     {
-     "rank": 9,
-     "team": "VARcelona",
-     "player": "Ahmed Rafai",
-     "gw": 46,
-     "total": 46
+     "rank": 7,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 49,
+     "total": 49
     },
     {
      "rank": 9,
      "team": "Previously Athletic",
      "player": "Phil Dudson",
+     "gw": 46,
+     "total": 46
+    },
+    {
+     "rank": 9,
+     "team": "VARcelona",
+     "player": "Ahmed Rafai",
      "gw": 46,
      "total": 46
     },
@@ -524,20 +524,6 @@
     },
     {
      "rank": 21,
-     "team": "Cruckle FC",
-     "player": "Michael Clarkson",
-     "gw": 34,
-     "total": 34
-    },
-    {
-     "rank": 21,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 34,
-     "total": 34
-    },
-    {
-     "rank": 21,
      "team": "HMH Ath",
      "player": "Craig Hughes",
      "gw": 34,
@@ -552,8 +538,22 @@
     },
     {
      "rank": 21,
+     "team": "Cruckle FC",
+     "player": "Michael Clarkson",
+     "gw": 34,
+     "total": 34
+    },
+    {
+     "rank": 21,
      "team": "Static FC",
      "player": "Nathaniel Josephs",
+     "gw": 34,
+     "total": 34
+    },
+    {
+     "rank": 21,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
      "gw": 34,
      "total": 34
     }
@@ -1440,7 +1440,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 17,
-   "owned_by": 3.3
+   "owned_by": 3.4
   },
   {
    "name": "Hinshelwood",
@@ -1472,7 +1472,7 @@
    "pos": "MID",
    "price": 5.5,
    "points": 14,
-   "owned_by": 4.7
+   "owned_by": 4.8
   },
   {
    "name": "Kayode",
@@ -1584,7 +1584,7 @@
    "pos": "MID",
    "price": 9.5,
    "points": 9,
-   "owned_by": 10.0
+   "owned_by": 10.1
   },
   {
    "name": "Janelt",
@@ -1608,7 +1608,7 @@
    "pos": "FWD",
    "price": 5.5,
    "points": 9,
-   "owned_by": 0.9
+   "owned_by": 1.0
   },
   {
    "name": "Trafford",
@@ -2620,7 +2620,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 37.7,
+   "owned_globally_pct": 37.6,
    "i_own": true
   },
   {
@@ -2647,7 +2647,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 42.1,
+   "owned_globally_pct": 42.2,
    "i_own": false
   },
   {
@@ -2782,7 +2782,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 17.9,
+   "owned_globally_pct": 17.8,
    "i_own": false
   },
   {
@@ -2800,7 +2800,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 12.2,
+   "owned_globally_pct": 12.1,
    "i_own": false
   },
   {
@@ -2962,7 +2962,7 @@
    "pos": "FWD",
    "price": 8.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 10.0,
+   "owned_globally_pct": 9.9,
    "i_own": false
   },
   {
@@ -3178,7 +3178,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 10.0,
+   "owned_globally_pct": 10.1,
    "i_own": false
   },
   {
@@ -3187,7 +3187,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 0.8,
+   "owned_globally_pct": 0.9,
    "i_own": false
   },
   {
@@ -3349,7 +3349,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 3.3,
+   "owned_globally_pct": 3.4,
    "i_own": false
   },
   {
@@ -3403,7 +3403,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 11.3,
+   "owned_globally_pct": 11.2,
    "i_own": false
   },
   {
@@ -3520,7 +3520,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 8.8,
+   "owned_globally_pct": 8.9,
    "i_own": false
   },
   {
@@ -3592,7 +3592,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 6.0,
+   "owned_globally_pct": 6.1,
    "i_own": false
   }
  ],
