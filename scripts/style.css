@@ -90,7 +90,7 @@ body {
 .num { text-align:right; font-family:"IBM Plex Mono",ui-monospace,monospace; font-variant-numeric:tabular-nums; }
 .who .nm { display:block; font-weight:600; letter-spacing:-.005em; }
 .who .club { display:block; font-size:11.5px; color:var(--ink-3); letter-spacing:.04em; }
-.money::before { content:"£"; color:var(--ink-3); }
+.money::before { content:"Â£"; color:var(--ink-3); }
 .own { color:var(--ink-2); }
 .pc { color:var(--ink-3); font-size:11px; }
 .mins { color:var(--ink-3); font-size:12.5px; }
@@ -260,3 +260,21 @@ ol.tl li.hard .gwr { color:var(--warn); }
 .note strong { color:var(--ink); }
 footer { color:var(--ink-3); font-size:12px; display:flex; flex-wrap:wrap; gap:8px 18px; justify-content:space-between; padding-top:4px; }
 footer code { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11.5px; }
+
+/* ---- market sections ---- */
+.yours { color:var(--good); font-weight:600; }
+.delta { margin-left:6px; font-size:11px; font-weight:600; }
+.delta.up { color:var(--good); }
+.delta.down { color:var(--crit); }
+.net.up { color:var(--good); font-weight:600; }
+.net.down { color:var(--crit); font-weight:600; }
+.boards { display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:16px; padding:14px 18px 18px; }
+.bd h4 { margin:0 0 8px; font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-3); font-weight:700; }
+.capt { font-weight:600; font-size:13px; }
+.diffs { font-size:12.5px; color:var(--ink-2); line-height:1.45; }
+.tbl.sp td { font-size:13px; }
+.tbl.sp .team { font-size:11.5px; font-weight:700; letter-spacing:.05em; color:var(--ink-2); }
+.stat .of { font-size:15px; color:var(--ink-3); }
+tr.ownteam th.team { color:var(--accent); }
+th.team .dot { display:inline-block; width:5px; height:5px; border-radius:50%; background:var(--accent); vertical-align:2px; margin-left:4px; }
+.fxtbl td.avg { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11px; color:var(--ink-3); padding-left:8px; }
