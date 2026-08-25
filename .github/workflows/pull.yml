@@ -122,11 +122,14 @@ jobs:
         # Never let a digest error block the raw data from being saved.
         run: python3 scripts/digest.py || echo "DIGEST FAILED - raw data still committed"
 
+      - name: Render page
+        run: PYTHONPATH=scripts python3 scripts/render.py || echo "RENDER FAILED - data still committed"
+
       - name: Commit
         run: |
           git config user.name  "fpl-bot"
           git config user.email "fpl-bot@users.noreply.github.com"
-          git add -A data
+          git add -A data index.html
           if git diff --staged --quiet; then
             echo "no changes"
           else
