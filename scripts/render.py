@@ -89,6 +89,10 @@ for g in range(1, gw + 1):
         if st.get("minutes", 0) or st.get("total_points", 0):
             gw_stats.setdefault(e["id"], []).append(st)
 
+played_gws = max(1, gw - 1)
+MIN_APPS = max(1, played_gws // 2)
+MIN_PPG = 3.5
+
 radar = []
 for eid, hist in gw_stats.items():
     e = els.get(eid)
@@ -96,23 +100,32 @@ for eid, hist in gw_stats.items():
         continue
     if float(e["selected_by_percent"]) >= 12.0 or e["status"] != "a":
         continue
-    total = sum(h.get("total_points", 0) for h in hist)
-    if total < 8:
+    apps = [h for h in hist if h.get("minutes", 0) > 0]
+    if len(apps) < MIN_APPS:
+        continue
+    total = sum(h.get("total_points", 0) for h in apps)
+    ppg = total / len(apps)
+    if ppg < MIN_PPG:
         continue
     pos = POS[e["element_type"]]
     radar.append({"name": e["web_name"], "team": teams[e["team"]], "pos": pos,
                   "price": e["now_cost"] / 10,
                   "own": float(e["selected_by_percent"]),
-                  "points": total, "why": why(pos, hist)})
-radar.sort(key=lambda r: -r["points"])
+                  "points": total, "ppg": ppg, "apps": len(apps),
+                  "why": why(pos, hist)})
+radar.sort(key=lambda r: -r["ppg"])
 radar = radar[:10]
+
+SHOW_PPG = played_gws >= 3
+PTS_HEAD = "Per game" if SHOW_PPG else "Pts"
 
 radar_rows = "\n".join(
     f'<tr><td class="who"><span class="nm">{esc(r["name"])}</span>'
     f'<span class="club">{esc(r["team"])} · {r["pos"]}</span></td>'
     f'<td class="num money">{r["price"]:.1f}</td>'
     f'<td class="num own">{r["own"]:.1f}<span class="pc">%</span></td>'
-    f'<td class="num pts good">{r["points"]}</td></tr>'
+    f'<td class="num pts good">{r["ppg"]:.1f}' if SHOW_PPG else f'<td class="num pts good">{r["points"]}'
+    f'</td></tr>'
     f'<tr class="whyrow"><td colspan="4">{esc(r["why"])}</td></tr>' for r in radar)
 
 my_teams = sorted({s["team"] for s in squad})
@@ -176,6 +189,7 @@ for k, v in {
     "T20": radar_rows,
     "T21": chip_rows,
     "T22": now.strftime("%d %b %Y, %H:%M"),
+    "T24": PTS_HEAD,
 }.items():
     tpl = tpl.replace("%%" + k + "%%", str(v))
 
