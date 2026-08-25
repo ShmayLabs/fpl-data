@@ -98,8 +98,7 @@ body {
 .num { text-align:right; font-family:"IBM Plex Mono",ui-monospace,monospace; font-variant-numeric:tabular-nums; }
 .who .nm { display:block; font-weight:600; letter-spacing:-.005em; }
 .who .club { display:block; font-size:11.5px; color:var(--ink-3); letter-spacing:.04em; }
-.money::before { content:"Â£"; color:var(--ink-3); }
-.own { color:var(--ink-2); }
+.money::before { content:"\00a3"; color:var(--ink-3); }.own { color:var(--ink-2); }
 .pc { color:var(--ink-3); font-size:11px; }
 .mins { color:var(--ink-3); font-size:12.5px; }
 .pts { font-weight:600; }
@@ -304,7 +303,7 @@ th.team .dot { display:inline-block; width:5px; height:5px; border-radius:50%; b
 
   <div class="stats">
     <div class="stat"><div class="k">Total points</div><div class="v">41</div><div class="n">after 1 gameweek</div></div>
-    <div class="stat"><div class="k">Overall rank</div><div class="v">6,192,234</div><div class="n">of ~8m managers</div></div>
+    <div class="stat"><div class="k">Overall rank</div><div class="v">6,875,552</div><div class="n">of ~8m managers</div></div>
     <div class="stat alert"><div class="k">Fellas League</div><div class="v">9<span class="of">/11</span></div><div class="n">25 behind the leader</div></div>
     <div class="stat"><div class="k">Squad value</div><div class="v">100.0</div><div class="n">£0.0m in the bank</div></div>
   </div>
@@ -418,23 +417,23 @@ th.team .dot { display:inline-block; width:5px; height:5px; border-radius:50%; b
       <header><h2>Rising</h2><span class="hint">net transfers in this gameweek</span></header>
       <div class="scroll"><table class="tbl">
         <thead><tr><th>Player</th><th class="num">Price</th><th class="num">Owned</th><th class="num">Net</th></tr></thead>
-        <tbody><tr><td class="who"><span class="nm">De Cuyper</span><span class="club">BHA · DEF</span></td><td class="num money">4.5</td><td class="num own">4.9<span class="pc">%</span></td><td class="num net up">+249,647</td></tr>
-<tr><td class="who"><span class="nm">M.Sangaré</span><span class="club">BRE · MID</span></td><td class="num money">5.5</td><td class="num own">5.8<span class="pc">%</span></td><td class="num net up">+201,908</td></tr>
-<tr><td class="who"><span class="nm">Calafiori</span><span class="club">ARS · DEF</span></td><td class="num money">5.5</td><td class="num own">41.0<span class="pc">%</span></td><td class="num net up">+173,448</td></tr>
-<tr><td class="who"><span class="nm">Kayode</span><span class="club">BRE · DEF</span></td><td class="num money">4.5</td><td class="num own">5.4<span class="pc">%</span></td><td class="num net up">+164,808</td></tr>
-<tr><td class="who"><span class="nm">Ødegaard</span><span class="club">ARS · MID</span></td><td class="num money">6.5</td><td class="num own">10.4<span class="pc">%</span></td><td class="num net up">+149,477</td></tr>
-<tr><td class="who"><span class="nm">João Pedro</span><span class="club">CHE · FWD <span class="yours">yours</span></span></td><td class="num money">7.5</td><td class="num own">65.4<span class="pc">%</span></td><td class="num net up">+146,568</td></tr></tbody></table></div>
+        <tbody><tr><td class="who"><span class="nm">De Cuyper</span><span class="club">BHA · DEF</span></td><td class="num money">4.5</td><td class="num own">4.9<span class="pc">%</span></td><td class="num net up">+251,471</td></tr>
+<tr><td class="who"><span class="nm">M.Sangaré</span><span class="club">BRE · MID</span></td><td class="num money">5.5</td><td class="num own">5.8<span class="pc">%</span></td><td class="num net up">+203,261</td></tr>
+<tr><td class="who"><span class="nm">Calafiori</span><span class="club">ARS · DEF</span></td><td class="num money">5.5</td><td class="num own">41.0<span class="pc">%</span></td><td class="num net up">+174,195</td></tr>
+<tr><td class="who"><span class="nm">Kayode</span><span class="club">BRE · DEF</span></td><td class="num money">4.5</td><td class="num own">5.4<span class="pc">%</span></td><td class="num net up">+165,773</td></tr>
+<tr><td class="who"><span class="nm">Ødegaard</span><span class="club">ARS · MID</span></td><td class="num money">6.5</td><td class="num own">10.4<span class="pc">%</span></td><td class="num net up">+150,113</td></tr>
+<tr><td class="who"><span class="nm">João Pedro</span><span class="club">CHE · FWD <span class="yours">yours</span></span></td><td class="num money">7.5</td><td class="num own">65.4<span class="pc">%</span></td><td class="num net up">+148,166</td></tr></tbody></table></div>
     </section>
     <section class="panel">
       <header><h2>Falling</h2><span class="hint">sell before the price drops</span></header>
       <div class="scroll"><table class="tbl">
         <thead><tr><th>Player</th><th class="num">Price</th><th class="num">Owned</th><th class="num">Net</th></tr></thead>
-        <tbody><tr><td class="who"><span class="nm">Pedro Porro</span><span class="club">TOT · DEF</span></td><td class="num money">5.5</td><td class="num own">14.3<span class="pc">%</span></td><td class="num net down">-233,897</td></tr>
-<tr><td class="who"><span class="nm">Gyökeres</span><span class="club">ARS · FWD</span></td><td class="num money">7.5</td><td class="num own">7.9<span class="pc">%</span></td><td class="num net down">-119,488</td></tr>
-<tr><td class="who"><span class="nm">Konsa</span><span class="club">ARS · DEF</span></td><td class="num money">4.5</td><td class="num own">11.7<span class="pc">%</span></td><td class="num net down">-110,426</td></tr>
-<tr><td class="who"><span class="nm">Gibbs-White</span><span class="club">NFO · MID</span></td><td class="num money">8.0</td><td class="num own">10.4<span class="pc">%</span></td><td class="num net down">-102,877</td></tr>
-<tr><td class="who"><span class="nm">Watkins</span><span class="club">AVL · FWD</span></td><td class="num money">8.0</td><td class="num own">9.4<span class="pc">%</span></td><td class="num net down">-101,385</td></tr>
-<tr><td class="who"><span class="nm">Van de Ven</span><span class="club">TOT · DEF</span></td><td class="num money">5.0</td><td class="num own">4.5<span class="pc">%</span></td><td class="num net down">-95,149</td></tr></tbody></table></div>
+        <tbody><tr><td class="who"><span class="nm">Pedro Porro</span><span class="club">TOT · DEF</span></td><td class="num money">5.5</td><td class="num own">14.2<span class="pc">%</span></td><td class="num net down">-234,737</td></tr>
+<tr><td class="who"><span class="nm">Gyökeres</span><span class="club">ARS · FWD</span></td><td class="num money">7.5</td><td class="num own">7.9<span class="pc">%</span></td><td class="num net down">-120,107</td></tr>
+<tr><td class="who"><span class="nm">Konsa</span><span class="club">ARS · DEF</span></td><td class="num money">4.5</td><td class="num own">11.7<span class="pc">%</span></td><td class="num net down">-110,901</td></tr>
+<tr><td class="who"><span class="nm">Gibbs-White</span><span class="club">NFO · MID</span></td><td class="num money">8.0</td><td class="num own">10.4<span class="pc">%</span></td><td class="num net down">-103,883</td></tr>
+<tr><td class="who"><span class="nm">Watkins</span><span class="club">AVL · FWD</span></td><td class="num money">8.0</td><td class="num own">9.4<span class="pc">%</span></td><td class="num net down">-102,087</td></tr>
+<tr><td class="who"><span class="nm">Van de Ven</span><span class="club">TOT · DEF</span></td><td class="num money">5.0</td><td class="num own">4.5<span class="pc">%</span></td><td class="num net down">-95,512</td></tr></tbody></table></div>
     </section>
   </div>
 
@@ -498,14 +497,14 @@ th.team .dot { display:inline-block; width:5px; height:5px; border-radius:50%; b
       <tbody><tr class=""><td class="num rank">1</td><td class="who"><span class="nm">T_R</span><span class="club">Tom Roberts</span></td><td class="num tot">66</td><td class="capt">João Pedro</td><td class="diffs">Raya, Diop, O&#x27;Reilly, Virgil, Calafiori, Semenyo</td></tr>
 <tr class=""><td class="num rank">2</td><td class="who"><span class="nm">HaCunha Matata</span><span class="club">Oliver Norris</span></td><td class="num tot">58</td><td class="capt">Haaland</td><td class="diffs">Walle Egeli, Anderson, Shaw, Calafiori, Mosquera, Ndiaye</td></tr>
 <tr class=""><td class="num rank">2</td><td class="who"><span class="nm">net six and chill</span><span class="club">william batterbury</span></td><td class="num tot">58</td><td class="capt">B.Fernandes</td><td class="diffs">Maguire, Gvardiol, Calafiori, Rogers, Ndiaye, Kinsky</td></tr>
-<tr class=""><td class="num rank">4</td><td class="who"><span class="nm">Class of 94</span><span class="club">Dan Healey</span></td><td class="num tot">53</td><td class="capt">Haaland</td><td class="diffs">Diop, Kerkez, Calafiori, Rogers, Palmer, Amad</td></tr>
+<tr class=""><td class="num rank">4</td><td class="who"><span class="nm">Class of 94</span><span class="club">Dan Healey</span></td><td class="num tot">53</td><td class="capt">Haaland</td><td class="diffs">Diop, Kerkez, Calafiori, Rogers, Palmer, van Ewijk</td></tr>
 <tr class=""><td class="num rank">4</td><td class="who"><span class="nm">Chicken Chow Mainoo</span><span class="club">Tom Healey</span></td><td class="num tot">53</td><td class="capt">B.Fernandes</td><td class="diffs">Slater, Calafiori, Brobbey, Mosquera, Muharemović, van Ewijk</td></tr>
-<tr class=""><td class="num rank">6</td><td class="who"><span class="nm">hitmeinthesaka</span><span class="club">Liam Fearnley</span></td><td class="num tot">50</td><td class="capt">Gyökeres</td><td class="diffs">Donnarumma, Kerkez, Gvardiol, Palmer, Mykolenko, Thiago</td></tr>
+<tr class=""><td class="num rank">6</td><td class="who"><span class="nm">hitmeinthesaka</span><span class="club">Liam Fearnley</span></td><td class="num tot">50</td><td class="capt">Gyökeres</td><td class="diffs">Donnarumma, Kerkez, Gvardiol, Mykolenko, Thiago, Giles</td></tr>
 <tr class=""><td class="num rank">7</td><td class="who"><span class="nm">Wunited</span><span class="club">Luke Woodward</span></td><td class="num tot">48</td><td class="capt">Mbeumo</td><td class="diffs">Diop, Gabriel, I.Sangaré, Ndiaye, Neave, Mukiele</td></tr>
 <tr class=""><td class="num rank">8</td><td class="who"><span class="nm">Bayer Neverlusen</span><span class="club">Jamie Mourant</span></td><td class="num tot">47</td><td class="capt">Haaland</td><td class="diffs">Shaw, Calafiori, J.Ramsey, Thomas, Tzolis, Richarlison</td></tr>
 <tr class="me"><td class="num rank">9</td><td class="who"><span class="nm">Claude Makélélé</span><span class="club">Aidan Whitehouse</span></td><td class="num tot">41</td><td class="capt">Haaland</td><td class="diffs">—</td></tr>
 <tr class=""><td class="num rank">10</td><td class="who"><span class="nm">Tics Champs By Xmas</span><span class="club">Kieron Murphy</span></td><td class="num tot">39</td><td class="capt">Haaland</td><td class="diffs">Raya, Rayan, Shaw, Rogers, Brobbey, Jacquet</td></tr>
-<tr class=""><td class="num rank">11</td><td class="who"><span class="nm">The Goal Hangers</span><span class="club">Nik Barlow</span></td><td class="num tot">34</td><td class="capt">Haaland</td><td class="diffs">Wilson, Shaw, Rice, Verbruggen, Semenyo, Pedro Porro</td></tr></tbody></table></div>
+<tr class=""><td class="num rank">11</td><td class="who"><span class="nm">The Goal Hangers</span><span class="club">Nik Barlow</span></td><td class="num tot">34</td><td class="capt">Haaland</td><td class="diffs">Wilson, Shaw, Rice, Verbruggen, Semenyo, Gravenberch</td></tr></tbody></table></div>
   </section>
 
   <section class="panel">
@@ -536,7 +535,7 @@ th.team .dot { display:inline-block; width:5px; height:5px; border-radius:50%; b
 
   <footer>
     <span>Built from the FPL API · <code>ShmayLabs/fpl-data</code></span>
-    <span>Updated <code>25 Aug 2026, 09:35 UTC</code></span>
+    <span>Updated <code>25 Aug 2026, 09:39 UTC</code></span>
   </footer>
 </div>
 
