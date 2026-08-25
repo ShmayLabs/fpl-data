@@ -1,12 +1,17 @@
-"""Render index.html for GitHub Pages from the data the Action just pulled."""
+"""Render index.html for GitHub Pages. Runs hourly on GitHub's own servers.
+
+Every section is computed from data/*.json. Nothing is hand-written and nothing
+needs a Claude session, so the page cannot go stale or half-updated. Judgement
+calls (chip strategy, transfer reasoning) deliberately live elsewhere.
+"""
 import json, os, html, datetime as dt
 from zoneinfo import ZoneInfo
-from why import why
 
 UK = ZoneInfo("Europe/London")
 D = "data"
-POS_ORDER = {"GK": 0, "DEF": 1, "MID": 2, "FWD": 3}
 POS = {1: "GK", 2: "DEF", 3: "MID", 4: "FWD"}
+POS_ORDER = {"GK": 0, "DEF": 1, "MID": 2, "FWD": 3}
+DC_THRESHOLD = {"GK": 999, "DEF": 10, "MID": 12, "FWD": 12}
 
 
 def load(name):
@@ -35,10 +40,12 @@ if not boot or not dg:
 teams = {t["id"]: t["short_name"] for t in boot["teams"]}
 els = {e["id"]: e for e in boot["elements"]}
 gw = dg["next_gw"]
+played = max(0, gw - 1)
 deadline = dg["next_deadline_utc"]
 dl_uk = dt.datetime.fromisoformat(deadline.replace("Z", "+00:00")).astimezone(UK)
 squad = dg["squad"]
 mine = {s["name"] for s in squad}
+eh = dg.get("entry_history") or {}
 
 xi = sorted([s for s in squad if not s["on_bench"]], key=lambda s: POS_ORDER[s["pos"]])
 bench = [s for s in squad if s["on_bench"]]
@@ -48,7 +55,32 @@ fellas = next((l for l in leagues if l["name"] == "Fellas League"), None)
 others = [l for l in leagues if l is not fellas]
 me_row = next((r for r in (fellas or {}).get("table", [])
                if "Makélélé" in (r["team"] or "")), None)
-eh = dg.get("entry_history") or {}
+
+hist = {}
+for g in range(1, gw + 1):
+    for e in (load(f"live_gw{g}.json") or {}).get("elements", []):
+        st = e.get("stats") or {}
+        if st.get("minutes", 0):
+            hist.setdefault(e["id"], []).append(st)
+
+
+def tot(eid, key):
+    return sum(h.get(key, 0) for h in hist.get(eid, []))
+
+
+def dc_hits(eid, pos):
+    t = DC_THRESHOLD.get(pos, 999)
+    return sum(1 for h in hist.get(eid, []) if h.get("defensive_contribution", 0) >= t)
+
+
+def yours(e):
+    return ' <span class="yours">yours</span>' if e["web_name"] in mine else ""
+
+
+def cell(e, extra=""):
+    return (f'<td class="who"><span class="nm">{esc(e["web_name"])}</span>'
+            f'<span class="club">{esc(teams[e["team"]])} · {POS[e["element_type"]]}'
+            f'{extra}</span></td>')
 
 
 def player_row(s, benched=False):
@@ -70,95 +102,166 @@ def player_row(s, benched=False):
 
 
 def league_table(lg, limit=11):
-    out = []
-    for r in lg["table"][:limit]:
-        me = "Makélélé" in (r["team"] or "")
-        out.append(f'<tr class="{"me" if me else ""}">'
-                   f'<td class="num rank">{esc(r["rank"])}</td>'
-                   f'<td class="who"><span class="nm">{esc(r["team"])}</span>'
-                   f'<span class="club">{esc(r["player"])}</span></td>'
-                   f'<td class="num tot">{esc(r["total"])}</td></tr>')
-    return "\n".join(out)
+    return "\n".join(
+        f'<tr class="{"me" if "Makélélé" in (r["team"] or "") else ""}">'
+        f'<td class="num rank">{esc(r["rank"])}</td>'
+        f'<td class="who"><span class="nm">{esc(r["team"])}</span>'
+        f'<span class="club">{esc(r["player"])}</span></td>'
+        f'<td class="num tot">{esc(r["total"])}</td></tr>'
+        for r in lg["table"][:limit])
 
 
-gw_stats = {}
-for g in range(1, gw + 1):
-    live = load(f"live_gw{g}.json")
-    for e in (live or {}).get("elements", []):
-        st = e.get("stats") or {}
-        if st.get("minutes", 0) or st.get("total_points", 0):
-            gw_stats.setdefault(e["id"], []).append(st)
+# ---- price watch ---------------------------------------------------------
+movers = sorted(boot["elements"],
+                key=lambda e: -(e["transfers_in_event"] - e["transfers_out_event"]))
 
-played_gws = max(1, gw - 1)
-MIN_APPS = max(1, played_gws // 2)
-MIN_PPG = 3.5
 
-radar = []
-for eid, hist in gw_stats.items():
+def mover_row(e, rising):
+    net = e["transfers_in_event"] - e["transfers_out_event"]
+    chg = e["cost_change_event"]
+    badge = (f'<span class="delta up">+{chg / 10:.1f}</span>' if chg > 0
+             else f'<span class="delta down">{chg / 10:.1f}</span>' if chg < 0 else "")
+    return (f'<tr>{cell(e, yours(e))}'
+            f'<td class="num money">{e["now_cost"] / 10:.1f}{badge}</td>'
+            f'<td class="num own">{float(e["selected_by_percent"]):.1f}<span class="pc">%</span></td>'
+            f'<td class="num net {"up" if rising else "down"}">'
+            f'{"+" if net > 0 else ""}{net:,}</td></tr>')
+
+
+risers = "\n".join(mover_row(e, True) for e in movers[:6])
+fallers = "\n".join(mover_row(e, False) for e in reversed(movers[-6:]))
+
+# ---- league differentials ------------------------------------------------
+league_owned = {x["name"] for x in dg.get("league_ownership", [])}
+n_rivals = dg.get("rival_count", 0)
+
+diffs = []
+for eid, h in hist.items():
     e = els.get(eid)
-    if not e or e["web_name"] in mine:
+    if not e or e["web_name"] in mine or e["web_name"] in league_owned:
         continue
-    if float(e["selected_by_percent"]) >= 12.0 or e["status"] != "a":
+    if e["status"] != "a":
         continue
-    apps = [h for h in hist if h.get("minutes", 0) > 0]
-    if len(apps) < MIN_APPS:
+    pts = tot(eid, "total_points")
+    if pts < max(6, 3 * played):
         continue
-    total = sum(h.get("total_points", 0) for h in apps)
-    ppg = total / len(apps)
-    if ppg < MIN_PPG:
-        continue
-    pos = POS[e["element_type"]]
-    radar.append({"name": e["web_name"], "team": teams[e["team"]], "pos": pos,
-                  "price": e["now_cost"] / 10,
-                  "own": float(e["selected_by_percent"]),
-                  "points": total, "ppg": ppg, "apps": len(apps),
-                  "why": why(pos, hist)})
-radar.sort(key=lambda r: -r["ppg"])
-radar = radar[:10]
+    diffs.append((pts, e, POS[e["element_type"]], len(h)))
+diffs.sort(key=lambda x: -x[0])
 
-SHOW_PPG = played_gws >= 3
-PTS_HEAD = "Per game" if SHOW_PPG else "Pts"
+diff_rows = "\n".join(
+    f'<tr>{cell(e)}'
+    f'<td class="num money">{e["now_cost"] / 10:.1f}</td>'
+    f'<td class="num own">{float(e["selected_by_percent"]):.1f}<span class="pc">%</span></td>'
+    f'<td class="num">{apps}</td>'
+    f'<td class="num">{tot(e["id"], "goals_scored")}</td>'
+    f'<td class="num">{tot(e["id"], "assists")}</td>'
+    f'<td class="num">{tot(e["id"], "bonus")}</td>'
+    f'<td class="num">{dc_hits(e["id"], pos) or "—"}</td>'
+    f'<td class="num pts good">{pts}</td></tr>'
+    for pts, e, pos, apps in diffs[:10])
 
-radar_rows = "\n".join(
-    f'<tr><td class="who"><span class="nm">{esc(r["name"])}</span>'
-    f'<span class="club">{esc(r["team"])} · {r["pos"]}</span></td>'
-    f'<td class="num money">{r["price"]:.1f}</td>'
-    f'<td class="num own">{r["own"]:.1f}<span class="pc">%</span></td>'
-    f'<td class="num pts good">{r["ppg"]:.1f}' if SHOW_PPG else f'<td class="num pts good">{r["points"]}'
-    f'</td></tr>'
-    f'<tr class="whyrow"><td colspan="4">{esc(r["why"])}</td></tr>' for r in radar)
+# ---- leaderboards --------------------------------------------------------
+qualified = [e for e in boot["elements"] if e["minutes"] >= max(60, 45 * played)]
 
-my_teams = sorted({s["team"] for s in squad})
+
+def board(rows, valfmt):
+    return "\n".join(f'<tr>{cell(e, yours(e))}'
+                     f'<td class="num money">{e["now_cost"] / 10:.1f}</td>'
+                     f'<td class="num pts good">{valfmt(e)}</td></tr>' for e in rows)
+
+
+top_pts = board(sorted(boot["elements"], key=lambda e: -e["total_points"])[:8],
+                lambda e: e["total_points"])
+top_p90 = board(sorted(qualified, key=lambda e: -(e["total_points"] / (e["minutes"] / 90)))[:8],
+                lambda e: f'{e["total_points"] / (e["minutes"] / 90):.1f}')
+top_val = board(sorted(qualified, key=lambda e: -(e["total_points"] / (e["now_cost"] / 10)))[:8],
+                lambda e: f'{e["total_points"] / (e["now_cost"] / 10):.1f}')
+
+# ---- xG signals ----------------------------------------------------------
+att = [e for e in boot["elements"]
+       if e["minutes"] >= max(60, 45 * played) and float(e["expected_goal_involvements"]) > 0.3]
+
+
+def xg_row(e):
+    ga = e["goals_scored"] + e["assists"]
+    xgi = float(e["expected_goal_involvements"])
+    d = ga - xgi
+    return (f'<tr>{cell(e, yours(e))}'
+            f'<td class="num money">{e["now_cost"] / 10:.1f}</td>'
+            f'<td class="num">{ga}</td><td class="num">{xgi:.2f}</td>'
+            f'<td class="num delta {"up" if d > 0 else "down"}">{d:+.2f}</td></tr>')
+
+
+def xgdiff(e):
+    return (e["goals_scored"] + e["assists"]) - float(e["expected_goal_involvements"])
+
+
+over = "\n".join(xg_row(e) for e in sorted(att, key=lambda e: -xgdiff(e))[:5])
+under = "\n".join(xg_row(e) for e in sorted(att, key=xgdiff)[:5])
+
+# ---- rival watch ---------------------------------------------------------
+# Only the Fellas League — rival_squads spans all three private leagues and
+# their ranks are per-league, so mixing them would produce a nonsense table.
+fellas_names = {r["team"] for r in (fellas or {}).get("table", [])}
+rivals = sorted([r for r in (dg.get("rival_squads") or [])
+                 if r.get("team") in fellas_names],
+                key=lambda r: r.get("rank") or 99)
+# Take rank from the CURRENT league table, not the snapshot inside
+# rival_squads, which can lag and disagree with the table above.
+fellas_rank = {r["team"]: r["rank"] for r in (fellas or {}).get("table", [])}
+rivals = sorted(rivals, key=lambda r: fellas_rank.get(r.get("team"), 99))
+
+rival_rows = "\n".join(
+    f'<tr class="{"me" if "Makélélé" in (r.get("team") or "") else ""}">'
+    f'<td class="num rank">{esc(fellas_rank.get(r.get("team"), "—"))}</td>'
+    f'<td class="who"><span class="nm">{esc(r.get("team"))}</span>'
+    f'<span class="club">{esc(r.get("manager"))}</span></td>'
+    f'<td class="num tot">{esc(r.get("total"))}</td>'
+    f'<td class="capt">{esc(r.get("captain") or "—")}</td>'
+    f'<td class="diffs">{esc(", ".join((r.get("differentials_vs_me") or [])[:6]) or "—")}</td></tr>'
+    for r in rivals[:12])
+
+# ---- set pieces ----------------------------------------------------------
+sp_rows = []
+for tid in sorted(teams, key=lambda t: teams[t]):
+    def first(order_key):
+        c = [e for e in boot["elements"]
+             if e["team"] == tid and e.get(order_key) == 1]
+        return esc(c[0]["web_name"]) if c else "—"
+    sp_rows.append(f'<tr><th class="team">{esc(teams[tid])}</th>'
+                   f'<td>{first("penalties_order")}</td>'
+                   f'<td>{first("direct_freekicks_order")}</td>'
+                   f'<td>{first("corners_and_indirect_freekicks_order")}</td></tr>')
+
+# ---- fixtures ------------------------------------------------------------
+# All 20 clubs, not only the ones we own: the differential, leaderboard and
+# price-watch tables are full of players elsewhere, and their fixtures matter
+# just as much when judging a transfer. Kindest run first.
+my_teams = {s["team"] for s in squad}
+allfx = dg.get("fixtures_next_6") or {}
+
+
+def avg_fdr(t):
+    fx = allfx.get(t, [])[:6]
+    return sum(f["difficulty"] for f in fx) / len(fx) if fx else 9
+
+
 fx_rows = []
-for t in my_teams:
-    fx = (dg.get("fixtures_next_6") or {}).get(t, [])[:6]
+for t in sorted(allfx, key=lambda t: (avg_fdr(t), t)):
+    fx = allfx.get(t, [])[:6]
     cells = "".join(f'<td class="fx f{f["difficulty"]}"><span class="opp">{esc(f["opp"])}</span>'
                     f'<span class="ha">{f["ha"]}</span></td>' for f in fx)
     cells += '<td class="fx empty"></td>' * (6 - len(fx))
-    fx_rows.append(f'<tr><th class="team">{esc(t)}</th>{cells}</tr>')
+    own = ' <span class="dot"></span>' if t in my_teams else ""
+    fx_rows.append(f'<tr class="{"ownteam" if t in my_teams else ""}">'
+                   f'<th class="team">{esc(t)}{own}</th>{cells}'
+                   f'<td class="num avg">{avg_fdr(t):.1f}</td></tr>')
+fx_head = "".join(f"<th>GW{gw + i}</th>" for i in range(6)) + '<th class="num">Avg</th>' 
 
-fx_head = "".join(f"<th>GW{gw + i}</th>" for i in range(6))
-
-CHIPS = [
-    ("Wildcard 1", "set one", "GW7-9", "Free rebuild. Held until the fixture picture past the first international break is clear."),
-    ("Triple Captain 1", "set one", "GW13-18", "Needs a premium with a soft home fixture and no rotation risk."),
-    ("Bench Boost 1", "set one", "GW15-18", "Only pays if the bench starts. Prep from GW7: swap non-players for nailed-on cheap starters."),
-    ("Free Hit 1", "set one", "GW18-19", "Held for a blank or congested week. Spent by GW19 regardless."),
-    ("Wildcard 2", "set two", "GW28-30", "Second-half reset, aimed at the doubles that decide mini-leagues."),
-    ("Free Hit 2", "set two", "on a blank", "The natural answer to a blank gameweek in the cup rounds."),
-    ("Bench Boost 2", "set two", "biggest double", "Held for a double gameweek where all 15 play twice."),
-    ("Triple Captain 2", "set two", "biggest double", "A premium with two fixtures - the highest-scoring play in the game."),
-]
-chip_rows = "\n".join(
-    f'<tr class="{"setone" if s == "set one" else "settwo"}">'
-    f'<td class="who"><span class="nm">{esc(n)}</span><span class="club">{esc(s)}</span></td>'
-    f'<td class="num window">{esc(w)}</td><td class="prep">{esc(p)}</td></tr>'
-    for n, s, w, p in CHIPS)
-
+# ---- assemble ------------------------------------------------------------
 css = open(_find("style.css")).read()
 now = dt.datetime.now(dt.timezone.utc)
-gap = ((fellas["table"][0]["total"] - me_row["total"]) if me_row else 0)
-
+gap = ((fellas["table"][0]["total"] - me_row["total"]) if me_row and fellas else 0)
 others_html = "\n".join(
     f'<div class="minitable"><h4>{esc(l["name"])}</h4>'
     f'<table class="tbl mini"><tbody>{league_table(l, 5)}</tbody></table></div>'
@@ -166,32 +269,27 @@ others_html = "\n".join(
 
 tpl = open(_find("template.html")).read()
 for k, v in {
-    "T0": css,
-    "T1": deadline,
-    "T2": gw,
+    "T0": css, "T1": deadline, "T2": gw,
     "T3": dl_uk.strftime("%a %-d %b · %H:%M"),
-    "T4": dl_uk.strftime("%a %-d %b · %H:%M"),
-    "T5": eh.get("total_points", 0),
-    "T6": gw - 1,
-    "T7": "s" if gw - 1 != 1 else "",
-    "T8": format(eh.get("overall_rank") or 0, ","),
+    "T5": eh.get("total_points", 0), "T6": played,
+    "T7": "" if played == 1 else "s",
+    "T8": f'{eh.get("overall_rank") or 0:,}',
     "T9": me_row["rank"] if me_row else "—",
-    "T10": len((fellas or {}).get("table", [])),
-    "T11": gap,
-    "T12": format((eh.get("value") or 1000) / 10, ".1f"),
-    "T13": format((eh.get("bank") or 0) / 10, ".1f"),
-    "T14": chr(10).join(player_row(s) for s in xi),
-    "T15": chr(10).join(player_row(s, True) for s in bench),
+    "T10": len((fellas or {}).get("table", [])), "T11": gap,
+    "T12": f'{(eh.get("value") or 1000) / 10:.1f}',
+    "T13": f'{(eh.get("bank") or 0) / 10:.1f}',
+    "T14": "\n".join(player_row(s) for s in xi),
+    "T15": "\n".join(player_row(s, True) for s in bench),
     "T16": league_table(fellas) if fellas else "",
-    "T17": others_html,
-    "T18": fx_head,
-    "T19": chr(10).join(fx_rows),
-    "T20": radar_rows,
-    "T21": chip_rows,
-    "T22": now.strftime("%d %b %Y, %H:%M"),
-    "T24": PTS_HEAD,
+    "T17": others_html, "T18": fx_head, "T19": "\n".join(fx_rows),
+    "T20": risers, "T21": fallers, "T22": diff_rows, "T23": n_rivals,
+    "T24": top_pts, "T25": top_p90, "T26": top_val,
+    "T27": over, "T28": under, "T29": rival_rows,
+    "T30": "\n".join(sp_rows),
+    "T31": now.strftime("%d %b %Y, %H:%M"),
 }.items():
     tpl = tpl.replace("%%" + k + "%%", str(v))
 
 open("index.html", "w").write(tpl)
-print(f"index.html: {len(tpl)} bytes, gw{gw}, {len(squad)} squad, {len(radar)} radar")
+print(f"index.html: {len(tpl)} bytes | gw{gw} | {len(diffs)} differentials | "
+      f"{len(rivals)} rivals | {len(sp_rows)} clubs")
