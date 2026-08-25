@@ -90,8 +90,7 @@ body {
 .num { text-align:right; font-family:"IBM Plex Mono",ui-monospace,monospace; font-variant-numeric:tabular-nums; }
 .who .nm { display:block; font-weight:600; letter-spacing:-.005em; }
 .who .club { display:block; font-size:11.5px; color:var(--ink-3); letter-spacing:.04em; }
-.money::before { content:"Â£"; color:var(--ink-3); }
-.own { color:var(--ink-2); }
+.money::before { content:"\00a3"; color:var(--ink-3); }.own { color:var(--ink-2); }
 .pc { color:var(--ink-3); font-size:11px; }
 .mins { color:var(--ink-3); font-size:12.5px; }
 .pts { font-weight:600; }
