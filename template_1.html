@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Claude Makélélé</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>%%T0%%</style>
+</head><body>
+<div class="wrap">
+
+  <div class="mast">
+    <div class="brand">
+      <h1>Claude Makélélé</h1>
+      <div class="sub">Aidan Whitehouse · FPL 2026/27</div>
+    </div>
+    <div class="deadline" data-deadline="%%T1%%">
+      <div class="lbl">Gameweek %%T2%% deadline</div>
+      <div class="val">%%T3%%</div>
+      <div class="countdown" id="cd">%%T3%%</div>
+    </div>
+  </div>
+
+  <div class="stats">
+    <div class="stat"><div class="k">Total points</div><div class="v">%%T5%%</div><div class="n">after %%T6%% gameweek%%T7%%</div></div>
+    <div class="stat"><div class="k">Overall rank</div><div class="v">%%T8%%</div><div class="n">of ~8m managers</div></div>
+    <div class="stat alert"><div class="k">Fellas League</div><div class="v">%%T9%%<span class="of">/%%T10%%</span></div><div class="n">%%T11%% behind the leader</div></div>
+    <div class="stat"><div class="k">Squad value</div><div class="v">%%T12%%</div><div class="n">£%%T13%%m in the bank</div></div>
+  </div>
+
+  <div class="cols">
+    <section class="panel">
+      <header><h2>Squad</h2><span class="hint">points from the last gameweek</span></header>
+      <div class="scroll"><table class="tbl">
+        <thead><tr><th>Pos</th><th>Player</th><th class="num">Price</th><th class="num">Owned</th><th class="num">Mins</th><th class="num">Pts</th></tr></thead>
+        <tbody>
+          %%T14%%
+          <tr class="benchhead"><td colspan="6">Bench</td></tr>
+          %%T15%%
+        </tbody></table></div>
+    </section>
+
+    <section class="panel">
+      <header><h2>Fellas League</h2><span class="hint">the one that counts</span></header>
+      <div class="scroll"><table class="tbl">
+        <thead><tr><th class="num">#</th><th>Manager</th><th class="num">Pts</th></tr></thead>
+        <tbody>%%T16%%</tbody></table></div>
+      <div class="minis">%%T17%%</div>
+    </section>
+  </div>
+
+  <section class="panel">
+    <header><h2>Fixtures — next six</h2><span class="hint">your clubs, by difficulty</span></header>
+    <div class="legend">
+      <span><i style="background:var(--f1)"></i>Very easy</span>
+      <span><i style="background:var(--f2)"></i>Easy</span>
+      <span><i style="background:var(--f3)"></i>Average</span>
+      <span><i style="background:var(--f4)"></i>Hard</span>
+      <span><i style="background:var(--f5)"></i>Very hard</span>
+    </div>
+    <div class="scroll" style="padding:10px 14px 16px"><table class="fxtbl">
+      <thead><tr><th class="team"></th>%%T18%%</tr></thead>
+      <tbody>%%T19%%</tbody></table></div>
+  </section>
+
+  <section class="panel">
+    <header><h2>League differentials</h2><span class="hint">scoring, and owned by none of your %%T23%% rivals</span></header>
+    <div class="scroll"><table class="tbl">
+      <thead><tr><th>Player</th><th class="num">Price</th><th class="num">Owned</th>
+        <th class="num">Apps</th><th class="num">G</th><th class="num">A</th>
+        <th class="num">Bns</th><th class="num">DefCon</th><th class="num">Pts</th></tr></thead>
+      <tbody>%%T22%%</tbody></table></div>
+  </section>
+
+  <div class="cols">
+    <section class="panel">
+      <header><h2>Rising</h2><span class="hint">net transfers in this gameweek</span></header>
+      <div class="scroll"><table class="tbl">
+        <thead><tr><th>Player</th><th class="num">Price</th><th class="num">Owned</th><th class="num">Net</th></tr></thead>
+        <tbody>%%T20%%</tbody></table></div>
+    </section>
+    <section class="panel">
+      <header><h2>Falling</h2><span class="hint">sell before the price drops</span></header>
+      <div class="scroll"><table class="tbl">
+        <thead><tr><th>Player</th><th class="num">Price</th><th class="num">Owned</th><th class="num">Net</th></tr></thead>
+        <tbody>%%T21%%</tbody></table></div>
+    </section>
+  </div>
+
+  <section class="panel">
+    <header><h2>Leaderboards</h2><span class="hint">the whole game, not just your squad</span></header>
+    <div class="boards">
+      <div class="bd"><h4>Most points</h4><table class="tbl mini"><tbody>%%T24%%</tbody></table></div>
+      <div class="bd"><h4>Points per 90</h4><table class="tbl mini"><tbody>%%T25%%</tbody></table></div>
+      <div class="bd"><h4>Points per £m</h4><table class="tbl mini"><tbody>%%T26%%</tbody></table></div>
+    </div>
+  </section>
+
+  <div class="cols">
+    <section class="panel">
+      <header><h2>Riding their luck</h2><span class="hint">scoring above expectation — may regress</span></header>
+      <div class="scroll"><table class="tbl">
+        <thead><tr><th>Player</th><th class="num">Price</th><th class="num">G+A</th><th class="num">xGI</th><th class="num">Diff</th></tr></thead>
+        <tbody>%%T27%%</tbody></table></div>
+    </section>
+    <section class="panel">
+      <header><h2>Due a return</h2><span class="hint">creating chances without the goals</span></header>
+      <div class="scroll"><table class="tbl">
+        <thead><tr><th>Player</th><th class="num">Price</th><th class="num">G+A</th><th class="num">xGI</th><th class="num">Diff</th></tr></thead>
+        <tbody>%%T28%%</tbody></table></div>
+    </section>
+  </div>
+
+  <section class="panel">
+    <header><h2>Rival watch</h2><span class="hint">what the Fellas League owns that you don't</span></header>
+    <div class="scroll"><table class="tbl">
+      <thead><tr><th class="num">#</th><th>Manager</th><th class="num">Pts</th><th>Captain</th><th>Has that you don't</th></tr></thead>
+      <tbody>%%T29%%</tbody></table></div>
+  </section>
+
+  <section class="panel">
+    <header><h2>Set pieces</h2><span class="hint">first-choice takers at every club</span></header>
+    <div class="scroll"><table class="tbl sp">
+      <thead><tr><th class="team">Club</th><th>Penalties</th><th>Free kicks</th><th>Corners</th></tr></thead>
+      <tbody>%%T30%%</tbody></table></div>
+  </section>
+
+  <footer>
+    <span>Built from the FPL API · <code>ShmayLabs/fpl-data</code></span>
+    <span>Updated <code>%%T31%% UTC</code></span>
+  </footer>
+</div>
+
+<script>
+(function () {
+  var box = document.querySelector(".deadline"), out = document.getElementById("cd");
+  if (!box || !out) return;
+  var at = new Date(box.getAttribute("data-deadline")).getTime();
+  if (isNaN(at)) return;
+  function tick() {
+    var left = at - Date.now();
+    if (left <= 0) { out.textContent = "Deadline passed — team is locked"; return; }
+    var s = Math.floor(left / 1000), d = Math.floor(s / 86400),
+        h = Math.floor(s % 86400 / 3600), m = Math.floor(s % 3600 / 60), sec = s % 60;
+    out.textContent = (d ? d + "d " : "") + h + "h " + m + "m " + (d ? "" : sec + "s") + " to go";
+    out.classList.toggle("urgent", left < 6 * 3600e3);
+    setTimeout(tick, d ? 30000 : 1000);
+  }
+  tick();
+})();
+</script>
+</body></html>
