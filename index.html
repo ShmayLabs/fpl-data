@@ -1,0 +1,425 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Claude Makélélé</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>:root {
+  --ground:#f7f9fa; --panel:#ffffff; --panel-2:#f1f5f6;
+  --ink:#0d1618; --ink-2:#425257; --ink-3:#75898f;
+  --line:#dde5e7; --line-2:#eaf0f1;
+  --accent:#0e5f7a; --accent-ink:#ffffff; --accent-soft:#e2f0f5;
+  --good:#1c7a45; --good-soft:#dff2e6;
+  --warn:#9a6100; --crit:#b5342a; --crit-soft:#fbe6e4;
+  --f1:#1c7a45; --f2:#5b9e52; --f3:#96805a; --f4:#c26a3a; --f5:#b5342a;
+  --shadow:0 1px 2px rgba(13,22,24,.06), 0 8px 24px -12px rgba(13,22,24,.18);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground:#0b1214; --panel:#121b1e; --panel-2:#182327;
+    --ink:#eaf2f4; --ink-2:#a3b6bb; --ink-3:#71878d;
+    --line:#223035; --line-2:#1a2529;
+    --accent:#4bb5d6; --accent-ink:#06222c; --accent-soft:#15323d;
+    --good:#4cc27e; --good-soft:#12301f;
+    --warn:#d99b2b; --crit:#ef6f61; --crit-soft:#33191a;
+    --f1:#4cc27e; --f2:#84c06f; --f3:#b09a70; --f4:#e08b52; --f5:#ef6f61;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 10px 28px -14px rgba(0,0,0,.7);
+  }
+}
+:root[data-theme="dark"] {
+  --ground:#0b1214; --panel:#121b1e; --panel-2:#182327;
+  --ink:#eaf2f4; --ink-2:#a3b6bb; --ink-3:#71878d;
+  --line:#223035; --line-2:#1a2529;
+  --accent:#4bb5d6; --accent-ink:#06222c; --accent-soft:#15323d;
+  --good:#4cc27e; --good-soft:#12301f;
+  --warn:#d99b2b; --crit:#ef6f61; --crit-soft:#33191a;
+  --f1:#4cc27e; --f2:#84c06f; --f3:#b09a70; --f4:#e08b52; --f5:#ef6f61;
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 10px 28px -14px rgba(0,0,0,.7);
+}
+
+*,*::before,*::after { box-sizing:border-box; }
+body {
+  margin:0; background:var(--ground); color:var(--ink);
+  font-family:Archivo, "Helvetica Neue", Arial, sans-serif;
+  font-size:15px; line-height:1.5;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap { max-width:1180px; margin:0 auto; padding:28px 20px 64px; display:flex; flex-direction:column; gap:22px; }
+
+/* ---- masthead ---- */
+.mast { display:flex; flex-wrap:wrap; align-items:flex-end; justify-content:space-between; gap:16px 24px; }
+.brand h1 {
+  margin:0; font-size:clamp(28px,4.4vw,44px); font-weight:800;
+  letter-spacing:-.028em; text-wrap:balance; line-height:1.02;
+}
+.brand .sub { margin-top:6px; color:var(--ink-3); font-size:13px; letter-spacing:.06em; text-transform:uppercase; font-weight:600; }
+.deadline {
+  background:var(--accent); color:var(--accent-ink); border-radius:12px;
+  padding:12px 18px; box-shadow:var(--shadow); min-width:210px;
+}
+.deadline .lbl { font-size:11px; letter-spacing:.12em; text-transform:uppercase; font-weight:600; opacity:.82; }
+.deadline .val { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:17px; font-weight:600; margin-top:3px; }
+.deadline .countdown {
+  font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:13px; font-weight:500;
+  margin-top:6px; padding-top:6px; border-top:1px solid rgba(255,255,255,.22);
+  opacity:.92; font-variant-numeric:tabular-nums; letter-spacing:.01em;
+}
+:root[data-theme="dark"] .deadline .countdown,
+.deadline .countdown { border-top-color:currentColor; }
+.deadline .countdown.urgent { font-weight:700; opacity:1; }
+
+/* ---- stat strip ---- */
+.stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:12px; }
+.stat { background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:14px 16px; }
+.stat .k { font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-3); font-weight:600; }
+.stat .v { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:26px; font-weight:600; margin-top:4px; font-variant-numeric:tabular-nums; letter-spacing:-.02em; }
+.stat .n { font-size:12px; color:var(--ink-3); margin-top:2px; }
+.stat.alert .v { color:var(--crit); }
+
+/* ---- panels ---- */
+.cols { display:grid; grid-template-columns:1.35fr 1fr; gap:22px; align-items:start; }
+@media (max-width:900px) { .cols { grid-template-columns:1fr; } }
+.panel { background:var(--panel); border:1px solid var(--line); border-radius:14px; box-shadow:var(--shadow); overflow:hidden; }
+.panel > header { padding:14px 18px 12px; border-bottom:1px solid var(--line-2); display:flex; align-items:baseline; justify-content:space-between; gap:12px; }
+.panel h2 { margin:0; font-size:15px; font-weight:700; letter-spacing:-.01em; }
+.panel .hint { font-size:12px; color:var(--ink-3); }
+.scroll { overflow-x:auto; }
+
+/* ---- tables ---- */
+.tbl { width:100%; border-collapse:collapse; font-size:14px; }
+.tbl th, .tbl td { padding:9px 10px; border-bottom:1px solid var(--line-2); text-align:left; vertical-align:middle; }
+.tbl tbody tr:last-child td { border-bottom:none; }
+.tbl thead th {
+  font-size:10px; letter-spacing:.1em; text-transform:uppercase;
+  color:var(--ink-3); font-weight:600; border-bottom:1px solid var(--line);
+}
+.num { text-align:right; font-family:"IBM Plex Mono",ui-monospace,monospace; font-variant-numeric:tabular-nums; }
+.who .nm { display:block; font-weight:600; letter-spacing:-.005em; }
+.who .club { display:block; font-size:11.5px; color:var(--ink-3); letter-spacing:.04em; }
+.money::before { content:"£"; color:var(--ink-3); }
+.own { color:var(--ink-2); }
+.pc { color:var(--ink-3); font-size:11px; }
+.mins { color:var(--ink-3); font-size:12.5px; }
+.pts { font-weight:600; }
+.pts.good { color:var(--good); }
+.pts.poor { color:var(--ink-3); }
+tr.benched { background:var(--panel-2); }
+tr.benched .who .nm { font-weight:500; color:var(--ink-2); }
+.poschip {
+  display:inline-block; min-width:34px; text-align:center; padding:2px 6px; border-radius:5px;
+  font-size:10px; font-weight:700; letter-spacing:.06em;
+  background:var(--panel-2); color:var(--ink-2); border:1px solid var(--line);
+}
+.armband {
+  display:inline-grid; place-items:center; width:17px; height:17px; margin-left:6px;
+  border-radius:50%; background:var(--accent); color:var(--accent-ink);
+  font-size:10px; font-weight:700; vertical-align:1px;
+}
+.armband.vc { background:var(--panel-2); color:var(--ink-2); border:1px solid var(--line); }
+.flag {
+  display:inline-grid; place-items:center; width:17px; height:17px; margin-left:6px;
+  border-radius:50%; background:var(--crit-soft); color:var(--crit); font-size:11px; font-weight:700;
+}
+.benchhead td {
+  background:var(--panel-2); font-size:10px; letter-spacing:.12em; text-transform:uppercase;
+  color:var(--ink-3); font-weight:600; padding:6px 10px;
+}
+tr.me { background:var(--accent-soft); }
+tr.me .who .nm { color:var(--accent); font-weight:700; }
+.rank { color:var(--ink-3); width:34px; }
+.tot { font-weight:600; }
+
+/* ---- fixtures ---- */
+.fxtbl { width:100%; border-collapse:separate; border-spacing:4px; font-size:12px; }
+.fxtbl th.team {
+  text-align:left; font-size:11px; font-weight:700; letter-spacing:.06em;
+  color:var(--ink-2); width:46px; padding-right:6px;
+}
+.fxtbl thead th { font-size:10px; letter-spacing:.08em; text-transform:uppercase; color:var(--ink-3); font-weight:600; text-align:center; }
+td.fx {
+  border-radius:7px; text-align:center; padding:6px 4px; color:#fff; min-width:52px;
+  font-family:"IBM Plex Mono",ui-monospace,monospace;
+}
+td.fx .opp { display:block; font-weight:600; font-size:11.5px; letter-spacing:.02em; }
+td.fx .ha { display:block; font-size:9.5px; opacity:.85; }
+td.fx.f1 { background:var(--f1); } td.fx.f2 { background:var(--f2); }
+td.fx.f3 { background:var(--f3); } td.fx.f4 { background:var(--f4); }
+td.fx.f5 { background:var(--f5); }
+td.fx.empty { background:var(--panel-2); }
+.legend { display:flex; gap:14px; flex-wrap:wrap; font-size:11px; color:var(--ink-3); padding:12px 18px 0; }
+.legend i { display:inline-block; width:10px; height:10px; border-radius:3px; margin-right:5px; vertical-align:-1px; }
+
+/* ---- misc ---- */
+.minis { display:grid; grid-template-columns:1fr 1fr; gap:14px; padding:14px 18px 18px; }
+@media (max-width:620px) { .minis { grid-template-columns:1fr; } }
+.minitable h4 { margin:0 0 8px; font-size:12px; font-weight:700; color:var(--ink-2); letter-spacing:-.01em; }
+.tbl.mini { font-size:12.5px; }
+.tbl.mini td { padding:6px 8px; }
+.tbl tr.whyrow td {
+  padding:0 10px 11px; border-bottom:1px solid var(--line-2);
+  font-size:12.5px; color:var(--ink-2); line-height:1.5; max-width:0;
+}
+.tbl tr:not(.whyrow) td { border-bottom:none; padding-bottom:3px; }
+.note { padding:14px 18px 18px; color:var(--ink-2); font-size:13.5px; }
+
+/* ---- this week ---- */
+.wk { border-color:var(--accent); }
+.wk > header { background:var(--accent-soft); border-bottom-color:transparent; }
+.reviewbar {
+  display:flex; align-items:center; flex-wrap:wrap; gap:8px;
+  padding:9px 18px; background:var(--panel-2); border-bottom:1px solid var(--line-2);
+  font-size:12.5px; color:var(--ink-2);
+}
+.reviewbar strong { color:var(--ink); font-weight:600; }
+.reviewbar .sep { color:var(--ink-3); }
+.reviewbar .rnote { color:var(--ink-2); }
+.reviewbar .cadence { margin-left:auto; color:var(--ink-3); font-size:11.5px; }
+.tick {
+  width:15px; height:15px; border-radius:50%; background:var(--good-soft);
+  display:inline-grid; place-items:center; flex:none;
+}
+.tick::after {
+  content:""; width:4px; height:7px; border:solid var(--good);
+  border-width:0 1.8px 1.8px 0; transform:rotate(45deg) translate(-1px,-1px);
+}
+.newmark {
+  font-size:9.5px; letter-spacing:.1em; text-transform:uppercase; font-weight:700;
+  color:var(--accent); background:var(--accent-soft); padding:2px 6px; border-radius:20px;
+}
+ol.thlist { margin:0; padding:6px 18px 18px; list-style:none; display:grid; gap:2px; }
+li.th { padding:14px 0 15px; border-bottom:1px solid var(--line-2); }
+li.th:last-child { border-bottom:none; padding-bottom:2px; }
+.thead { display:flex; align-items:center; gap:10px; margin-bottom:5px; }
+.badge {
+  font-size:10px; letter-spacing:.09em; text-transform:uppercase; font-weight:700;
+  padding:3px 8px; border-radius:20px; border:1px solid var(--line);
+  background:var(--panel-2); color:var(--ink-2); white-space:nowrap;
+}
+.badge.decided { background:var(--good-soft); color:var(--good); border-color:transparent; }
+.badge.leaning { background:var(--accent-soft); color:var(--accent); border-color:transparent; }
+.badge.dropped { background:var(--crit-soft); color:var(--crit); border-color:transparent; }
+.thead .when { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11px; color:var(--ink-3); }
+li.th h4 { margin:0 0 4px; font-size:15px; font-weight:700; letter-spacing:-.012em; text-wrap:balance; }
+li.th p { margin:0; font-size:13.5px; color:var(--ink-2); line-height:1.55; max-width:76ch; }
+
+/* ---- chips ---- */
+.tbl.chips td { vertical-align:top; }
+.tbl.chips .window { white-space:nowrap; color:var(--ink); font-weight:600; font-size:13px; }
+.tbl.chips .prep { font-size:13px; color:var(--ink-2); line-height:1.5; }
+tr.settwo { background:var(--panel-2); }
+tr.settwo .who .nm { color:var(--ink-2); }
+
+/* ---- around the league ---- */
+ol.nwlist { margin:0; padding:6px 18px 18px; list-style:none; display:grid; gap:2px; }
+li.nw { padding:13px 0 14px; border-bottom:1px solid var(--line-2); }
+li.nw:last-child { border-bottom:none; padding-bottom:2px; }
+.nhead { display:flex; align-items:center; gap:9px; margin-bottom:5px; flex-wrap:wrap; }
+.tag {
+  font-size:9.5px; letter-spacing:.1em; text-transform:uppercase; font-weight:700;
+  padding:3px 8px; border-radius:4px; white-space:nowrap;
+  background:var(--panel-2); color:var(--ink-2); border:1px solid var(--line);
+}
+.tag.window { background:var(--crit-soft); color:var(--crit); border-color:transparent; }
+.tag.transfer { background:var(--accent-soft); color:var(--accent); border-color:transparent; }
+.tag.injury { background:var(--crit-soft); color:var(--crit); border-color:transparent; }
+.nhead .when { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11px; color:var(--ink-3); }
+.touch {
+  font-size:10px; letter-spacing:.06em; font-weight:600; color:var(--good);
+  background:var(--good-soft); padding:2px 7px; border-radius:20px;
+}
+li.nw h4 { margin:0 0 4px; font-size:14.5px; font-weight:700; letter-spacing:-.012em; text-wrap:balance; }
+li.nw p { margin:0; font-size:13.5px; color:var(--ink-2); line-height:1.55; max-width:76ch; }
+
+/* ---- season plan ---- */
+.plan { display:grid; grid-template-columns:1fr 1fr; gap:26px; padding:16px 18px 22px; }
+@media (max-width:820px) { .plan { grid-template-columns:1fr; gap:18px; } }
+.plan h4 {
+  margin:0 0 8px; font-size:10.5px; letter-spacing:.13em; text-transform:uppercase;
+  color:var(--ink-3); font-weight:700;
+}
+.plan h4 + * { margin-top:0; }
+.plan .doctrine > h4:not(:first-child), .plan .phases > h4:not(:first-child) { margin-top:20px; }
+ol.rules { margin:0; padding-left:20px; display:flex; flex-direction:column; gap:5px; font-size:13.5px; color:var(--ink-2); }
+ol.rules strong { color:var(--ink); }
+ol.rules::marker, ol.tl::marker { color:var(--ink-3); }
+.pnote { margin:0; font-size:13.5px; color:var(--ink-2); line-height:1.55; }
+.pnote strong { color:var(--ink); }
+ol.tl { margin:0; padding:0; list-style:none; display:flex; flex-direction:column; }
+ol.tl li {
+  display:grid; grid-template-columns:78px 1fr; gap:12px; align-items:baseline;
+  padding:9px 0 9px 14px; border-left:2px solid var(--line);
+  position:relative;
+}
+ol.tl li::before {
+  content:""; position:absolute; left:-5px; top:15px; width:8px; height:8px;
+  border-radius:50%; background:var(--line); border:2px solid var(--panel);
+}
+ol.tl li.hard { border-left-color:var(--warn); }
+ol.tl li.hard::before { background:var(--warn); }
+ol.tl li.hard .gwr { color:var(--warn); }
+.gwr {
+  font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11.5px; font-weight:600;
+  color:var(--ink-3); letter-spacing:.02em;
+}
+.pt { font-size:13.5px; color:var(--ink-2); line-height:1.5; }
+.pt strong { color:var(--ink); }
+.note strong { color:var(--ink); }
+footer { color:var(--ink-3); font-size:12px; display:flex; flex-wrap:wrap; gap:8px 18px; justify-content:space-between; padding-top:4px; }
+footer code { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11.5px; }
+</style>
+</head><body>
+<div class="wrap">
+
+  <div class="mast">
+    <div class="brand">
+      <h1>Claude Makélélé</h1>
+      <div class="sub">Aidan Whitehouse · FPL 2026/27</div>
+    </div>
+    <div class="deadline" data-deadline="2026-08-28T17:30:00Z">
+      <div class="lbl">Gameweek 2 deadline</div>
+      <div class="val">Fri 28 Aug · 18:30</div>
+      <div class="countdown" id="cd">Fri 28 Aug · 18:30</div>
+    </div>
+  </div>
+
+  <div class="stats">
+    <div class="stat"><div class="k">Total points</div><div class="v">41</div><div class="n">after 1 gameweek</div></div>
+    <div class="stat"><div class="k">Overall rank</div><div class="v">6,192,234</div><div class="n">of ~8m managers</div></div>
+    <div class="stat alert"><div class="k">Fellas League</div><div class="v">9<span class="of">/11</span></div><div class="n">25 behind the leader</div></div>
+    <div class="stat"><div class="k">Squad value</div><div class="v">100.0</div><div class="n">£0.0m in the bank</div></div>
+  </div>
+
+  <div class="cols">
+    <section class="panel">
+      <header><h2>Squad</h2><span class="hint">points from the last gameweek</span></header>
+      <div class="scroll"><table class="tbl">
+        <thead><tr><th>Pos</th><th>Player</th><th class="num">Price</th><th class="num">Owned</th><th class="num">Mins</th><th class="num">Pts</th></tr></thead>
+        <tbody>
+          <tr class=""><td><span class="poschip">GK</span></td><td class="who"><span class="nm">Roefs</span><span class="club">SUN</span></td><td class="num money">5.0</td><td class="num own">4.2<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts poor">1</td></tr>
+<tr class=""><td><span class="poschip">DEF</span></td><td class="who"><span class="nm">Tarkowski</span><span class="club">EVE</span></td><td class="num money">6.0</td><td class="num own">8.9<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts good">6</td></tr>
+<tr class=""><td><span class="poschip">DEF</span></td><td class="who"><span class="nm">Guéhi</span><span class="club">MCI</span></td><td class="num money">6.0</td><td class="num own">18.3<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts good">10</td></tr>
+<tr class=""><td><span class="poschip">DEF</span></td><td class="who"><span class="nm">Muñoz</span><span class="club">CRY</span></td><td class="num money">5.5</td><td class="num own">9.1<span class="pc">%</span></td><td class="num mins">54′</td><td class="num pts poor">0</td></tr>
+<tr class=""><td><span class="poschip">DEF</span></td><td class="who"><span class="nm">N.Williams</span><span class="club">NFO</span></td><td class="num money">5.0</td><td class="num own">9.6<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts">2</td></tr>
+<tr class=""><td><span class="poschip">MID</span></td><td class="who"><span class="nm">B.Fernandes<span class="armband vc">V</span></span><span class="club">MUN</span></td><td class="num money">12.0</td><td class="num own">49.9<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts">2</td></tr>
+<tr class=""><td><span class="poschip">MID</span></td><td class="who"><span class="nm">Mbeumo</span><span class="club">MUN</span></td><td class="num money">8.0</td><td class="num own">37.1<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts">2</td></tr>
+<tr class=""><td><span class="poschip">MID</span></td><td class="who"><span class="nm">E.Le Fée</span><span class="club">SUN</span></td><td class="num money">6.0</td><td class="num own">9.5<span class="pc">%</span></td><td class="num mins">79′</td><td class="num pts">2</td></tr>
+<tr class=""><td><span class="poschip">FWD</span></td><td class="who"><span class="nm">Haaland<span class="armband">C</span></span><span class="club">MCI</span></td><td class="num money">15.5</td><td class="num own">68.7<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts">2</td></tr>
+<tr class=""><td><span class="poschip">FWD</span></td><td class="who"><span class="nm">João Pedro</span><span class="club">CHE</span></td><td class="num money">7.5</td><td class="num own">65.3<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts good">11</td></tr>
+<tr class=""><td><span class="poschip">FWD</span></td><td class="who"><span class="nm">Calvert-Lewin</span><span class="club">LEE</span></td><td class="num money">6.0</td><td class="num own">29.9<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts poor">1</td></tr>
+          <tr class="benchhead"><td colspan="6">Bench</td></tr>
+          <tr class="benched"><td><span class="poschip">GK</span></td><td class="who"><span class="nm">Dubravka</span><span class="club">TOT</span></td><td class="num money">4.0</td><td class="num own">19.0<span class="pc">%</span></td><td class="num mins">0′</td><td class="num pts poor">0</td></tr>
+<tr class="benched"><td><span class="poschip">MID</span></td><td class="who"><span class="nm">Yarmoliuk</span><span class="club">BRE</span></td><td class="num money">5.0</td><td class="num own">1.2<span class="pc">%</span></td><td class="num mins">23′</td><td class="num pts poor">1</td></tr>
+<tr class="benched"><td><span class="poschip">DEF</span></td><td class="who"><span class="nm">Ramsay</span><span class="club">LIV</span></td><td class="num money">4.0</td><td class="num own">0.2<span class="pc">%</span></td><td class="num mins">0′</td><td class="num pts poor">0</td></tr>
+<tr class="benched"><td><span class="poschip">MID</span></td><td class="who"><span class="nm">Hughes</span><span class="club">CRY</span></td><td class="num money">4.5</td><td class="num own">11.4<span class="pc">%</span></td><td class="num mins">0′</td><td class="num pts poor">0</td></tr>
+        </tbody></table></div>
+    </section>
+
+    <section class="panel">
+      <header><h2>Fellas League</h2><span class="hint">the one that counts</span></header>
+      <div class="scroll"><table class="tbl">
+        <thead><tr><th class="num">#</th><th>Manager</th><th class="num">Pts</th></tr></thead>
+        <tbody><tr class=""><td class="num rank">1</td><td class="who"><span class="nm">T_R</span><span class="club">Tom Roberts</span></td><td class="num tot">66</td></tr>
+<tr class=""><td class="num rank">2</td><td class="who"><span class="nm">net six and chill</span><span class="club">william batterbury</span></td><td class="num tot">58</td></tr>
+<tr class=""><td class="num rank">2</td><td class="who"><span class="nm">HaCunha Matata</span><span class="club">Oliver Norris</span></td><td class="num tot">58</td></tr>
+<tr class=""><td class="num rank">4</td><td class="who"><span class="nm">Chicken Chow Mainoo</span><span class="club">Tom Healey</span></td><td class="num tot">53</td></tr>
+<tr class=""><td class="num rank">4</td><td class="who"><span class="nm">Class of 94</span><span class="club">Dan Healey</span></td><td class="num tot">53</td></tr>
+<tr class=""><td class="num rank">6</td><td class="who"><span class="nm">hitmeinthesaka</span><span class="club">Liam Fearnley</span></td><td class="num tot">50</td></tr>
+<tr class=""><td class="num rank">7</td><td class="who"><span class="nm">Wunited</span><span class="club">Luke Woodward</span></td><td class="num tot">48</td></tr>
+<tr class=""><td class="num rank">8</td><td class="who"><span class="nm">Bayer Neverlusen</span><span class="club">Jamie Mourant</span></td><td class="num tot">47</td></tr>
+<tr class="me"><td class="num rank">9</td><td class="who"><span class="nm">Claude Makélélé</span><span class="club">Aidan Whitehouse</span></td><td class="num tot">41</td></tr>
+<tr class=""><td class="num rank">10</td><td class="who"><span class="nm">Tics Champs By Xmas</span><span class="club">Kieron Murphy</span></td><td class="num tot">39</td></tr>
+<tr class=""><td class="num rank">11</td><td class="who"><span class="nm">The Goal Hangers</span><span class="club">Nik Barlow</span></td><td class="num tot">34</td></tr></tbody></table></div>
+      <div class="minis"><div class="minitable"><h4>Co-op DT&amp;D Championship</h4><table class="tbl mini"><tbody><tr class=""><td class="num rank">1</td><td class="who"><span class="nm">Bruno Dos Tres</span><span class="club">David Taylor</span></td><td class="num tot">72</td></tr>
+<tr class=""><td class="num rank">2</td><td class="who"><span class="nm">Man (Zambi) On</span><span class="club">Liam Brockhurst</span></td><td class="num tot">70</td></tr>
+<tr class=""><td class="num rank">3</td><td class="who"><span class="nm">MightyGar</span><span class="club">Stephen Lowe</span></td><td class="num tot">67</td></tr>
+<tr class=""><td class="num rank">4</td><td class="who"><span class="nm">L&amp;K 11</span><span class="club">Lee Gorman</span></td><td class="num tot">66</td></tr>
+<tr class=""><td class="num rank">5</td><td class="who"><span class="nm">Gangsters Allardyce</span><span class="club">Jordan White</span></td><td class="num tot">65</td></tr></tbody></table></div>
+<div class="minitable"><h4>#football-laughs</h4><table class="tbl mini"><tbody><tr class=""><td class="num rank">1</td><td class="who"><span class="nm">Accringtonali FC</span><span class="club">Kyle Broadhurst</span></td><td class="num tot">85</td></tr>
+<tr class=""><td class="num rank">2</td><td class="who"><span class="nm">Bruno Dos Tres</span><span class="club">David Taylor</span></td><td class="num tot">72</td></tr>
+<tr class=""><td class="num rank">3</td><td class="who"><span class="nm">Gangsters Allardyce</span><span class="club">Jordan White</span></td><td class="num tot">65</td></tr>
+<tr class=""><td class="num rank">4</td><td class="who"><span class="nm">Set and regret</span><span class="club">Adam Lowe</span></td><td class="num tot">62</td></tr>
+<tr class=""><td class="num rank">5</td><td class="who"><span class="nm">Tramontozpor</span><span class="club">Kwadwo David</span></td><td class="num tot">60</td></tr></tbody></table></div></div>
+    </section>
+  </div>
+
+  <section class="panel">
+    <header><h2>Fixtures — next six</h2><span class="hint">your clubs, by difficulty</span></header>
+    <div class="legend">
+      <span><i style="background:var(--f1)"></i>Very easy</span>
+      <span><i style="background:var(--f2)"></i>Easy</span>
+      <span><i style="background:var(--f3)"></i>Average</span>
+      <span><i style="background:var(--f4)"></i>Hard</span>
+      <span><i style="background:var(--f5)"></i>Very hard</span>
+    </div>
+    <div class="scroll" style="padding:10px 14px 16px"><table class="fxtbl">
+      <thead><tr><th class="team"></th><th>GW2</th><th>GW3</th><th>GW4</th><th>GW5</th><th>GW6</th><th>GW7</th></tr></thead>
+      <tbody><tr><th class="team">BRE</th><td class="fx f3"><span class="opp">LEE</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">SUN</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BOU</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">CHE</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">AVL</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">LIV</span><span class="ha">H</span></td></tr>
+<tr><th class="team">CHE</th><td class="fx f2"><span class="opp">BHA</span><span class="ha">H</span></td><td class="fx f5"><span class="opp">ARS</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">HUL</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BRE</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">BOU</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">EVE</span><span class="ha">A</span></td></tr>
+<tr><th class="team">CRY</th><td class="fx f4"><span class="opp">MCI</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">FUL</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">IPS</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">LEE</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">NFO</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BHA</span><span class="ha">A</span></td></tr>
+<tr><th class="team">EVE</th><td class="fx f3"><span class="opp">BOU</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">MUN</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">TOT</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">IPS</span><span class="ha">H</span></td><td class="fx f2"><span class="opp">HUL</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">CHE</span><span class="ha">H</span></td></tr>
+<tr><th class="team">LEE</th><td class="fx f3"><span class="opp">BRE</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BHA</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">NEW</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">CRY</span><span class="ha">H</span></td><td class="fx f5"><span class="opp">ARS</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">MUN</span><span class="ha">H</span></td></tr>
+<tr><th class="team">LIV</th><td class="fx f3"><span class="opp">NFO</span><span class="ha">H</span></td><td class="fx f2"><span class="opp">IPS</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">FUL</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BOU</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">MCI</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BRE</span><span class="ha">A</span></td></tr>
+<tr><th class="team">MCI</th><td class="fx f3"><span class="opp">CRY</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">COV</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">MUN</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">SUN</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">LIV</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">IPS</span><span class="ha">H</span></td></tr>
+<tr><th class="team">MUN</th><td class="fx f2"><span class="opp">IPS</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">EVE</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">MCI</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">FUL</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">TOT</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">LEE</span><span class="ha">A</span></td></tr>
+<tr><th class="team">NFO</th><td class="fx f4"><span class="opp">LIV</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">TOT</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">AVL</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">COV</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">CRY</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">ARS</span><span class="ha">H</span></td></tr>
+<tr><th class="team">SUN</th><td class="fx f2"><span class="opp">FUL</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BRE</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">ARS</span><span class="ha">H</span></td><td class="fx f5"><span class="opp">MCI</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">BHA</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BOU</span><span class="ha">A</span></td></tr>
+<tr><th class="team">TOT</th><td class="fx f2"><span class="opp">NEW</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">NFO</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">EVE</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">AVL</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">MUN</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">COV</span><span class="ha">H</span></td></tr></tbody></table></div>
+  </section>
+
+  <section class="panel">
+    <header><h2>On the radar</h2><span class="hint">scoring well, barely owned</span></header>
+    <div class="scroll"><table class="tbl">
+      <thead><tr><th>Player</th><th class="num">Price</th><th class="num">Owned</th><th class="num">Pts</th></tr></thead>
+      <tbody><tr><td class="who"><span class="nm">De Cuyper</span><span class="club">BHA · DEF</span></td><td class="num money">4.5</td><td class="num own">4.8<span class="pc">%</span></td><td class="num pts good">17</td></tr><tr class="whyrow"><td colspan="4">77 minutes, 17 points, 1 goal, 1 assist and 1 clean sheet, 2 bonus.</td></tr>
+<tr><td class="who"><span class="nm">Hinshelwood</span><span class="club">BHA · MID</span></td><td class="num money">6.0</td><td class="num own">1.5<span class="pc">%</span></td><td class="num pts good">16</td></tr><tr class="whyrow"><td colspan="4">63 minutes, 16 points, 2 goals, 3 bonus.</td></tr>
+<tr><td class="who"><span class="nm">M.Sangaré</span><span class="club">BRE · MID</span></td><td class="num money">5.5</td><td class="num own">5.7<span class="pc">%</span></td><td class="num pts good">14</td></tr><tr class="whyrow"><td colspan="4">75 minutes, 14 points, 2 assists, 3 bonus. Cleared the 12-action defensive threshold with 13, the holding midfielder profile that scores without needing a clean sheet. One game is not a pattern yet.</td></tr>
+<tr><td class="who"><span class="nm">Kayode</span><span class="club">BRE · DEF</span></td><td class="num money">4.5</td><td class="num own">5.4<span class="pc">%</span></td><td class="num pts good">13</td></tr><tr class="whyrow"><td colspan="4">75 minutes, 13 points, 1 goal and 1 clean sheet, 1 bonus.</td></tr>
+<tr><td class="who"><span class="nm">Stach</span><span class="club">LEE · MID</span></td><td class="num money">6.0</td><td class="num own">1.4<span class="pc">%</span></td><td class="num pts good">13</td></tr><tr class="whyrow"><td colspan="4">90 minutes on his only start, 13 points, 1 goal, 3 bonus. Cleared the 12-action defensive threshold with 16, the holding midfielder profile that scores without needing a clean sheet. One game is not a pattern yet.</td></tr>
+<tr><td class="who"><span class="nm">Gakpo</span><span class="club">LIV · MID</span></td><td class="num money">7.0</td><td class="num own">4.7<span class="pc">%</span></td><td class="num pts good">12</td></tr><tr class="whyrow"><td colspan="4">90 minutes on his only start, 12 points, 1 goal, 3 bonus. Cleared the 12-action defensive threshold with 12, the holding midfielder profile that scores without needing a clean sheet. One game is not a pattern yet.</td></tr>
+<tr><td class="who"><span class="nm">White</span><span class="club">ARS · DEF</span></td><td class="num money">5.5</td><td class="num own">5.5<span class="pc">%</span></td><td class="num pts good">11</td></tr><tr class="whyrow"><td colspan="4">90 minutes on his only start, 11 points, 1 assist and 1 clean sheet, 2 bonus.</td></tr>
+<tr><td class="who"><span class="nm">Ødegaard</span><span class="club">ARS · MID</span></td><td class="num money">6.5</td><td class="num own">10.4<span class="pc">%</span></td><td class="num pts good">11</td></tr><tr class="whyrow"><td colspan="4">75 minutes, 11 points, 1 goal, 3 bonus.</td></tr>
+<tr><td class="who"><span class="nm">Dewsbury-Hall</span><span class="club">EVE · MID</span></td><td class="num money">6.5</td><td class="num own">4.2<span class="pc">%</span></td><td class="num pts good">11</td></tr><tr class="whyrow"><td colspan="4">90 minutes on his only start, 11 points, 1 goal, 3 bonus.</td></tr>
+<tr><td class="who"><span class="nm">Tavernier</span><span class="club">BOU · MID</span></td><td class="num money">6.0</td><td class="num own">2.0<span class="pc">%</span></td><td class="num pts good">10</td></tr><tr class="whyrow"><td colspan="4">90 minutes on his only start, 10 points, 1 goal, 3 bonus.</td></tr></tbody></table></div>
+  </section>
+
+  <section class="panel">
+    <header><h2>Chips</h2><span class="hint">eight in total · set one expires 2 January</span></header>
+    <div class="scroll"><table class="tbl chips">
+      <thead><tr><th>Chip</th><th class="num">Target</th><th>What has to be true first</th></tr></thead>
+      <tbody><tr class="setone"><td class="who"><span class="nm">Wildcard 1</span><span class="club">set one</span></td><td class="num window">GW7-9</td><td class="prep">Free rebuild. Held until the fixture picture past the first international break is clear.</td></tr>
+<tr class="setone"><td class="who"><span class="nm">Triple Captain 1</span><span class="club">set one</span></td><td class="num window">GW13-18</td><td class="prep">Needs a premium with a soft home fixture and no rotation risk.</td></tr>
+<tr class="setone"><td class="who"><span class="nm">Bench Boost 1</span><span class="club">set one</span></td><td class="num window">GW15-18</td><td class="prep">Only pays if the bench starts. Prep from GW7: swap non-players for nailed-on cheap starters.</td></tr>
+<tr class="setone"><td class="who"><span class="nm">Free Hit 1</span><span class="club">set one</span></td><td class="num window">GW18-19</td><td class="prep">Held for a blank or congested week. Spent by GW19 regardless.</td></tr>
+<tr class="settwo"><td class="who"><span class="nm">Wildcard 2</span><span class="club">set two</span></td><td class="num window">GW28-30</td><td class="prep">Second-half reset, aimed at the doubles that decide mini-leagues.</td></tr>
+<tr class="settwo"><td class="who"><span class="nm">Free Hit 2</span><span class="club">set two</span></td><td class="num window">on a blank</td><td class="prep">The natural answer to a blank gameweek in the cup rounds.</td></tr>
+<tr class="settwo"><td class="who"><span class="nm">Bench Boost 2</span><span class="club">set two</span></td><td class="num window">biggest double</td><td class="prep">Held for a double gameweek where all 15 play twice.</td></tr>
+<tr class="settwo"><td class="who"><span class="nm">Triple Captain 2</span><span class="club">set two</span></td><td class="num window">biggest double</td><td class="prep">A premium with two fixtures - the highest-scoring play in the game.</td></tr></tbody></table></div>
+  </section>
+
+  <footer>
+    <span>Built from the FPL API · <code>ShmayLabs/fpl-data</code></span>
+    <span>Updated <code>25 Aug 2026, 09:04 UTC</code></span>
+  </footer>
+</div>
+
+<script>
+(function () {
+  var box = document.querySelector(".deadline"), out = document.getElementById("cd");
+  if (!box || !out) return;
+  var at = new Date(box.getAttribute("data-deadline")).getTime();
+  if (isNaN(at)) return;
+  function tick() {
+    var left = at - Date.now();
+    if (left <= 0) { out.textContent = "Deadline passed \u2014 team is locked"; return; }
+    var s = Math.floor(left / 1000), d = Math.floor(s / 86400),
+        h = Math.floor(s % 86400 / 3600), m = Math.floor(s % 3600 / 60), sec = s % 60;
+    out.textContent = (d ? d + "d " : "") + h + "h " + m + "m " + (d ? "" : sec + "s") + " to go";
+    out.classList.toggle("urgent", left < 6 * 3600e3);
+    setTimeout(tick, d ? 30000 : 1000);
+  }
+  tick();
+})();
+</script>
+</body></html>
