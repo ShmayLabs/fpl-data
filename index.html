@@ -98,7 +98,7 @@ body {
 .num { text-align:right; font-family:"IBM Plex Mono",ui-monospace,monospace; font-variant-numeric:tabular-nums; }
 .who .nm { display:block; font-weight:600; letter-spacing:-.005em; }
 .who .club { display:block; font-size:11.5px; color:var(--ink-3); letter-spacing:.04em; }
-.money::before { content:"£"; color:var(--ink-3); }
+.money::before { content:"Â£"; color:var(--ink-3); }
 .own { color:var(--ink-2); }
 .pc { color:var(--ink-3); font-size:11px; }
 .mins { color:var(--ink-3); font-size:12.5px; }
@@ -268,6 +268,24 @@ ol.tl li.hard .gwr { color:var(--warn); }
 .note strong { color:var(--ink); }
 footer { color:var(--ink-3); font-size:12px; display:flex; flex-wrap:wrap; gap:8px 18px; justify-content:space-between; padding-top:4px; }
 footer code { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11.5px; }
+
+/* ---- market sections ---- */
+.yours { color:var(--good); font-weight:600; }
+.delta { margin-left:6px; font-size:11px; font-weight:600; }
+.delta.up { color:var(--good); }
+.delta.down { color:var(--crit); }
+.net.up { color:var(--good); font-weight:600; }
+.net.down { color:var(--crit); font-weight:600; }
+.boards { display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:16px; padding:14px 18px 18px; }
+.bd h4 { margin:0 0 8px; font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-3); font-weight:700; }
+.capt { font-weight:600; font-size:13px; }
+.diffs { font-size:12.5px; color:var(--ink-2); line-height:1.45; }
+.tbl.sp td { font-size:13px; }
+.tbl.sp .team { font-size:11.5px; font-weight:700; letter-spacing:.05em; color:var(--ink-2); }
+.stat .of { font-size:15px; color:var(--ink-3); }
+tr.ownteam th.team { color:var(--accent); }
+th.team .dot { display:inline-block; width:5px; height:5px; border-radius:50%; background:var(--accent); vertical-align:2px; margin-left:4px; }
+.fxtbl td.avg { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11px; color:var(--ink-3); padding-left:8px; }
 </style>
 </head><body>
 <div class="wrap">
@@ -305,8 +323,8 @@ footer code { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11.5
 <tr class=""><td><span class="poschip">MID</span></td><td class="who"><span class="nm">B.Fernandes<span class="armband vc">V</span></span><span class="club">MUN</span></td><td class="num money">12.0</td><td class="num own">49.9<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts">2</td></tr>
 <tr class=""><td><span class="poschip">MID</span></td><td class="who"><span class="nm">Mbeumo</span><span class="club">MUN</span></td><td class="num money">8.0</td><td class="num own">37.1<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts">2</td></tr>
 <tr class=""><td><span class="poschip">MID</span></td><td class="who"><span class="nm">E.Le Fée</span><span class="club">SUN</span></td><td class="num money">6.0</td><td class="num own">9.5<span class="pc">%</span></td><td class="num mins">79′</td><td class="num pts">2</td></tr>
-<tr class=""><td><span class="poschip">FWD</span></td><td class="who"><span class="nm">Haaland<span class="armband">C</span></span><span class="club">MCI</span></td><td class="num money">15.5</td><td class="num own">68.7<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts">2</td></tr>
-<tr class=""><td><span class="poschip">FWD</span></td><td class="who"><span class="nm">João Pedro</span><span class="club">CHE</span></td><td class="num money">7.5</td><td class="num own">65.3<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts good">11</td></tr>
+<tr class=""><td><span class="poschip">FWD</span></td><td class="who"><span class="nm">Haaland<span class="armband">C</span></span><span class="club">MCI</span></td><td class="num money">15.5</td><td class="num own">68.6<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts">2</td></tr>
+<tr class=""><td><span class="poschip">FWD</span></td><td class="who"><span class="nm">João Pedro</span><span class="club">CHE</span></td><td class="num money">7.5</td><td class="num own">65.4<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts good">11</td></tr>
 <tr class=""><td><span class="poschip">FWD</span></td><td class="who"><span class="nm">Calvert-Lewin</span><span class="club">LEE</span></td><td class="num money">6.0</td><td class="num own">29.9<span class="pc">%</span></td><td class="num mins">90′</td><td class="num pts poor">1</td></tr>
           <tr class="benchhead"><td colspan="6">Bench</td></tr>
           <tr class="benched"><td><span class="poschip">GK</span></td><td class="who"><span class="nm">Dubravka</span><span class="club">TOT</span></td><td class="num money">4.0</td><td class="num own">19.0<span class="pc">%</span></td><td class="num mins">0′</td><td class="num pts poor">0</td></tr>
@@ -321,10 +339,10 @@ footer code { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11.5
       <div class="scroll"><table class="tbl">
         <thead><tr><th class="num">#</th><th>Manager</th><th class="num">Pts</th></tr></thead>
         <tbody><tr class=""><td class="num rank">1</td><td class="who"><span class="nm">T_R</span><span class="club">Tom Roberts</span></td><td class="num tot">66</td></tr>
-<tr class=""><td class="num rank">2</td><td class="who"><span class="nm">net six and chill</span><span class="club">william batterbury</span></td><td class="num tot">58</td></tr>
 <tr class=""><td class="num rank">2</td><td class="who"><span class="nm">HaCunha Matata</span><span class="club">Oliver Norris</span></td><td class="num tot">58</td></tr>
-<tr class=""><td class="num rank">4</td><td class="who"><span class="nm">Chicken Chow Mainoo</span><span class="club">Tom Healey</span></td><td class="num tot">53</td></tr>
+<tr class=""><td class="num rank">2</td><td class="who"><span class="nm">net six and chill</span><span class="club">william batterbury</span></td><td class="num tot">58</td></tr>
 <tr class=""><td class="num rank">4</td><td class="who"><span class="nm">Class of 94</span><span class="club">Dan Healey</span></td><td class="num tot">53</td></tr>
+<tr class=""><td class="num rank">4</td><td class="who"><span class="nm">Chicken Chow Mainoo</span><span class="club">Tom Healey</span></td><td class="num tot">53</td></tr>
 <tr class=""><td class="num rank">6</td><td class="who"><span class="nm">hitmeinthesaka</span><span class="club">Liam Fearnley</span></td><td class="num tot">50</td></tr>
 <tr class=""><td class="num rank">7</td><td class="who"><span class="nm">Wunited</span><span class="club">Luke Woodward</span></td><td class="num tot">48</td></tr>
 <tr class=""><td class="num rank">8</td><td class="who"><span class="nm">Bayer Neverlusen</span><span class="club">Jamie Mourant</span></td><td class="num tot">47</td></tr>
@@ -335,7 +353,7 @@ footer code { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11.5
 <tr class=""><td class="num rank">2</td><td class="who"><span class="nm">Man (Zambi) On</span><span class="club">Liam Brockhurst</span></td><td class="num tot">70</td></tr>
 <tr class=""><td class="num rank">3</td><td class="who"><span class="nm">MightyGar</span><span class="club">Stephen Lowe</span></td><td class="num tot">67</td></tr>
 <tr class=""><td class="num rank">4</td><td class="who"><span class="nm">L&amp;K 11</span><span class="club">Lee Gorman</span></td><td class="num tot">66</td></tr>
-<tr class=""><td class="num rank">5</td><td class="who"><span class="nm">Gangsters Allardyce</span><span class="club">Jordan White</span></td><td class="num tot">65</td></tr></tbody></table></div>
+<tr class=""><td class="num rank">5</td><td class="who"><span class="nm">Previously Athletic</span><span class="club">Phil Dudson</span></td><td class="num tot">65</td></tr></tbody></table></div>
 <div class="minitable"><h4>#football-laughs</h4><table class="tbl mini"><tbody><tr class=""><td class="num rank">1</td><td class="who"><span class="nm">Accringtonali FC</span><span class="club">Kyle Broadhurst</span></td><td class="num tot">85</td></tr>
 <tr class=""><td class="num rank">2</td><td class="who"><span class="nm">Bruno Dos Tres</span><span class="club">David Taylor</span></td><td class="num tot">72</td></tr>
 <tr class=""><td class="num rank">3</td><td class="who"><span class="nm">Gangsters Allardyce</span><span class="club">Jordan White</span></td><td class="num tot">65</td></tr>
@@ -354,53 +372,171 @@ footer code { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11.5
       <span><i style="background:var(--f5)"></i>Very hard</span>
     </div>
     <div class="scroll" style="padding:10px 14px 16px"><table class="fxtbl">
-      <thead><tr><th class="team"></th><th>GW2</th><th>GW3</th><th>GW4</th><th>GW5</th><th>GW6</th><th>GW7</th></tr></thead>
-      <tbody><tr><th class="team">BRE</th><td class="fx f3"><span class="opp">LEE</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">SUN</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BOU</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">CHE</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">AVL</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">LIV</span><span class="ha">H</span></td></tr>
-<tr><th class="team">CHE</th><td class="fx f2"><span class="opp">BHA</span><span class="ha">H</span></td><td class="fx f5"><span class="opp">ARS</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">HUL</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BRE</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">BOU</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">EVE</span><span class="ha">A</span></td></tr>
-<tr><th class="team">CRY</th><td class="fx f4"><span class="opp">MCI</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">FUL</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">IPS</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">LEE</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">NFO</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BHA</span><span class="ha">A</span></td></tr>
-<tr><th class="team">EVE</th><td class="fx f3"><span class="opp">BOU</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">MUN</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">TOT</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">IPS</span><span class="ha">H</span></td><td class="fx f2"><span class="opp">HUL</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">CHE</span><span class="ha">H</span></td></tr>
-<tr><th class="team">LEE</th><td class="fx f3"><span class="opp">BRE</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BHA</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">NEW</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">CRY</span><span class="ha">H</span></td><td class="fx f5"><span class="opp">ARS</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">MUN</span><span class="ha">H</span></td></tr>
-<tr><th class="team">LIV</th><td class="fx f3"><span class="opp">NFO</span><span class="ha">H</span></td><td class="fx f2"><span class="opp">IPS</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">FUL</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BOU</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">MCI</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BRE</span><span class="ha">A</span></td></tr>
-<tr><th class="team">MCI</th><td class="fx f3"><span class="opp">CRY</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">COV</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">MUN</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">SUN</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">LIV</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">IPS</span><span class="ha">H</span></td></tr>
-<tr><th class="team">MUN</th><td class="fx f2"><span class="opp">IPS</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">EVE</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">MCI</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">FUL</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">TOT</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">LEE</span><span class="ha">A</span></td></tr>
-<tr><th class="team">NFO</th><td class="fx f4"><span class="opp">LIV</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">TOT</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">AVL</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">COV</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">CRY</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">ARS</span><span class="ha">H</span></td></tr>
-<tr><th class="team">SUN</th><td class="fx f2"><span class="opp">FUL</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BRE</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">ARS</span><span class="ha">H</span></td><td class="fx f5"><span class="opp">MCI</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">BHA</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BOU</span><span class="ha">A</span></td></tr>
-<tr><th class="team">TOT</th><td class="fx f2"><span class="opp">NEW</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">NFO</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">EVE</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">AVL</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">MUN</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">COV</span><span class="ha">H</span></td></tr></tbody></table></div>
+      <thead><tr><th class="team"></th><th>GW2</th><th>GW3</th><th>GW4</th><th>GW5</th><th>GW6</th><th>GW7</th><th class="num">Avg</th></tr></thead>
+      <tbody><tr class=""><th class="team">NEW</th><td class="fx f3"><span class="opp">TOT</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">BOU</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">LEE</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">HUL</span><span class="ha">H</span></td><td class="fx f2"><span class="opp">COV</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">AVL</span><span class="ha">H</span></td><td class="num avg">2.7</td></tr>
+<tr class=""><th class="team">COV</th><td class="fx f2"><span class="opp">HUL</span><span class="ha">H</span></td><td class="fx f5"><span class="opp">MCI</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">BHA</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">NFO</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">NEW</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">TOT</span><span class="ha">A</span></td><td class="num avg">2.8</td></tr>
+<tr class="ownteam"><th class="team">LIV <span class="dot"></span></th><td class="fx f3"><span class="opp">NFO</span><span class="ha">H</span></td><td class="fx f2"><span class="opp">IPS</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">FUL</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BOU</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">MCI</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BRE</span><span class="ha">A</span></td><td class="num avg">2.8</td></tr>
+<tr class="ownteam"><th class="team">MCI <span class="dot"></span></th><td class="fx f3"><span class="opp">CRY</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">COV</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">MUN</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">SUN</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">LIV</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">IPS</span><span class="ha">H</span></td><td class="num avg">2.8</td></tr>
+<tr class="ownteam"><th class="team">TOT <span class="dot"></span></th><td class="fx f2"><span class="opp">NEW</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">NFO</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">EVE</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">AVL</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">MUN</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">COV</span><span class="ha">H</span></td><td class="num avg">2.8</td></tr>
+<tr class=""><th class="team">AVL</th><td class="fx f4"><span class="opp">ARS</span><span class="ha">H</span></td><td class="fx f2"><span class="opp">HUL</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">NFO</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">TOT</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">BRE</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">NEW</span><span class="ha">A</span></td><td class="num avg">3.0</td></tr>
+<tr class=""><th class="team">BHA</th><td class="fx f4"><span class="opp">CHE</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">LEE</span><span class="ha">H</span></td><td class="fx f2"><span class="opp">COV</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">ARS</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">SUN</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">CRY</span><span class="ha">H</span></td><td class="num avg">3.0</td></tr>
+<tr class="ownteam"><th class="team">CHE <span class="dot"></span></th><td class="fx f2"><span class="opp">BHA</span><span class="ha">H</span></td><td class="fx f5"><span class="opp">ARS</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">HUL</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BRE</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">BOU</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">EVE</span><span class="ha">A</span></td><td class="num avg">3.0</td></tr>
+<tr class="ownteam"><th class="team">CRY <span class="dot"></span></th><td class="fx f4"><span class="opp">MCI</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">FUL</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">IPS</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">LEE</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">NFO</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BHA</span><span class="ha">A</span></td><td class="num avg">3.0</td></tr>
+<tr class="ownteam"><th class="team">EVE <span class="dot"></span></th><td class="fx f3"><span class="opp">BOU</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">MUN</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">TOT</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">IPS</span><span class="ha">H</span></td><td class="fx f2"><span class="opp">HUL</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">CHE</span><span class="ha">H</span></td><td class="num avg">3.0</td></tr>
+<tr class=""><th class="team">FUL</th><td class="fx f3"><span class="opp">SUN</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">CRY</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">LIV</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">MUN</span><span class="ha">H</span></td><td class="fx f2"><span class="opp">IPS</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">HUL</span><span class="ha">H</span></td><td class="num avg">3.0</td></tr>
+<tr class=""><th class="team">HUL</th><td class="fx f2"><span class="opp">COV</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">AVL</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">CHE</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">NEW</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">EVE</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">FUL</span><span class="ha">A</span></td><td class="num avg">3.0</td></tr>
+<tr class="ownteam"><th class="team">MUN <span class="dot"></span></th><td class="fx f2"><span class="opp">IPS</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">EVE</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">MCI</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">FUL</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">TOT</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">LEE</span><span class="ha">A</span></td><td class="num avg">3.0</td></tr>
+<tr class=""><th class="team">ARS</th><td class="fx f4"><span class="opp">AVL</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">CHE</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">SUN</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">BHA</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">LEE</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">NFO</span><span class="ha">A</span></td><td class="num avg">3.2</td></tr>
+<tr class=""><th class="team">BOU</th><td class="fx f3"><span class="opp">EVE</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">NEW</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">BRE</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">LIV</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">CHE</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">SUN</span><span class="ha">H</span></td><td class="num avg">3.2</td></tr>
+<tr class="ownteam"><th class="team">SUN <span class="dot"></span></th><td class="fx f2"><span class="opp">FUL</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BRE</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">ARS</span><span class="ha">H</span></td><td class="fx f5"><span class="opp">MCI</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">BHA</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BOU</span><span class="ha">A</span></td><td class="num avg">3.2</td></tr>
+<tr class="ownteam"><th class="team">BRE <span class="dot"></span></th><td class="fx f3"><span class="opp">LEE</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">SUN</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BOU</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">CHE</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">AVL</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">LIV</span><span class="ha">H</span></td><td class="num avg">3.3</td></tr>
+<tr class="ownteam"><th class="team">LEE <span class="dot"></span></th><td class="fx f3"><span class="opp">BRE</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">BHA</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">NEW</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">CRY</span><span class="ha">H</span></td><td class="fx f5"><span class="opp">ARS</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">MUN</span><span class="ha">H</span></td><td class="num avg">3.3</td></tr>
+<tr class="ownteam"><th class="team">NFO <span class="dot"></span></th><td class="fx f4"><span class="opp">LIV</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">TOT</span><span class="ha">H</span></td><td class="fx f4"><span class="opp">AVL</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">COV</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">CRY</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">ARS</span><span class="ha">H</span></td><td class="num avg">3.3</td></tr>
+<tr class=""><th class="team">IPS</th><td class="fx f4"><span class="opp">MUN</span><span class="ha">A</span></td><td class="fx f4"><span class="opp">LIV</span><span class="ha">H</span></td><td class="fx f3"><span class="opp">CRY</span><span class="ha">A</span></td><td class="fx f3"><span class="opp">EVE</span><span class="ha">A</span></td><td class="fx f2"><span class="opp">FUL</span><span class="ha">H</span></td><td class="fx f5"><span class="opp">MCI</span><span class="ha">A</span></td><td class="num avg">3.5</td></tr></tbody></table></div>
   </section>
 
   <section class="panel">
-    <header><h2>On the radar</h2><span class="hint">scoring well, barely owned</span></header>
+    <header><h2>League differentials</h2><span class="hint">scoring, and owned by none of your 25 rivals</span></header>
     <div class="scroll"><table class="tbl">
-      <thead><tr><th>Player</th><th class="num">Price</th><th class="num">Owned</th><th class="num">Pts</th></tr></thead>
-      <tbody><tr><td class="who"><span class="nm">De Cuyper</span><span class="club">BHA · DEF</span></td><td class="num money">4.5</td><td class="num own">4.8<span class="pc">%</span></td><td class="num pts good">17</td></tr><tr class="whyrow"><td colspan="4">77 minutes, 17 points, 1 goal, 1 assist and 1 clean sheet, 2 bonus.</td></tr>
-<tr><td class="who"><span class="nm">Hinshelwood</span><span class="club">BHA · MID</span></td><td class="num money">6.0</td><td class="num own">1.5<span class="pc">%</span></td><td class="num pts good">16</td></tr><tr class="whyrow"><td colspan="4">63 minutes, 16 points, 2 goals, 3 bonus.</td></tr>
-<tr><td class="who"><span class="nm">M.Sangaré</span><span class="club">BRE · MID</span></td><td class="num money">5.5</td><td class="num own">5.7<span class="pc">%</span></td><td class="num pts good">14</td></tr><tr class="whyrow"><td colspan="4">75 minutes, 14 points, 2 assists, 3 bonus. Cleared the 12-action defensive threshold with 13, the holding midfielder profile that scores without needing a clean sheet. One game is not a pattern yet.</td></tr>
-<tr><td class="who"><span class="nm">Kayode</span><span class="club">BRE · DEF</span></td><td class="num money">4.5</td><td class="num own">5.4<span class="pc">%</span></td><td class="num pts good">13</td></tr><tr class="whyrow"><td colspan="4">75 minutes, 13 points, 1 goal and 1 clean sheet, 1 bonus.</td></tr>
-<tr><td class="who"><span class="nm">Stach</span><span class="club">LEE · MID</span></td><td class="num money">6.0</td><td class="num own">1.4<span class="pc">%</span></td><td class="num pts good">13</td></tr><tr class="whyrow"><td colspan="4">90 minutes on his only start, 13 points, 1 goal, 3 bonus. Cleared the 12-action defensive threshold with 16, the holding midfielder profile that scores without needing a clean sheet. One game is not a pattern yet.</td></tr>
-<tr><td class="who"><span class="nm">Gakpo</span><span class="club">LIV · MID</span></td><td class="num money">7.0</td><td class="num own">4.7<span class="pc">%</span></td><td class="num pts good">12</td></tr><tr class="whyrow"><td colspan="4">90 minutes on his only start, 12 points, 1 goal, 3 bonus. Cleared the 12-action defensive threshold with 12, the holding midfielder profile that scores without needing a clean sheet. One game is not a pattern yet.</td></tr>
-<tr><td class="who"><span class="nm">White</span><span class="club">ARS · DEF</span></td><td class="num money">5.5</td><td class="num own">5.5<span class="pc">%</span></td><td class="num pts good">11</td></tr><tr class="whyrow"><td colspan="4">90 minutes on his only start, 11 points, 1 assist and 1 clean sheet, 2 bonus.</td></tr>
-<tr><td class="who"><span class="nm">Ødegaard</span><span class="club">ARS · MID</span></td><td class="num money">6.5</td><td class="num own">10.4<span class="pc">%</span></td><td class="num pts good">11</td></tr><tr class="whyrow"><td colspan="4">75 minutes, 11 points, 1 goal, 3 bonus.</td></tr>
-<tr><td class="who"><span class="nm">Dewsbury-Hall</span><span class="club">EVE · MID</span></td><td class="num money">6.5</td><td class="num own">4.2<span class="pc">%</span></td><td class="num pts good">11</td></tr><tr class="whyrow"><td colspan="4">90 minutes on his only start, 11 points, 1 goal, 3 bonus.</td></tr>
-<tr><td class="who"><span class="nm">Tavernier</span><span class="club">BOU · MID</span></td><td class="num money">6.0</td><td class="num own">2.0<span class="pc">%</span></td><td class="num pts good">10</td></tr><tr class="whyrow"><td colspan="4">90 minutes on his only start, 10 points, 1 goal, 3 bonus.</td></tr></tbody></table></div>
+      <thead><tr><th>Player</th><th class="num">Price</th><th class="num">Owned</th>
+        <th class="num">Apps</th><th class="num">G</th><th class="num">A</th>
+        <th class="num">Bns</th><th class="num">DefCon</th><th class="num">Pts</th></tr></thead>
+      <tbody><tr><td class="who"><span class="nm">Hinshelwood</span><span class="club">BHA · MID</span></td><td class="num money">6.0</td><td class="num own">1.5<span class="pc">%</span></td><td class="num">1</td><td class="num">2</td><td class="num">0</td><td class="num">3</td><td class="num">—</td><td class="num pts good">16</td></tr>
+<tr><td class="who"><span class="nm">M.Sangaré</span><span class="club">BRE · MID</span></td><td class="num money">5.5</td><td class="num own">5.8<span class="pc">%</span></td><td class="num">1</td><td class="num">0</td><td class="num">2</td><td class="num">3</td><td class="num">1</td><td class="num pts good">14</td></tr>
+<tr><td class="who"><span class="nm">Stach</span><span class="club">LEE · MID</span></td><td class="num money">6.0</td><td class="num own">1.4<span class="pc">%</span></td><td class="num">1</td><td class="num">1</td><td class="num">0</td><td class="num">3</td><td class="num">1</td><td class="num pts good">13</td></tr>
+<tr><td class="who"><span class="nm">Dewsbury-Hall</span><span class="club">EVE · MID</span></td><td class="num money">6.5</td><td class="num own">4.2<span class="pc">%</span></td><td class="num">1</td><td class="num">1</td><td class="num">0</td><td class="num">3</td><td class="num">—</td><td class="num pts good">11</td></tr>
+<tr><td class="who"><span class="nm">Tavernier</span><span class="club">BOU · MID</span></td><td class="num money">6.0</td><td class="num own">2.0<span class="pc">%</span></td><td class="num">1</td><td class="num">1</td><td class="num">0</td><td class="num">3</td><td class="num">—</td><td class="num pts good">10</td></tr>
+<tr><td class="who"><span class="nm">Lewis-Potter</span><span class="club">BRE · MID</span></td><td class="num money">5.5</td><td class="num own">0.7<span class="pc">%</span></td><td class="num">1</td><td class="num">1</td><td class="num">0</td><td class="num">2</td><td class="num">—</td><td class="num pts good">10</td></tr>
+<tr><td class="who"><span class="nm">Bijol</span><span class="club">LEE · DEF</span></td><td class="num money">5.0</td><td class="num own">0.6<span class="pc">%</span></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">2</td><td class="num">1</td><td class="num pts good">10</td></tr>
+<tr><td class="who"><span class="nm">Justin</span><span class="club">LEE · DEF</span></td><td class="num money">4.5</td><td class="num own">0.8<span class="pc">%</span></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">2</td><td class="num">1</td><td class="num pts good">10</td></tr>
+<tr><td class="who"><span class="nm">Tzolakis</span><span class="club">HUL · GK</span></td><td class="num money">4.5</td><td class="num own">1.6<span class="pc">%</span></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">3</td><td class="num">—</td><td class="num pts good">10</td></tr>
+<tr><td class="who"><span class="nm">Janelt</span><span class="club">BRE · MID</span></td><td class="num money">5.0</td><td class="num own">0.3<span class="pc">%</span></td><td class="num">1</td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">1</td><td class="num pts good">9</td></tr></tbody></table></div>
+  </section>
+
+  <div class="cols">
+    <section class="panel">
+      <header><h2>Rising</h2><span class="hint">net transfers in this gameweek</span></header>
+      <div class="scroll"><table class="tbl">
+        <thead><tr><th>Player</th><th class="num">Price</th><th class="num">Owned</th><th class="num">Net</th></tr></thead>
+        <tbody><tr><td class="who"><span class="nm">De Cuyper</span><span class="club">BHA · DEF</span></td><td class="num money">4.5</td><td class="num own">4.9<span class="pc">%</span></td><td class="num net up">+249,647</td></tr>
+<tr><td class="who"><span class="nm">M.Sangaré</span><span class="club">BRE · MID</span></td><td class="num money">5.5</td><td class="num own">5.8<span class="pc">%</span></td><td class="num net up">+201,908</td></tr>
+<tr><td class="who"><span class="nm">Calafiori</span><span class="club">ARS · DEF</span></td><td class="num money">5.5</td><td class="num own">41.0<span class="pc">%</span></td><td class="num net up">+173,448</td></tr>
+<tr><td class="who"><span class="nm">Kayode</span><span class="club">BRE · DEF</span></td><td class="num money">4.5</td><td class="num own">5.4<span class="pc">%</span></td><td class="num net up">+164,808</td></tr>
+<tr><td class="who"><span class="nm">Ødegaard</span><span class="club">ARS · MID</span></td><td class="num money">6.5</td><td class="num own">10.4<span class="pc">%</span></td><td class="num net up">+149,477</td></tr>
+<tr><td class="who"><span class="nm">João Pedro</span><span class="club">CHE · FWD <span class="yours">yours</span></span></td><td class="num money">7.5</td><td class="num own">65.4<span class="pc">%</span></td><td class="num net up">+146,568</td></tr></tbody></table></div>
+    </section>
+    <section class="panel">
+      <header><h2>Falling</h2><span class="hint">sell before the price drops</span></header>
+      <div class="scroll"><table class="tbl">
+        <thead><tr><th>Player</th><th class="num">Price</th><th class="num">Owned</th><th class="num">Net</th></tr></thead>
+        <tbody><tr><td class="who"><span class="nm">Pedro Porro</span><span class="club">TOT · DEF</span></td><td class="num money">5.5</td><td class="num own">14.3<span class="pc">%</span></td><td class="num net down">-233,897</td></tr>
+<tr><td class="who"><span class="nm">Gyökeres</span><span class="club">ARS · FWD</span></td><td class="num money">7.5</td><td class="num own">7.9<span class="pc">%</span></td><td class="num net down">-119,488</td></tr>
+<tr><td class="who"><span class="nm">Konsa</span><span class="club">ARS · DEF</span></td><td class="num money">4.5</td><td class="num own">11.7<span class="pc">%</span></td><td class="num net down">-110,426</td></tr>
+<tr><td class="who"><span class="nm">Gibbs-White</span><span class="club">NFO · MID</span></td><td class="num money">8.0</td><td class="num own">10.4<span class="pc">%</span></td><td class="num net down">-102,877</td></tr>
+<tr><td class="who"><span class="nm">Watkins</span><span class="club">AVL · FWD</span></td><td class="num money">8.0</td><td class="num own">9.4<span class="pc">%</span></td><td class="num net down">-101,385</td></tr>
+<tr><td class="who"><span class="nm">Van de Ven</span><span class="club">TOT · DEF</span></td><td class="num money">5.0</td><td class="num own">4.5<span class="pc">%</span></td><td class="num net down">-95,149</td></tr></tbody></table></div>
+    </section>
+  </div>
+
+  <section class="panel">
+    <header><h2>Leaderboards</h2><span class="hint">the whole game, not just your squad</span></header>
+    <div class="boards">
+      <div class="bd"><h4>Most points</h4><table class="tbl mini"><tbody><tr><td class="who"><span class="nm">De Cuyper</span><span class="club">BHA · DEF</span></td><td class="num money">4.5</td><td class="num pts good">17</td></tr>
+<tr><td class="who"><span class="nm">Hinshelwood</span><span class="club">BHA · MID</span></td><td class="num money">6.0</td><td class="num pts good">16</td></tr>
+<tr><td class="who"><span class="nm">Mendy</span><span class="club">HUL · DEF</span></td><td class="num money">4.0</td><td class="num pts good">15</td></tr>
+<tr><td class="who"><span class="nm">M.Sangaré</span><span class="club">BRE · MID</span></td><td class="num money">5.5</td><td class="num pts good">14</td></tr>
+<tr><td class="who"><span class="nm">Ajayi</span><span class="club">HUL · DEF</span></td><td class="num money">4.0</td><td class="num pts good">14</td></tr>
+<tr><td class="who"><span class="nm">Kayode</span><span class="club">BRE · DEF</span></td><td class="num money">4.5</td><td class="num pts good">13</td></tr>
+<tr><td class="who"><span class="nm">Palmer</span><span class="club">CHE · MID</span></td><td class="num money">9.5</td><td class="num pts good">13</td></tr>
+<tr><td class="who"><span class="nm">Stach</span><span class="club">LEE · MID</span></td><td class="num money">6.0</td><td class="num pts good">13</td></tr></tbody></table></div>
+      <div class="bd"><h4>Points per 90</h4><table class="tbl mini"><tbody><tr><td class="who"><span class="nm">Hinshelwood</span><span class="club">BHA · MID</span></td><td class="num money">6.0</td><td class="num pts good">22.9</td></tr>
+<tr><td class="who"><span class="nm">Mendy</span><span class="club">HUL · DEF</span></td><td class="num money">4.0</td><td class="num pts good">21.4</td></tr>
+<tr><td class="who"><span class="nm">Ajayi</span><span class="club">HUL · DEF</span></td><td class="num money">4.0</td><td class="num pts good">20.0</td></tr>
+<tr><td class="who"><span class="nm">De Cuyper</span><span class="club">BHA · DEF</span></td><td class="num money">4.5</td><td class="num pts good">19.9</td></tr>
+<tr><td class="who"><span class="nm">M.Sangaré</span><span class="club">BRE · MID</span></td><td class="num money">5.5</td><td class="num pts good">16.8</td></tr>
+<tr><td class="who"><span class="nm">Kayode</span><span class="club">BRE · DEF</span></td><td class="num money">4.5</td><td class="num pts good">15.6</td></tr>
+<tr><td class="who"><span class="nm">Palmer</span><span class="club">CHE · MID</span></td><td class="num money">9.5</td><td class="num pts good">14.3</td></tr>
+<tr><td class="who"><span class="nm">Ødegaard</span><span class="club">ARS · MID</span></td><td class="num money">6.5</td><td class="num pts good">13.2</td></tr></tbody></table></div>
+      <div class="bd"><h4>Points per £m</h4><table class="tbl mini"><tbody><tr><td class="who"><span class="nm">De Cuyper</span><span class="club">BHA · DEF</span></td><td class="num money">4.5</td><td class="num pts good">3.8</td></tr>
+<tr><td class="who"><span class="nm">Mendy</span><span class="club">HUL · DEF</span></td><td class="num money">4.0</td><td class="num pts good">3.8</td></tr>
+<tr><td class="who"><span class="nm">Ajayi</span><span class="club">HUL · DEF</span></td><td class="num money">4.0</td><td class="num pts good">3.5</td></tr>
+<tr><td class="who"><span class="nm">Kayode</span><span class="club">BRE · DEF</span></td><td class="num money">4.5</td><td class="num pts good">2.9</td></tr>
+<tr><td class="who"><span class="nm">Hinshelwood</span><span class="club">BHA · MID</span></td><td class="num money">6.0</td><td class="num pts good">2.7</td></tr>
+<tr><td class="who"><span class="nm">M.Sangaré</span><span class="club">BRE · MID</span></td><td class="num money">5.5</td><td class="num pts good">2.5</td></tr>
+<tr><td class="who"><span class="nm">Tzolakis</span><span class="club">HUL · GK</span></td><td class="num money">4.5</td><td class="num pts good">2.2</td></tr>
+<tr><td class="who"><span class="nm">Justin</span><span class="club">LEE · DEF</span></td><td class="num money">4.5</td><td class="num pts good">2.2</td></tr></tbody></table></div>
+    </div>
+  </section>
+
+  <div class="cols">
+    <section class="panel">
+      <header><h2>Riding their luck</h2><span class="hint">scoring above expectation — may regress</span></header>
+      <div class="scroll"><table class="tbl">
+        <thead><tr><th>Player</th><th class="num">Price</th><th class="num">G+A</th><th class="num">xGI</th><th class="num">Diff</th></tr></thead>
+        <tbody><tr><td class="who"><span class="nm">M.Sangaré</span><span class="club">BRE · MID</span></td><td class="num money">5.5</td><td class="num">2</td><td class="num">0.38</td><td class="num delta up">+1.62</td></tr>
+<tr><td class="who"><span class="nm">Palmer</span><span class="club">CHE · MID</span></td><td class="num money">9.5</td><td class="num">2</td><td class="num">0.47</td><td class="num delta up">+1.53</td></tr>
+<tr><td class="who"><span class="nm">João Pedro</span><span class="club">CHE · FWD <span class="yours">yours</span></span></td><td class="num money">7.5</td><td class="num">2</td><td class="num">0.69</td><td class="num delta up">+1.31</td></tr>
+<tr><td class="who"><span class="nm">Ødegaard</span><span class="club">ARS · MID</span></td><td class="num money">6.5</td><td class="num">1</td><td class="num">0.31</td><td class="num delta up">+0.69</td></tr>
+<tr><td class="who"><span class="nm">Tzolis</span><span class="club">ARS · MID</span></td><td class="num money">6.5</td><td class="num">1</td><td class="num">0.33</td><td class="num delta up">+0.67</td></tr></tbody></table></div>
+    </section>
+    <section class="panel">
+      <header><h2>Due a return</h2><span class="hint">creating chances without the goals</span></header>
+      <div class="scroll"><table class="tbl">
+        <thead><tr><th>Player</th><th class="num">Price</th><th class="num">G+A</th><th class="num">xGI</th><th class="num">Diff</th></tr></thead>
+        <tbody><tr><td class="who"><span class="nm">Isak</span><span class="club">LIV · FWD</span></td><td class="num money">9.0</td><td class="num">0</td><td class="num">1.10</td><td class="num delta down">-1.10</td></tr>
+<tr><td class="who"><span class="nm">Thiago</span><span class="club">BRE · FWD</span></td><td class="num money">8.0</td><td class="num">0</td><td class="num">1.08</td><td class="num delta down">-1.08</td></tr>
+<tr><td class="who"><span class="nm">Haaland</span><span class="club">MCI · FWD <span class="yours">yours</span></span></td><td class="num money">15.5</td><td class="num">0</td><td class="num">0.76</td><td class="num delta down">-0.76</td></tr>
+<tr><td class="who"><span class="nm">Mbeumo</span><span class="club">MUN · MID <span class="yours">yours</span></span></td><td class="num money">8.0</td><td class="num">0</td><td class="num">0.73</td><td class="num delta down">-0.73</td></tr>
+<tr><td class="who"><span class="nm">Mateta</span><span class="club">CRY · FWD</span></td><td class="num money">6.5</td><td class="num">0</td><td class="num">0.72</td><td class="num delta down">-0.72</td></tr></tbody></table></div>
+    </section>
+  </div>
+
+  <section class="panel">
+    <header><h2>Rival watch</h2><span class="hint">what the Fellas League owns that you don't</span></header>
+    <div class="scroll"><table class="tbl">
+      <thead><tr><th class="num">#</th><th>Manager</th><th class="num">Pts</th><th>Captain</th><th>Has that you don't</th></tr></thead>
+      <tbody><tr class=""><td class="num rank">1</td><td class="who"><span class="nm">T_R</span><span class="club">Tom Roberts</span></td><td class="num tot">66</td><td class="capt">João Pedro</td><td class="diffs">Raya, Diop, O&#x27;Reilly, Virgil, Calafiori, Semenyo</td></tr>
+<tr class=""><td class="num rank">2</td><td class="who"><span class="nm">HaCunha Matata</span><span class="club">Oliver Norris</span></td><td class="num tot">58</td><td class="capt">Haaland</td><td class="diffs">Walle Egeli, Anderson, Shaw, Calafiori, Mosquera, Ndiaye</td></tr>
+<tr class=""><td class="num rank">2</td><td class="who"><span class="nm">net six and chill</span><span class="club">william batterbury</span></td><td class="num tot">58</td><td class="capt">B.Fernandes</td><td class="diffs">Maguire, Gvardiol, Calafiori, Rogers, Ndiaye, Kinsky</td></tr>
+<tr class=""><td class="num rank">4</td><td class="who"><span class="nm">Class of 94</span><span class="club">Dan Healey</span></td><td class="num tot">53</td><td class="capt">Haaland</td><td class="diffs">Diop, Kerkez, Calafiori, Rogers, Palmer, Amad</td></tr>
+<tr class=""><td class="num rank">4</td><td class="who"><span class="nm">Chicken Chow Mainoo</span><span class="club">Tom Healey</span></td><td class="num tot">53</td><td class="capt">B.Fernandes</td><td class="diffs">Slater, Calafiori, Brobbey, Mosquera, Muharemović, van Ewijk</td></tr>
+<tr class=""><td class="num rank">6</td><td class="who"><span class="nm">hitmeinthesaka</span><span class="club">Liam Fearnley</span></td><td class="num tot">50</td><td class="capt">Gyökeres</td><td class="diffs">Donnarumma, Kerkez, Gvardiol, Palmer, Mykolenko, Thiago</td></tr>
+<tr class=""><td class="num rank">7</td><td class="who"><span class="nm">Wunited</span><span class="club">Luke Woodward</span></td><td class="num tot">48</td><td class="capt">Mbeumo</td><td class="diffs">Diop, Gabriel, I.Sangaré, Ndiaye, Neave, Mukiele</td></tr>
+<tr class=""><td class="num rank">8</td><td class="who"><span class="nm">Bayer Neverlusen</span><span class="club">Jamie Mourant</span></td><td class="num tot">47</td><td class="capt">Haaland</td><td class="diffs">Shaw, Calafiori, J.Ramsey, Thomas, Tzolis, Richarlison</td></tr>
+<tr class="me"><td class="num rank">9</td><td class="who"><span class="nm">Claude Makélélé</span><span class="club">Aidan Whitehouse</span></td><td class="num tot">41</td><td class="capt">Haaland</td><td class="diffs">—</td></tr>
+<tr class=""><td class="num rank">10</td><td class="who"><span class="nm">Tics Champs By Xmas</span><span class="club">Kieron Murphy</span></td><td class="num tot">39</td><td class="capt">Haaland</td><td class="diffs">Raya, Rayan, Shaw, Rogers, Brobbey, Jacquet</td></tr>
+<tr class=""><td class="num rank">11</td><td class="who"><span class="nm">The Goal Hangers</span><span class="club">Nik Barlow</span></td><td class="num tot">34</td><td class="capt">Haaland</td><td class="diffs">Wilson, Shaw, Rice, Verbruggen, Semenyo, Pedro Porro</td></tr></tbody></table></div>
   </section>
 
   <section class="panel">
-    <header><h2>Chips</h2><span class="hint">eight in total · set one expires 2 January</span></header>
-    <div class="scroll"><table class="tbl chips">
-      <thead><tr><th>Chip</th><th class="num">Target</th><th>What has to be true first</th></tr></thead>
-      <tbody><tr class="setone"><td class="who"><span class="nm">Wildcard 1</span><span class="club">set one</span></td><td class="num window">GW7-9</td><td class="prep">Free rebuild. Held until the fixture picture past the first international break is clear.</td></tr>
-<tr class="setone"><td class="who"><span class="nm">Triple Captain 1</span><span class="club">set one</span></td><td class="num window">GW13-18</td><td class="prep">Needs a premium with a soft home fixture and no rotation risk.</td></tr>
-<tr class="setone"><td class="who"><span class="nm">Bench Boost 1</span><span class="club">set one</span></td><td class="num window">GW15-18</td><td class="prep">Only pays if the bench starts. Prep from GW7: swap non-players for nailed-on cheap starters.</td></tr>
-<tr class="setone"><td class="who"><span class="nm">Free Hit 1</span><span class="club">set one</span></td><td class="num window">GW18-19</td><td class="prep">Held for a blank or congested week. Spent by GW19 regardless.</td></tr>
-<tr class="settwo"><td class="who"><span class="nm">Wildcard 2</span><span class="club">set two</span></td><td class="num window">GW28-30</td><td class="prep">Second-half reset, aimed at the doubles that decide mini-leagues.</td></tr>
-<tr class="settwo"><td class="who"><span class="nm">Free Hit 2</span><span class="club">set two</span></td><td class="num window">on a blank</td><td class="prep">The natural answer to a blank gameweek in the cup rounds.</td></tr>
-<tr class="settwo"><td class="who"><span class="nm">Bench Boost 2</span><span class="club">set two</span></td><td class="num window">biggest double</td><td class="prep">Held for a double gameweek where all 15 play twice.</td></tr>
-<tr class="settwo"><td class="who"><span class="nm">Triple Captain 2</span><span class="club">set two</span></td><td class="num window">biggest double</td><td class="prep">A premium with two fixtures - the highest-scoring play in the game.</td></tr></tbody></table></div>
+    <header><h2>Set pieces</h2><span class="hint">first-choice takers at every club</span></header>
+    <div class="scroll"><table class="tbl sp">
+      <thead><tr><th class="team">Club</th><th>Penalties</th><th>Free kicks</th><th>Corners</th></tr></thead>
+      <tbody><tr><th class="team">ARS</th><td>Saka</td><td>Rice</td><td>Rice</td></tr>
+<tr><th class="team">AVL</th><td>Buendía</td><td>Buendía</td><td>Cash</td></tr>
+<tr><th class="team">BHA</th><td>Groß</td><td>Groß</td><td>Groß</td></tr>
+<tr><th class="team">BOU</th><td>Kroupi.Jr</td><td>Tavernier</td><td>Tavernier</td></tr>
+<tr><th class="team">BRE</th><td>Thiago</td><td>Lewis-Potter</td><td>Jensen</td></tr>
+<tr><th class="team">CHE</th><td>Palmer</td><td>James</td><td>James</td></tr>
+<tr><th class="team">COV</th><td>Wright</td><td>Rudoni</td><td>Grimes</td></tr>
+<tr><th class="team">CRY</th><td>Mateta</td><td>Yeremy</td><td>Wharton</td></tr>
+<tr><th class="team">EVE</th><td>Ndiaye</td><td>Garner</td><td>Garner</td></tr>
+<tr><th class="team">FUL</th><td>Gonzalo</td><td>Iwobi</td><td>Iwobi</td></tr>
+<tr><th class="team">HUL</th><td>McBurnie</td><td>Giles</td><td>Giles</td></tr>
+<tr><th class="team">IPS</th><td>Clarke</td><td>Núñez</td><td>Núñez</td></tr>
+<tr><th class="team">LEE</th><td>Calvert-Lewin</td><td>Stach</td><td>Stach</td></tr>
+<tr><th class="team">LIV</th><td>Szoboszlai</td><td>Szoboszlai</td><td>Szoboszlai</td></tr>
+<tr><th class="team">MCI</th><td>Haaland</td><td>Cherki</td><td>Cherki</td></tr>
+<tr><th class="team">MUN</th><td>B.Fernandes</td><td>B.Fernandes</td><td>B.Fernandes</td></tr>
+<tr><th class="team">NEW</th><td>Woltemade</td><td>Hall</td><td>Hall</td></tr>
+<tr><th class="team">NFO</th><td>Wood</td><td>Gibbs-White</td><td>N.Williams</td></tr>
+<tr><th class="team">SUN</th><td>Diarra</td><td>Xhaka</td><td>E.Le Fée</td></tr>
+<tr><th class="team">TOT</th><td>Solanke</td><td>Pedro Porro</td><td>Pedro Porro</td></tr></tbody></table></div>
   </section>
 
   <footer>
     <span>Built from the FPL API · <code>ShmayLabs/fpl-data</code></span>
-    <span>Updated <code>25 Aug 2026, 09:04 UTC</code></span>
+    <span>Updated <code>25 Aug 2026, 09:35 UTC</code></span>
   </footer>
 </div>
 
@@ -412,7 +548,7 @@ footer code { font-family:"IBM Plex Mono",ui-monospace,monospace; font-size:11.5
   if (isNaN(at)) return;
   function tick() {
     var left = at - Date.now();
-    if (left <= 0) { out.textContent = "Deadline passed \u2014 team is locked"; return; }
+    if (left <= 0) { out.textContent = "Deadline passed — team is locked"; return; }
     var s = Math.floor(left / 1000), d = Math.floor(s / 86400),
         h = Math.floor(s % 86400 / 3600), m = Math.floor(s % 3600 / 60), sec = s % 60;
     out.textContent = (d ? d + "d " : "") + h + "h " + m + "m " + (d ? "" : sec + "s") + " to go";
