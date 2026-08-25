@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-25T14:29:21Z",
+ "generated_utc": "2026-08-25T17:04:40Z",
  "next_gw": 2,
  "next_deadline_utc": "2026-08-28T17:30:00Z",
  "gw_finished": true,
@@ -76,7 +76,7 @@
    "team": "MCI",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 18.5,
+   "owned_by": 18.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -127,7 +127,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 49.7,
+   "owned_by": 49.6,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -144,7 +144,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 37.0,
+   "owned_by": 36.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -161,7 +161,7 @@
    "team": "SUN",
    "pos": "MID",
    "price": 6.0,
-   "owned_by": 9.4,
+   "owned_by": 9.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -195,7 +195,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.5,
-   "owned_by": 65.7,
+   "owned_by": 65.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -229,7 +229,7 @@
    "team": "TOT",
    "pos": "GK",
    "price": 4.0,
-   "owned_by": 19.0,
+   "owned_by": 18.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -336,22 +336,22 @@
     },
     {
      "rank": 6,
-     "team": "Chicken Chow Mainoo",
+     "team": "I\u2019m a Baleba",
      "player": "Tom Healey",
      "gw": 53,
      "total": 53
     },
     {
      "rank": 7,
-     "team": "Wunited",
-     "player": "Luke Woodward",
+     "team": "Bayer Neverlusen",
+     "player": "Jamie Mourant",
      "gw": 50,
      "total": 50
     },
     {
      "rank": 7,
-     "team": "Bayer Neverlusen",
-     "player": "Jamie Mourant",
+     "team": "Wunited",
+     "player": "Luke Woodward",
      "gw": 50,
      "total": 50
     },
@@ -412,15 +412,15 @@
     },
     {
      "rank": 5,
-     "team": "Gangsters Allardyce",
-     "player": "Jordan White",
+     "team": "Previously Athletic",
+     "player": "Phil Dudson",
      "gw": 65,
      "total": 65
     },
     {
      "rank": 5,
-     "team": "Previously Athletic",
-     "player": "Phil Dudson",
+     "team": "Gangsters Allardyce",
+     "player": "Jordan White",
      "gw": 65,
      "total": 65
     },
@@ -482,6 +482,13 @@
     },
     {
      "rank": 15,
+     "team": "Maddcatts",
+     "player": "Craig Cattrall",
+     "gw": 58,
+     "total": 58
+    },
+    {
+     "rank": 15,
      "team": "Can'r tie my shoes",
      "player": "Alex Kennedy",
      "gw": 58,
@@ -491,13 +498,6 @@
      "rank": 15,
      "team": "KashFC",
      "player": "Prakash Shan",
-     "gw": 58,
-     "total": 58
-    },
-    {
-     "rank": 15,
-     "team": "Maddcatts",
-     "player": "Craig Cattrall",
      "gw": 58,
      "total": 58
     },
@@ -538,22 +538,22 @@
     },
     {
      "rank": 23,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 49,
-     "total": 49
-    },
-    {
-     "rank": 23,
      "team": "ChickenTikka Mangala",
      "player": "James Davies",
      "gw": 49,
      "total": 49
     },
     {
+     "rank": 23,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 49,
+     "total": 49
+    },
+    {
      "rank": 25,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
+     "team": "Pending Moderation",
+     "player": "Ian mcclure",
      "gw": 48,
      "total": 48
     }
@@ -614,15 +614,15 @@
     },
     {
      "rank": 8,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
+     "team": "Prep Big B",
+     "player": "Darren Heath",
      "gw": 49,
      "total": 49
     },
     {
      "rank": 8,
-     "team": "Prep Big B",
-     "player": "Darren Heath",
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
      "gw": 49,
      "total": 49
     },
@@ -642,15 +642,15 @@
     },
     {
      "rank": 12,
-     "team": "RebellTeam",
-     "player": "Santi Rebella",
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
      "gw": 41,
      "total": 41
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
+     "team": "RebellTeam",
+     "player": "Santi Rebella",
      "gw": 41,
      "total": 41
     },
@@ -1440,7 +1440,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 17,
-   "owned_by": 5.3
+   "owned_by": 5.6
   },
   {
    "name": "Hinshelwood",
@@ -1448,7 +1448,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 16,
-   "owned_by": 1.7
+   "owned_by": 1.8
   },
   {
    "name": "Mendy",
@@ -1472,7 +1472,7 @@
    "pos": "MID",
    "price": 5.5,
    "points": 14,
-   "owned_by": 6.1
+   "owned_by": 6.3
   },
   {
    "name": "Kayode",
@@ -1480,7 +1480,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 13,
-   "owned_by": 5.7
+   "owned_by": 5.8
   },
   {
    "name": "Palmer",
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 9.5,
    "points": 13,
-   "owned_by": 12.5
+   "owned_by": 12.8
   },
   {
    "name": "Stach",
@@ -1496,7 +1496,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 13,
-   "owned_by": 1.5
+   "owned_by": 1.6
   },
   {
    "name": "Gakpo",
@@ -1504,7 +1504,7 @@
    "pos": "MID",
    "price": 7.0,
    "points": 12,
-   "owned_by": 4.9
+   "owned_by": 5.0
   },
   {
    "name": "White",
@@ -1512,7 +1512,7 @@
    "pos": "DEF",
    "price": 5.5,
    "points": 11,
-   "owned_by": 5.6
+   "owned_by": 5.7
   },
   {
    "name": "\u00d8degaard",
@@ -1528,7 +1528,7 @@
    "pos": "FWD",
    "price": 7.5,
    "points": 11,
-   "owned_by": 65.7
+   "owned_by": 65.9
   },
   {
    "name": "Dewsbury-Hall",
@@ -1576,7 +1576,7 @@
    "pos": "DEF",
    "price": 6.0,
    "points": 10,
-   "owned_by": 18.5
+   "owned_by": 18.6
   },
   {
    "name": "Tzolakis",
@@ -1584,7 +1584,7 @@
    "pos": "GK",
    "price": 4.5,
    "points": 10,
-   "owned_by": 1.7
+   "owned_by": 1.8
   },
   {
    "name": "Calafiori",
@@ -1592,7 +1592,7 @@
    "pos": "DEF",
    "price": 5.5,
    "points": 9,
-   "owned_by": 41.1
+   "owned_by": 41.2
   },
   {
    "name": "Saka",
@@ -1632,7 +1632,7 @@
    "pos": "GK",
    "price": 5.0,
    "points": 9,
-   "owned_by": 3.5
+   "owned_by": 3.6
   }
  ],
  "rival_count": 25,
@@ -1829,7 +1829,7 @@
    ]
   },
   {
-   "team": "Chicken Chow Mainoo",
+   "team": "I\u2019m a Baleba",
    "manager": "Tom Healey",
    "rank": 6,
    "total": 53,
@@ -1864,40 +1864,6 @@
     "Kayode",
     "Lammens",
     "Gro\u00df"
-   ]
-  },
-  {
-   "team": "Wunited",
-   "manager": "Luke Woodward",
-   "rank": 7,
-   "total": 50,
-   "chip": null,
-   "squad": [
-    "Roefs",
-    "Gu\u00e9hi",
-    "Diop",
-    "Gabriel",
-    "Hume",
-    "B.Fernandes",
-    "Ndiaye",
-    "I.Sangar\u00e9",
-    "Mbeumo",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Dubravka",
-    "Mukiele",
-    "Hughes",
-    "Neave"
-   ],
-   "captain": "Mbeumo",
-   "differentials_vs_me": [
-    "Diop",
-    "Gabriel",
-    "I.Sangar\u00e9",
-    "Ndiaye",
-    "Neave",
-    "Mukiele",
-    "Hume"
    ]
   },
   {
@@ -1936,6 +1902,40 @@
     "van Ewijk",
     "Palestra",
     "Leno"
+   ]
+  },
+  {
+   "team": "Wunited",
+   "manager": "Luke Woodward",
+   "rank": 7,
+   "total": 50,
+   "chip": null,
+   "squad": [
+    "Roefs",
+    "Gu\u00e9hi",
+    "Diop",
+    "Gabriel",
+    "Hume",
+    "B.Fernandes",
+    "Ndiaye",
+    "I.Sangar\u00e9",
+    "Mbeumo",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Dubravka",
+    "Mukiele",
+    "Hughes",
+    "Neave"
+   ],
+   "captain": "Mbeumo",
+   "differentials_vs_me": [
+    "Diop",
+    "Gabriel",
+    "I.Sangar\u00e9",
+    "Ndiaye",
+    "Neave",
+    "Mukiele",
+    "Hume"
    ]
   },
   {
@@ -2306,6 +2306,43 @@
    ]
   },
   {
+   "team": "Prep Big B",
+   "manager": "Darren Heath",
+   "rank": 8,
+   "total": 49,
+   "chip": null,
+   "squad": [
+    "Lammens",
+    "Calafiori",
+    "Mitchell",
+    "Hall",
+    "Palmer",
+    "B.Fernandes",
+    "Lewis-Skelly",
+    "Foden",
+    "Haaland",
+    "Jo\u00e3o Pedro",
+    "Calvert-Lewin",
+    "Steele",
+    "Konsa",
+    "Hughes",
+    "Thomas"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Hall",
+    "Lewis-Skelly",
+    "Calafiori",
+    "Mitchell",
+    "Thomas",
+    "Foden",
+    "Steele",
+    "Palmer",
+    "Lammens",
+    "Konsa"
+   ]
+  },
+  {
    "team": "Millennium Falcons",
    "manager": "Jack Richardson",
    "rank": 8,
@@ -2341,43 +2378,6 @@
     "van Ewijk",
     "Pedro Porro",
     "Gy\u00f6keres"
-   ]
-  },
-  {
-   "team": "Prep Big B",
-   "manager": "Darren Heath",
-   "rank": 8,
-   "total": 49,
-   "chip": null,
-   "squad": [
-    "Lammens",
-    "Calafiori",
-    "Mitchell",
-    "Hall",
-    "Palmer",
-    "B.Fernandes",
-    "Lewis-Skelly",
-    "Foden",
-    "Haaland",
-    "Jo\u00e3o Pedro",
-    "Calvert-Lewin",
-    "Steele",
-    "Konsa",
-    "Hughes",
-    "Thomas"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Hall",
-    "Lewis-Skelly",
-    "Calafiori",
-    "Mitchell",
-    "Thomas",
-    "Foden",
-    "Steele",
-    "Palmer",
-    "Lammens",
-    "Konsa"
    ]
   },
   {
@@ -2584,7 +2584,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 80.0,
-   "owned_globally_pct": 49.7,
+   "owned_globally_pct": 49.6,
    "i_own": true
   },
   {
@@ -2593,7 +2593,7 @@
    "pos": "FWD",
    "price": 7.5,
    "owned_in_league_pct": 76.0,
-   "owned_globally_pct": 65.7,
+   "owned_globally_pct": 65.9,
    "i_own": true
   },
   {
@@ -2611,7 +2611,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 56.0,
-   "owned_globally_pct": 41.1,
+   "owned_globally_pct": 41.2,
    "i_own": false
   },
   {
@@ -2620,7 +2620,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 37.0,
+   "owned_globally_pct": 36.9,
    "i_own": true
   },
   {
@@ -2629,7 +2629,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 17.7,
+   "owned_globally_pct": 17.6,
    "i_own": false
   },
   {
@@ -2647,7 +2647,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 25.7,
+   "owned_globally_pct": 25.8,
    "i_own": false
   },
   {
@@ -2656,7 +2656,7 @@
    "pos": "GK",
    "price": 4.0,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 19.0,
+   "owned_globally_pct": 18.9,
    "i_own": true
   },
   {
@@ -2665,7 +2665,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 16.0,
+   "owned_globally_pct": 15.9,
    "i_own": false
   },
   {
@@ -2674,7 +2674,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 20.3,
+   "owned_globally_pct": 20.2,
    "i_own": false
   },
   {
@@ -2719,7 +2719,7 @@
    "pos": "MID",
    "price": 8.5,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 25.2,
+   "owned_globally_pct": 25.1,
    "i_own": false
   },
   {
@@ -2782,7 +2782,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 25.4,
+   "owned_globally_pct": 25.5,
    "i_own": false
   },
   {
@@ -2809,7 +2809,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 11.6,
+   "owned_globally_pct": 11.5,
    "i_own": false
   },
   {
@@ -2836,7 +2836,7 @@
    "pos": "FWD",
    "price": 7.5,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 7.8,
+   "owned_globally_pct": 7.7,
    "i_own": false
   },
   {
@@ -2854,7 +2854,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 9.4,
+   "owned_globally_pct": 9.3,
    "i_own": true
   },
   {
@@ -2872,7 +2872,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 13.5,
+   "owned_globally_pct": 13.4,
    "i_own": false
   },
   {
@@ -2899,7 +2899,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 12.6,
+   "owned_globally_pct": 12.7,
    "i_own": false
   },
   {
@@ -2908,7 +2908,7 @@
    "pos": "FWD",
    "price": 8.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 17.1,
+   "owned_globally_pct": 17.0,
    "i_own": false
   },
   {
@@ -2917,7 +2917,7 @@
    "pos": "FWD",
    "price": 8.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 9.3,
+   "owned_globally_pct": 9.2,
    "i_own": false
   },
   {
@@ -2926,7 +2926,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 6.8,
+   "owned_globally_pct": 6.7,
    "i_own": false
   },
   {
@@ -2953,7 +2953,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 18.5,
+   "owned_globally_pct": 18.6,
    "i_own": true
   },
   {
@@ -2962,7 +2962,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 5.7,
+   "owned_globally_pct": 5.8,
    "i_own": false
   },
   {
@@ -2989,7 +2989,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 16.8,
+   "owned_globally_pct": 16.7,
    "i_own": false
   },
   {
@@ -3025,7 +3025,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 12.5,
+   "owned_globally_pct": 12.8,
    "i_own": false
   },
   {
@@ -3034,7 +3034,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.9,
+   "owned_globally_pct": 5.0,
    "i_own": false
   },
   {
@@ -3106,7 +3106,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.3,
+   "owned_globally_pct": 4.2,
    "i_own": false
   },
   {
@@ -3124,7 +3124,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 5.6,
+   "owned_globally_pct": 5.7,
    "i_own": false
   },
   {
@@ -3209,6 +3209,42 @@
    "i_own": false
   },
   {
+   "name": "J.Ramsey",
+   "team": "NEW",
+   "pos": "MID",
+   "price": 5.0,
+   "owned_in_league_pct": 4.0,
+   "owned_globally_pct": 0.4,
+   "i_own": false
+  },
+  {
+   "name": "Richarlison",
+   "team": "TOT",
+   "pos": "FWD",
+   "price": 6.0,
+   "owned_in_league_pct": 4.0,
+   "owned_globally_pct": 3.0,
+   "i_own": false
+  },
+  {
+   "name": "Palestra",
+   "team": "CHE",
+   "pos": "DEF",
+   "price": 5.5,
+   "owned_in_league_pct": 4.0,
+   "owned_globally_pct": 2.6,
+   "i_own": false
+  },
+  {
+   "name": "Leno",
+   "team": "FUL",
+   "pos": "GK",
+   "price": 4.5,
+   "owned_in_league_pct": 4.0,
+   "owned_globally_pct": 3.1,
+   "i_own": false
+  },
+  {
    "name": "I.Sangar\u00e9",
    "team": "NFO",
    "pos": "MID",
@@ -3233,42 +3269,6 @@
    "price": 5.5,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 2.7,
-   "i_own": false
-  },
-  {
-   "name": "J.Ramsey",
-   "team": "NEW",
-   "pos": "MID",
-   "price": 5.0,
-   "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 0.4,
-   "i_own": false
-  },
-  {
-   "name": "Richarlison",
-   "team": "TOT",
-   "pos": "FWD",
-   "price": 6.0,
-   "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 3.0,
-   "i_own": false
-  },
-  {
-   "name": "Palestra",
-   "team": "CHE",
-   "pos": "DEF",
-   "price": 5.5,
-   "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.7,
-   "i_own": false
-  },
-  {
-   "name": "Leno",
-   "team": "FUL",
-   "pos": "GK",
-   "price": 4.5,
-   "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 3.1,
    "i_own": false
   },
   {
@@ -3349,7 +3349,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.3,
+   "owned_globally_pct": 5.6,
    "i_own": false
   },
   {
@@ -3376,7 +3376,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 10.2,
+   "owned_globally_pct": 10.1,
    "i_own": false
   },
   {
@@ -3421,7 +3421,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 3.5,
+   "owned_globally_pct": 3.6,
    "i_own": false
   },
   {
@@ -3439,7 +3439,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.5,
+   "owned_globally_pct": 4.6,
    "i_own": false
   },
   {
@@ -3520,7 +3520,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 9.6,
+   "owned_globally_pct": 9.7,
    "i_own": false
   },
   {
@@ -3529,7 +3529,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 8.0,
+   "owned_globally_pct": 7.9,
    "i_own": false
   },
   {
