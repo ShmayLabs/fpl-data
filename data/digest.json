@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-26T10:54:54Z",
+ "generated_utc": "2026-08-26T12:01:14Z",
  "next_gw": 2,
  "next_deadline_utc": "2026-08-28T17:30:00Z",
  "gw_finished": true,
@@ -1480,7 +1480,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 13,
-   "owned_by": 6.3
+   "owned_by": 6.4
   },
   {
    "name": "Palmer",
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 9.5,
    "points": 13,
-   "owned_by": 13.6
+   "owned_by": 13.7
   },
   {
    "name": "Stach",
@@ -1512,7 +1512,7 @@
    "pos": "DEF",
    "price": 5.5,
    "points": 11,
-   "owned_by": 5.9
+   "owned_by": 6.0
   },
   {
    "name": "\u00d8degaard",
@@ -2782,7 +2782,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 25.6,
+   "owned_globally_pct": 25.7,
    "i_own": false
   },
   {
@@ -2962,7 +2962,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 6.3,
+   "owned_globally_pct": 6.4,
    "i_own": false
   },
   {
@@ -3025,7 +3025,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 13.6,
+   "owned_globally_pct": 13.7,
    "i_own": false
   },
   {
@@ -3124,7 +3124,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 5.9,
+   "owned_globally_pct": 6.0,
    "i_own": false
   },
   {
