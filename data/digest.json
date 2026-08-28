@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-28T13:41:35Z",
+ "generated_utc": "2026-08-28T14:03:52Z",
  "next_gw": 2,
  "next_deadline_utc": "2026-08-28T17:30:00Z",
  "gw_finished": true,
@@ -212,7 +212,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 28.7,
+   "owned_by": 28.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1466,7 +1466,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 16,
-   "owned_by": 2.5
+   "owned_by": 2.4
   },
   {
    "name": "Mendy",
@@ -1474,7 +1474,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 15,
-   "owned_by": 3.8
+   "owned_by": 3.9
   },
   {
    "name": "Ajayi",
@@ -1498,7 +1498,7 @@
    "pos": "DEF",
    "price": 4.6,
    "points": 13,
-   "owned_by": 7.5
+   "owned_by": 7.6
   },
   {
    "name": "Palmer",
@@ -1506,7 +1506,7 @@
    "pos": "MID",
    "price": 9.5,
    "points": 13,
-   "owned_by": 15.9
+   "owned_by": 16.0
   },
   {
    "name": "Stach",
@@ -1602,7 +1602,7 @@
    "pos": "GK",
    "price": 4.5,
    "points": 10,
-   "owned_by": 2.8
+   "owned_by": 2.9
   },
   {
    "name": "Calafiori",
@@ -1626,7 +1626,7 @@
    "pos": "MID",
    "price": 5.0,
    "points": 9,
-   "owned_by": 0.4
+   "owned_by": 0.5
   },
   {
    "name": "Ndiaye",
@@ -2701,7 +2701,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 28.7,
+   "owned_globally_pct": 28.6,
    "i_own": true
   },
   {
@@ -2980,7 +2980,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 7.5,
+   "owned_globally_pct": 7.6,
    "i_own": false
   },
   {
@@ -3043,7 +3043,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 15.9,
+   "owned_globally_pct": 16.0,
    "i_own": false
   },
   {
@@ -3241,7 +3241,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.9,
+   "owned_globally_pct": 2.8,
    "i_own": false
   },
   {
