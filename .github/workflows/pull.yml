@@ -55,22 +55,40 @@ jobs:
           git config user.name  "fpl-bot"
           git config user.email "fpl-bot@users.noreply.github.com"
 
-          get () {  # get <api-path> <outfile>
+          # get <api-path> <outfile> [optional]
+          # Retries only TRANSIENT errors. A 4xx is a definitive answer from the
+          # server and will not change in five seconds, so we stop immediately.
+          # Passing "optional" means a 4xx is expected and is NOT a failure.
+          get () {
+            gpath="$1"; gout="$2"; gmode="${3:-required}"
             attempt=1
             while [ "$attempt" -le 3 ]; do
-              if curl -sS -f --max-time 45 -H "User-Agent: $UA" "$API/$1" -o "data/$2.tmp" 2>/tmp/curlerr; then
-                mv "data/$2.tmp" "data/$2"
-                echo "  ok   $2 [attempt $attempt]"
-                echo "$2" >> /tmp/ok
+              code=$(curl -sS --max-time 45 -H "User-Agent: $UA" -w '%{http_code}' \
+                       "$API/$gpath" -o "data/$gout.tmp" 2>/tmp/curlerr) || code="000"
+              if [ "$code" = "200" ]; then
+                mv "data/$gout.tmp" "data/$gout"
+                echo "  ok   $gout [attempt $attempt]"
+                echo "$gout" >> /tmp/ok
                 return 0
               fi
-              echo "  retry $2 (attempt $attempt): $(tr -d '\n' < /tmp/curlerr)"
+              rm -f "data/$gout.tmp"
+              case "$code" in
+                4*)
+                  if [ "$gmode" = "optional" ]; then
+                    echo "  skip $gout - HTTP $code (expected, not published yet)"
+                    return 0
+                  fi
+                  echo "  FAIL $gout - HTTP $code (4xx is definitive, not retrying)"
+                  echo "$gout|HTTP $code" >> /tmp/failed
+                  return 1
+                  ;;
+              esac
+              echo "  retry $gout (attempt $attempt): HTTP $code $(tr -d '\n' < /tmp/curlerr)"
               attempt=$((attempt + 1))
               sleep $((attempt * 5))
             done
-            rm -f "data/$2.tmp"
-            echo "  FAIL $2 after 3 attempts"
-            echo "$2|$(tr -d '\n' < /tmp/curlerr)" >> /tmp/failed
+            echo "  FAIL $gout after 3 attempts (last HTTP $code)"
+            echo "$gout|HTTP $code after 3 attempts" >> /tmp/failed
             return 1
           }
 
@@ -103,8 +121,17 @@ jobs:
             echo "$GW" > /tmp/gw
 
             if [ "$GW" -gt 0 ]; then
+              # FPL publishes a manager's picks only AFTER that gameweek's
+              # deadline, so the upcoming gameweek's picks legitimately 404
+              # until the deadline passes. digest.py walks back to the newest
+              # picks file that exists, so a missing one is harmless and must
+              # not fail the run.
               for g in $(seq 1 "$GW"); do
-                get "entry/$TEAM_ID/event/$g/picks/" "picks_gw$g.json" || true
+                if [ "$g" -lt "$GW" ]; then
+                  get "entry/$TEAM_ID/event/$g/picks/" "picks_gw$g.json" || true
+                else
+                  get "entry/$TEAM_ID/event/$g/picks/" "picks_gw$g.json" optional || true
+                fi
               done
               get "event/$GW/live/" "live_gw$GW.json" || true
               if [ "$GW" -gt 1 ]; then
