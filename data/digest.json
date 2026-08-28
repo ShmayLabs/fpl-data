@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-28T15:55:22Z",
+ "generated_utc": "2026-08-28T16:17:40Z",
  "next_gw": 2,
  "next_deadline_utc": "2026-08-28T17:30:00Z",
  "gw_finished": true,
@@ -212,7 +212,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 28.6,
+   "owned_by": 28.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1482,7 +1482,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 14,
-   "owned_by": 1.9
+   "owned_by": 2.0
   },
   {
    "name": "M.Sangar\u00e9",
@@ -1490,7 +1490,7 @@
    "pos": "MID",
    "price": 5.6,
    "points": 14,
-   "owned_by": 8.8
+   "owned_by": 8.9
   },
   {
    "name": "Kayode",
@@ -1506,7 +1506,7 @@
    "pos": "MID",
    "price": 9.5,
    "points": 13,
-   "owned_by": 16.2
+   "owned_by": 16.3
   },
   {
    "name": "Stach",
@@ -1522,7 +1522,7 @@
    "pos": "MID",
    "price": 7.0,
    "points": 12,
-   "owned_by": 6.4
+   "owned_by": 6.5
   },
   {
    "name": "White",
@@ -1650,7 +1650,7 @@
    "pos": "GK",
    "price": 5.0,
    "points": 9,
-   "owned_by": 4.3
+   "owned_by": 4.4
   }
  ],
  "rival_count": 25,
@@ -2692,7 +2692,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 22.7,
+   "owned_globally_pct": 22.6,
    "i_own": false
   },
   {
@@ -2701,7 +2701,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 28.6,
+   "owned_globally_pct": 28.5,
    "i_own": true
   },
   {
@@ -2710,7 +2710,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 19.6,
+   "owned_globally_pct": 19.5,
    "i_own": false
   },
   {
@@ -2809,7 +2809,7 @@
    "pos": "DEF",
    "price": 8.0,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 29.1,
+   "owned_globally_pct": 29.0,
    "i_own": false
   },
   {
@@ -2863,7 +2863,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 12.9,
+   "owned_globally_pct": 12.8,
    "i_own": false
   },
   {
@@ -3016,7 +3016,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 9.4,
+   "owned_globally_pct": 9.3,
    "i_own": false
   },
   {
@@ -3043,7 +3043,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 16.2,
+   "owned_globally_pct": 16.3,
    "i_own": false
   },
   {
@@ -3052,7 +3052,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 6.4,
+   "owned_globally_pct": 6.5,
    "i_own": false
   },
   {
@@ -3313,7 +3313,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.7,
+   "owned_globally_pct": 5.6,
    "i_own": false
   },
   {
@@ -3394,7 +3394,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 8.4,
+   "owned_globally_pct": 8.3,
    "i_own": false
   },
   {
@@ -3439,7 +3439,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.3,
+   "owned_globally_pct": 4.4,
    "i_own": false
   },
   {
