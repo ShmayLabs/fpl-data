@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-28T23:11:11Z",
+ "generated_utc": "2026-08-28T23:33:42Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -142,7 +142,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 47.6,
+   "owned_by": 47.5,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -557,13 +557,6 @@
     },
     {
      "rank": 20,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
-     "gw": 18,
-     "total": 71
-    },
-    {
-     "rank": 20,
      "team": "L&K 11",
      "player": "Lee Gorman",
      "gw": 5,
@@ -577,16 +570,23 @@
      "total": 71
     },
     {
-     "rank": 24,
-     "team": "Matt's Team",
-     "player": "Matt Lowe",
-     "gw": 33,
-     "total": 70
+     "rank": 20,
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
+     "gw": 18,
+     "total": 71
     },
     {
      "rank": 24,
      "team": "Malesy's Team",
      "player": "Steve Males",
+     "gw": 33,
+     "total": 70
+    },
+    {
+     "rank": 24,
+     "team": "Matt's Team",
+     "player": "Matt Lowe",
      "gw": 33,
      "total": 70
     }
@@ -2661,7 +2661,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 47.6,
+   "owned_globally_pct": 47.5,
    "i_own": true
   },
   {
