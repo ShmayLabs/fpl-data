@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-28T15:10:45Z",
+ "generated_utc": "2026-08-28T15:33:04Z",
  "next_gw": 2,
  "next_deadline_utc": "2026-08-28T17:30:00Z",
  "gw_finished": true,
@@ -110,7 +110,7 @@
    "team": "NFO",
    "pos": "DEF",
    "price": 5.0,
-   "owned_by": 9.0,
+   "owned_by": 8.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1474,7 +1474,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 15,
-   "owned_by": 3.9
+   "owned_by": 4.0
   },
   {
    "name": "Ajayi",
@@ -1514,7 +1514,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 13,
-   "owned_by": 2.4
+   "owned_by": 2.5
   },
   {
    "name": "Gakpo",
@@ -1530,7 +1530,7 @@
    "pos": "DEF",
    "price": 5.5,
    "points": 11,
-   "owned_by": 6.7
+   "owned_by": 6.8
   },
   {
    "name": "\u00d8degaard",
@@ -2917,7 +2917,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 13.7,
+   "owned_globally_pct": 13.8,
    "i_own": false
   },
   {
@@ -2998,7 +2998,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 9.0,
+   "owned_globally_pct": 8.9,
    "i_own": true
   },
   {
@@ -3142,7 +3142,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 6.7,
+   "owned_globally_pct": 6.8,
    "i_own": false
   },
   {
@@ -3538,7 +3538,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 10.6,
+   "owned_globally_pct": 10.7,
    "i_own": false
   },
   {
