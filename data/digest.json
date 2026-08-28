@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-28T12:36:22Z",
+ "generated_utc": "2026-08-28T13:19:17Z",
  "next_gw": 2,
  "next_deadline_utc": "2026-08-28T17:30:00Z",
  "gw_finished": true,
@@ -127,7 +127,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 48.4,
+   "owned_by": 48.3,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -161,7 +161,7 @@
    "team": "SUN",
    "pos": "MID",
    "price": 6.0,
-   "owned_by": 8.8,
+   "owned_by": 8.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -246,7 +246,7 @@
    "team": "BRE",
    "pos": "MID",
    "price": 5.0,
-   "owned_by": 1.2,
+   "owned_by": 1.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1482,7 +1482,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 14,
-   "owned_by": 1.8
+   "owned_by": 1.9
   },
   {
    "name": "M.Sangar\u00e9",
@@ -1506,7 +1506,7 @@
    "pos": "MID",
    "price": 9.5,
    "points": 13,
-   "owned_by": 15.8
+   "owned_by": 15.9
   },
   {
    "name": "Stach",
@@ -1522,7 +1522,7 @@
    "pos": "MID",
    "price": 7.0,
    "points": 12,
-   "owned_by": 6.2
+   "owned_by": 6.3
   },
   {
    "name": "White",
@@ -1530,7 +1530,7 @@
    "pos": "DEF",
    "price": 5.5,
    "points": 11,
-   "owned_by": 6.6
+   "owned_by": 6.7
   },
   {
    "name": "\u00d8degaard",
@@ -1554,7 +1554,7 @@
    "pos": "MID",
    "price": 6.5,
    "points": 11,
-   "owned_by": 4.6
+   "owned_by": 4.7
   },
   {
    "name": "Tavernier",
@@ -1586,7 +1586,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 10,
-   "owned_by": 1.1
+   "owned_by": 1.2
   },
   {
    "name": "Gu\u00e9hi",
@@ -1642,7 +1642,7 @@
    "pos": "FWD",
    "price": 5.5,
    "points": 9,
-   "owned_by": 1.7
+   "owned_by": 1.8
   },
   {
    "name": "Trafford",
@@ -2602,7 +2602,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 80.0,
-   "owned_globally_pct": 48.4,
+   "owned_globally_pct": 48.3,
    "i_own": true
   },
   {
@@ -2665,7 +2665,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 26.0,
+   "owned_globally_pct": 26.1,
    "i_own": false
   },
   {
@@ -2818,7 +2818,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 10.9,
+   "owned_globally_pct": 10.8,
    "i_own": false
   },
   {
@@ -2845,7 +2845,7 @@
    "pos": "FWD",
    "price": 4.5,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 7.0,
+   "owned_globally_pct": 6.9,
    "i_own": false
   },
   {
@@ -2854,7 +2854,7 @@
    "pos": "FWD",
    "price": 7.4,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 6.9,
+   "owned_globally_pct": 6.8,
    "i_own": false
   },
   {
@@ -2872,7 +2872,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 8.8,
+   "owned_globally_pct": 8.7,
    "i_own": true
   },
   {
@@ -2881,7 +2881,7 @@
    "pos": "FWD",
    "price": 7.5,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 7.4,
+   "owned_globally_pct": 7.5,
    "i_own": false
   },
   {
@@ -2917,7 +2917,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 13.6,
+   "owned_globally_pct": 13.7,
    "i_own": false
   },
   {
@@ -3043,7 +3043,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 15.8,
+   "owned_globally_pct": 15.9,
    "i_own": false
   },
   {
@@ -3052,7 +3052,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 6.2,
+   "owned_globally_pct": 6.3,
    "i_own": false
   },
   {
@@ -3142,7 +3142,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 6.6,
+   "owned_globally_pct": 6.7,
    "i_own": false
   },
   {
@@ -3250,7 +3250,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.3,
+   "owned_globally_pct": 2.2,
    "i_own": false
   },
   {
@@ -3268,7 +3268,7 @@
    "pos": "MID",
    "price": 5.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 1.0,
+   "owned_globally_pct": 0.9,
    "i_own": false
   },
   {
@@ -3340,7 +3340,7 @@
    "pos": "MID",
    "price": 5.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 1.2,
+   "owned_globally_pct": 1.1,
    "i_own": true
   },
   {
@@ -3538,7 +3538,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 10.5,
+   "owned_globally_pct": 10.6,
    "i_own": false
   },
   {
