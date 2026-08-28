@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-28T13:19:17Z",
+ "generated_utc": "2026-08-28T13:41:35Z",
  "next_gw": 2,
  "next_deadline_utc": "2026-08-28T17:30:00Z",
  "gw_finished": true,
@@ -144,7 +144,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 35.9,
+   "owned_by": 35.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -195,7 +195,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.6,
-   "owned_by": 68.0,
+   "owned_by": 68.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1458,7 +1458,7 @@
    "pos": "DEF",
    "price": 4.6,
    "points": 17,
-   "owned_by": 8.0
+   "owned_by": 8.1
   },
   {
    "name": "Hinshelwood",
@@ -1490,7 +1490,7 @@
    "pos": "MID",
    "price": 5.6,
    "points": 14,
-   "owned_by": 8.5
+   "owned_by": 8.6
   },
   {
    "name": "Kayode",
@@ -1546,7 +1546,7 @@
    "pos": "FWD",
    "price": 7.6,
    "points": 11,
-   "owned_by": 68.0
+   "owned_by": 68.1
   },
   {
    "name": "Dewsbury-Hall",
@@ -2611,7 +2611,7 @@
    "pos": "FWD",
    "price": 7.6,
    "owned_in_league_pct": 76.0,
-   "owned_globally_pct": 68.0,
+   "owned_globally_pct": 68.1,
    "i_own": true
   },
   {
@@ -2638,7 +2638,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 35.9,
+   "owned_globally_pct": 35.8,
    "i_own": true
   },
   {
@@ -2656,7 +2656,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 43.2,
+   "owned_globally_pct": 43.3,
    "i_own": false
   },
   {
@@ -2737,7 +2737,7 @@
    "pos": "MID",
    "price": 8.5,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 24.2,
+   "owned_globally_pct": 24.1,
    "i_own": false
   },
   {
@@ -2890,7 +2890,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 12.9,
+   "owned_globally_pct": 12.8,
    "i_own": false
   },
   {
@@ -3007,7 +3007,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 16.5,
+   "owned_globally_pct": 16.4,
    "i_own": false
   },
   {
@@ -3070,7 +3070,7 @@
    "pos": "MID",
    "price": 4.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 3.8,
+   "owned_globally_pct": 3.9,
    "i_own": false
   },
   {
@@ -3367,7 +3367,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 8.0,
+   "owned_globally_pct": 8.1,
    "i_own": false
   },
   {
