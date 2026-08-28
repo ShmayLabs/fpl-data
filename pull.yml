@@ -1,0 +1,252 @@
+name: Pull FPL data
+
+# WHY THIS LOOKS UNUSUAL
+# ----------------------
+# Measured on this repo 24-28 Aug: only ~56% of the hourly schedule ever fired,
+# median gap 1.9h against a 1h cron, and one 33h dead stretch. GitHub runs
+# scheduled workflows on a BEST-EFFORT basis and silently drops them under load;
+# public repos sit at the back of that queue. You cannot make GitHub fire
+# reliably, so instead each run that DOES land stays alive and keeps pulling for
+# up to ~5.5 hours. Missing five consecutive triggers is ~1.6% likely at the
+# observed hit rate, versus ~44% for any single one.
+#
+# This also self-heals the other possible cause. If the FPL API (behind
+# Cloudflare) is refusing datacentre IPs at 14:00, the loop simply tries again
+# at 14:20 and 14:40 rather than the whole run being lost.
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+    inputs:
+      single_run:
+        description: "Do one pass and exit (leave true for manual testing)"
+        type: boolean
+        default: true
+
+# A newly-landed trigger takes over from the long-running one, so there is
+# always exactly one poller and it is always the freshest.
+concurrency:
+  group: fpl-pull
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350   # ceiling is 360; leave headroom
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Pull, digest, render and commit on a loop
+        env:
+          TEAM_ID: "3691289"
+          SINGLE_RUN: ${{ github.event.inputs.single_run || 'false' }}
+        run: |
+          set -u
+          API="https://fantasy.premierleague.com/api"
+          UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"
+          INTERVAL=1200          # 20 minutes between passes
+          STOP_AFTER=19200       # stop starting new passes after 5h20m
+          START=$(date +%s)
+
+          git config user.name  "fpl-bot"
+          git config user.email "fpl-bot@users.noreply.github.com"
+
+          get () {  # get <api-path> <outfile>
+            attempt=1
+            while [ "$attempt" -le 3 ]; do
+              if curl -sS -f --max-time 45 -H "User-Agent: $UA" "$API/$1" -o "data/$2.tmp" 2>/tmp/curlerr; then
+                mv "data/$2.tmp" "data/$2"
+                echo "  ok   $2 [attempt $attempt]"
+                echo "$2" >> /tmp/ok
+                return 0
+              fi
+              echo "  retry $2 (attempt $attempt): $(tr -d '\n' < /tmp/curlerr)"
+              attempt=$((attempt + 1))
+              sleep $((attempt * 5))
+            done
+            rm -f "data/$2.tmp"
+            echo "  FAIL $2 after 3 attempts"
+            echo "$2|$(tr -d '\n' < /tmp/curlerr)" >> /tmp/failed
+            return 1
+          }
+
+          pass=0
+          while : ; do
+            pass=$((pass + 1))
+            echo "===================== pass $pass at $(date -u +%H:%M:%SZ) ====================="
+            mkdir -p data
+            : > /tmp/failed
+            : > /tmp/ok
+            PASS_START=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+
+            get "bootstrap-static/" "bootstrap.json" || true
+            get "fixtures/"         "fixtures.json"  || true
+            get "entry/$TEAM_ID/"           "my_entry.json"     || true
+            get "entry/$TEAM_ID/history/"   "my_history.json"   || true
+            get "entry/$TEAM_ID/transfers/" "my_transfers.json" || true
+
+            GW=$(python3 -c "
+          import json
+          try:
+              d=json.load(open('data/bootstrap.json'))
+              nxt=[e['id'] for e in d['events'] if e.get('is_next')]
+              cur=[e['id'] for e in d['events'] if e.get('is_current')]
+              print(nxt[0] if nxt else (cur[0] if cur else 1))
+          except Exception:
+              print(0)
+          ")
+            echo "  next gameweek: $GW"
+            echo "$GW" > /tmp/gw
+
+            if [ "$GW" -gt 0 ]; then
+              for g in $(seq 1 "$GW"); do
+                get "entry/$TEAM_ID/event/$g/picks/" "picks_gw$g.json" || true
+              done
+              get "event/$GW/live/" "live_gw$GW.json" || true
+              if [ "$GW" -gt 1 ]; then
+                get "event/$((GW-1))/live/" "live_gw$((GW-1)).json" || true
+              fi
+            fi
+
+            python3 - "$GW" <<'PY'
+          import json, sys, urllib.request, time
+          gw = int(sys.argv[1])
+          ua = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64)"}
+
+          def api(path, tries=3):
+              last = None
+              for i in range(tries):
+                  try:
+                      req = urllib.request.Request(
+                          f"https://fantasy.premierleague.com/api/{path}", headers=ua)
+                      return json.load(urllib.request.urlopen(req, timeout=30))
+                  except Exception as e:
+                      last = e
+                      time.sleep((i + 1) * 5)
+              raise last
+
+          try:
+              entry = json.load(open("data/my_entry.json"))
+          except Exception as e:
+              with open("/tmp/failed", "a") as f:
+                  f.write(f"leagues|no my_entry.json: {e}\n")
+              raise SystemExit(0)
+
+          leagues, rivals = {}, {}
+          for lg in entry.get("leagues", {}).get("classic", []):
+              lid = lg["id"]
+              try:
+                  st = api(f"leagues-classic/{lid}/standings/")
+                  leagues[str(lid)] = {"name": lg.get("name"), "standings": st}
+                  print(f"  ok   league {lg.get('name')}")
+              except Exception as e:
+                  print(f"  FAIL league {lg.get('name')}: {e}")
+                  with open("/tmp/failed", "a") as f:
+                      f.write(f"league_{lid}|{e}\n")
+                  continue
+
+              if st.get("league", {}).get("league_type") != "x":
+                  continue
+              rows = st.get("standings", {}).get("results", [])
+              if len(rows) > 30:
+                  continue
+              for r in rows:
+                  eid = r["entry"]
+                  for g in range(gw, 0, -1):
+                      try:
+                          p = api(f"entry/{eid}/event/{g}/picks/", tries=1)
+                          rivals[str(eid)] = {
+                              "team": r.get("entry_name"),
+                              "manager": r.get("player_name"),
+                              "rank": r.get("rank"),
+                              "total": r.get("total"),
+                              "from_gw": g,
+                              "picks": p.get("picks", []),
+                              "chip": p.get("active_chip"),
+                          }
+                          break
+                      except Exception:
+                          continue
+              print(f"  ok   {len(rivals)} rival squads from {lg.get('name')}")
+
+          # Never let a bad pass wipe good data already in the repo.
+          if leagues:
+              json.dump(leagues, open("data/my_leagues.json", "w"))
+          if rivals:
+              json.dump(rivals, open("data/rivals.json", "w"))
+          PY
+
+            if python3 scripts/digest.py; then D=ok; else D=failed; echo "digest.py|build failed" >> /tmp/failed; fi
+            if PYTHONPATH=scripts python3 scripts/render.py; then R=ok; else R=failed; echo "render.py|render failed" >> /tmp/failed; fi
+
+            # HEARTBEAT. Written every pass, pass or fail, and always changes.
+            # A stale status.json means the workflow is not running at all;
+            # a fresh one listing failures means it ran and the API refused.
+            # Claude can read this with a plain git clone - it has no access
+            # to the Actions logs.
+            PASS_START="$PASS_START" DIGEST="$D" RENDER="$R" PASS_NO="$pass" python3 - <<'PY'
+          import json, os, datetime
+          def read(p, default=""):
+              try: return open(p).read().strip()
+              except Exception: return default
+          failed = []
+          for line in read("/tmp/failed").splitlines():
+              if line.strip():
+                  name, _, err = line.partition("|")
+                  failed.append({"file": name, "error": err[:300]})
+          status = {
+              "pass_started_utc": os.environ["PASS_START"],
+              "pass_finished_utc": datetime.datetime.now(
+                  datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+              "pass_number": int(os.environ["PASS_NO"]),
+              "gameweek_seen": read("/tmp/gw", "0"),
+              "files_ok": [l for l in read("/tmp/ok").splitlines() if l.strip()],
+              "files_failed": failed,
+              "digest": os.environ["DIGEST"],
+              "render": os.environ["RENDER"],
+              "healthy": len(failed) == 0 and os.environ["DIGEST"] == "ok",
+              "run_url": f"{os.environ.get('GITHUB_SERVER_URL','')}/"
+                         f"{os.environ.get('GITHUB_REPOSITORY','')}/actions/runs/"
+                         f"{os.environ.get('GITHUB_RUN_ID','')}",
+              "triggered_by": os.environ.get("GITHUB_EVENT_NAME", ""),
+          }
+          json.dump(status, open("data/status.json", "w"), indent=2)
+          print(json.dumps(status, indent=2))
+          PY
+
+            git add -A data index.html
+            if git diff --staged --quiet; then
+              echo "  no changes"
+            else
+              git commit -q -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
+              for i in 1 2 3; do
+                git pull --rebase --autostash -q && git push -q && { echo "  pushed"; break; }
+                echo "  push attempt $i failed, retrying"
+                sleep 5
+              done
+            fi
+
+            if [ "$SINGLE_RUN" = "true" ]; then
+              echo "single_run set - stopping after one pass"
+              break
+            fi
+            ELAPSED=$(( $(date +%s) - START ))
+            if [ "$ELAPSED" -ge "$STOP_AFTER" ]; then
+              echo "reached $STOP_AFTER s - exiting so the next trigger takes over"
+              break
+            fi
+            echo "sleeping ${INTERVAL}s"
+            sleep "$INTERVAL"
+          done
+
+          # Surface the LAST pass's health as the job result: red X in the
+          # Actions tab if the most recent attempt failed. The old workflow
+          # swallowed every error and showed green while doing nothing.
+          if [ -s /tmp/failed ]; then
+            echo "::error::last pass had failures:"; cat /tmp/failed; exit 1
+          fi
+          echo "all good"
