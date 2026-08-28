@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-28T22:59:04Z",
+ "generated_utc": "2026-08-28T23:11:11Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -159,7 +159,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 35.0,
+   "owned_by": 34.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -550,9 +550,9 @@
     },
     {
      "rank": 20,
-     "team": "L&K 11",
-     "player": "Lee Gorman",
-     "gw": 5,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 26,
      "total": 71
     },
     {
@@ -564,29 +564,29 @@
     },
     {
      "rank": 20,
+     "team": "L&K 11",
+     "player": "Lee Gorman",
+     "gw": 5,
+     "total": 71
+    },
+    {
+     "rank": 20,
      "team": "Grab your Jacquet",
      "player": "Jon Marlow",
      "gw": 7,
      "total": 71
     },
     {
-     "rank": 20,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 26,
-     "total": 71
-    },
-    {
      "rank": 24,
-     "team": "Malesy's Team",
-     "player": "Steve Males",
+     "team": "Matt's Team",
+     "player": "Matt Lowe",
      "gw": 33,
      "total": 70
     },
     {
      "rank": 24,
-     "team": "Matt's Team",
-     "player": "Matt Lowe",
+     "team": "Malesy's Team",
+     "player": "Steve Males",
      "gw": 33,
      "total": 70
     }
@@ -1478,9 +1478,9 @@
    "name": "Cherki",
    "team": "MCI",
    "pos": "MID",
-   "price": 7.5,
+   "price": 7.6,
    "points": 14,
-   "owned_by": 12.7
+   "owned_by": 12.8
   },
   {
    "name": "Haaland",
@@ -1568,7 +1568,7 @@
    "pos": "DEF",
    "price": 6.5,
    "points": 2,
-   "owned_by": 20.8
+   "owned_by": 20.7
   },
   {
    "name": "Gu\u00e9hi",
@@ -2697,7 +2697,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 35.0,
+   "owned_globally_pct": 34.9,
    "i_own": true
   },
   {
@@ -2832,7 +2832,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 20.8,
+   "owned_globally_pct": 20.7,
    "i_own": false
   },
   {
@@ -3073,7 +3073,7 @@
    "name": "Palmer",
    "team": "CHE",
    "pos": "MID",
-   "price": 9.5,
+   "price": 9.6,
    "owned_in_league_pct": 11.5,
    "owned_globally_pct": 16.7,
    "i_own": false
@@ -3172,9 +3172,9 @@
    "name": "Cherki",
    "team": "MCI",
    "pos": "MID",
-   "price": 7.5,
+   "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 12.7,
+   "owned_globally_pct": 12.8,
    "i_own": false
   },
   {
@@ -3523,7 +3523,7 @@
    "name": "Gibbs-White",
    "team": "NFO",
    "pos": "MID",
-   "price": 8.0,
+   "price": 7.9,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 8.2,
    "i_own": false
@@ -3595,7 +3595,7 @@
    "name": "Maddison",
    "team": "TOT",
    "pos": "MID",
-   "price": 6.5,
+   "price": 6.4,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 1.0,
    "i_own": false
