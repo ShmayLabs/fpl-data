@@ -1,6 +1,6 @@
 {
-  "pass_started_utc": "2026-08-28T12:24:29Z",
-  "pass_finished_utc": "2026-08-28T12:27:36Z",
+  "pass_started_utc": "2026-08-28T12:34:05Z",
+  "pass_finished_utc": "2026-08-28T12:36:22Z",
   "pass_number": 1,
   "gameweek_seen": "2",
   "files_ok": [
@@ -13,15 +13,10 @@
     "live_gw2.json",
     "live_gw1.json"
   ],
-  "files_failed": [
-    {
-      "file": "picks_gw2.json",
-      "error": "curl: (22) The requested URL returned error: 404"
-    }
-  ],
+  "files_failed": [],
   "digest": "ok",
   "render": "ok",
-  "healthy": false,
-  "run_url": "https://github.com/ShmayLabs/fpl-data/actions/runs/33170941053",
+  "healthy": true,
+  "run_url": "https://github.com/ShmayLabs/fpl-data/actions/runs/33171592674",
   "triggered_by": "workflow_dispatch"
 }
