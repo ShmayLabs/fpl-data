@@ -49,7 +49,9 @@ jobs:
           API="https://fantasy.premierleague.com/api"
           UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"
           INTERVAL=1200          # 20 minutes between passes
-          STOP_AFTER=19200       # stop starting new passes after 5h20m
+          STOP_AFTER=14400       # stop starting new passes after 4h (110 min headroom
+                                 # under timeout-minutes: 350, so even a slow
+                                 # outage pass cannot overrun and be killed)
           START=$(date +%s)
 
           git config user.name  "fpl-bot"
@@ -63,7 +65,7 @@ jobs:
             gpath="$1"; gout="$2"; gmode="${3:-required}"
             attempt=1
             while [ "$attempt" -le 3 ]; do
-              code=$(curl -sS --max-time 45 -H "User-Agent: $UA" -w '%{http_code}' \
+              code=$(curl -sS --max-time 30 -H "User-Agent: $UA" -w '%{http_code}' \
                        "$API/$gpath" -o "data/$gout.tmp" 2>/tmp/curlerr) || code="000"
               if [ "$code" = "200" ]; then
                 mv "data/$gout.tmp" "data/$gout"
@@ -76,6 +78,7 @@ jobs:
                 4*)
                   if [ "$gmode" = "optional" ]; then
                     echo "  skip $gout - HTTP $code (expected, not published yet)"
+                    echo "$gout|HTTP $code" >> /tmp/skipped
                     return 0
                   fi
                   echo "  FAIL $gout - HTTP $code (4xx is definitive, not retrying)"
@@ -99,9 +102,24 @@ jobs:
             mkdir -p data
             : > /tmp/failed
             : > /tmp/ok
+            : > /tmp/skipped
             PASS_START=$(date -u +%Y-%m-%dT%H:%M:%SZ)
 
-            get "bootstrap-static/" "bootstrap.json" || true
+            # bootstrap-static is the core dataset. If it will not come back
+            # after 3 attempts the API is down, so abandon the pass instead of
+            # grinding through every remaining file - each one would burn
+            # 3 x 30s of timeout plus 30s of backoff, turning a 2.5 min pass
+            # into a 40 min one and risking the job timeout.
+            CORE_OK=1
+            get "bootstrap-static/" "bootstrap.json" || CORE_OK=0
+
+            if [ "$CORE_OK" = "0" ]; then
+              echo "  !! core fetch failed - treating the API as down."
+              echo "  !! Skipping the rest of this pass, INCLUDING digest/render, so"
+              echo "  !! digest.generated_utc keeps pointing at the last SUCCESSFUL"
+              echo "  !! pull instead of being restamped over stale data."
+              D=skipped; R=skipped
+            else
             get "fixtures/"         "fixtures.json"  || true
             get "entry/$TEAM_ID/"           "my_entry.json"     || true
             get "entry/$TEAM_ID/history/"   "my_history.json"   || true
@@ -121,17 +139,17 @@ jobs:
             echo "$GW" > /tmp/gw
 
             if [ "$GW" -gt 0 ]; then
-              # FPL publishes a manager's picks only AFTER that gameweek's
-              # deadline, so the upcoming gameweek's picks legitimately 404
-              # until the deadline passes. digest.py walks back to the newest
-              # picks file that exists, so a missing one is harmless and must
-              # not fail the run.
+              # EVERY picks fetch is optional, deliberately. FPL publishes a
+              # gameweek's picks only after its deadline, and takes a while to
+              # do it - so in the window just after a deadline the previous
+              # gameweek's picks can still 404. Requiring any of them would
+              # produce a guaranteed red run at every single deadline, which is
+              # exactly when the pipeline most needs to be trustworthy.
+              # digest.py walks back to the newest picks file present, so a
+              # missing one costs nothing. Skips are recorded in status.json
+              # under files_skipped so they stay visible without crying wolf.
               for g in $(seq 1 "$GW"); do
-                if [ "$g" -lt "$GW" ]; then
-                  get "entry/$TEAM_ID/event/$g/picks/" "picks_gw$g.json" || true
-                else
-                  get "entry/$TEAM_ID/event/$g/picks/" "picks_gw$g.json" optional || true
-                fi
+                get "entry/$TEAM_ID/event/$g/picks/" "picks_gw$g.json" optional || true
               done
               get "event/$GW/live/" "live_gw$GW.json" || true
               if [ "$GW" -gt 1 ]; then
@@ -209,6 +227,7 @@ jobs:
 
             if python3 scripts/digest.py; then D=ok; else D=failed; echo "digest.py|build failed" >> /tmp/failed; fi
             if PYTHONPATH=scripts python3 scripts/render.py; then R=ok; else R=failed; echo "render.py|render failed" >> /tmp/failed; fi
+            fi   # end of the CORE_OK guard
 
             # HEARTBEAT. Written every pass, pass or fail, and always changes.
             # A stale status.json means the workflow is not running at all;
@@ -225,7 +244,23 @@ jobs:
               if line.strip():
                   name, _, err = line.partition("|")
                   failed.append({"file": name, "error": err[:300]})
+          # THE freshness marker. digest.generated_utc is only a BUILD time -
+          # it is restamped whenever digest.py runs, even over old files. This
+          # field only advances when the core data actually came back, so it is
+          # the honest answer to "how old is this data really?".
+          prev = {}
+          try:
+              prev = json.load(open("data/status.json"))
+          except Exception:
+              pass
+          now_iso = datetime.datetime.now(
+              datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+          core_ok = os.environ["DIGEST"] == "ok"
+          last_pull = now_iso if core_ok else prev.get("last_successful_pull_utc", "")
+
           status = {
+              "last_successful_pull_utc": last_pull,
+              "data_is_stale": not core_ok,
               "pass_started_utc": os.environ["PASS_START"],
               "pass_finished_utc": datetime.datetime.now(
                   datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -233,6 +268,7 @@ jobs:
               "gameweek_seen": read("/tmp/gw", "0"),
               "files_ok": [l for l in read("/tmp/ok").splitlines() if l.strip()],
               "files_failed": failed,
+              "files_skipped": [l.split("|")[0] for l in read("/tmp/skipped").splitlines() if l.strip()],
               "digest": os.environ["DIGEST"],
               "render": os.environ["RENDER"],
               "healthy": len(failed) == 0 and os.environ["DIGEST"] == "ok",
