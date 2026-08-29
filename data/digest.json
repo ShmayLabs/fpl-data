@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-29T17:11:19Z",
+ "generated_utc": "2026-08-29T17:33:59Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -74,7 +74,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 8.6,
+   "owned_by": 8.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -159,7 +159,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 34.4,
+   "owned_by": 34.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -431,24 +431,24 @@
     },
     {
      "rank": 3,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 36,
-     "total": 106
-    },
-    {
-     "rank": 4,
      "team": "Maddcatts",
      "player": "Craig Cattrall",
      "gw": 48,
      "total": 106
     },
     {
+     "rank": 4,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 35,
+     "total": 105
+    },
+    {
      "rank": 5,
      "team": "WheelshavfallenoffXI",
      "player": "simon g",
-     "gw": 45,
-     "total": 104
+     "gw": 44,
+     "total": 103
     },
     {
      "rank": 6,
@@ -501,13 +501,6 @@
     },
     {
      "rank": 13,
-     "team": "Change Name",
-     "player": "Ian mcclure",
-     "gw": 40,
-     "total": 88
-    },
-    {
-     "rank": 13,
      "team": "Blind Faith",
      "player": "Janied Inayat",
      "gw": 39,
@@ -521,10 +514,17 @@
      "total": 88
     },
     {
-     "rank": 16,
+     "rank": 15,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
      "gw": 46,
+     "total": 87
+    },
+    {
+     "rank": 15,
+     "team": "Change Name",
+     "player": "Ian mcclure",
+     "gw": 39,
      "total": 87
     },
     {
@@ -559,28 +559,28 @@
      "rank": 21,
      "team": "Expected Toulouse",
      "player": "Joe McClelland",
-     "gw": 40,
-     "total": 81
+     "gw": 39,
+     "total": 80
     },
     {
      "rank": 22,
      "team": "Boundary Park Blues",
      "player": "Ben McNamara",
-     "gw": 44,
-     "total": 81
-    },
-    {
-     "rank": 23,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
-     "gw": 25,
-     "total": 78
+     "gw": 43,
+     "total": 80
     },
     {
      "rank": 23,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
      "gw": 6,
+     "total": 78
+    },
+    {
+     "rank": 23,
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
+     "gw": 25,
      "total": 78
     },
     {
@@ -618,11 +618,11 @@
      "total": 95
     },
     {
-     "rank": 3,
+     "rank": 4,
      "team": "Tramontozpor",
      "player": "Kwadwo David",
-     "gw": 28,
-     "total": 95
+     "gw": 27,
+     "total": 94
     },
     {
      "rank": 5,
@@ -640,15 +640,15 @@
     },
     {
      "rank": 7,
-     "team": "RebellTeam",
-     "player": "Santi Rebella",
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
      "gw": 46,
      "total": 87
     },
     {
      "rank": 7,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
+     "team": "RebellTeam",
+     "player": "Santi Rebella",
      "gw": 46,
      "total": 87
     },
@@ -698,11 +698,11 @@
      "rank": 15,
      "team": "Millennium Falcons",
      "player": "Jack Richardson",
-     "gw": 11,
-     "total": 60
+     "gw": 10,
+     "total": 59
     },
     {
-     "rank": 16,
+     "rank": 15,
      "team": "Jimbledon FC",
      "player": "James Martin",
      "gw": 35,
@@ -1512,7 +1512,7 @@
    "pos": "DEF",
    "price": 6.0,
    "points": 12,
-   "owned_by": 8.6
+   "owned_by": 8.7
   },
   {
    "name": "Tzolakis",
@@ -2198,8 +2198,8 @@
   {
    "team": "Tramontozpor",
    "manager": "Kwadwo David",
-   "rank": 3,
-   "total": 95,
+   "rank": 4,
+   "total": 94,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2580,7 +2580,7 @@
    "team": "Millennium Falcons",
    "manager": "Jack Richardson",
    "rank": 15,
-   "total": 60,
+   "total": 59,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2617,7 +2617,7 @@
   {
    "team": "Jimbledon FC",
    "manager": "James Martin",
-   "rank": 16,
+   "rank": 15,
    "total": 59,
    "chip": null,
    "squad": [
@@ -2697,7 +2697,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 34.4,
+   "owned_globally_pct": 34.3,
    "i_own": true
   },
   {
@@ -2877,7 +2877,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 10.7,
+   "owned_globally_pct": 10.6,
    "i_own": false
   },
   {
@@ -3021,7 +3021,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 8.6,
+   "owned_globally_pct": 8.7,
    "i_own": true
   },
   {
