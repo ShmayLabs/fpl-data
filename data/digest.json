@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-29T16:11:18Z",
+ "generated_utc": "2026-08-29T16:33:43Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -57,7 +57,7 @@
    "team": "SUN",
    "pos": "GK",
    "price": 5.0,
-   "owned_by": 3.9,
+   "owned_by": 3.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -445,16 +445,16 @@
     },
     {
      "rank": 5,
-     "team": "L&K 11",
-     "player": "Lee Gorman",
-     "gw": 36,
+     "team": "WheelshavfallenoffXI",
+     "player": "simon g",
+     "gw": 43,
      "total": 102
     },
     {
      "rank": 5,
-     "team": "WheelshavfallenoffXI",
-     "player": "simon g",
-     "gw": 43,
+     "team": "L&K 11",
+     "player": "Lee Gorman",
+     "gw": 36,
      "total": 102
     },
     {
@@ -466,16 +466,16 @@
     },
     {
      "rank": 8,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 33,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 34,
      "total": 94
     },
     {
      "rank": 8,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 34,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 33,
      "total": 94
     },
     {
@@ -508,8 +508,8 @@
     },
     {
      "rank": 14,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
+     "team": "Change Name",
+     "player": "Ian mcclure",
      "gw": 39,
      "total": 87
     },
@@ -522,8 +522,8 @@
     },
     {
      "rank": 14,
-     "team": "Change Name",
-     "player": "Ian mcclure",
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
      "gw": 39,
      "total": 87
     },
@@ -543,16 +543,16 @@
     },
     {
      "rank": 19,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 29,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 19,
      "total": 82
     },
     {
      "rank": 19,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 19,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 29,
      "total": 82
     },
     {
@@ -1480,7 +1480,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 14.5
+   "owned_by": 14.6
   },
   {
    "name": "Haaland",
@@ -1568,7 +1568,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 6,
-   "owned_by": 2.2
+   "owned_by": 2.3
   },
   {
    "name": "Giles",
@@ -3120,7 +3120,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 3.9,
+   "owned_globally_pct": 3.8,
    "i_own": true
   },
   {
@@ -3147,7 +3147,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 2.8,
+   "owned_globally_pct": 2.7,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 14.5,
+   "owned_globally_pct": 14.6,
    "i_own": false
   },
   {
