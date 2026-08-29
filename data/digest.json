@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-29T03:56:11Z",
+ "generated_utc": "2026-08-29T04:11:19Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -564,16 +564,16 @@
     },
     {
      "rank": 20,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 7,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 26,
      "total": 71
     },
     {
      "rank": 20,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 26,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 7,
      "total": 71
     },
     {
@@ -2733,7 +2733,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 22.6,
+   "owned_globally_pct": 22.5,
    "i_own": false
   },
   {
