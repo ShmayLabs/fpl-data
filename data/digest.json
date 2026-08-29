@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-29T15:56:28Z",
+ "generated_utc": "2026-08-29T16:11:18Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -466,9 +466,9 @@
     },
     {
      "rank": 8,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 32,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 33,
      "total": 94
     },
     {
@@ -480,9 +480,9 @@
     },
     {
      "rank": 8,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 33,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 32,
      "total": 94
     },
     {
@@ -543,16 +543,16 @@
     },
     {
      "rank": 19,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 19,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 29,
      "total": 82
     },
     {
      "rank": 19,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 29,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 19,
      "total": 82
     },
     {
@@ -640,15 +640,15 @@
     },
     {
      "rank": 7,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
+     "team": "RebellTeam",
+     "player": "Santi Rebella",
      "gw": 46,
      "total": 87
     },
     {
      "rank": 7,
-     "team": "RebellTeam",
-     "player": "Santi Rebella",
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
      "gw": 46,
      "total": 87
     },
@@ -1496,7 +1496,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 13,
-   "owned_by": 8.2
+   "owned_by": 8.3
   },
   {
    "name": "Scott",
@@ -1563,14 +1563,6 @@
    "owned_by": 16.2
   },
   {
-   "name": "Millar",
-   "team": "HUL",
-   "pos": "MID",
-   "price": 5.0,
-   "points": 7,
-   "owned_by": 0.1
-  },
-  {
    "name": "Ajayi",
    "team": "HUL",
    "pos": "DEF",
@@ -1593,6 +1585,14 @@
    "price": 5.0,
    "points": 6,
    "owned_by": 0.6
+  },
+  {
+   "name": "Millar",
+   "team": "HUL",
+   "pos": "MID",
+   "price": 5.0,
+   "points": 6,
+   "owned_by": 0.1
   },
   {
    "name": "Munoz",
@@ -2724,7 +2724,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 43.3,
+   "owned_globally_pct": 43.2,
    "i_own": false
   },
   {
@@ -2985,7 +2985,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 19.5,
+   "owned_globally_pct": 19.4,
    "i_own": false
   },
   {
@@ -3003,7 +3003,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 3.5,
+   "owned_globally_pct": 3.4,
    "i_own": false
   },
   {
@@ -3165,7 +3165,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 6.3,
+   "owned_globally_pct": 6.2,
    "i_own": false
   },
   {
@@ -3462,7 +3462,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 8.2,
+   "owned_globally_pct": 8.3,
    "i_own": false
   },
   {
