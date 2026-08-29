@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-29T18:56:16Z",
+ "generated_utc": "2026-08-29T19:11:29Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -578,16 +578,16 @@
     },
     {
      "rank": 24,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 6,
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
+     "gw": 25,
      "total": 78
     },
     {
      "rank": 24,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
-     "gw": 25,
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 6,
      "total": 78
     }
    ]
@@ -696,16 +696,16 @@
     },
     {
      "rank": 15,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 10,
+     "team": "Jimbledon FC",
+     "player": "James Martin",
+     "gw": 35,
      "total": 59
     },
     {
      "rank": 15,
-     "team": "Jimbledon FC",
-     "player": "James Martin",
-     "gw": 35,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 10,
      "total": 59
     }
    ]
@@ -2577,44 +2577,6 @@
    ]
   },
   {
-   "team": "Millennium Falcons",
-   "manager": "Jack Richardson",
-   "rank": 15,
-   "total": 59,
-   "chip": null,
-   "squad": [
-    "Pickford",
-    "Gabriel",
-    "Pedro Porro",
-    "O'Reilly",
-    "Ndiaye",
-    "Cunha",
-    "Rice",
-    "B.Fernandes",
-    "Mbeumo",
-    "Jo\u00e3o Pedro",
-    "Gy\u00f6keres",
-    "Dubravka",
-    "Brobbey",
-    "Diop",
-    "van Ewijk"
-   ],
-   "captain": "B.Fernandes",
-   "differentials_vs_me": [
-    "Pickford",
-    "Diop",
-    "O'Reilly",
-    "Gabriel",
-    "Brobbey",
-    "Cunha",
-    "Ndiaye",
-    "Rice",
-    "van Ewijk",
-    "Pedro Porro",
-    "Gy\u00f6keres"
-   ]
-  },
-  {
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 15,
@@ -2651,6 +2613,44 @@
     "Amad",
     "Kelleher",
     "Watkins"
+   ]
+  },
+  {
+   "team": "Millennium Falcons",
+   "manager": "Jack Richardson",
+   "rank": 15,
+   "total": 59,
+   "chip": null,
+   "squad": [
+    "Pickford",
+    "Gabriel",
+    "Pedro Porro",
+    "O'Reilly",
+    "Ndiaye",
+    "Cunha",
+    "Rice",
+    "B.Fernandes",
+    "Mbeumo",
+    "Jo\u00e3o Pedro",
+    "Gy\u00f6keres",
+    "Dubravka",
+    "Brobbey",
+    "Diop",
+    "van Ewijk"
+   ],
+   "captain": "B.Fernandes",
+   "differentials_vs_me": [
+    "Pickford",
+    "Diop",
+    "O'Reilly",
+    "Gabriel",
+    "Brobbey",
+    "Cunha",
+    "Ndiaye",
+    "Rice",
+    "van Ewijk",
+    "Pedro Porro",
+    "Gy\u00f6keres"
    ]
   }
  ],
@@ -2967,7 +2967,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 12.7,
+   "owned_globally_pct": 12.6,
    "i_own": false
   },
   {
@@ -3039,7 +3039,7 @@
    "pos": "FWD",
    "price": 8.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 16.3,
+   "owned_globally_pct": 16.2,
    "i_own": false
   },
   {
@@ -3138,7 +3138,7 @@
    "pos": "MID",
    "price": 4.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 4.0,
+   "owned_globally_pct": 4.1,
    "i_own": false
   },
   {
