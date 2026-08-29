@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-29T06:34:34Z",
+ "generated_utc": "2026-08-29T06:57:11Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -159,7 +159,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 34.8,
+   "owned_by": 34.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -550,13 +550,6 @@
     },
     {
      "rank": 20,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 26,
-     "total": 71
-    },
-    {
-     "rank": 20,
      "team": "Grab your Jacquet",
      "player": "Jon Marlow",
      "gw": 7,
@@ -564,9 +557,9 @@
     },
     {
      "rank": 20,
-     "team": "L&K 11",
-     "player": "Lee Gorman",
-     "gw": 5,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 26,
      "total": 71
     },
     {
@@ -577,16 +570,23 @@
      "total": 71
     },
     {
-     "rank": 24,
-     "team": "Malesy's Team",
-     "player": "Steve Males",
-     "gw": 33,
-     "total": 70
+     "rank": 20,
+     "team": "L&K 11",
+     "player": "Lee Gorman",
+     "gw": 5,
+     "total": 71
     },
     {
      "rank": 24,
      "team": "Matt's Team",
      "player": "Matt Lowe",
+     "gw": 33,
+     "total": 70
+    },
+    {
+     "rank": 24,
+     "team": "Malesy's Team",
+     "player": "Steve Males",
      "gw": 33,
      "total": 70
     }
@@ -2697,7 +2697,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 34.8,
+   "owned_globally_pct": 34.7,
    "i_own": true
   },
   {
@@ -2859,7 +2859,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 26.2,
+   "owned_globally_pct": 26.1,
    "i_own": false
   },
   {
@@ -3660,7 +3660,7 @@
    "pos": "MID",
    "price": 6.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.7,
+   "owned_globally_pct": 2.6,
    "i_own": false
   },
   {
