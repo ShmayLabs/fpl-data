@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-29T04:11:19Z",
+ "generated_utc": "2026-08-29T04:33:49Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -564,29 +564,29 @@
     },
     {
      "rank": 20,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 26,
-     "total": 71
-    },
-    {
-     "rank": 20,
      "team": "Grab your Jacquet",
      "player": "Jon Marlow",
      "gw": 7,
      "total": 71
     },
     {
-     "rank": 24,
-     "team": "Malesy's Team",
-     "player": "Steve Males",
-     "gw": 33,
-     "total": 70
+     "rank": 20,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 26,
+     "total": 71
     },
     {
      "rank": 24,
      "team": "Matt's Team",
      "player": "Matt Lowe",
+     "gw": 33,
+     "total": 70
+    },
+    {
+     "rank": 24,
+     "team": "Malesy's Team",
+     "player": "Steve Males",
      "gw": 33,
      "total": 70
     }
