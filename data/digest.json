@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-29T13:33:23Z",
+ "generated_utc": "2026-08-29T13:55:46Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -142,7 +142,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 47.2,
+   "owned_by": 47.1,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -522,16 +522,16 @@
     },
     {
      "rank": 16,
-     "team": "Change Name",
-     "player": "Ian mcclure",
-     "gw": 34,
+     "team": "Gangsters Allardyce",
+     "player": "Jordan White",
+     "gw": 17,
      "total": 82
     },
     {
      "rank": 16,
-     "team": "Gangsters Allardyce",
-     "player": "Jordan White",
-     "gw": 17,
+     "team": "Change Name",
+     "player": "Ian mcclure",
+     "gw": 34,
      "total": 82
     },
     {
@@ -578,16 +578,16 @@
     },
     {
      "rank": 24,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 34,
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
+     "gw": 22,
      "total": 75
     },
     {
      "rank": 24,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
-     "gw": 22,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 34,
      "total": 75
     }
    ]
@@ -661,15 +661,15 @@
     },
     {
      "rank": 10,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
+     "team": "RebellTeam",
+     "player": "Santi Rebella",
      "gw": 34,
      "total": 75
     },
     {
      "rank": 10,
-     "team": "RebellTeam",
-     "player": "Santi Rebella",
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
      "gw": 34,
      "total": 75
     },
@@ -1480,7 +1480,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 14.2
+   "owned_by": 14.3
   },
   {
    "name": "Haaland",
@@ -1496,7 +1496,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 13,
-   "owned_by": 8.1
+   "owned_by": 8.2
   },
   {
    "name": "Foden",
@@ -1560,7 +1560,7 @@
    "pos": "DEF",
    "price": 5.5,
    "points": 5,
-   "owned_by": 14.7
+   "owned_by": 14.8
   },
   {
    "name": "Semenyo",
@@ -1576,7 +1576,7 @@
    "pos": "MID",
    "price": 7.5,
    "points": 4,
-   "owned_by": 11.1
+   "owned_by": 11.0
   },
   {
    "name": "Szoboszlai",
@@ -2661,7 +2661,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 47.2,
+   "owned_globally_pct": 47.1,
    "i_own": true
   },
   {
@@ -2778,7 +2778,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 13.0,
+   "owned_globally_pct": 12.9,
    "i_own": false
   },
   {
@@ -3030,7 +3030,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 14.7,
+   "owned_globally_pct": 14.8,
    "i_own": false
   },
   {
@@ -3066,7 +3066,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 16.9,
+   "owned_globally_pct": 17.0,
    "i_own": false
   },
   {
@@ -3075,7 +3075,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 8.0,
+   "owned_globally_pct": 8.1,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 14.2,
+   "owned_globally_pct": 14.3,
    "i_own": false
   },
   {
@@ -3444,7 +3444,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 9.3,
+   "owned_globally_pct": 9.4,
    "i_own": false
   },
   {
@@ -3462,7 +3462,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 8.1,
+   "owned_globally_pct": 8.2,
    "i_own": false
   },
   {
