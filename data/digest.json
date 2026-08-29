@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-29T19:11:29Z",
+ "generated_utc": "2026-08-29T19:34:02Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -159,7 +159,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 34.3,
+   "owned_by": 34.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -473,16 +473,16 @@
     },
     {
      "rank": 9,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 33,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 34,
      "total": 94
     },
     {
      "rank": 9,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 34,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 33,
      "total": 94
     },
     {
@@ -515,16 +515,16 @@
     },
     {
      "rank": 15,
-     "team": "Change Name",
-     "player": "Ian mcclure",
-     "gw": 39,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 46,
      "total": 87
     },
     {
      "rank": 15,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 46,
+     "team": "Change Name",
+     "player": "Ian mcclure",
+     "gw": 39,
      "total": 87
     },
     {
@@ -626,16 +626,16 @@
     },
     {
      "rank": 5,
-     "team": "Tzolis and Gromit",
-     "player": "Alex Midmore",
-     "gw": 21,
+     "team": "beef cherki",
+     "player": "Samuel Dennis",
+     "gw": 32,
      "total": 89
     },
     {
      "rank": 5,
-     "team": "beef cherki",
-     "player": "Samuel Dennis",
-     "gw": 32,
+     "team": "Tzolis and Gromit",
+     "player": "Alex Midmore",
+     "gw": 21,
      "total": 89
     },
     {
@@ -1480,7 +1480,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 14.9
+   "owned_by": 15.0
   },
   {
    "name": "Haaland",
@@ -2236,43 +2236,6 @@
    ]
   },
   {
-   "team": "Tzolis and Gromit",
-   "manager": "Alex Midmore",
-   "rank": 5,
-   "total": 89,
-   "chip": null,
-   "squad": [
-    "Kinsky",
-    "Tarkowski",
-    "Maguire",
-    "Calafiori",
-    "B.Fernandes",
-    "Mbeumo",
-    "Tzolis",
-    "Palmer",
-    "Brobbey",
-    "Isak",
-    "Jo\u00e3o Pedro",
-    "Palmer",
-    "Mosquera",
-    "Gro\u00df",
-    "N.Williams"
-   ],
-   "captain": "B.Fernandes",
-   "differentials_vs_me": [
-    "Maguire",
-    "Calafiori",
-    "Brobbey",
-    "Mosquera",
-    "Tzolis",
-    "Palmer",
-    "Kinsky",
-    "Palmer",
-    "Isak",
-    "Gro\u00df"
-   ]
-  },
-  {
    "team": "beef cherki",
    "manager": "Samuel Dennis",
    "rank": 5,
@@ -2307,6 +2270,43 @@
     "Szoboszlai",
     "Kusi-Asare",
     "Lammens"
+   ]
+  },
+  {
+   "team": "Tzolis and Gromit",
+   "manager": "Alex Midmore",
+   "rank": 5,
+   "total": 89,
+   "chip": null,
+   "squad": [
+    "Kinsky",
+    "Tarkowski",
+    "Maguire",
+    "Calafiori",
+    "B.Fernandes",
+    "Mbeumo",
+    "Tzolis",
+    "Palmer",
+    "Brobbey",
+    "Isak",
+    "Jo\u00e3o Pedro",
+    "Palmer",
+    "Mosquera",
+    "Gro\u00df",
+    "N.Williams"
+   ],
+   "captain": "B.Fernandes",
+   "differentials_vs_me": [
+    "Maguire",
+    "Calafiori",
+    "Brobbey",
+    "Mosquera",
+    "Tzolis",
+    "Palmer",
+    "Kinsky",
+    "Palmer",
+    "Isak",
+    "Gro\u00df"
    ]
   },
   {
@@ -2697,7 +2697,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 34.3,
+   "owned_globally_pct": 34.2,
    "i_own": true
   },
   {
@@ -3066,7 +3066,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 13.5,
+   "owned_globally_pct": 13.4,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 14.9,
+   "owned_globally_pct": 15.0,
    "i_own": false
   },
   {
