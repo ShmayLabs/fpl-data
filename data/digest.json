@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-29T23:33:49Z",
+ "generated_utc": "2026-08-29T23:56:21Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -142,7 +142,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 46.8,
+   "owned_by": 46.7,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -278,7 +278,7 @@
    "team": "CRY",
    "pos": "MID",
    "price": 4.5,
-   "owned_by": 10.6,
+   "owned_by": 10.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -501,30 +501,30 @@
     },
     {
      "rank": 13,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 39,
-     "total": 88
-    },
-    {
-     "rank": 13,
      "team": "Paul's Team",
      "player": "Paul Larkin",
      "gw": 40,
      "total": 88
     },
     {
-     "rank": 15,
-     "team": "Change Name",
-     "player": "Ian mcclure",
+     "rank": 13,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
      "gw": 39,
-     "total": 87
+     "total": 88
     },
     {
      "rank": 15,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
      "gw": 46,
+     "total": 87
+    },
+    {
+     "rank": 15,
+     "team": "Change Name",
+     "player": "Ian mcclure",
+     "gw": 39,
      "total": 87
     },
     {
@@ -626,16 +626,16 @@
     },
     {
      "rank": 5,
-     "team": "Tzolis and Gromit",
-     "player": "Alex Midmore",
-     "gw": 21,
+     "team": "beef cherki",
+     "player": "Samuel Dennis",
+     "gw": 32,
      "total": 89
     },
     {
      "rank": 5,
-     "team": "beef cherki",
-     "player": "Samuel Dennis",
-     "gw": 32,
+     "team": "Tzolis and Gromit",
+     "player": "Alex Midmore",
+     "gw": 21,
      "total": 89
     },
     {
@@ -647,15 +647,15 @@
     },
     {
      "rank": 8,
-     "team": "RebellTeam",
-     "player": "Santi Rebella",
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
      "gw": 46,
      "total": 87
     },
     {
      "rank": 8,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
+     "team": "RebellTeam",
+     "player": "Santi Rebella",
      "gw": 46,
      "total": 87
     },
@@ -696,16 +696,16 @@
     },
     {
      "rank": 15,
-     "team": "Jimbledon FC",
-     "player": "James Martin",
-     "gw": 35,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 10,
      "total": 59
     },
     {
      "rank": 15,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 10,
+     "team": "Jimbledon FC",
+     "player": "James Martin",
+     "gw": 35,
      "total": 59
     }
    ]
@@ -1600,7 +1600,7 @@
    "pos": "GK",
    "price": 5.0,
    "points": 7,
-   "owned_by": 0.7
+   "owned_by": 0.8
   },
   {
    "name": "Ajayi",
@@ -2236,43 +2236,6 @@
    ]
   },
   {
-   "team": "Tzolis and Gromit",
-   "manager": "Alex Midmore",
-   "rank": 5,
-   "total": 89,
-   "chip": null,
-   "squad": [
-    "Kinsky",
-    "Tarkowski",
-    "Maguire",
-    "Calafiori",
-    "B.Fernandes",
-    "Mbeumo",
-    "Tzolis",
-    "Palmer",
-    "Brobbey",
-    "Isak",
-    "Jo\u00e3o Pedro",
-    "Palmer",
-    "Mosquera",
-    "Gro\u00df",
-    "N.Williams"
-   ],
-   "captain": "B.Fernandes",
-   "differentials_vs_me": [
-    "Maguire",
-    "Calafiori",
-    "Brobbey",
-    "Mosquera",
-    "Tzolis",
-    "Palmer",
-    "Kinsky",
-    "Palmer",
-    "Isak",
-    "Gro\u00df"
-   ]
-  },
-  {
    "team": "beef cherki",
    "manager": "Samuel Dennis",
    "rank": 5,
@@ -2307,6 +2270,43 @@
     "Szoboszlai",
     "Kusi-Asare",
     "Lammens"
+   ]
+  },
+  {
+   "team": "Tzolis and Gromit",
+   "manager": "Alex Midmore",
+   "rank": 5,
+   "total": 89,
+   "chip": null,
+   "squad": [
+    "Kinsky",
+    "Tarkowski",
+    "Maguire",
+    "Calafiori",
+    "B.Fernandes",
+    "Mbeumo",
+    "Tzolis",
+    "Palmer",
+    "Brobbey",
+    "Isak",
+    "Jo\u00e3o Pedro",
+    "Palmer",
+    "Mosquera",
+    "Gro\u00df",
+    "N.Williams"
+   ],
+   "captain": "B.Fernandes",
+   "differentials_vs_me": [
+    "Maguire",
+    "Calafiori",
+    "Brobbey",
+    "Mosquera",
+    "Tzolis",
+    "Palmer",
+    "Kinsky",
+    "Palmer",
+    "Isak",
+    "Gro\u00df"
    ]
   },
   {
@@ -2577,6 +2577,44 @@
    ]
   },
   {
+   "team": "Millennium Falcons",
+   "manager": "Jack Richardson",
+   "rank": 15,
+   "total": 59,
+   "chip": null,
+   "squad": [
+    "Pickford",
+    "Gabriel",
+    "Pedro Porro",
+    "O'Reilly",
+    "Ndiaye",
+    "Cunha",
+    "Rice",
+    "B.Fernandes",
+    "Mbeumo",
+    "Jo\u00e3o Pedro",
+    "Gy\u00f6keres",
+    "Dubravka",
+    "Brobbey",
+    "Diop",
+    "van Ewijk"
+   ],
+   "captain": "B.Fernandes",
+   "differentials_vs_me": [
+    "Pickford",
+    "Diop",
+    "O'Reilly",
+    "Gabriel",
+    "Brobbey",
+    "Cunha",
+    "Ndiaye",
+    "Rice",
+    "van Ewijk",
+    "Pedro Porro",
+    "Gy\u00f6keres"
+   ]
+  },
+  {
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 15,
@@ -2614,44 +2652,6 @@
     "Kelleher",
     "Watkins"
    ]
-  },
-  {
-   "team": "Millennium Falcons",
-   "manager": "Jack Richardson",
-   "rank": 15,
-   "total": 59,
-   "chip": null,
-   "squad": [
-    "Pickford",
-    "Gabriel",
-    "Pedro Porro",
-    "O'Reilly",
-    "Ndiaye",
-    "Cunha",
-    "Rice",
-    "B.Fernandes",
-    "Mbeumo",
-    "Jo\u00e3o Pedro",
-    "Gy\u00f6keres",
-    "Dubravka",
-    "Brobbey",
-    "Diop",
-    "van Ewijk"
-   ],
-   "captain": "B.Fernandes",
-   "differentials_vs_me": [
-    "Pickford",
-    "Diop",
-    "O'Reilly",
-    "Gabriel",
-    "Brobbey",
-    "Cunha",
-    "Ndiaye",
-    "Rice",
-    "van Ewijk",
-    "Pedro Porro",
-    "Gy\u00f6keres"
-   ]
   }
  ],
  "league_ownership": [
@@ -2661,7 +2661,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 46.8,
+   "owned_globally_pct": 46.7,
    "i_own": true
   },
   {
@@ -2805,7 +2805,7 @@
    "pos": "MID",
    "price": 8.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 23.2,
+   "owned_globally_pct": 23.1,
    "i_own": false
   },
   {
@@ -2814,7 +2814,7 @@
    "pos": "MID",
    "price": 4.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 10.6,
+   "owned_globally_pct": 10.5,
    "i_own": true
   },
   {
@@ -2859,7 +2859,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 26.1,
+   "owned_globally_pct": 26.0,
    "i_own": false
   },
   {
@@ -3633,7 +3633,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.3,
+   "owned_globally_pct": 3.4,
    "i_own": false
   },
   {
