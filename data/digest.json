@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-29T21:33:51Z",
+ "generated_utc": "2026-08-29T21:56:15Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -501,16 +501,16 @@
     },
     {
      "rank": 13,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 39,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 40,
      "total": 88
     },
     {
      "rank": 13,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 40,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 39,
      "total": 88
     },
     {
@@ -1480,7 +1480,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 15.1
+   "owned_by": 15.2
   },
   {
    "name": "Haaland",
@@ -1592,7 +1592,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 7,
-   "owned_by": 4.3
+   "owned_by": 4.4
   },
   {
    "name": "Horn\u00ed\u010dek",
@@ -1608,7 +1608,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 6,
-   "owned_by": 2.5
+   "owned_by": 2.6
   },
   {
    "name": "Giles",
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 15.1,
+   "owned_globally_pct": 15.2,
    "i_own": false
   },
   {
@@ -3282,7 +3282,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.3,
+   "owned_globally_pct": 4.4,
    "i_own": false
   },
   {
@@ -3642,7 +3642,7 @@
    "pos": "MID",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 0.7,
+   "owned_globally_pct": 0.8,
    "i_own": false
   },
   {
@@ -3678,7 +3678,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 0.9,
+   "owned_globally_pct": 0.8,
    "i_own": false
   },
   {
