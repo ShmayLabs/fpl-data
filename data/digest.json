@@ -1,18 +1,18 @@
 {
- "generated_utc": "2026-08-29T19:34:02Z",
+ "generated_utc": "2026-08-29T19:56:36Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
  "squad_from_gw": 2,
  "entry_history": {
   "event": 2,
-  "points": 28,
-  "total_points": 69,
-  "rank": 2204197,
-  "rank_sort": 2348054,
-  "overall_rank": 4330036,
-  "percentile_rank": 25,
-  "overall_rank_percentage": "44",
+  "points": 46,
+  "total_points": 87,
+  "rank": 864618,
+  "rank_sort": 889061,
+  "overall_rank": 2627278,
+  "percentile_rank": 10,
+  "overall_rank_percentage": "26",
   "bank": 0,
   "value": 1001,
   "event_transfers": 0,
@@ -37,13 +37,13 @@
   },
   {
    "event": 2,
-   "points": 28,
-   "total_points": 69,
-   "rank": 2204197,
-   "rank_sort": 2348054,
-   "overall_rank": 4330036,
-   "percentile_rank": 25,
-   "overall_rank_percentage": "44",
+   "points": 46,
+   "total_points": 87,
+   "rank": 864618,
+   "rank_sort": 889061,
+   "overall_rank": 2627278,
+   "percentile_rank": 10,
+   "overall_rank_percentage": "26",
    "bank": 0,
    "value": 1001,
    "event_transfers": 0,
@@ -227,7 +227,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 28.0,
+   "owned_by": 27.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -473,16 +473,16 @@
     },
     {
      "rank": 9,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 34,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 33,
      "total": 94
     },
     {
      "rank": 9,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 33,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 34,
      "total": 94
     },
     {
@@ -501,16 +501,16 @@
     },
     {
      "rank": 13,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 39,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 40,
      "total": 88
     },
     {
      "rank": 13,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 40,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 39,
      "total": 88
     },
     {
@@ -1496,7 +1496,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 13,
-   "owned_by": 8.3
+   "owned_by": 8.4
   },
   {
    "name": "Scott",
@@ -1584,7 +1584,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 8,
-   "owned_by": 2.6
+   "owned_by": 2.7
   },
   {
    "name": "Wissa",
@@ -1592,7 +1592,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 7,
-   "owned_by": 4.1
+   "owned_by": 4.2
   },
   {
    "name": "Horn\u00ed\u010dek",
@@ -1608,7 +1608,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 6,
-   "owned_by": 2.4
+   "owned_by": 2.5
   },
   {
    "name": "Giles",
@@ -2769,7 +2769,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 28.0,
+   "owned_globally_pct": 27.9,
    "i_own": true
   },
   {
@@ -2868,7 +2868,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 16.6,
+   "owned_globally_pct": 16.5,
    "i_own": false
   },
   {
@@ -3282,7 +3282,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.1,
+   "owned_globally_pct": 4.2,
    "i_own": false
   },
   {
@@ -3444,7 +3444,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 9.7,
+   "owned_globally_pct": 9.8,
    "i_own": false
   },
   {
@@ -3462,7 +3462,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 8.3,
+   "owned_globally_pct": 8.4,
    "i_own": false
   },
   {
