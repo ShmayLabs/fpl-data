@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-29T06:57:11Z",
+ "generated_utc": "2026-08-29T07:11:17Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -91,7 +91,7 @@
    "team": "MCI",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 19.6,
+   "owned_by": 19.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -193,7 +193,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.5,
-   "owned_by": 68.2,
+   "owned_by": 68.3,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -550,20 +550,6 @@
     },
     {
      "rank": 20,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 7,
-     "total": 71
-    },
-    {
-     "rank": 20,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 26,
-     "total": 71
-    },
-    {
-     "rank": 20,
      "team": "HMH Ath",
      "player": "Craig Hughes",
      "gw": 18,
@@ -571,9 +557,23 @@
     },
     {
      "rank": 20,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 7,
+     "total": 71
+    },
+    {
+     "rank": 20,
      "team": "L&K 11",
      "player": "Lee Gorman",
      "gw": 5,
+     "total": 71
+    },
+    {
+     "rank": 20,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 26,
      "total": 71
     },
     {
@@ -1480,7 +1480,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 13.4
+   "owned_by": 13.5
   },
   {
    "name": "Haaland",
@@ -1488,7 +1488,7 @@
    "pos": "FWD",
    "price": 15.5,
    "points": 13,
-   "owned_by": 68.2
+   "owned_by": 68.3
   },
   {
    "name": "Foden",
@@ -1576,7 +1576,7 @@
    "pos": "DEF",
    "price": 6.0,
    "points": 2,
-   "owned_by": 19.6
+   "owned_by": 19.5
   },
   {
    "name": "R\u00faben",
@@ -2679,7 +2679,7 @@
    "pos": "FWD",
    "price": 15.5,
    "owned_in_league_pct": 73.1,
-   "owned_globally_pct": 68.2,
+   "owned_globally_pct": 68.3,
    "i_own": true
   },
   {
@@ -3003,7 +3003,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 19.6,
+   "owned_globally_pct": 19.5,
    "i_own": true
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 13.4,
+   "owned_globally_pct": 13.5,
    "i_own": false
   },
   {
@@ -3408,7 +3408,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.8,
+   "owned_globally_pct": 2.7,
    "i_own": false
   },
   {
