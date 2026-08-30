@@ -1,23 +1,23 @@
 {
- "generated_utc": "2026-08-30T18:56:02Z",
+ "generated_utc": "2026-08-30T19:11:40Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
  "squad_from_gw": 2,
  "entry_history": {
   "event": 2,
-  "points": 46,
-  "total_points": 87,
-  "rank": 864618,
-  "rank_sort": 889061,
-  "overall_rank": 2627278,
-  "percentile_rank": 10,
-  "overall_rank_percentage": "26",
+  "points": 106,
+  "total_points": 147,
+  "rank": 149955,
+  "rank_sort": 158386,
+  "overall_rank": 949844,
+  "percentile_rank": 5,
+  "overall_rank_percentage": "10",
   "bank": 0,
   "value": 1001,
   "event_transfers": 0,
   "event_transfers_cost": 0,
-  "points_on_bench": 0
+  "points_on_bench": 1
  },
  "season_history": [
   {
@@ -529,16 +529,16 @@
     },
     {
      "rank": 17,
-     "team": "WheelshavfallenoffXI",
-     "player": "simon g",
-     "gw": 69,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 83,
      "total": 128
     },
     {
      "rank": 17,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 83,
+     "team": "WheelshavfallenoffXI",
+     "player": "simon g",
+     "gw": 69,
      "total": 128
     },
     {
@@ -1648,7 +1648,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 8,
-   "owned_by": 4.5
+   "owned_by": 4.6
   },
   {
    "name": "Wissa",
@@ -2724,7 +2724,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 42.7,
+   "owned_globally_pct": 42.6,
    "i_own": false
   },
   {
@@ -2760,7 +2760,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 15.1,
+   "owned_globally_pct": 15.0,
    "i_own": false
   },
   {
@@ -2769,7 +2769,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 18.7,
+   "owned_globally_pct": 18.6,
    "i_own": false
   },
   {
@@ -2841,7 +2841,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 11.8,
+   "owned_globally_pct": 11.7,
    "i_own": false
   },
   {
@@ -2868,7 +2868,7 @@
    "pos": "DEF",
    "price": 8.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 28.3,
+   "owned_globally_pct": 28.2,
    "i_own": false
   },
   {
@@ -2877,7 +2877,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 20.2,
+   "owned_globally_pct": 20.1,
    "i_own": false
   },
   {
@@ -3660,7 +3660,7 @@
    "pos": "MID",
    "price": 6.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.5,
+   "owned_globally_pct": 2.4,
    "i_own": false
   },
   {
