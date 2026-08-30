@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T22:56:13Z",
+ "generated_utc": "2026-08-30T23:11:22Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -107,7 +107,7 @@
    "name": "Mu\u00f1oz",
    "team": "CRY",
    "pos": "DEF",
-   "price": 5.5,
+   "price": 5.4,
    "owned_by": 7.5,
    "is_captain": false,
    "is_vice": false,
@@ -175,7 +175,7 @@
    "name": "E.Le F\u00e9e",
    "team": "SUN",
    "pos": "MID",
-   "price": 6.0,
+   "price": 5.9,
    "owned_by": 7.7,
    "is_captain": false,
    "is_vice": false,
@@ -571,16 +571,16 @@
     },
     {
      "rank": 23,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 87,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 58,
      "total": 121
     },
     {
      "rank": 23,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 58,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 87,
      "total": 121
     },
     {
@@ -1646,7 +1646,7 @@
    "name": "Elanga",
    "team": "NEW",
    "pos": "MID",
-   "price": 6.0,
+   "price": 6.1,
    "points": 8,
    "owned_by": 5.0
   },
@@ -1654,7 +1654,7 @@
    "name": "Wissa",
    "team": "NEW",
    "pos": "FWD",
-   "price": 6.0,
+   "price": 6.1,
    "points": 8,
    "owned_by": 6.7
   },
@@ -2884,7 +2884,7 @@
    "name": "Konsa",
    "team": "ARS",
    "pos": "DEF",
-   "price": 4.5,
+   "price": 4.4,
    "owned_in_league_pct": 19.2,
    "owned_globally_pct": 10.4,
    "i_own": false
@@ -2911,7 +2911,7 @@
    "name": "E.Le F\u00e9e",
    "team": "SUN",
    "pos": "MID",
-   "price": 6.0,
+   "price": 5.9,
    "owned_in_league_pct": 15.4,
    "owned_globally_pct": 7.7,
    "i_own": true
@@ -3244,7 +3244,7 @@
    "name": "Richarlison",
    "team": "TOT",
    "pos": "FWD",
-   "price": 6.0,
+   "price": 5.9,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 2.4,
    "i_own": false
@@ -3280,7 +3280,7 @@
    "name": "Mu\u00f1oz",
    "team": "CRY",
    "pos": "DEF",
-   "price": 5.5,
+   "price": 5.4,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 7.5,
    "i_own": true
@@ -3352,7 +3352,7 @@
    "name": "Wissa",
    "team": "NEW",
    "pos": "FWD",
-   "price": 6.0,
+   "price": 6.1,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 6.7,
    "i_own": false
