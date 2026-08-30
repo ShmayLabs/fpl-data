@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T04:55:58Z",
+ "generated_utc": "2026-08-30T05:11:23Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -473,16 +473,16 @@
     },
     {
      "rank": 9,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 33,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 34,
      "total": 94
     },
     {
      "rank": 9,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 34,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 33,
      "total": 94
     },
     {
@@ -501,16 +501,16 @@
     },
     {
      "rank": 13,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 39,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 40,
      "total": 88
     },
     {
      "rank": 13,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 40,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 39,
      "total": 88
     },
     {
@@ -1584,7 +1584,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 8,
-   "owned_by": 3.0
+   "owned_by": 3.1
   },
   {
    "name": "Wissa",
@@ -2832,7 +2832,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 20.5,
+   "owned_globally_pct": 20.4,
    "i_own": false
   },
   {
