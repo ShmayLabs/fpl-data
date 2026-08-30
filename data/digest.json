@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T03:34:04Z",
+ "generated_utc": "2026-08-30T03:56:36Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -74,7 +74,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 8.8,
+   "owned_by": 8.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -193,7 +193,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.5,
-   "owned_by": 68.7,
+   "owned_by": 68.8,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -501,30 +501,30 @@
     },
     {
      "rank": 13,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 40,
-     "total": 88
-    },
-    {
-     "rank": 13,
      "team": "Blind Faith",
      "player": "Janied Inayat",
      "gw": 39,
      "total": 88
     },
     {
-     "rank": 15,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 46,
-     "total": 87
+     "rank": 13,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 40,
+     "total": 88
     },
     {
      "rank": 15,
      "team": "Change Name",
      "player": "Ian mcclure",
      "gw": 39,
+     "total": 87
+    },
+    {
+     "rank": 15,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 46,
      "total": 87
     },
     {
@@ -647,15 +647,15 @@
     },
     {
      "rank": 8,
-     "team": "RebellTeam",
-     "player": "Santi Rebella",
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
      "gw": 46,
      "total": 87
     },
     {
      "rank": 8,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
+     "team": "RebellTeam",
+     "player": "Santi Rebella",
      "gw": 46,
      "total": 87
     },
@@ -696,16 +696,16 @@
     },
     {
      "rank": 15,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 10,
+     "team": "Jimbledon FC",
+     "player": "James Martin",
+     "gw": 35,
      "total": 59
     },
     {
      "rank": 15,
-     "team": "Jimbledon FC",
-     "player": "James Martin",
-     "gw": 35,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 10,
      "total": 59
     }
    ]
@@ -1488,7 +1488,7 @@
    "pos": "FWD",
    "price": 15.5,
    "points": 13,
-   "owned_by": 68.7
+   "owned_by": 68.8
   },
   {
    "name": "Gibbs-White",
@@ -1512,7 +1512,7 @@
    "pos": "DEF",
    "price": 6.0,
    "points": 12,
-   "owned_by": 8.8
+   "owned_by": 8.9
   },
   {
    "name": "Hall",
@@ -2577,44 +2577,6 @@
    ]
   },
   {
-   "team": "Millennium Falcons",
-   "manager": "Jack Richardson",
-   "rank": 15,
-   "total": 59,
-   "chip": null,
-   "squad": [
-    "Pickford",
-    "Gabriel",
-    "Pedro Porro",
-    "O'Reilly",
-    "Ndiaye",
-    "Cunha",
-    "Rice",
-    "B.Fernandes",
-    "Mbeumo",
-    "Jo\u00e3o Pedro",
-    "Gy\u00f6keres",
-    "Dubravka",
-    "Brobbey",
-    "Diop",
-    "van Ewijk"
-   ],
-   "captain": "B.Fernandes",
-   "differentials_vs_me": [
-    "Pickford",
-    "Diop",
-    "O'Reilly",
-    "Gabriel",
-    "Brobbey",
-    "Cunha",
-    "Ndiaye",
-    "Rice",
-    "van Ewijk",
-    "Pedro Porro",
-    "Gy\u00f6keres"
-   ]
-  },
-  {
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 15,
@@ -2652,6 +2614,44 @@
     "Kelleher",
     "Watkins"
    ]
+  },
+  {
+   "team": "Millennium Falcons",
+   "manager": "Jack Richardson",
+   "rank": 15,
+   "total": 59,
+   "chip": null,
+   "squad": [
+    "Pickford",
+    "Gabriel",
+    "Pedro Porro",
+    "O'Reilly",
+    "Ndiaye",
+    "Cunha",
+    "Rice",
+    "B.Fernandes",
+    "Mbeumo",
+    "Jo\u00e3o Pedro",
+    "Gy\u00f6keres",
+    "Dubravka",
+    "Brobbey",
+    "Diop",
+    "van Ewijk"
+   ],
+   "captain": "B.Fernandes",
+   "differentials_vs_me": [
+    "Pickford",
+    "Diop",
+    "O'Reilly",
+    "Gabriel",
+    "Brobbey",
+    "Cunha",
+    "Ndiaye",
+    "Rice",
+    "van Ewijk",
+    "Pedro Porro",
+    "Gy\u00f6keres"
+   ]
   }
  ],
  "league_ownership": [
@@ -2679,7 +2679,7 @@
    "pos": "FWD",
    "price": 15.5,
    "owned_in_league_pct": 73.1,
-   "owned_globally_pct": 68.7,
+   "owned_globally_pct": 68.8,
    "i_own": true
   },
   {
@@ -3021,7 +3021,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 8.8,
+   "owned_globally_pct": 8.9,
    "i_own": true
   },
   {
