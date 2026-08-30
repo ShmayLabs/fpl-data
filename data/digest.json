@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T23:33:54Z",
+ "generated_utc": "2026-08-30T23:56:26Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -473,16 +473,16 @@
     },
     {
      "rank": 9,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 85,
      "total": 147
     },
     {
      "rank": 9,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 85,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
@@ -571,16 +571,16 @@
     },
     {
      "rank": 23,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 58,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 87,
      "total": 121
     },
     {
      "rank": 23,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 87,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 58,
      "total": 121
     },
     {
@@ -626,16 +626,16 @@
     },
     {
      "rank": 5,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 85,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 5,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 85,
      "total": 147
     },
     {
@@ -1496,7 +1496,7 @@
    "pos": "MID",
    "price": 5.5,
    "points": 13,
-   "owned_by": 12.9
+   "owned_by": 13.0
   },
   {
    "name": "Haaland",
@@ -2760,7 +2760,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 15.0,
+   "owned_globally_pct": 14.9,
    "i_own": false
   },
   {
@@ -2841,7 +2841,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 11.6,
+   "owned_globally_pct": 11.5,
    "i_own": false
   },
   {
@@ -2877,7 +2877,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 20.1,
+   "owned_globally_pct": 20.0,
    "i_own": false
   },
   {
@@ -2904,7 +2904,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 12.9,
+   "owned_globally_pct": 13.0,
    "i_own": false
   },
   {
@@ -3615,7 +3615,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.9,
+   "owned_globally_pct": 6.8,
    "i_own": false
   },
   {
