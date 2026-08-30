@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T18:33:32Z",
+ "generated_utc": "2026-08-30T18:56:02Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -91,7 +91,7 @@
    "team": "MCI",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 19.5,
+   "owned_by": 19.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -142,7 +142,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 46.8,
+   "owned_by": 46.9,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -159,7 +159,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 33.1,
+   "owned_by": 33.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -529,16 +529,16 @@
     },
     {
      "rank": 17,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 83,
+     "team": "WheelshavfallenoffXI",
+     "player": "simon g",
+     "gw": 69,
      "total": 128
     },
     {
      "rank": 17,
-     "team": "WheelshavfallenoffXI",
-     "player": "simon g",
-     "gw": 69,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 83,
      "total": 128
     },
     {
@@ -571,16 +571,16 @@
     },
     {
      "rank": 23,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 58,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 87,
      "total": 121
     },
     {
      "rank": 23,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 87,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 58,
      "total": 121
     },
     {
@@ -1480,7 +1480,7 @@
    "pos": "MID",
    "price": 12.0,
    "points": 23,
-   "owned_by": 46.8
+   "owned_by": 46.9
   },
   {
    "name": "Cherki",
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 17.5
+   "owned_by": 17.6
   },
   {
    "name": "Gro\u00df",
@@ -1512,7 +1512,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 13,
-   "owned_by": 8.6
+   "owned_by": 8.7
   },
   {
    "name": "Scott",
@@ -1536,7 +1536,7 @@
    "pos": "MID",
    "price": 8.0,
    "points": 11,
-   "owned_by": 33.1
+   "owned_by": 33.0
   },
   {
    "name": "Hall",
@@ -1544,7 +1544,7 @@
    "pos": "DEF",
    "price": 5.0,
    "points": 11,
-   "owned_by": 5.4
+   "owned_by": 5.5
   },
   {
    "name": "Mukiele",
@@ -1648,7 +1648,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 8,
-   "owned_by": 4.4
+   "owned_by": 4.5
   },
   {
    "name": "Wissa",
@@ -1656,7 +1656,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 8,
-   "owned_by": 6.1
+   "owned_by": 6.2
   },
   {
    "name": "Isidor",
@@ -1672,7 +1672,7 @@
    "pos": "MID",
    "price": 4.5,
    "points": 8,
-   "owned_by": 0.3
+   "owned_by": 0.4
   }
  ],
  "rival_count": 26,
@@ -2661,7 +2661,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 46.8,
+   "owned_globally_pct": 46.9,
    "i_own": true
   },
   {
@@ -2697,7 +2697,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 33.1,
+   "owned_globally_pct": 33.0,
    "i_own": true
   },
   {
@@ -2778,7 +2778,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 15.6,
+   "owned_globally_pct": 15.5,
    "i_own": false
   },
   {
@@ -2895,7 +2895,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 16.3,
+   "owned_globally_pct": 16.2,
    "i_own": false
   },
   {
@@ -3012,7 +3012,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 19.5,
+   "owned_globally_pct": 19.4,
    "i_own": true
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 17.5,
+   "owned_globally_pct": 17.6,
    "i_own": false
   },
   {
@@ -3354,7 +3354,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.1,
+   "owned_globally_pct": 6.2,
    "i_own": false
   },
   {
@@ -3444,7 +3444,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 10.9,
+   "owned_globally_pct": 11.0,
    "i_own": false
   },
   {
@@ -3498,7 +3498,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 5.4,
+   "owned_globally_pct": 5.5,
    "i_own": false
   },
   {
@@ -3534,7 +3534,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 8.6,
+   "owned_globally_pct": 8.7,
    "i_own": false
   },
   {
@@ -3615,7 +3615,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 7.0,
+   "owned_globally_pct": 6.9,
    "i_own": false
   },
   {
