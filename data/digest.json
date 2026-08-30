@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T00:13:16Z",
+ "generated_utc": "2026-08-30T00:35:48Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -473,16 +473,16 @@
     },
     {
      "rank": 9,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 34,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 33,
      "total": 94
     },
     {
      "rank": 9,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 33,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 34,
      "total": 94
     },
     {
@@ -515,16 +515,16 @@
     },
     {
      "rank": 15,
-     "team": "Change Name",
-     "player": "Ian mcclure",
-     "gw": 39,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 46,
      "total": 87
     },
     {
      "rank": 15,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 46,
+     "team": "Change Name",
+     "player": "Ian mcclure",
+     "gw": 39,
      "total": 87
     },
     {
