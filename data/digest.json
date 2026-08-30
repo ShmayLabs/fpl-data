@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T05:33:55Z",
+ "generated_utc": "2026-08-30T05:56:25Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -515,16 +515,16 @@
     },
     {
      "rank": 15,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 46,
+     "team": "Change Name",
+     "player": "Ian mcclure",
+     "gw": 39,
      "total": 87
     },
     {
      "rank": 15,
-     "team": "Change Name",
-     "player": "Ian mcclure",
-     "gw": 39,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 46,
      "total": 87
     },
     {
@@ -578,16 +578,16 @@
     },
     {
      "rank": 24,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
-     "gw": 25,
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 6,
      "total": 78
     },
     {
      "rank": 24,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 6,
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
+     "gw": 25,
      "total": 78
     }
    ]
@@ -647,15 +647,15 @@
     },
     {
      "rank": 8,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
+     "team": "RebellTeam",
+     "player": "Santi Rebella",
      "gw": 46,
      "total": 87
     },
     {
      "rank": 8,
-     "team": "RebellTeam",
-     "player": "Santi Rebella",
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
      "gw": 46,
      "total": 87
     },
