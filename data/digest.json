@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T05:11:23Z",
+ "generated_utc": "2026-08-30T05:33:55Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -473,16 +473,16 @@
     },
     {
      "rank": 9,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 34,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 33,
      "total": 94
     },
     {
      "rank": 9,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 33,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 34,
      "total": 94
     },
     {
@@ -578,16 +578,16 @@
     },
     {
      "rank": 24,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 6,
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
+     "gw": 25,
      "total": 78
     },
     {
      "rank": 24,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
-     "gw": 25,
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 6,
      "total": 78
     }
    ]
@@ -647,15 +647,15 @@
     },
     {
      "rank": 8,
-     "team": "RebellTeam",
-     "player": "Santi Rebella",
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
      "gw": 46,
      "total": 87
     },
     {
      "rank": 8,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
+     "team": "RebellTeam",
+     "player": "Santi Rebella",
      "gw": 46,
      "total": 87
     },
@@ -696,16 +696,16 @@
     },
     {
      "rank": 15,
-     "team": "Jimbledon FC",
-     "player": "James Martin",
-     "gw": 35,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 10,
      "total": 59
     },
     {
      "rank": 15,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 10,
+     "team": "Jimbledon FC",
+     "player": "James Martin",
+     "gw": 35,
      "total": 59
     }
    ]
@@ -2577,6 +2577,44 @@
    ]
   },
   {
+   "team": "Millennium Falcons",
+   "manager": "Jack Richardson",
+   "rank": 15,
+   "total": 59,
+   "chip": null,
+   "squad": [
+    "Pickford",
+    "Gabriel",
+    "Pedro Porro",
+    "O'Reilly",
+    "Ndiaye",
+    "Cunha",
+    "Rice",
+    "B.Fernandes",
+    "Mbeumo",
+    "Jo\u00e3o Pedro",
+    "Gy\u00f6keres",
+    "Dubravka",
+    "Brobbey",
+    "Diop",
+    "van Ewijk"
+   ],
+   "captain": "B.Fernandes",
+   "differentials_vs_me": [
+    "Pickford",
+    "Diop",
+    "O'Reilly",
+    "Gabriel",
+    "Brobbey",
+    "Cunha",
+    "Ndiaye",
+    "Rice",
+    "van Ewijk",
+    "Pedro Porro",
+    "Gy\u00f6keres"
+   ]
+  },
+  {
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 15,
@@ -2613,44 +2651,6 @@
     "Amad",
     "Kelleher",
     "Watkins"
-   ]
-  },
-  {
-   "team": "Millennium Falcons",
-   "manager": "Jack Richardson",
-   "rank": 15,
-   "total": 59,
-   "chip": null,
-   "squad": [
-    "Pickford",
-    "Gabriel",
-    "Pedro Porro",
-    "O'Reilly",
-    "Ndiaye",
-    "Cunha",
-    "Rice",
-    "B.Fernandes",
-    "Mbeumo",
-    "Jo\u00e3o Pedro",
-    "Gy\u00f6keres",
-    "Dubravka",
-    "Brobbey",
-    "Diop",
-    "van Ewijk"
-   ],
-   "captain": "B.Fernandes",
-   "differentials_vs_me": [
-    "Pickford",
-    "Diop",
-    "O'Reilly",
-    "Gabriel",
-    "Brobbey",
-    "Cunha",
-    "Ndiaye",
-    "Rice",
-    "van Ewijk",
-    "Pedro Porro",
-    "Gy\u00f6keres"
    ]
   }
  ],
