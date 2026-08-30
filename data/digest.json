@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T13:55:49Z",
+ "generated_utc": "2026-08-30T14:11:05Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -65,7 +65,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 45,
+   "gw_minutes": 50,
    "form": "1.0",
    "total_points": 2
   },
@@ -184,7 +184,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 45,
+   "gw_minutes": 50,
    "form": "1.5",
    "total_points": 3
   },
@@ -235,7 +235,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 45,
+   "gw_minutes": 46,
    "form": "1.0",
    "total_points": 2
   },
@@ -1520,7 +1520,7 @@
    "pos": "DEF",
    "price": 5.0,
    "points": 11,
-   "owned_by": 4.8
+   "owned_by": 4.9
   },
   {
    "name": "Dedi\u0107",
@@ -1560,7 +1560,7 @@
    "pos": "MID",
    "price": 7.0,
    "points": 9,
-   "owned_by": 4.2
+   "owned_by": 4.3
   },
   {
    "name": "Ndoye",
@@ -1608,7 +1608,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 8,
-   "owned_by": 3.5
+   "owned_by": 3.6
   },
   {
    "name": "Wissa",
@@ -1616,7 +1616,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 8,
-   "owned_by": 5.0
+   "owned_by": 5.1
   },
   {
    "name": "Yalcouy\u00e9",
@@ -2823,7 +2823,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 16.5,
+   "owned_globally_pct": 16.4,
    "i_own": false
   },
   {
@@ -2868,7 +2868,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 16.5,
+   "owned_globally_pct": 16.4,
    "i_own": false
   },
   {
@@ -3309,7 +3309,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.6,
+   "owned_globally_pct": 2.5,
    "i_own": false
   },
   {
@@ -3318,7 +3318,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.0,
+   "owned_globally_pct": 1.9,
    "i_own": false
   },
   {
@@ -3363,7 +3363,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 5.0,
+   "owned_globally_pct": 5.1,
    "i_own": false
   },
   {
@@ -3507,7 +3507,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.8,
+   "owned_globally_pct": 4.9,
    "i_own": false
   },
   {
@@ -3570,7 +3570,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.5,
+   "owned_globally_pct": 1.4,
    "i_own": false
   },
   {
