@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T11:56:19Z",
+ "generated_utc": "2026-08-30T12:11:49Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -193,7 +193,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.5,
-   "owned_by": 68.8,
+   "owned_by": 68.9,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -501,16 +501,16 @@
     },
     {
      "rank": 13,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 39,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 40,
      "total": 88
     },
     {
      "rank": 13,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 40,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 39,
      "total": 88
     },
     {
@@ -696,16 +696,16 @@
     },
     {
      "rank": 15,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 10,
+     "team": "Jimbledon FC",
+     "player": "James Martin",
+     "gw": 35,
      "total": 59
     },
     {
      "rank": 15,
-     "team": "Jimbledon FC",
-     "player": "James Martin",
-     "gw": 35,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 10,
      "total": 59
     }
    ]
@@ -1480,7 +1480,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 15.7
+   "owned_by": 15.8
   },
   {
    "name": "Haaland",
@@ -1488,7 +1488,7 @@
    "pos": "FWD",
    "price": 15.5,
    "points": 13,
-   "owned_by": 68.8
+   "owned_by": 68.9
   },
   {
    "name": "Gibbs-White",
@@ -1608,7 +1608,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 6,
-   "owned_by": 2.8
+   "owned_by": 2.9
   },
   {
    "name": "Giles",
@@ -2577,44 +2577,6 @@
    ]
   },
   {
-   "team": "Millennium Falcons",
-   "manager": "Jack Richardson",
-   "rank": 15,
-   "total": 59,
-   "chip": null,
-   "squad": [
-    "Pickford",
-    "Gabriel",
-    "Pedro Porro",
-    "O'Reilly",
-    "Ndiaye",
-    "Cunha",
-    "Rice",
-    "B.Fernandes",
-    "Mbeumo",
-    "Jo\u00e3o Pedro",
-    "Gy\u00f6keres",
-    "Dubravka",
-    "Brobbey",
-    "Diop",
-    "van Ewijk"
-   ],
-   "captain": "B.Fernandes",
-   "differentials_vs_me": [
-    "Pickford",
-    "Diop",
-    "O'Reilly",
-    "Gabriel",
-    "Brobbey",
-    "Cunha",
-    "Ndiaye",
-    "Rice",
-    "van Ewijk",
-    "Pedro Porro",
-    "Gy\u00f6keres"
-   ]
-  },
-  {
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 15,
@@ -2652,6 +2614,44 @@
     "Kelleher",
     "Watkins"
    ]
+  },
+  {
+   "team": "Millennium Falcons",
+   "manager": "Jack Richardson",
+   "rank": 15,
+   "total": 59,
+   "chip": null,
+   "squad": [
+    "Pickford",
+    "Gabriel",
+    "Pedro Porro",
+    "O'Reilly",
+    "Ndiaye",
+    "Cunha",
+    "Rice",
+    "B.Fernandes",
+    "Mbeumo",
+    "Jo\u00e3o Pedro",
+    "Gy\u00f6keres",
+    "Dubravka",
+    "Brobbey",
+    "Diop",
+    "van Ewijk"
+   ],
+   "captain": "B.Fernandes",
+   "differentials_vs_me": [
+    "Pickford",
+    "Diop",
+    "O'Reilly",
+    "Gabriel",
+    "Brobbey",
+    "Cunha",
+    "Ndiaye",
+    "Rice",
+    "van Ewijk",
+    "Pedro Porro",
+    "Gy\u00f6keres"
+   ]
   }
  ],
  "league_ownership": [
@@ -2679,7 +2679,7 @@
    "pos": "FWD",
    "price": 15.5,
    "owned_in_league_pct": 73.1,
-   "owned_globally_pct": 68.8,
+   "owned_globally_pct": 68.9,
    "i_own": true
   },
   {
@@ -2760,7 +2760,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 19.1,
+   "owned_globally_pct": 19.0,
    "i_own": false
   },
   {
@@ -2805,7 +2805,7 @@
    "pos": "MID",
    "price": 8.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 23.1,
+   "owned_globally_pct": 23.0,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 15.7,
+   "owned_globally_pct": 15.8,
    "i_own": false
   },
   {
