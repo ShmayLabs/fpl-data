@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T22:33:41Z",
+ "generated_utc": "2026-08-30T22:56:13Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -159,7 +159,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 32.8,
+   "owned_by": 32.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -473,16 +473,16 @@
     },
     {
      "rank": 9,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 85,
      "total": 147
     },
     {
      "rank": 9,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 85,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
@@ -571,16 +571,16 @@
     },
     {
      "rank": 23,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 58,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 87,
      "total": 121
     },
     {
      "rank": 23,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 87,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 58,
      "total": 121
     },
     {
@@ -626,16 +626,16 @@
     },
     {
      "rank": 5,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 85,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 5,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 85,
      "total": 147
     },
     {
@@ -1536,7 +1536,7 @@
    "pos": "MID",
    "price": 8.0,
    "points": 11,
-   "owned_by": 32.8
+   "owned_by": 32.7
   },
   {
    "name": "Hall",
@@ -1640,7 +1640,7 @@
    "pos": "FWD",
    "price": 9.0,
    "points": 8,
-   "owned_by": 16.2
+   "owned_by": 16.1
   },
   {
    "name": "Elanga",
@@ -1648,7 +1648,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 8,
-   "owned_by": 4.9
+   "owned_by": 5.0
   },
   {
    "name": "Wissa",
@@ -1656,7 +1656,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 8,
-   "owned_by": 6.6
+   "owned_by": 6.7
   },
   {
    "name": "Ballard",
@@ -2697,7 +2697,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 32.8,
+   "owned_globally_pct": 32.7,
    "i_own": true
   },
   {
@@ -2895,7 +2895,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 16.2,
+   "owned_globally_pct": 16.1,
    "i_own": false
   },
   {
@@ -2976,7 +2976,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 16.2,
+   "owned_globally_pct": 16.1,
    "i_own": false
   },
   {
@@ -3039,7 +3039,7 @@
    "pos": "FWD",
    "price": 8.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 15.6,
+   "owned_globally_pct": 15.5,
    "i_own": false
   },
   {
@@ -3111,7 +3111,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 6.1,
+   "owned_globally_pct": 6.0,
    "i_own": false
   },
   {
@@ -3192,7 +3192,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.3,
+   "owned_globally_pct": 5.2,
    "i_own": false
   },
   {
@@ -3354,7 +3354,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.6,
+   "owned_globally_pct": 6.7,
    "i_own": false
   },
   {
@@ -3444,7 +3444,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 11.3,
+   "owned_globally_pct": 11.4,
    "i_own": false
   },
   {
