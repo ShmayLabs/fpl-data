@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T08:33:42Z",
+ "generated_utc": "2026-08-30T08:56:07Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -142,7 +142,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 46.7,
+   "owned_by": 46.6,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -501,30 +501,30 @@
     },
     {
      "rank": 13,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 39,
-     "total": 88
-    },
-    {
-     "rank": 13,
      "team": "Paul's Team",
      "player": "Paul Larkin",
      "gw": 40,
      "total": 88
     },
     {
-     "rank": 15,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 46,
-     "total": 87
+     "rank": 13,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 39,
+     "total": 88
     },
     {
      "rank": 15,
      "team": "Change Name",
      "player": "Ian mcclure",
      "gw": 39,
+     "total": 87
+    },
+    {
+     "rank": 15,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 46,
      "total": 87
     },
     {
@@ -578,16 +578,16 @@
     },
     {
      "rank": 24,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 6,
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
+     "gw": 25,
      "total": 78
     },
     {
      "rank": 24,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
-     "gw": 25,
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 6,
      "total": 78
     }
    ]
@@ -647,15 +647,15 @@
     },
     {
      "rank": 8,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
+     "team": "RebellTeam",
+     "player": "Santi Rebella",
      "gw": 46,
      "total": 87
     },
     {
      "rank": 8,
-     "team": "RebellTeam",
-     "player": "Santi Rebella",
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
      "gw": 46,
      "total": 87
     },
@@ -1480,7 +1480,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 15.5
+   "owned_by": 15.6
   },
   {
    "name": "Haaland",
@@ -2661,7 +2661,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 46.7,
+   "owned_globally_pct": 46.6,
    "i_own": true
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 15.5,
+   "owned_globally_pct": 15.6,
    "i_own": false
   },
   {
@@ -3444,7 +3444,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 10.0,
+   "owned_globally_pct": 10.1,
    "i_own": false
   },
   {
@@ -3570,7 +3570,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 7.3,
+   "owned_globally_pct": 7.2,
    "i_own": false
   },
   {
@@ -3660,7 +3660,7 @@
    "pos": "MID",
    "price": 6.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.6,
+   "owned_globally_pct": 2.5,
    "i_own": false
   },
   {
