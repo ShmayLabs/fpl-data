@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T11:11:18Z",
+ "generated_utc": "2026-08-30T11:33:49Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -473,16 +473,16 @@
     },
     {
      "rank": 9,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 34,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 33,
      "total": 94
     },
     {
      "rank": 9,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 33,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 34,
      "total": 94
     },
     {
@@ -515,16 +515,16 @@
     },
     {
      "rank": 15,
-     "team": "Change Name",
-     "player": "Ian mcclure",
-     "gw": 39,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 46,
      "total": 87
     },
     {
      "rank": 15,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 46,
+     "team": "Change Name",
+     "player": "Ian mcclure",
+     "gw": 39,
      "total": 87
     },
     {
@@ -626,16 +626,16 @@
     },
     {
      "rank": 5,
-     "team": "beef cherki",
-     "player": "Samuel Dennis",
-     "gw": 32,
+     "team": "Tzolis and Gromit",
+     "player": "Alex Midmore",
+     "gw": 21,
      "total": 89
     },
     {
      "rank": 5,
-     "team": "Tzolis and Gromit",
-     "player": "Alex Midmore",
-     "gw": 21,
+     "team": "beef cherki",
+     "player": "Samuel Dennis",
+     "gw": 32,
      "total": 89
     },
     {
@@ -2236,43 +2236,6 @@
    ]
   },
   {
-   "team": "beef cherki",
-   "manager": "Samuel Dennis",
-   "rank": 5,
-   "total": 89,
-   "chip": null,
-   "squad": [
-    "Lammens",
-    "van Ewijk",
-    "Gabriel",
-    "Calafiori",
-    "Shaw",
-    "Szoboszlai",
-    "Rogers",
-    "B.Fernandes",
-    "Tzolis",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Dubravka",
-    "Kusi-Asare",
-    "Diop",
-    "Hughes"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Diop",
-    "Gabriel",
-    "Shaw",
-    "Calafiori",
-    "Rogers",
-    "Tzolis",
-    "van Ewijk",
-    "Szoboszlai",
-    "Kusi-Asare",
-    "Lammens"
-   ]
-  },
-  {
    "team": "Tzolis and Gromit",
    "manager": "Alex Midmore",
    "rank": 5,
@@ -2307,6 +2270,43 @@
     "Palmer",
     "Isak",
     "Gro\u00df"
+   ]
+  },
+  {
+   "team": "beef cherki",
+   "manager": "Samuel Dennis",
+   "rank": 5,
+   "total": 89,
+   "chip": null,
+   "squad": [
+    "Lammens",
+    "van Ewijk",
+    "Gabriel",
+    "Calafiori",
+    "Shaw",
+    "Szoboszlai",
+    "Rogers",
+    "B.Fernandes",
+    "Tzolis",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Dubravka",
+    "Kusi-Asare",
+    "Diop",
+    "Hughes"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Diop",
+    "Gabriel",
+    "Shaw",
+    "Calafiori",
+    "Rogers",
+    "Tzolis",
+    "van Ewijk",
+    "Szoboszlai",
+    "Kusi-Asare",
+    "Lammens"
    ]
   },
   {
@@ -3381,7 +3381,7 @@
    "pos": "MID",
    "price": 5.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 9.7,
+   "owned_globally_pct": 9.8,
    "i_own": false
   },
   {
