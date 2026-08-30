@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-30T17:56:18Z",
+ "generated_utc": "2026-08-30T18:11:03Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -142,7 +142,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 46.7,
+   "owned_by": 46.8,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -159,7 +159,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 33.2,
+   "owned_by": 33.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -633,16 +633,16 @@
     },
     {
      "rank": 6,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 82,
+     "team": "JTindall Solo Album",
+     "player": "Niall Ballinger",
+     "gw": 96,
      "total": 144
     },
     {
      "rank": 6,
-     "team": "JTindall Solo Album",
-     "player": "Niall Ballinger",
-     "gw": 96,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 82,
      "total": 144
     },
     {
@@ -1480,7 +1480,7 @@
    "pos": "MID",
    "price": 12.0,
    "points": 23,
-   "owned_by": 46.7
+   "owned_by": 46.8
   },
   {
    "name": "Cherki",
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 17.3
+   "owned_by": 17.4
   },
   {
    "name": "Gro\u00df",
@@ -1536,7 +1536,7 @@
    "pos": "MID",
    "price": 8.0,
    "points": 11,
-   "owned_by": 33.2
+   "owned_by": 33.1
   },
   {
    "name": "Hall",
@@ -1560,7 +1560,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 11,
-   "owned_by": 0.8
+   "owned_by": 0.9
   },
   {
    "name": "Schade",
@@ -1592,7 +1592,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 9,
-   "owned_by": 2.5
+   "owned_by": 2.6
   },
   {
    "name": "Foden",
@@ -1648,7 +1648,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 8,
-   "owned_by": 4.3
+   "owned_by": 4.4
   },
   {
    "name": "Wissa",
@@ -2230,6 +2230,43 @@
    ]
   },
   {
+   "team": "JTindall Solo Album",
+   "manager": "Niall Ballinger",
+   "rank": 6,
+   "total": 144,
+   "chip": null,
+   "squad": [
+    "Kinsky",
+    "Kayode",
+    "Calafiori",
+    "Maguire",
+    "Tzolis",
+    "Cunha",
+    "B.Fernandes",
+    "Szoboszlai",
+    "Calvert-Lewin",
+    "Haaland",
+    "Jo\u00e3o Pedro",
+    "Dubravka",
+    "Gro\u00df",
+    "Diop",
+    "Targett"
+   ],
+   "captain": "B.Fernandes",
+   "differentials_vs_me": [
+    "Maguire",
+    "Diop",
+    "Calafiori",
+    "Cunha",
+    "Tzolis",
+    "Targett",
+    "Kinsky",
+    "Szoboszlai",
+    "Kayode",
+    "Gro\u00df"
+   ]
+  },
+  {
    "team": "Set and regret",
    "manager": "Adam Lowe",
    "rank": 6,
@@ -2265,43 +2302,6 @@
     "Kinsky",
     "Verbruggen",
     "Konsa"
-   ]
-  },
-  {
-   "team": "JTindall Solo Album",
-   "manager": "Niall Ballinger",
-   "rank": 6,
-   "total": 144,
-   "chip": null,
-   "squad": [
-    "Kinsky",
-    "Kayode",
-    "Calafiori",
-    "Maguire",
-    "Tzolis",
-    "Cunha",
-    "B.Fernandes",
-    "Szoboszlai",
-    "Calvert-Lewin",
-    "Haaland",
-    "Jo\u00e3o Pedro",
-    "Dubravka",
-    "Gro\u00df",
-    "Diop",
-    "Targett"
-   ],
-   "captain": "B.Fernandes",
-   "differentials_vs_me": [
-    "Maguire",
-    "Diop",
-    "Calafiori",
-    "Cunha",
-    "Tzolis",
-    "Targett",
-    "Kinsky",
-    "Szoboszlai",
-    "Kayode",
-    "Gro\u00df"
    ]
   },
   {
@@ -2661,7 +2661,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 46.7,
+   "owned_globally_pct": 46.8,
    "i_own": true
   },
   {
@@ -2697,7 +2697,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 33.2,
+   "owned_globally_pct": 33.1,
    "i_own": true
   },
   {
@@ -2706,7 +2706,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 38.5,
-   "owned_globally_pct": 25.9,
+   "owned_globally_pct": 25.8,
    "i_own": false
   },
   {
@@ -3039,7 +3039,7 @@
    "pos": "FWD",
    "price": 8.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 15.8,
+   "owned_globally_pct": 15.7,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 17.3,
+   "owned_globally_pct": 17.4,
    "i_own": false
   },
   {
@@ -3444,7 +3444,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 10.8,
+   "owned_globally_pct": 10.9,
    "i_own": false
   },
   {
@@ -3453,7 +3453,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.7,
+   "owned_globally_pct": 4.8,
    "i_own": false
   },
   {
@@ -3475,21 +3475,21 @@
    "i_own": false
   },
   {
-   "name": "Xhaka",
-   "team": "SUN",
-   "pos": "MID",
-   "price": 5.5,
-   "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.6,
-   "i_own": false
-  },
-  {
    "name": "Targett",
    "team": "HUL",
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 2.2,
+   "i_own": false
+  },
+  {
+   "name": "Xhaka",
+   "team": "SUN",
+   "pos": "MID",
+   "price": 5.5,
+   "owned_in_league_pct": 3.8,
+   "owned_globally_pct": 4.6,
    "i_own": false
   },
   {
