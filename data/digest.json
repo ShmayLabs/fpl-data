@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T04:34:00Z",
+ "generated_utc": "2026-08-31T04:56:28Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -142,7 +142,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 47.3,
+   "owned_by": 47.4,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -571,16 +571,16 @@
     },
     {
      "rank": 23,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 58,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 87,
      "total": 121
     },
     {
      "rank": 23,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 87,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 58,
      "total": 121
     },
     {
@@ -1480,7 +1480,7 @@
    "pos": "MID",
    "price": 12.0,
    "points": 23,
-   "owned_by": 47.3
+   "owned_by": 47.4
   },
   {
    "name": "Cherki",
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 18.5
+   "owned_by": 18.6
   },
   {
    "name": "Gro\u00df",
@@ -1656,7 +1656,7 @@
    "pos": "FWD",
    "price": 6.1,
    "points": 8,
-   "owned_by": 6.8
+   "owned_by": 6.9
   },
   {
    "name": "Ballard",
@@ -2661,7 +2661,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 47.3,
+   "owned_globally_pct": 47.4,
    "i_own": true
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 18.5,
+   "owned_globally_pct": 18.6,
    "i_own": false
   },
   {
@@ -3354,7 +3354,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.8,
+   "owned_globally_pct": 6.9,
    "i_own": false
   },
   {
@@ -3525,7 +3525,7 @@
    "pos": "GK",
    "price": 4.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.0,
+   "owned_globally_pct": 4.1,
    "i_own": false
   },
   {
