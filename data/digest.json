@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T05:56:04Z",
+ "generated_utc": "2026-08-31T06:13:14Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -210,7 +210,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.6,
-   "owned_by": 69.2,
+   "owned_by": 69.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1576,7 +1576,7 @@
    "pos": "FWD",
    "price": 7.6,
    "points": 9,
-   "owned_by": 69.2
+   "owned_by": 69.3
   },
   {
    "name": "Egan",
@@ -2670,7 +2670,7 @@
    "pos": "FWD",
    "price": 7.6,
    "owned_in_league_pct": 76.9,
-   "owned_globally_pct": 69.2,
+   "owned_globally_pct": 69.3,
    "i_own": true
   },
   {
@@ -3345,7 +3345,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 0.9,
+   "owned_globally_pct": 1.0,
    "i_own": false
   },
   {
