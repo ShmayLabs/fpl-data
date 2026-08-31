@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T14:34:06Z",
+ "generated_utc": "2026-08-31T14:56:34Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -142,7 +142,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 47.6,
+   "owned_by": 47.7,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -1480,7 +1480,7 @@
    "pos": "MID",
    "price": 12.0,
    "points": 23,
-   "owned_by": 47.6
+   "owned_by": 47.7
   },
   {
    "name": "Cherki",
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 19.4
+   "owned_by": 19.5
   },
   {
    "name": "Gro\u00df",
@@ -1544,7 +1544,7 @@
    "pos": "DEF",
    "price": 5.0,
    "points": 11,
-   "owned_by": 6.1
+   "owned_by": 6.2
   },
   {
    "name": "Dedi\u0107",
@@ -2661,7 +2661,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 47.6,
+   "owned_globally_pct": 47.7,
    "i_own": true
   },
   {
@@ -2868,7 +2868,7 @@
    "pos": "DEF",
    "price": 8.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 27.9,
+   "owned_globally_pct": 27.8,
    "i_own": false
   },
   {
@@ -3003,7 +3003,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 8.7,
+   "owned_globally_pct": 8.8,
    "i_own": false
   },
   {
@@ -3075,7 +3075,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 12.9,
+   "owned_globally_pct": 12.8,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 19.4,
+   "owned_globally_pct": 19.5,
    "i_own": false
   },
   {
@@ -3183,7 +3183,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 7.0,
+   "owned_globally_pct": 6.9,
    "i_own": false
   },
   {
@@ -3498,7 +3498,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.1,
+   "owned_globally_pct": 6.2,
    "i_own": false
   },
   {
