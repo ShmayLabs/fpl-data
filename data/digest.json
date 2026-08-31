@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T03:11:00Z",
+ "generated_utc": "2026-08-31T03:33:24Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -1608,7 +1608,7 @@
    "pos": "MID",
    "price": 5.5,
    "points": 9,
-   "owned_by": 0.5
+   "owned_by": 0.6
   },
   {
    "name": "Mukiele",
@@ -2832,7 +2832,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 26.0,
+   "owned_globally_pct": 25.9,
    "i_own": false
   },
   {
