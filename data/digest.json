@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T07:33:54Z",
+ "generated_utc": "2026-08-31T07:56:20Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -626,16 +626,16 @@
     },
     {
      "rank": 5,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 85,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 5,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 85,
      "total": 147
     },
     {
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 18.7
+   "owned_by": 18.8
   },
   {
    "name": "Gro\u00df",
@@ -1496,7 +1496,7 @@
    "pos": "MID",
    "price": 5.5,
    "points": 13,
-   "owned_by": 13.0
+   "owned_by": 13.1
   },
   {
    "name": "Haaland",
@@ -1648,7 +1648,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 5.2
+   "owned_by": 5.3
   },
   {
    "name": "Wissa",
@@ -2706,7 +2706,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 38.5,
-   "owned_globally_pct": 25.7,
+   "owned_globally_pct": 25.6,
    "i_own": false
   },
   {
@@ -2769,7 +2769,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 18.4,
+   "owned_globally_pct": 18.3,
    "i_own": false
   },
   {
@@ -2904,7 +2904,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 13.0,
+   "owned_globally_pct": 13.1,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 18.7,
+   "owned_globally_pct": 18.8,
    "i_own": false
   },
   {
