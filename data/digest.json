@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T21:56:46Z",
+ "generated_utc": "2026-08-31T22:11:06Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -10,7 +10,7 @@
   "total_points": 147,
   "rank": 887382,
   "rank_sort": 915632,
-  "overall_rank": 2214986,
+  "overall_rank": 2214997,
   "percentile_rank": 10,
   "overall_rank_percentage": "22",
   "bank": 0,
@@ -39,11 +39,11 @@
    "event": 2,
    "points": 106,
    "total_points": 147,
-   "rank": 149955,
-   "rank_sort": 158386,
-   "overall_rank": 949848,
-   "percentile_rank": 5,
-   "overall_rank_percentage": "10",
+   "rank": 887382,
+   "rank_sort": 915632,
+   "overall_rank": 2214997,
+   "percentile_rank": 10,
+   "overall_rank_percentage": "22",
    "bank": 0,
    "value": 1001,
    "event_transfers": 0,
@@ -466,16 +466,16 @@
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
@@ -585,9 +585,9 @@
     },
     {
      "rank": 24,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 98,
+     "team": "Crew Alexander",
+     "player": "Alex Brumby",
+     "gw": 76,
      "total": 132
     }
    ]
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 20.6
+   "owned_by": 20.7
   },
   {
    "name": "Gro\u00df",
@@ -1672,7 +1672,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 6.1
+   "owned_by": 6.2
   }
  ],
  "rival_count": 26,
@@ -2751,7 +2751,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 14.7,
+   "owned_globally_pct": 14.6,
    "i_own": false
   },
   {
@@ -2787,7 +2787,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 15.0,
+   "owned_globally_pct": 14.9,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 20.6,
+   "owned_globally_pct": 20.7,
    "i_own": false
   },
   {
@@ -3651,7 +3651,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.6,
+   "owned_globally_pct": 6.5,
    "i_own": false
   },
   {
