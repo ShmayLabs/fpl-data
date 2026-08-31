@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T13:33:53Z",
+ "generated_utc": "2026-08-31T13:56:20Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -261,7 +261,7 @@
    "team": "BRE",
    "pos": "MID",
    "price": 5.0,
-   "owned_by": 1.1,
+   "owned_by": 1.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -473,16 +473,16 @@
     },
     {
      "rank": 9,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 85,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 9,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 85,
      "total": 147
     },
     {
@@ -626,16 +626,16 @@
     },
     {
      "rank": 5,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 85,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 5,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 85,
      "total": 147
     },
     {
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 19.3
+   "owned_by": 19.4
   },
   {
    "name": "Gro\u00df",
@@ -3066,7 +3066,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 18.8,
+   "owned_globally_pct": 18.7,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 19.3,
+   "owned_globally_pct": 19.4,
    "i_own": false
   },
   {
@@ -3273,7 +3273,7 @@
    "pos": "MID",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.1,
+   "owned_globally_pct": 1.0,
    "i_own": true
   },
   {
@@ -3444,7 +3444,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 12.0,
+   "owned_globally_pct": 12.1,
    "i_own": false
   },
   {
@@ -3462,7 +3462,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.3,
+   "owned_globally_pct": 3.2,
    "i_own": false
   },
   {
