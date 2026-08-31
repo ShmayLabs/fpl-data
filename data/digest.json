@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T19:56:24Z",
+ "generated_utc": "2026-08-31T20:12:03Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -364,8 +364,8 @@
      "rank": 5,
      "team": "Wunited",
      "player": "Luke Woodward",
-     "gw": 97,
-     "total": 147
+     "gw": 96,
+     "total": 146
     },
     {
      "rank": 6,
@@ -426,11 +426,11 @@
      "rank": 2,
      "team": "Previously Athletic",
      "player": "Phil Dudson",
-     "gw": 96,
-     "total": 161
+     "gw": 95,
+     "total": 160
     },
     {
-     "rank": 3,
+     "rank": 2,
      "team": "Gangsters Allardyce",
      "player": "Jordan White",
      "gw": 95,
@@ -454,11 +454,11 @@
      "rank": 6,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 83,
-     "total": 155
+     "gw": 82,
+     "total": 154
     },
     {
-     "rank": 7,
+     "rank": 6,
      "team": "Man (Zambi) On",
      "player": "Liam Brockhurst",
      "gw": 84,
@@ -542,11 +542,11 @@
      "total": 131
     },
     {
-     "rank": 18,
+     "rank": 19,
      "team": "1T1D",
      "player": "Stephen Marron",
-     "gw": 70,
-     "total": 131
+     "gw": 69,
+     "total": 130
     },
     {
      "rank": 20,
@@ -580,14 +580,14 @@
      "rank": 24,
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
-     "gw": 63,
-     "total": 123
+     "gw": 62,
+     "total": 122
     },
     {
      "rank": 25,
-     "team": "Crew Alexander",
-     "player": "Alex Brumby",
-     "gw": 66,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 88,
      "total": 122
     }
    ]
@@ -621,8 +621,8 @@
      "rank": 4,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 83,
-     "total": 155
+     "gw": 82,
+     "total": 154
     },
     {
      "rank": 5,
@@ -663,22 +663,22 @@
      "rank": 10,
      "team": "Millennium Falcons",
      "player": "Jack Richardson",
-     "gw": 91,
-     "total": 140
+     "gw": 90,
+     "total": 139
     },
     {
      "rank": 11,
      "team": "Tramontozpor",
      "player": "Kwadwo David",
-     "gw": 72,
-     "total": 139
+     "gw": 71,
+     "total": 138
     },
     {
      "rank": 12,
      "team": "beef cherki",
      "player": "Samuel Dennis",
-     "gw": 76,
-     "total": 133
+     "gw": 75,
+     "total": 132
     },
     {
      "rank": 13,
@@ -1820,7 +1820,7 @@
    "team": "Wunited",
    "manager": "Luke Woodward",
    "rank": 5,
-   "total": 147,
+   "total": 146,
    "chip": null,
    "squad": [
     "Roefs",
@@ -2196,7 +2196,7 @@
    "team": "Bruno Dos Tres",
    "manager": "David Taylor",
    "rank": 4,
-   "total": 155,
+   "total": 154,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2383,7 +2383,7 @@
    "team": "Millennium Falcons",
    "manager": "Jack Richardson",
    "rank": 10,
-   "total": 140,
+   "total": 139,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2421,7 +2421,7 @@
    "team": "Tramontozpor",
    "manager": "Kwadwo David",
    "rank": 11,
-   "total": 139,
+   "total": 138,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2461,7 +2461,7 @@
    "team": "beef cherki",
    "manager": "Samuel Dennis",
    "rank": 12,
-   "total": 133,
+   "total": 132,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2706,7 +2706,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 38.5,
-   "owned_globally_pct": 25.5,
+   "owned_globally_pct": 25.4,
    "i_own": false
   },
   {
@@ -2823,7 +2823,7 @@
    "pos": "MID",
    "price": 8.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 22.0,
+   "owned_globally_pct": 21.9,
    "i_own": false
   },
   {
@@ -3192,7 +3192,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.2,
+   "owned_globally_pct": 5.1,
    "i_own": false
   },
   {
