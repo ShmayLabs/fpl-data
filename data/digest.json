@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T08:56:17Z",
+ "generated_utc": "2026-08-31T09:11:28Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -473,16 +473,16 @@
     },
     {
      "rank": 9,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 85,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 9,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 85,
      "total": 147
     },
     {
@@ -626,16 +626,16 @@
     },
     {
      "rank": 5,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 85,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 5,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 85,
      "total": 147
     },
     {
@@ -1656,7 +1656,7 @@
    "pos": "FWD",
    "price": 6.1,
    "points": 8,
-   "owned_by": 7.0
+   "owned_by": 7.1
   },
   {
    "name": "Ballard",
@@ -3246,7 +3246,7 @@
    "pos": "FWD",
    "price": 5.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.4,
+   "owned_globally_pct": 2.3,
    "i_own": false
   },
   {
@@ -3354,7 +3354,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 7.0,
+   "owned_globally_pct": 7.1,
    "i_own": false
   },
   {
@@ -3408,7 +3408,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 5.1,
+   "owned_globally_pct": 5.0,
    "i_own": false
   },
   {
