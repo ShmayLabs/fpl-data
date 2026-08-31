@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T04:11:31Z",
+ "generated_utc": "2026-08-31T04:34:00Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -108,7 +108,7 @@
    "team": "CRY",
    "pos": "DEF",
    "price": 5.4,
-   "owned_by": 7.5,
+   "owned_by": 7.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -473,16 +473,16 @@
     },
     {
      "rank": 9,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 85,
      "total": 147
     },
     {
      "rank": 9,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 85,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
@@ -571,16 +571,16 @@
     },
     {
      "rank": 23,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 87,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 58,
      "total": 121
     },
     {
      "rank": 23,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 58,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 87,
      "total": 121
     },
     {
@@ -1648,7 +1648,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 5.1
+   "owned_by": 5.2
   },
   {
    "name": "Wissa",
@@ -3282,7 +3282,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 7.5,
+   "owned_globally_pct": 7.4,
    "i_own": true
   },
   {
