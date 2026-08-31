@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T13:11:25Z",
+ "generated_utc": "2026-08-31T13:33:53Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -91,7 +91,7 @@
    "team": "MCI",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 19.4,
+   "owned_by": 19.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -571,16 +571,16 @@
     },
     {
      "rank": 23,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 87,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 58,
      "total": 121
     },
     {
      "rank": 23,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 58,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 87,
      "total": 121
     },
     {
@@ -2715,7 +2715,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 21.4,
+   "owned_globally_pct": 21.3,
    "i_own": false
   },
   {
@@ -3012,7 +3012,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 19.4,
+   "owned_globally_pct": 19.3,
    "i_own": true
   },
   {
@@ -3228,7 +3228,7 @@
    "pos": "MID",
    "price": 5.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 10.6,
+   "owned_globally_pct": 10.7,
    "i_own": false
   },
   {
