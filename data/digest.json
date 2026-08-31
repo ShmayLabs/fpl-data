@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T01:55:55Z",
+ "generated_utc": "2026-08-31T02:11:24Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -571,16 +571,16 @@
     },
     {
      "rank": 23,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 58,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 87,
      "total": 121
     },
     {
      "rank": 23,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 87,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 58,
      "total": 121
     },
     {
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 18.4
+   "owned_by": 18.5
   },
   {
    "name": "Gro\u00df",
@@ -1584,7 +1584,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 9,
-   "owned_by": 2.8
+   "owned_by": 2.9
   },
   {
    "name": "Foden",
@@ -2823,7 +2823,7 @@
    "pos": "MID",
    "price": 8.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 22.4,
+   "owned_globally_pct": 22.3,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 18.4,
+   "owned_globally_pct": 18.5,
    "i_own": false
   },
   {
