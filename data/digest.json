@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T16:56:30Z",
+ "generated_utc": "2026-08-31T17:10:58Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -159,7 +159,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 32.2,
+   "owned_by": 32.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -473,16 +473,16 @@
     },
     {
      "rank": 9,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 85,
      "total": 147
     },
     {
      "rank": 9,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 85,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
@@ -626,16 +626,16 @@
     },
     {
      "rank": 5,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 85,
      "total": 147
     },
     {
      "rank": 5,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 85,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 14,
-   "owned_by": 19.6
+   "owned_by": 19.7
   },
   {
    "name": "Gro\u00df",
@@ -1536,7 +1536,7 @@
    "pos": "MID",
    "price": 8.0,
    "points": 11,
-   "owned_by": 32.2
+   "owned_by": 32.1
   },
   {
    "name": "Hall",
@@ -1584,7 +1584,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 9,
-   "owned_by": 3.1
+   "owned_by": 3.2
   },
   {
    "name": "Foden",
@@ -2697,7 +2697,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 32.2,
+   "owned_globally_pct": 32.1,
    "i_own": true
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 19.6,
+   "owned_globally_pct": 19.7,
    "i_own": false
   },
   {
