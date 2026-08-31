@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T16:34:00Z",
+ "generated_utc": "2026-08-31T16:56:30Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -74,7 +74,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 9.7,
+   "owned_by": 9.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -227,7 +227,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 27.3,
+   "owned_by": 27.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -626,16 +626,16 @@
     },
     {
      "rank": 5,
-     "team": "Set and regret",
-     "player": "Adam Lowe",
-     "gw": 85,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 5,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Set and regret",
+     "player": "Adam Lowe",
+     "gw": 85,
      "total": 147
     },
     {
@@ -1528,7 +1528,7 @@
    "pos": "DEF",
    "price": 6.0,
    "points": 12,
-   "owned_by": 9.7
+   "owned_by": 9.8
   },
   {
    "name": "Mbeumo",
@@ -1632,7 +1632,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 8,
-   "owned_by": 27.3
+   "owned_by": 27.2
   },
   {
    "name": "Isak",
@@ -1648,7 +1648,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 5.6
+   "owned_by": 5.7
   },
   {
    "name": "Wissa",
@@ -2751,7 +2751,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 27.3,
+   "owned_globally_pct": 27.2,
    "i_own": true
   },
   {
@@ -3021,7 +3021,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 9.7,
+   "owned_globally_pct": 9.8,
    "i_own": true
   },
   {
@@ -3255,7 +3255,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.8,
+   "owned_globally_pct": 1.7,
    "i_own": false
   },
   {
@@ -3453,7 +3453,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.9,
+   "owned_globally_pct": 5.0,
    "i_own": false
   },
   {
