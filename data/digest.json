@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T09:11:28Z",
+ "generated_utc": "2026-08-31T09:33:56Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -3678,7 +3678,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 0.8,
+   "owned_globally_pct": 0.7,
    "i_own": false
   },
   {
