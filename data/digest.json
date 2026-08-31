@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T22:56:05Z",
+ "generated_utc": "2026-08-31T23:11:08Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -466,16 +466,16 @@
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
@@ -1486,7 +1486,7 @@
    "name": "Cherki",
    "team": "MCI",
    "pos": "MID",
-   "price": 7.6,
+   "price": 7.7,
    "points": 14,
    "owned_by": 20.9
   },
@@ -3172,7 +3172,7 @@
    "name": "Cherki",
    "team": "MCI",
    "pos": "MID",
-   "price": 7.6,
+   "price": 7.7,
    "owned_in_league_pct": 7.7,
    "owned_globally_pct": 20.9,
    "i_own": false
@@ -3208,7 +3208,7 @@
    "name": "Watkins",
    "team": "AVL",
    "pos": "FWD",
-   "price": 7.9,
+   "price": 7.8,
    "owned_in_league_pct": 7.7,
    "owned_globally_pct": 6.3,
    "i_own": false
@@ -3442,7 +3442,7 @@
    "name": "De Cuyper",
    "team": "BHA",
    "pos": "DEF",
-   "price": 4.6,
+   "price": 4.7,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 12.8,
    "i_own": false
