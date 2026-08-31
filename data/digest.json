@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T07:56:20Z",
+ "generated_utc": "2026-08-31T08:11:27Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -2823,7 +2823,7 @@
    "pos": "MID",
    "price": 8.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 22.3,
+   "owned_globally_pct": 22.2,
    "i_own": false
   },
   {
@@ -2841,7 +2841,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 11.5,
+   "owned_globally_pct": 11.4,
    "i_own": false
   },
   {
