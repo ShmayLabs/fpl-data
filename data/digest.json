@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-01T08:03:57Z",
+ "generated_utc": "2026-09-01T08:20:35Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -466,16 +466,16 @@
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
@@ -508,16 +508,16 @@
     },
     {
      "rank": 14,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 86,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 14,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 86,
      "total": 147
     },
     {
@@ -578,16 +578,16 @@
     },
     {
      "rank": 24,
-     "team": "Can'r tie my shoes",
-     "player": "Alex Kennedy",
-     "gw": 74,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 98,
      "total": 132
     },
     {
      "rank": 24,
-     "team": "Crew Alexander",
-     "player": "Alex Brumby",
-     "gw": 76,
+     "team": "Can'r tie my shoes",
+     "player": "Alex Kennedy",
+     "gw": 74,
      "total": 132
     }
    ]
@@ -675,16 +675,16 @@
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 98,
      "total": 147
     },
     {
      "rank": 12,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 98,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
@@ -1568,7 +1568,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 11,
-   "owned_by": 1.5
+   "owned_by": 1.6
   },
   {
    "name": "Schade",
@@ -2823,7 +2823,7 @@
    "pos": "MID",
    "price": 8.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 21.6,
+   "owned_globally_pct": 21.5,
    "i_own": false
   },
   {
@@ -2832,7 +2832,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 10.9,
+   "owned_globally_pct": 10.8,
    "i_own": false
   },
   {
@@ -3444,7 +3444,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 13.1,
+   "owned_globally_pct": 13.2,
    "i_own": false
   },
   {
