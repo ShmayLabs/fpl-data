@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-01T00:28:47Z",
+ "generated_utc": "2026-09-01T00:51:14Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -91,7 +91,7 @@
    "team": "MCI",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 19.3,
+   "owned_by": 19.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -159,7 +159,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 31.7,
+   "owned_by": 31.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -193,7 +193,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.5,
-   "owned_by": 69.8,
+   "owned_by": 69.9,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -227,7 +227,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 27.2,
+   "owned_by": 27.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -508,16 +508,16 @@
     },
     {
      "rank": 14,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 86,
      "total": 147
     },
     {
      "rank": 14,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 86,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
@@ -578,16 +578,16 @@
     },
     {
      "rank": 24,
-     "team": "Can'r tie my shoes",
-     "player": "Alex Kennedy",
-     "gw": 74,
+     "team": "Crew Alexander",
+     "player": "Alex Brumby",
+     "gw": 76,
      "total": 132
     },
     {
      "rank": 24,
-     "team": "Crew Alexander",
-     "player": "Alex Brumby",
-     "gw": 76,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 98,
      "total": 132
     }
    ]
@@ -675,16 +675,16 @@
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 98,
      "total": 147
     },
     {
      "rank": 12,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 98,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 14,
-   "owned_by": 21.0
+   "owned_by": 21.1
   },
   {
    "name": "Gro\u00df",
@@ -1504,7 +1504,7 @@
    "pos": "FWD",
    "price": 15.5,
    "points": 13,
-   "owned_by": 69.8
+   "owned_by": 69.9
   },
   {
    "name": "Gibbs-White",
@@ -1536,7 +1536,7 @@
    "pos": "DEF",
    "price": 5.6,
    "points": 11,
-   "owned_by": 42.0
+   "owned_by": 42.1
   },
   {
    "name": "Saka",
@@ -1544,7 +1544,7 @@
    "pos": "MID",
    "price": 9.5,
    "points": 11,
-   "owned_by": 10.2
+   "owned_by": 10.3
   },
   {
    "name": "Mbeumo",
@@ -1552,7 +1552,7 @@
    "pos": "MID",
    "price": 8.0,
    "points": 11,
-   "owned_by": 31.7
+   "owned_by": 31.6
   },
   {
    "name": "Hall",
@@ -1568,7 +1568,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 11,
-   "owned_by": 1.4
+   "owned_by": 1.5
   },
   {
    "name": "Schade",
@@ -1656,7 +1656,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 8,
-   "owned_by": 27.2
+   "owned_by": 27.1
   },
   {
    "name": "Isak",
@@ -2679,7 +2679,7 @@
    "pos": "FWD",
    "price": 15.5,
    "owned_in_league_pct": 73.1,
-   "owned_globally_pct": 69.8,
+   "owned_globally_pct": 69.9,
    "i_own": true
   },
   {
@@ -2688,7 +2688,7 @@
    "pos": "DEF",
    "price": 5.6,
    "owned_in_league_pct": 57.7,
-   "owned_globally_pct": 42.0,
+   "owned_globally_pct": 42.1,
    "i_own": false
   },
   {
@@ -2697,7 +2697,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 31.7,
+   "owned_globally_pct": 31.6,
    "i_own": true
   },
   {
@@ -2733,7 +2733,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 16.3,
+   "owned_globally_pct": 16.2,
    "i_own": false
   },
   {
@@ -2760,7 +2760,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 27.2,
+   "owned_globally_pct": 27.1,
    "i_own": true
   },
   {
@@ -2931,7 +2931,7 @@
    "pos": "FWD",
    "price": 7.4,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 5.9,
+   "owned_globally_pct": 5.8,
    "i_own": false
   },
   {
@@ -3021,7 +3021,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 19.3,
+   "owned_globally_pct": 19.2,
    "i_own": true
   },
   {
@@ -3138,7 +3138,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 7.4,
+   "owned_globally_pct": 7.5,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 21.0,
+   "owned_globally_pct": 21.1,
    "i_own": false
   },
   {
@@ -3246,7 +3246,7 @@
    "pos": "FWD",
    "price": 5.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.3,
+   "owned_globally_pct": 2.2,
    "i_own": false
   },
   {
@@ -3318,7 +3318,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 10.2,
+   "owned_globally_pct": 10.3,
    "i_own": false
   },
   {
@@ -3408,7 +3408,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.9,
+   "owned_globally_pct": 4.8,
    "i_own": false
   },
   {
@@ -3444,7 +3444,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 12.8,
+   "owned_globally_pct": 12.9,
    "i_own": false
   },
   {
@@ -3507,7 +3507,7 @@
    "pos": "FWD",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.0,
+   "owned_globally_pct": 0.9,
    "i_own": false
   },
   {
@@ -3687,7 +3687,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.8,
+   "owned_globally_pct": 6.9,
    "i_own": false
   }
  ],
