@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-31T23:55:58Z",
+ "generated_utc": "2026-09-01T00:18:28Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -193,7 +193,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.5,
-   "owned_by": 69.8,
+   "owned_by": 69.9,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -466,16 +466,16 @@
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
@@ -578,16 +578,16 @@
     },
     {
      "rank": 24,
-     "team": "Crew Alexander",
-     "player": "Alex Brumby",
-     "gw": 76,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 98,
      "total": 132
     },
     {
      "rank": 24,
-     "team": "Can'r tie my shoes",
-     "player": "Alex Kennedy",
-     "gw": 74,
+     "team": "Crew Alexander",
+     "player": "Alex Brumby",
+     "gw": 76,
      "total": 132
     }
    ]
@@ -1504,7 +1504,7 @@
    "pos": "FWD",
    "price": 15.5,
    "points": 13,
-   "owned_by": 69.8
+   "owned_by": 69.9
   },
   {
    "name": "Gibbs-White",
@@ -1568,7 +1568,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 11,
-   "owned_by": 1.4
+   "owned_by": 1.5
   },
   {
    "name": "Schade",
@@ -2679,7 +2679,7 @@
    "pos": "FWD",
    "price": 15.5,
    "owned_in_league_pct": 73.1,
-   "owned_globally_pct": 69.8,
+   "owned_globally_pct": 69.9,
    "i_own": true
   },
   {
@@ -2931,7 +2931,7 @@
    "pos": "FWD",
    "price": 7.4,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 5.9,
+   "owned_globally_pct": 5.8,
    "i_own": false
   },
   {
@@ -3408,7 +3408,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.9,
+   "owned_globally_pct": 4.8,
    "i_own": false
   },
   {
