@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-01T17:18:12Z",
+ "generated_utc": "2026-09-01T17:40:37Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -1528,7 +1528,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 14,
-   "owned_by": 23.2
+   "owned_by": 23.3
   },
   {
    "name": "Gro\u00df",
@@ -1600,7 +1600,7 @@
    "pos": "DEF",
    "price": 5.0,
    "points": 11,
-   "owned_by": 7.5
+   "owned_by": 7.6
   },
   {
    "name": "Dedi\u0107",
@@ -1608,7 +1608,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 11,
-   "owned_by": 1.7
+   "owned_by": 1.8
   },
   {
    "name": "Schade",
@@ -1640,7 +1640,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 9,
-   "owned_by": 3.8
+   "owned_by": 3.9
   },
   {
    "name": "Foden",
@@ -1712,7 +1712,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 7.2
+   "owned_by": 7.3
   }
  ],
  "rival_count": 26,
@@ -3214,7 +3214,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 7.1,
+   "owned_globally_pct": 7.2,
    "i_own": false
   },
   {
@@ -3223,7 +3223,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 23.2,
+   "owned_globally_pct": 23.3,
    "i_own": false
   },
   {
@@ -3259,7 +3259,7 @@
    "pos": "MID",
    "price": 5.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 12.1,
+   "owned_globally_pct": 12.2,
    "i_own": false
   },
   {
@@ -3331,7 +3331,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 9.7,
+   "owned_globally_pct": 9.8,
    "i_own": false
   },
   {
@@ -3583,7 +3583,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 7.5,
+   "owned_globally_pct": 7.6,
    "i_own": false
   },
   {
