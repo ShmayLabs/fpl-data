@@ -2,15 +2,16 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "PRICE FALL: E.Le F\u00e9e dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
+  "CLUB CHANGE: Mu\u00f1oz moved CRY -> NFO. Fixtures and minutes both change.",
   "PRICE FALL: Mu\u00f1oz dropped \u00a30.1m this gameweek.",
-  "ZERO MINUTES: Mu\u00f1oz (CRY) played no part in a FINISHED match despite being available.",
+  "ZERO MINUTES: Mu\u00f1oz (NFO) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-01T12:46:21Z",
+ "generated_utc": "2026-09-01T13:08:50Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
- "gw_finished": false,
+ "gw_finished": true,
  "squad_from_gw": 2,
  "entry_history": {
   "event": 2,
@@ -160,7 +161,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 48.2,
+   "owned_by": 48.3,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -290,7 +291,7 @@
   },
   {
    "name": "Mu\u00f1oz",
-   "team": "CRY",
+   "team": "NFO",
    "pos": "DEF",
    "price": 5.4,
    "owned_by": 7.0,
@@ -1520,7 +1521,7 @@
    "pos": "MID",
    "price": 12.0,
    "points": 23,
-   "owned_by": 48.2
+   "owned_by": 48.3
   },
   {
    "name": "Cherki",
@@ -1680,7 +1681,7 @@
    "pos": "DEF",
    "price": 8.0,
    "points": 8,
-   "owned_by": 27.2
+   "owned_by": 27.1
   },
   {
    "name": "Thomas",
@@ -2701,7 +2702,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 48.2,
+   "owned_globally_pct": 48.3,
    "i_own": true
   },
   {
@@ -2764,7 +2765,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 20.8,
+   "owned_globally_pct": 20.7,
    "i_own": false
   },
   {
@@ -2773,7 +2774,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 16.2,
+   "owned_globally_pct": 16.1,
    "i_own": false
   },
   {
@@ -2908,7 +2909,7 @@
    "pos": "DEF",
    "price": 8.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 27.2,
+   "owned_globally_pct": 27.1,
    "i_own": false
   },
   {
@@ -3408,7 +3409,7 @@
   },
   {
    "name": "Mu\u00f1oz",
-   "team": "CRY",
+   "team": "NFO",
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
