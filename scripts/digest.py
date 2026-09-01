@@ -88,7 +88,8 @@ for s in squad:
     if not e:
         continue
     if s["status"] == "u":
-        alerts.append(f'UNAVAILABLE: {s["name"]} ({s["team"]}) — {s["news"] or "no longer selectable"}. FORCED TRANSFER.')
+        alerts.append(f'UNAVAILABLE: {s["name"]} ({s["team"]}) — {s["news"] or "no longer selectable"}. '
+                      f'{"He is on the bench, so this costs nothing per week — replace him when a free transfer is spare, not urgently." if s["on_bench"] else "HE IS IN THE STARTING XI — replace him this week."}')
     elif s["status"] != "a":
         alerts.append(f'FLAGGED: {s["name"]} ({s["team"]}) — {s["news"] or "doubtful"} ({s["chance_next"]}% chance).')
     elif s["news"]:
