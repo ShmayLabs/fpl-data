@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-01T01:40:16Z",
+ "generated_utc": "2026-09-01T02:02:44Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -508,16 +508,16 @@
     },
     {
      "rank": 14,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 86,
      "total": 147
     },
     {
      "rank": 14,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 86,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
@@ -578,9 +578,9 @@
     },
     {
      "rank": 24,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 98,
+     "team": "Can'r tie my shoes",
+     "player": "Alex Kennedy",
+     "gw": 74,
      "total": 132
     },
     {
@@ -675,16 +675,16 @@
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 98,
      "total": 147
     },
     {
      "rank": 12,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 98,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 14,
-   "owned_by": 21.2
+   "owned_by": 21.3
   },
   {
    "name": "Gro\u00df",
@@ -1560,7 +1560,7 @@
    "pos": "DEF",
    "price": 5.0,
    "points": 11,
-   "owned_by": 6.7
+   "owned_by": 6.8
   },
   {
    "name": "Dedi\u0107",
@@ -1640,7 +1640,7 @@
    "pos": "DEF",
    "price": 8.0,
    "points": 8,
-   "owned_by": 27.5
+   "owned_by": 27.4
   },
   {
    "name": "Thomas",
@@ -2868,7 +2868,7 @@
    "pos": "DEF",
    "price": 8.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 27.5,
+   "owned_globally_pct": 27.4,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 21.2,
+   "owned_globally_pct": 21.3,
    "i_own": false
   },
   {
@@ -3219,7 +3219,7 @@
    "pos": "MID",
    "price": 5.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 11.3,
+   "owned_globally_pct": 11.4,
    "i_own": false
   },
   {
@@ -3543,7 +3543,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.7,
+   "owned_globally_pct": 6.8,
    "i_own": false
   },
   {
@@ -3597,7 +3597,7 @@
    "pos": "MID",
    "price": 6.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 0.8,
+   "owned_globally_pct": 0.7,
    "i_own": false
   },
   {
