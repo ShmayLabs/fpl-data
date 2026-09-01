@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-01T11:17:54Z",
+ "generated_utc": "2026-09-01T11:40:18Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -1528,7 +1528,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 14,
-   "owned_by": 22.3
+   "owned_by": 22.4
   },
   {
    "name": "Gro\u00df",
@@ -2746,7 +2746,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 38.5,
-   "owned_globally_pct": 23.7,
+   "owned_globally_pct": 23.6,
    "i_own": false
   },
   {
@@ -2809,7 +2809,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 17.6,
+   "owned_globally_pct": 17.5,
    "i_own": false
   },
   {
@@ -2872,7 +2872,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 10.8,
+   "owned_globally_pct": 10.7,
    "i_own": false
   },
   {
@@ -3223,7 +3223,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 22.3,
+   "owned_globally_pct": 22.4,
    "i_own": false
   },
   {
@@ -3331,7 +3331,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 9.1,
+   "owned_globally_pct": 9.2,
    "i_own": false
   },
   {
@@ -3502,7 +3502,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 13.3,
+   "owned_globally_pct": 13.4,
    "i_own": false
   },
   {
