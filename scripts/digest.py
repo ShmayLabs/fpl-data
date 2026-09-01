@@ -76,6 +76,33 @@ flagged = [s for s in squad
            if s["status"] != "a" or s["news"]
            or (s["chance_next"] is not None and s["chance_next"] < 100)]
 
+# ---- squad alerts --------------------------------------------------------
+# The loud, unmissable block. Anything here changes a squad decision RIGHT NOW.
+# It sits at the top of the digest so no analysis can proceed without seeing it.
+# Club changes matter because the FPL API lags real transfers by days — a player
+# can be sold and still show his old club with status "a".
+prev = load("prev_squad_teams.json") or {}
+alerts = []
+for s in squad:
+    e = next((x for x in boot["elements"] if x["web_name"] == s["name"]), None)
+    if not e:
+        continue
+    if s["status"] == "u":
+        alerts.append(f'UNAVAILABLE: {s["name"]} ({s["team"]}) — {s["news"] or "no longer selectable"}. FORCED TRANSFER.')
+    elif s["status"] != "a":
+        alerts.append(f'FLAGGED: {s["name"]} ({s["team"]}) — {s["news"] or "doubtful"} ({s["chance_next"]}% chance).')
+    elif s["news"]:
+        alerts.append(f'NEWS: {s["name"]} ({s["team"]}) — {s["news"]}')
+    was = prev.get(s["name"])
+    if was and was != s["team"]:
+        alerts.append(f'CLUB CHANGE: {s["name"]} moved {was} -> {s["team"]}. Fixtures and minutes both change.')
+    if e["cost_change_event"] < 0:
+        alerts.append(f'PRICE FALL: {s["name"]} dropped £{abs(e["cost_change_event"]) / 10:.1f}m this gameweek.')
+    if s["gw_minutes"] == 0 and s["status"] == "a":
+        alerts.append(f'ZERO MINUTES: {s["name"]} ({s["team"]}) played no part in the last gameweek despite being available.')
+
+json.dump({s["name"]: s["team"] for s in squad}, open(os.path.join(D, "prev_squad_teams.json"), "w"))
+
 # ---- leagues -------------------------------------------------------------
 leagues = []
 lg = load("my_leagues.json") or {}
@@ -162,6 +189,7 @@ league_ownership = sorted(
 
 hist = load("my_history.json") or {}
 digest = {
+    "SQUAD_ALERTS_READ_THIS_FIRST": alerts,
     "generated_utc": datetime.datetime.now(datetime.timezone.utc)
                              .strftime("%Y-%m-%dT%H:%M:%SZ"),
     "next_gw": gw,
@@ -187,5 +215,5 @@ digest = {
 with open(os.path.join(D, "digest.json"), "w") as f:
     json.dump(digest, f, indent=1)
 
-print(f"digest: gw{gw}, {len(squad)} squad, {len(flagged)} flagged, "
+print(f"digest: gw{gw}, {len(squad)} squad, {len(alerts)} ALERTS, {len(flagged)} flagged, "
       f"{len(leagues)} leagues, {len(top)} top scorers")
