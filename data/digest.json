@@ -2,13 +2,12 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "PRICE FALL: E.Le F\u00e9e dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
-  "CLUB CHANGE: Mu\u00f1oz moved CRY -> NFO. Fixtures and minutes both change.",
   "PRICE FALL: Mu\u00f1oz dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Mu\u00f1oz (NFO) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-01T13:08:50Z",
+ "generated_utc": "2026-09-01T13:19:25Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -716,16 +715,16 @@
     },
     {
      "rank": 12,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 103,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 107,
      "total": 148
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 107,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 103,
      "total": 148
     },
     {
@@ -1529,7 +1528,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 14,
-   "owned_by": 22.6
+   "owned_by": 22.7
   },
   {
    "name": "Gro\u00df",
@@ -3224,7 +3223,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 22.6,
+   "owned_globally_pct": 22.7,
    "i_own": false
   },
   {
@@ -3503,7 +3502,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 13.4,
+   "owned_globally_pct": 13.5,
    "i_own": false
   },
   {
