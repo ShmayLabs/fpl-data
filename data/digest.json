@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-01T07:41:25Z",
+ "generated_utc": "2026-09-01T08:03:57Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -466,16 +466,16 @@
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
@@ -508,16 +508,16 @@
     },
     {
      "rank": 14,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 86,
      "total": 147
     },
     {
      "rank": 14,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 86,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
@@ -578,16 +578,16 @@
     },
     {
      "rank": 24,
-     "team": "Crew Alexander",
-     "player": "Alex Brumby",
-     "gw": 76,
+     "team": "Can'r tie my shoes",
+     "player": "Alex Kennedy",
+     "gw": 74,
      "total": 132
     },
     {
      "rank": 24,
-     "team": "Can'r tie my shoes",
-     "player": "Alex Kennedy",
-     "gw": 74,
+     "team": "Crew Alexander",
+     "player": "Alex Brumby",
+     "gw": 76,
      "total": 132
     }
    ]
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 14,
-   "owned_by": 21.8
+   "owned_by": 21.9
   },
   {
    "name": "Gro\u00df",
@@ -1584,7 +1584,7 @@
    "pos": "GK",
    "price": 4.5,
    "points": 10,
-   "owned_by": 5.8
+   "owned_by": 5.9
   },
   {
    "name": "Jo\u00e3o Pedro",
@@ -1600,7 +1600,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 9,
-   "owned_by": 3.5
+   "owned_by": 3.6
   },
   {
    "name": "Foden",
@@ -2706,7 +2706,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 38.5,
-   "owned_globally_pct": 24.0,
+   "owned_globally_pct": 23.9,
    "i_own": false
   },
   {
@@ -2994,7 +2994,7 @@
    "pos": "DEF",
    "price": 5.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 16.9,
+   "owned_globally_pct": 17.0,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 21.8,
+   "owned_globally_pct": 21.9,
    "i_own": false
   },
   {
@@ -3183,7 +3183,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 7.0,
+   "owned_globally_pct": 7.1,
    "i_own": false
   },
   {
@@ -3624,7 +3624,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.4,
+   "owned_globally_pct": 2.3,
    "i_own": false
   },
   {
