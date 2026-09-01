@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-01T07:18:52Z",
+ "generated_utc": "2026-09-01T07:41:25Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -466,16 +466,16 @@
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
@@ -675,16 +675,16 @@
     },
     {
      "rank": 12,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 98,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 98,
      "total": 147
     },
     {
@@ -1488,7 +1488,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 14,
-   "owned_by": 21.7
+   "owned_by": 21.8
   },
   {
    "name": "Gro\u00df",
@@ -1496,7 +1496,7 @@
    "pos": "MID",
    "price": 5.5,
    "points": 13,
-   "owned_by": 13.7
+   "owned_by": 13.8
   },
   {
    "name": "Haaland",
@@ -1560,7 +1560,7 @@
    "pos": "DEF",
    "price": 5.0,
    "points": 11,
-   "owned_by": 6.9
+   "owned_by": 7.0
   },
   {
    "name": "Dedi\u0107",
@@ -1672,7 +1672,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 6.6
+   "owned_by": 6.7
   }
  ],
  "rival_count": 26,
@@ -2787,7 +2787,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 14.8,
+   "owned_globally_pct": 14.7,
    "i_own": false
   },
   {
@@ -2913,7 +2913,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 13.7,
+   "owned_globally_pct": 13.8,
    "i_own": false
   },
   {
@@ -3039,7 +3039,7 @@
    "pos": "FWD",
    "price": 8.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 15.0,
+   "owned_globally_pct": 14.9,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 21.7,
+   "owned_globally_pct": 21.8,
    "i_own": false
   },
   {
@@ -3219,7 +3219,7 @@
    "pos": "MID",
    "price": 5.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 11.5,
+   "owned_globally_pct": 11.6,
    "i_own": false
   },
   {
@@ -3336,7 +3336,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 8.7,
+   "owned_globally_pct": 8.8,
    "i_own": false
   },
   {
@@ -3543,7 +3543,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.9,
+   "owned_globally_pct": 7.0,
    "i_own": false
   },
   {
