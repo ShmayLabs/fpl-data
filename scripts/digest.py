@@ -39,8 +39,13 @@ for g in range(gw, 0, -1):
         picks_gw = g
         break
 
-live = next((L for L in (load(f"live_gw{gw}.json"), load(f"live_gw{gw-1}.json"))
-             if L and L.get("elements")), None)
+live = None
+live_gw = None
+for _g in (gw, gw - 1):
+    _L = load(f"live_gw{_g}.json")
+    if _L and _L.get("elements"):
+        live, live_gw = _L, _g
+        break
 live_map = {}
 if live:
     for e in live.get("elements", []):
@@ -76,10 +81,47 @@ flagged = [s for s in squad
            if s["status"] != "a" or s["news"]
            or (s["chance_next"] is not None and s["chance_next"] < 100)]
 
+# ---- has each club actually played yet? ----------------------------------
+# A zero is ambiguous: it can mean "did not play" or "has not kicked off yet".
+# Claude has twice read the second as the first and reported players as dropped
+# when their match had not started. Resolve it here, in the data, so no session
+# has to infer it.
+fixtures_all = load("fixtures.json") or []
+club_state = {}
+for f in fixtures_all:
+    if f.get("event") != live_gw:      # the gameweek the MINUTES came from
+        continue
+    for side in ("team_h", "team_a"):
+        name = teams.get(f[side])
+        if not name:
+            continue
+        # CAREFUL: "finished" does NOT mean the match ended -- it means the
+        # whole gameweek has been finalised and bonus locked, which happens
+        # at 09:00 the day after the last match. A game played on Saturday
+        # shows finished=false until then, with the final score present.
+        # "finished_provisional" is the flag that means the match is over.
+        if f.get("finished") or f.get("finished_provisional"):
+            st = "played"
+        elif f.get("started"):
+            st = "in_progress"
+        else:
+            st = "not_kicked_off"
+        club_state[name] = st
+
+for s_ in squad:
+    cs = club_state.get(s_["team"], "unknown")
+    s_["fixture_state"] = cs
+    if s_["gw_minutes"] == 0 and cs != "played":
+        s_["zero_minutes_means"] = "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+    elif s_["gw_minutes"] == 0:
+        s_["zero_minutes_means"] = "match finished and he played no part"
+    else:
+        s_["zero_minutes_means"] = None
+
 # ---- squad alerts --------------------------------------------------------
 # The loud, unmissable block. Anything here changes a squad decision RIGHT NOW.
 # It sits at the top of the digest so no analysis can proceed without seeing it.
-# Club changes matter because the FPL API lags real transfers by days — a player
+# Club changes matter because the FPL API lags real transfers by days -- a player
 # can be sold and still show his old club with status "a".
 prev = load("prev_squad_teams.json") or {}
 alerts = []
@@ -88,19 +130,23 @@ for s in squad:
     if not e:
         continue
     if s["status"] == "u":
-        alerts.append(f'UNAVAILABLE: {s["name"]} ({s["team"]}) — {s["news"] or "no longer selectable"}. '
-                      f'{"He is on the bench, so this costs nothing per week — replace him when a free transfer is spare, not urgently." if s["on_bench"] else "HE IS IN THE STARTING XI — replace him this week."}')
+        alerts.append(f'UNAVAILABLE: {s["name"]} ({s["team"]}) -- {s["news"] or "no longer selectable"}. '
+                      f'{"He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently." if s["on_bench"] else "HE IS IN THE STARTING XI -- replace him this week."}')
     elif s["status"] != "a":
-        alerts.append(f'FLAGGED: {s["name"]} ({s["team"]}) — {s["news"] or "doubtful"} ({s["chance_next"]}% chance).')
+        alerts.append(f'FLAGGED: {s["name"]} ({s["team"]}) -- {s["news"] or "doubtful"} ({s["chance_next"]}% chance).')
     elif s["news"]:
-        alerts.append(f'NEWS: {s["name"]} ({s["team"]}) — {s["news"]}')
+        alerts.append(f'NEWS: {s["name"]} ({s["team"]}) -- {s["news"]}')
     was = prev.get(s["name"])
     if was and was != s["team"]:
         alerts.append(f'CLUB CHANGE: {s["name"]} moved {was} -> {s["team"]}. Fixtures and minutes both change.')
     if e["cost_change_event"] < 0:
-        alerts.append(f'PRICE FALL: {s["name"]} dropped £{abs(e["cost_change_event"]) / 10:.1f}m this gameweek.')
+        alerts.append(f'PRICE FALL: {s["name"]} dropped \u00a3{abs(e["cost_change_event"]) / 10:.1f}m this gameweek.')
     if s["gw_minutes"] == 0 and s["status"] == "a":
-        alerts.append(f'ZERO MINUTES: {s["name"]} ({s["team"]}) played no part in the last gameweek despite being available.')
+        if s.get("fixture_state") == "played":
+            alerts.append(f'ZERO MINUTES: {s["name"]} ({s["team"]}) played no part in a FINISHED match despite being available.')
+        else:
+            alerts.append(f'NOT YET PLAYED: {s["name"]} ({s["team"]}) shows 0 minutes but his match is '
+                          f'{s.get("fixture_state", "unknown")} -- do NOT read this as him being dropped.')
 
 json.dump({s["name"]: s["team"] for s in squad}, open(os.path.join(D, "prev_squad_teams.json"), "w"))
 
