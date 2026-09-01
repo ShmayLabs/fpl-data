@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-01T13:41:51Z",
+ "generated_utc": "2026-09-01T14:04:16Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -701,16 +701,16 @@
     },
     {
      "rank": 10,
-     "team": "beef cherki",
-     "player": "Samuel Dennis",
-     "gw": 92,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 100,
      "total": 149
     },
     {
      "rank": 10,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 100,
+     "team": "beef cherki",
+     "player": "Samuel Dennis",
+     "gw": 92,
      "total": 149
     },
     {
@@ -1528,7 +1528,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 14,
-   "owned_by": 22.7
+   "owned_by": 22.8
   },
   {
    "name": "Gro\u00df",
@@ -1712,7 +1712,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 7.0
+   "owned_by": 7.1
   }
  ],
  "rival_count": 26,
@@ -2460,43 +2460,6 @@
    ]
   },
   {
-   "team": "beef cherki",
-   "manager": "Samuel Dennis",
-   "rank": 10,
-   "total": 149,
-   "chip": null,
-   "squad": [
-    "Lammens",
-    "van Ewijk",
-    "Gabriel",
-    "Calafiori",
-    "Shaw",
-    "Szoboszlai",
-    "Rogers",
-    "B.Fernandes",
-    "Tzolis",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Dubravka",
-    "Kusi-Asare",
-    "Diop",
-    "Hughes"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Diop",
-    "Gabriel",
-    "Shaw",
-    "Calafiori",
-    "Rogers",
-    "Tzolis",
-    "van Ewijk",
-    "Szoboszlai",
-    "Kusi-Asare",
-    "Lammens"
-   ]
-  },
-  {
    "team": "Millennium Falcons",
    "manager": "Jack Richardson",
    "rank": 10,
@@ -2532,6 +2495,43 @@
     "van Ewijk",
     "Pedro Porro",
     "Gy\u00f6keres"
+   ]
+  },
+  {
+   "team": "beef cherki",
+   "manager": "Samuel Dennis",
+   "rank": 10,
+   "total": 149,
+   "chip": null,
+   "squad": [
+    "Lammens",
+    "van Ewijk",
+    "Gabriel",
+    "Calafiori",
+    "Shaw",
+    "Szoboszlai",
+    "Rogers",
+    "B.Fernandes",
+    "Tzolis",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Dubravka",
+    "Kusi-Asare",
+    "Diop",
+    "Hughes"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Diop",
+    "Gabriel",
+    "Shaw",
+    "Calafiori",
+    "Rogers",
+    "Tzolis",
+    "van Ewijk",
+    "Szoboszlai",
+    "Kusi-Asare",
+    "Lammens"
    ]
   },
   {
@@ -2746,7 +2746,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 38.5,
-   "owned_globally_pct": 23.5,
+   "owned_globally_pct": 23.4,
    "i_own": false
   },
   {
@@ -2917,7 +2917,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 19.5,
+   "owned_globally_pct": 19.4,
    "i_own": false
   },
   {
@@ -3034,7 +3034,7 @@
    "pos": "DEF",
    "price": 5.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 17.1,
+   "owned_globally_pct": 17.2,
    "i_own": false
   },
   {
@@ -3223,7 +3223,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 22.7,
+   "owned_globally_pct": 22.8,
    "i_own": false
   },
   {
@@ -3259,7 +3259,7 @@
    "pos": "MID",
    "price": 5.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 11.9,
+   "owned_globally_pct": 12.0,
    "i_own": false
   },
   {
