@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-01T05:40:47Z",
+ "generated_utc": "2026-09-01T06:03:22Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -176,7 +176,7 @@
    "team": "SUN",
    "pos": "MID",
    "price": 5.9,
-   "owned_by": 7.2,
+   "owned_by": 7.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -466,16 +466,16 @@
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
@@ -508,16 +508,16 @@
     },
     {
      "rank": 14,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 86,
      "total": 147
     },
     {
      "rank": 14,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 86,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
@@ -578,16 +578,16 @@
     },
     {
      "rank": 24,
-     "team": "Crew Alexander",
-     "player": "Alex Brumby",
-     "gw": 76,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 98,
      "total": 132
     },
     {
      "rank": 24,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 98,
+     "team": "Can'r tie my shoes",
+     "player": "Alex Kennedy",
+     "gw": 74,
      "total": 132
     }
    ]
@@ -675,16 +675,16 @@
     },
     {
      "rank": 12,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 98,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 98,
      "total": 147
     },
     {
@@ -1672,7 +1672,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 6.5
+   "owned_by": 6.6
   }
  ],
  "rival_count": 26,
@@ -2922,7 +2922,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 7.2,
+   "owned_globally_pct": 7.1,
    "i_own": true
   },
   {
@@ -3048,7 +3048,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 18.0,
+   "owned_globally_pct": 18.1,
    "i_own": false
   },
   {
