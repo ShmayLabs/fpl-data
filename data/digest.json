@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-01T13:19:25Z",
+ "generated_utc": "2026-09-01T13:41:51Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -506,16 +506,16 @@
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
@@ -701,30 +701,30 @@
     },
     {
      "rank": 10,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 100,
-     "total": 149
-    },
-    {
-     "rank": 10,
      "team": "beef cherki",
      "player": "Samuel Dennis",
      "gw": 92,
      "total": 149
     },
     {
-     "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 107,
-     "total": 148
+     "rank": 10,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 100,
+     "total": 149
     },
     {
      "rank": 12,
      "team": "Static FC",
      "player": "Nathaniel Josephs",
      "gw": 103,
+     "total": 148
+    },
+    {
+     "rank": 12,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 107,
      "total": 148
     },
     {
@@ -1536,7 +1536,7 @@
    "pos": "MID",
    "price": 5.5,
    "points": 13,
-   "owned_by": 13.9
+   "owned_by": 14.0
   },
   {
    "name": "Haaland",
@@ -2460,6 +2460,43 @@
    ]
   },
   {
+   "team": "beef cherki",
+   "manager": "Samuel Dennis",
+   "rank": 10,
+   "total": 149,
+   "chip": null,
+   "squad": [
+    "Lammens",
+    "van Ewijk",
+    "Gabriel",
+    "Calafiori",
+    "Shaw",
+    "Szoboszlai",
+    "Rogers",
+    "B.Fernandes",
+    "Tzolis",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Dubravka",
+    "Kusi-Asare",
+    "Diop",
+    "Hughes"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Diop",
+    "Gabriel",
+    "Shaw",
+    "Calafiori",
+    "Rogers",
+    "Tzolis",
+    "van Ewijk",
+    "Szoboszlai",
+    "Kusi-Asare",
+    "Lammens"
+   ]
+  },
+  {
    "team": "Millennium Falcons",
    "manager": "Jack Richardson",
    "rank": 10,
@@ -2495,43 +2532,6 @@
     "van Ewijk",
     "Pedro Porro",
     "Gy\u00f6keres"
-   ]
-  },
-  {
-   "team": "beef cherki",
-   "manager": "Samuel Dennis",
-   "rank": 10,
-   "total": 149,
-   "chip": null,
-   "squad": [
-    "Lammens",
-    "van Ewijk",
-    "Gabriel",
-    "Calafiori",
-    "Shaw",
-    "Szoboszlai",
-    "Rogers",
-    "B.Fernandes",
-    "Tzolis",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Dubravka",
-    "Kusi-Asare",
-    "Diop",
-    "Hughes"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Diop",
-    "Gabriel",
-    "Shaw",
-    "Calafiori",
-    "Rogers",
-    "Tzolis",
-    "van Ewijk",
-    "Szoboszlai",
-    "Kusi-Asare",
-    "Lammens"
    ]
   },
   {
@@ -2827,7 +2827,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 14.6,
+   "owned_globally_pct": 14.5,
    "i_own": false
   },
   {
@@ -2845,7 +2845,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 15.6,
+   "owned_globally_pct": 15.5,
    "i_own": false
   },
   {
@@ -2953,7 +2953,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 13.9,
+   "owned_globally_pct": 14.0,
    "i_own": false
   },
   {
@@ -3115,7 +3115,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 12.5,
+   "owned_globally_pct": 12.4,
    "i_own": false
   },
   {
@@ -3331,7 +3331,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 9.3,
+   "owned_globally_pct": 9.4,
    "i_own": false
   },
   {
