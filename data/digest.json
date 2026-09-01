@@ -1,31 +1,31 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [
-  "PRICE FALL: Mu\u00f1oz dropped \u00a30.1m this gameweek.",
-  "ZERO MINUTES: Mu\u00f1oz (CRY) played no part in the last gameweek despite being available.",
   "PRICE FALL: E.Le F\u00e9e dropped \u00a30.1m this gameweek.",
-  "ZERO MINUTES: Dubravka (TOT) played no part in the last gameweek despite being available.",
-  "ZERO MINUTES: Hughes (CRY) played no part in the last gameweek despite being available.",
-  "UNAVAILABLE: Ramsay (LIV) \u2014 Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week \u2014 replace him when a free transfer is spare, not urgently."
+  "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
+  "PRICE FALL: Mu\u00f1oz dropped \u00a30.1m this gameweek.",
+  "ZERO MINUTES: Mu\u00f1oz (CRY) played no part in a FINISHED match despite being available.",
+  "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
+  "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-01T09:41:40Z",
+ "generated_utc": "2026-09-01T10:04:07Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
  "squad_from_gw": 2,
  "entry_history": {
   "event": 2,
-  "points": 106,
-  "total_points": 147,
-  "rank": 887382,
-  "rank_sort": 915632,
-  "overall_rank": 2214997,
+  "points": 107,
+  "total_points": 148,
+  "rank": 845481,
+  "rank_sort": 874003,
+  "overall_rank": 2204066,
   "percentile_rank": 10,
   "overall_rank_percentage": "22",
   "bank": 0,
   "value": 1001,
   "event_transfers": 0,
   "event_transfers_cost": 0,
-  "points_on_bench": 1
+  "points_on_bench": 0
  },
  "season_history": [
   {
@@ -45,18 +45,18 @@
   },
   {
    "event": 2,
-   "points": 106,
-   "total_points": 147,
-   "rank": 887382,
-   "rank_sort": 915632,
-   "overall_rank": 2214997,
+   "points": 107,
+   "total_points": 148,
+   "rank": 845481,
+   "rank_sort": 874003,
+   "overall_rank": 2204066,
    "percentile_rank": 10,
    "overall_rank_percentage": "22",
    "bank": 0,
    "value": 1001,
    "event_transfers": 0,
    "event_transfers_cost": 0,
-   "points_on_bench": 1
+   "points_on_bench": 0
   }
  ],
  "squad": [
@@ -75,7 +75,9 @@
    "gw_points": 6,
    "gw_minutes": 90,
    "form": "3.5",
-   "total_points": 7
+   "total_points": 7,
+   "fixture_state": "played",
+   "zero_minutes_means": null
   },
   {
    "name": "Tarkowski",
@@ -92,7 +94,9 @@
    "gw_points": 12,
    "gw_minutes": 90,
    "form": "9.0",
-   "total_points": 18
+   "total_points": 18,
+   "fixture_state": "played",
+   "zero_minutes_means": null
   },
   {
    "name": "Gu\u00e9hi",
@@ -109,24 +113,9 @@
    "gw_points": 2,
    "gw_minutes": 90,
    "form": "6.0",
-   "total_points": 12
-  },
-  {
-   "name": "Mu\u00f1oz",
-   "team": "CRY",
-   "pos": "DEF",
-   "price": 5.4,
-   "owned_by": 7.1,
-   "is_captain": false,
-   "is_vice": false,
-   "on_bench": false,
-   "status": "a",
-   "chance_next": null,
-   "news": "",
-   "gw_points": 0,
-   "gw_minutes": 0,
-   "form": "0.0",
-   "total_points": 0
+   "total_points": 12,
+   "fixture_state": "played",
+   "zero_minutes_means": null
   },
   {
    "name": "N.Williams",
@@ -143,7 +132,28 @@
    "gw_points": 6,
    "gw_minutes": 90,
    "form": "4.0",
-   "total_points": 8
+   "total_points": 8,
+   "fixture_state": "played",
+   "zero_minutes_means": null
+  },
+  {
+   "name": "Yarmoliuk",
+   "team": "BRE",
+   "pos": "MID",
+   "price": 5.0,
+   "owned_by": 1.0,
+   "is_captain": false,
+   "is_vice": false,
+   "on_bench": false,
+   "status": "a",
+   "chance_next": null,
+   "news": "",
+   "gw_points": 1,
+   "gw_minutes": 21,
+   "form": "1.0",
+   "total_points": 2,
+   "fixture_state": "played",
+   "zero_minutes_means": null
   },
   {
    "name": "B.Fernandes",
@@ -160,7 +170,9 @@
    "gw_points": 23,
    "gw_minutes": 90,
    "form": "12.5",
-   "total_points": 25
+   "total_points": 25,
+   "fixture_state": "played",
+   "zero_minutes_means": null
   },
   {
    "name": "Mbeumo",
@@ -177,7 +189,9 @@
    "gw_points": 11,
    "gw_minutes": 90,
    "form": "6.5",
-   "total_points": 13
+   "total_points": 13,
+   "fixture_state": "played",
+   "zero_minutes_means": null
   },
   {
    "name": "E.Le F\u00e9e",
@@ -194,7 +208,9 @@
    "gw_points": 3,
    "gw_minutes": 89,
    "form": "2.5",
-   "total_points": 5
+   "total_points": 5,
+   "fixture_state": "played",
+   "zero_minutes_means": null
   },
   {
    "name": "Haaland",
@@ -211,7 +227,9 @@
    "gw_points": 13,
    "gw_minutes": 90,
    "form": "7.5",
-   "total_points": 15
+   "total_points": 15,
+   "fixture_state": "played",
+   "zero_minutes_means": null
   },
   {
    "name": "Jo\u00e3o Pedro",
@@ -228,7 +246,9 @@
    "gw_points": 9,
    "gw_minutes": 90,
    "form": "10.0",
-   "total_points": 20
+   "total_points": 20,
+   "fixture_state": "played",
+   "zero_minutes_means": null
   },
   {
    "name": "Calvert-Lewin",
@@ -245,7 +265,9 @@
    "gw_points": 8,
    "gw_minutes": 90,
    "form": "4.5",
-   "total_points": 9
+   "total_points": 9,
+   "fixture_state": "played",
+   "zero_minutes_means": null
   },
   {
    "name": "Dubravka",
@@ -262,24 +284,28 @@
    "gw_points": 0,
    "gw_minutes": 0,
    "form": "0.0",
-   "total_points": 0
+   "total_points": 0,
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   },
   {
-   "name": "Yarmoliuk",
-   "team": "BRE",
-   "pos": "MID",
-   "price": 5.0,
-   "owned_by": 1.0,
+   "name": "Mu\u00f1oz",
+   "team": "CRY",
+   "pos": "DEF",
+   "price": 5.4,
+   "owned_by": 7.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 1,
-   "gw_minutes": 21,
-   "form": "1.0",
-   "total_points": 2
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "0.0",
+   "total_points": 0,
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   },
   {
    "name": "Hughes",
@@ -296,7 +322,9 @@
    "gw_points": 0,
    "gw_minutes": 0,
    "form": "0.0",
-   "total_points": 0
+   "total_points": 0,
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   },
   {
    "name": "Ramsay",
@@ -313,7 +341,9 @@
    "gw_points": 0,
    "gw_minutes": 0,
    "form": "0.0",
-   "total_points": 0
+   "total_points": 0,
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   }
  ],
  "flagged_players": [
@@ -332,7 +362,9 @@
    "gw_points": 0,
    "gw_minutes": 0,
    "form": "0.0",
-   "total_points": 0
+   "total_points": 0,
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   }
  ],
  "mini_leagues": [
@@ -474,16 +506,16 @@
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
@@ -516,16 +548,16 @@
     },
     {
      "rank": 14,
-     "team": "1T1D",
-     "player": "Stephen Marron",
-     "gw": 86,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 14,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "1T1D",
+     "player": "Stephen Marron",
+     "gw": 86,
      "total": 147
     },
     {
@@ -586,16 +618,16 @@
     },
     {
      "rank": 24,
-     "team": "Crew Alexander",
-     "player": "Alex Brumby",
-     "gw": 76,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 98,
      "total": 132
     },
     {
      "rank": 24,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 98,
+     "team": "Crew Alexander",
+     "player": "Alex Brumby",
+     "gw": 76,
      "total": 132
     }
    ]
@@ -683,16 +715,16 @@
     },
     {
      "rank": 12,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 98,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 98,
      "total": 147
     },
     {
@@ -1496,7 +1528,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 14,
-   "owned_by": 22.1
+   "owned_by": 22.2
   },
   {
    "name": "Gro\u00df",
@@ -1648,7 +1680,7 @@
    "pos": "DEF",
    "price": 8.0,
    "points": 8,
-   "owned_by": 27.3
+   "owned_by": 27.2
   },
   {
    "name": "Thomas",
@@ -1881,15 +1913,15 @@
     "Kerkez",
     "Mykolenko",
     "Gvardiol",
+    "Giles",
     "B.Fernandes",
     "Palmer",
     "Saka",
     "Szoboszlai",
     "Wissa",
     "Thiago",
-    "Gy\u00f6keres",
     "Lecomte",
-    "Giles",
+    "Gy\u00f6keres",
     "Tchaouna",
     "Thomas"
    ],
@@ -1898,15 +1930,15 @@
     "Donnarumma",
     "Kerkez",
     "Gvardiol",
-    "Palmer",
     "Mykolenko",
     "Thiago",
+    "Giles",
     "Saka",
     "Thomas",
     "Szoboszlai",
     "Wissa",
     "Gy\u00f6keres",
-    "Giles",
+    "Palmer",
     "Lecomte",
     "Tchaouna"
    ]
@@ -1921,8 +1953,8 @@
     "Roefs",
     "Tarkowski",
     "Gu\u00e9hi",
-    "Mu\u00f1oz",
     "N.Williams",
+    "Yarmoliuk",
     "B.Fernandes",
     "Mbeumo",
     "E.Le F\u00e9e",
@@ -1930,7 +1962,7 @@
     "Jo\u00e3o Pedro",
     "Calvert-Lewin",
     "Dubravka",
-    "Yarmoliuk",
+    "Mu\u00f1oz",
     "Hughes",
     "Ramsay"
    ],
@@ -2062,15 +2094,15 @@
     "N.Williams",
     "Konsa",
     "Shaw",
-    "Mbeumo",
+    "Pedro Porro",
     "Semenyo",
     "Rice",
     "Wilson",
-    "Jo\u00e3o Pedro",
-    "Gy\u00f6keres",
+    "Mbeumo",
     "Haaland",
+    "Jo\u00e3o Pedro",
     "Dubravka",
-    "Pedro Porro",
+    "Gy\u00f6keres",
     "Gravenberch",
     "Thiaw"
    ],
@@ -2211,17 +2243,17 @@
     "Trafford",
     "Calafiori",
     "Muharemovi\u0107",
-    "O'Nien",
+    "White",
     "Maguire",
     "B.Fernandes",
     "Szoboszlai",
     "Mbeumo",
-    "Kusi-Asare",
+    "Gro\u00df",
     "Haaland",
     "Jo\u00e3o Pedro",
     "Dubravka",
-    "White",
-    "Gro\u00df",
+    "O'Nien",
+    "Kusi-Asare",
     "E.Le F\u00e9e"
    ],
    "captain": "B.Fernandes",
@@ -2358,19 +2390,19 @@
    "chip": null,
    "squad": [
     "Pickford",
-    "Gabriel",
-    "Pedro Porro",
     "White",
+    "Pedro Porro",
+    "Gabriel",
+    "Frimpong",
     "B.Fernandes",
     "Gibbs-White",
     "Gakpo",
     "Semenyo",
-    "Clarke",
     "Jo\u00e3o Pedro",
     "Havertz",
     "Dovin",
     "Simms",
-    "Frimpong",
+    "Clarke",
     "Mitchell"
    ],
    "captain": "Jo\u00e3o Pedro",
@@ -2519,9 +2551,9 @@
     "B.Fernandes",
     "Mbeumo",
     "Jo\u00e3o Pedro",
-    "Gy\u00f6keres",
-    "Dubravka",
     "Brobbey",
+    "Dubravka",
+    "Gy\u00f6keres",
     "Diop",
     "van Ewijk"
    ],
@@ -2551,15 +2583,15 @@
     "Mosquera",
     "Shaw",
     "Gvardiol",
-    "Yeremy",
     "Rice",
+    "Yeremy",
     "Cunha",
-    "Maddison",
-    "Haaland",
+    "Rayan",
     "Isak",
     "Brobbey",
+    "Haaland",
     "Petrovi\u0107",
-    "Rayan",
+    "Maddison",
     "Mings",
     "Colwill"
    ],
@@ -2567,8 +2599,8 @@
    "differentials_vs_me": [
     "Raya",
     "Mings",
-    "Rayan",
     "Maddison",
+    "Rayan",
     "Gvardiol",
     "Shaw",
     "Brobbey",
@@ -2637,12 +2669,12 @@
     "Diop",
     "Semenyo",
     "Rice",
-    "Amad",
-    "Haaland",
-    "Watkins",
-    "Dubravka",
-    "Calvert-Lewin",
     "Bruno G.",
+    "Calvert-Lewin",
+    "Haaland",
+    "Dubravka",
+    "Amad",
+    "Watkins",
     "Henderson"
    ],
    "captain": "Haaland",
@@ -2876,7 +2908,7 @@
    "pos": "DEF",
    "price": 8.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 27.3,
+   "owned_globally_pct": 27.2,
    "i_own": false
   },
   {
@@ -2939,7 +2971,7 @@
    "pos": "FWD",
    "price": 7.4,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 5.7,
+   "owned_globally_pct": 5.6,
    "i_own": false
   },
   {
@@ -3042,21 +3074,21 @@
    "i_own": false
   },
   {
-   "name": "Thiago",
-   "team": "BRE",
-   "pos": "FWD",
-   "price": 8.0,
-   "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 14.9,
-   "i_own": false
-  },
-  {
    "name": "Palmer",
    "team": "CHE",
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 11.5,
    "owned_globally_pct": 18.1,
+   "i_own": false
+  },
+  {
+   "name": "Thiago",
+   "team": "BRE",
+   "pos": "FWD",
+   "price": 8.0,
+   "owned_in_league_pct": 11.5,
+   "owned_globally_pct": 14.9,
    "i_own": false
   },
   {
@@ -3182,7 +3214,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 22.1,
+   "owned_globally_pct": 22.2,
    "i_own": false
   },
   {
@@ -3218,7 +3250,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 6.1,
+   "owned_globally_pct": 6.0,
    "i_own": false
   },
   {
@@ -3330,21 +3362,21 @@
    "i_own": false
   },
   {
-   "name": "Giles",
-   "team": "HUL",
-   "pos": "DEF",
-   "price": 4.0,
-   "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.0,
-   "i_own": false
-  },
-  {
    "name": "Wissa",
    "team": "NEW",
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 9.0,
+   "i_own": false
+  },
+  {
+   "name": "Giles",
+   "team": "HUL",
+   "pos": "DEF",
+   "price": 4.0,
+   "owned_in_league_pct": 3.8,
+   "owned_globally_pct": 1.0,
    "i_own": false
   },
   {
@@ -3416,7 +3448,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.8,
+   "owned_globally_pct": 4.7,
    "i_own": false
   },
   {
@@ -3452,7 +3484,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 13.2,
+   "owned_globally_pct": 13.3,
    "i_own": false
   },
   {
@@ -3461,7 +3493,7 @@
    "pos": "MID",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.2,
+   "owned_globally_pct": 4.3,
    "i_own": false
   },
   {
