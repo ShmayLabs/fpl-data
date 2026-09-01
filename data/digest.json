@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-01T03:42:12Z",
+ "generated_utc": "2026-09-01T04:04:42Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": false,
@@ -74,7 +74,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 9.9,
+   "owned_by": 10.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -108,7 +108,7 @@
    "team": "CRY",
    "pos": "DEF",
    "price": 5.4,
-   "owned_by": 7.2,
+   "owned_by": 7.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -142,7 +142,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 48.0,
+   "owned_by": 48.1,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -466,16 +466,16 @@
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
@@ -578,16 +578,16 @@
     },
     {
      "rank": 24,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 98,
+     "team": "Crew Alexander",
+     "player": "Alex Brumby",
+     "gw": 76,
      "total": 132
     },
     {
      "rank": 24,
-     "team": "Crew Alexander",
-     "player": "Alex Brumby",
-     "gw": 76,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 98,
      "total": 132
     }
    ]
@@ -675,16 +675,16 @@
     },
     {
      "rank": 12,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 98,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 106,
      "total": 147
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 106,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 98,
      "total": 147
     },
     {
@@ -1480,7 +1480,7 @@
    "pos": "MID",
    "price": 12.0,
    "points": 23,
-   "owned_by": 48.0
+   "owned_by": 48.1
   },
   {
    "name": "Cherki",
@@ -1528,7 +1528,7 @@
    "pos": "DEF",
    "price": 6.0,
    "points": 12,
-   "owned_by": 9.9
+   "owned_by": 10.0
   },
   {
    "name": "Calafiori",
@@ -2661,7 +2661,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 48.0,
+   "owned_globally_pct": 48.1,
    "i_own": true
   },
   {
@@ -2823,7 +2823,7 @@
    "pos": "MID",
    "price": 8.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 21.7,
+   "owned_globally_pct": 21.6,
    "i_own": false
   },
   {
@@ -3057,7 +3057,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 9.9,
+   "owned_globally_pct": 10.0,
    "i_own": true
   },
   {
@@ -3372,7 +3372,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 7.2,
+   "owned_globally_pct": 7.1,
    "i_own": true
   },
   {
