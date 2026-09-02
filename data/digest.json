@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-02T10:04:22Z",
+ "generated_utc": "2026-09-02T10:20:14Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -1712,7 +1712,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 7.7
+   "owned_by": 7.8
   }
  ],
  "rival_count": 26,
@@ -2818,7 +2818,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 12.2,
+   "owned_globally_pct": 12.1,
    "i_own": false
   },
   {
@@ -3043,7 +3043,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 4.7,
+   "owned_globally_pct": 4.8,
    "i_own": false
   },
   {
