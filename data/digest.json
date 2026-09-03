@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-03T18:45:04Z",
+ "generated_utc": "2026-09-03T19:07:36Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -179,7 +179,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 29.1,
+   "owned_by": 29.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -506,16 +506,16 @@
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
@@ -701,16 +701,16 @@
     },
     {
      "rank": 10,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 100,
+     "team": "beef cherki",
+     "player": "Samuel Dennis",
+     "gw": 92,
      "total": 149
     },
     {
      "rank": 10,
-     "team": "beef cherki",
-     "player": "Samuel Dennis",
-     "gw": 92,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 100,
      "total": 149
     },
     {
@@ -1576,7 +1576,7 @@
    "pos": "DEF",
    "price": 5.6,
    "points": 11,
-   "owned_by": 43.9
+   "owned_by": 44.0
   },
   {
    "name": "Saka",
@@ -1592,7 +1592,7 @@
    "pos": "MID",
    "price": 8.0,
    "points": 11,
-   "owned_by": 29.1
+   "owned_by": 29.0
   },
   {
    "name": "Hall",
@@ -1712,7 +1712,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 8.9
+   "owned_by": 9.0
   }
  ],
  "rival_count": 26,
@@ -2460,6 +2460,43 @@
    ]
   },
   {
+   "team": "beef cherki",
+   "manager": "Samuel Dennis",
+   "rank": 10,
+   "total": 149,
+   "chip": null,
+   "squad": [
+    "Lammens",
+    "van Ewijk",
+    "Gabriel",
+    "Calafiori",
+    "Shaw",
+    "Szoboszlai",
+    "Rogers",
+    "B.Fernandes",
+    "Tzolis",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Dubravka",
+    "Kusi-Asare",
+    "Diop",
+    "Hughes"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Diop",
+    "Gabriel",
+    "Shaw",
+    "Calafiori",
+    "Rogers",
+    "Tzolis",
+    "van Ewijk",
+    "Szoboszlai",
+    "Kusi-Asare",
+    "Lammens"
+   ]
+  },
+  {
    "team": "Millennium Falcons",
    "manager": "Jack Richardson",
    "rank": 10,
@@ -2495,43 +2532,6 @@
     "van Ewijk",
     "Pedro Porro",
     "Gy\u00f6keres"
-   ]
-  },
-  {
-   "team": "beef cherki",
-   "manager": "Samuel Dennis",
-   "rank": 10,
-   "total": 149,
-   "chip": null,
-   "squad": [
-    "Lammens",
-    "van Ewijk",
-    "Gabriel",
-    "Calafiori",
-    "Shaw",
-    "Szoboszlai",
-    "Rogers",
-    "B.Fernandes",
-    "Tzolis",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Dubravka",
-    "Kusi-Asare",
-    "Diop",
-    "Hughes"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Diop",
-    "Gabriel",
-    "Shaw",
-    "Calafiori",
-    "Rogers",
-    "Tzolis",
-    "van Ewijk",
-    "Szoboszlai",
-    "Kusi-Asare",
-    "Lammens"
    ]
   },
   {
@@ -2728,7 +2728,7 @@
    "pos": "DEF",
    "price": 5.6,
    "owned_in_league_pct": 57.7,
-   "owned_globally_pct": 43.9,
+   "owned_globally_pct": 44.0,
    "i_own": false
   },
   {
@@ -2737,7 +2737,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 29.1,
+   "owned_globally_pct": 29.0,
    "i_own": true
   },
   {
@@ -2944,7 +2944,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 4.9,
+   "owned_globally_pct": 4.8,
    "i_own": false
   },
   {
@@ -3259,7 +3259,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 13.8,
+   "owned_globally_pct": 13.9,
    "i_own": false
   },
   {
