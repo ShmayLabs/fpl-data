@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-03T18:04:01Z",
+ "generated_utc": "2026-09-03T18:22:33Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -84,7 +84,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 10.5,
+   "owned_by": 10.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -506,16 +506,16 @@
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
@@ -701,16 +701,16 @@
     },
     {
      "rank": 10,
-     "team": "beef cherki",
-     "player": "Samuel Dennis",
-     "gw": 92,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 100,
      "total": 149
     },
     {
      "rank": 10,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 100,
+     "team": "beef cherki",
+     "player": "Samuel Dennis",
+     "gw": 92,
      "total": 149
     },
     {
@@ -1568,7 +1568,7 @@
    "pos": "DEF",
    "price": 6.0,
    "points": 12,
-   "owned_by": 10.5
+   "owned_by": 10.6
   },
   {
    "name": "Calafiori",
@@ -1624,7 +1624,7 @@
    "pos": "GK",
    "price": 4.6,
    "points": 10,
-   "owned_by": 7.3
+   "owned_by": 7.4
   },
   {
    "name": "Jo\u00e3o Pedro",
@@ -1640,7 +1640,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 9,
-   "owned_by": 4.7
+   "owned_by": 4.8
   },
   {
    "name": "Foden",
@@ -2460,43 +2460,6 @@
    ]
   },
   {
-   "team": "beef cherki",
-   "manager": "Samuel Dennis",
-   "rank": 10,
-   "total": 149,
-   "chip": null,
-   "squad": [
-    "Lammens",
-    "van Ewijk",
-    "Gabriel",
-    "Calafiori",
-    "Shaw",
-    "Szoboszlai",
-    "Rogers",
-    "B.Fernandes",
-    "Tzolis",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Dubravka",
-    "Kusi-Asare",
-    "Diop",
-    "Hughes"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Diop",
-    "Gabriel",
-    "Shaw",
-    "Calafiori",
-    "Rogers",
-    "Tzolis",
-    "van Ewijk",
-    "Szoboszlai",
-    "Kusi-Asare",
-    "Lammens"
-   ]
-  },
-  {
    "team": "Millennium Falcons",
    "manager": "Jack Richardson",
    "rank": 10,
@@ -2532,6 +2495,43 @@
     "van Ewijk",
     "Pedro Porro",
     "Gy\u00f6keres"
+   ]
+  },
+  {
+   "team": "beef cherki",
+   "manager": "Samuel Dennis",
+   "rank": 10,
+   "total": 149,
+   "chip": null,
+   "squad": [
+    "Lammens",
+    "van Ewijk",
+    "Gabriel",
+    "Calafiori",
+    "Shaw",
+    "Szoboszlai",
+    "Rogers",
+    "B.Fernandes",
+    "Tzolis",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Dubravka",
+    "Kusi-Asare",
+    "Diop",
+    "Hughes"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Diop",
+    "Gabriel",
+    "Shaw",
+    "Calafiori",
+    "Rogers",
+    "Tzolis",
+    "van Ewijk",
+    "Szoboszlai",
+    "Kusi-Asare",
+    "Lammens"
    ]
   },
   {
@@ -2917,7 +2917,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 19.0,
+   "owned_globally_pct": 18.9,
    "i_own": false
   },
   {
@@ -3097,7 +3097,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 10.5,
+   "owned_globally_pct": 10.6,
    "i_own": true
   },
   {
@@ -3502,7 +3502,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 15.6,
+   "owned_globally_pct": 15.7,
    "i_own": false
   },
   {
