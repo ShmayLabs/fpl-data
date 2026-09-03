@@ -8,7 +8,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-03T23:16:34Z",
+ "generated_utc": "2026-09-03T23:39:04Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -180,7 +180,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 28.7,
+   "owned_by": 28.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -507,16 +507,16 @@
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
@@ -716,16 +716,16 @@
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 107,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 103,
      "total": 148
     },
     {
      "rank": 12,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 103,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 107,
      "total": 148
     },
     {
@@ -1593,7 +1593,7 @@
    "pos": "MID",
    "price": 8.0,
    "points": 11,
-   "owned_by": 28.7
+   "owned_by": 28.6
   },
   {
    "name": "Hall",
@@ -1609,7 +1609,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 11,
-   "owned_by": 2.6
+   "owned_by": 2.7
   },
   {
    "name": "Schade",
@@ -1681,7 +1681,7 @@
    "pos": "DEF",
    "price": 8.0,
    "points": 8,
-   "owned_by": 25.9
+   "owned_by": 25.8
   },
   {
    "name": "Thomas",
@@ -2738,7 +2738,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 28.7,
+   "owned_globally_pct": 28.6,
    "i_own": true
   },
   {
@@ -2909,7 +2909,7 @@
    "pos": "DEF",
    "price": 8.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 25.9,
+   "owned_globally_pct": 25.8,
    "i_own": false
   },
   {
@@ -3107,7 +3107,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 17.8,
+   "owned_globally_pct": 17.7,
    "i_own": false
   },
   {
@@ -3332,7 +3332,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 13.1,
+   "owned_globally_pct": 13.2,
    "i_own": false
   },
   {
