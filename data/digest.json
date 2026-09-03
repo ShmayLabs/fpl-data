@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-03T14:21:23Z",
+ "generated_utc": "2026-09-03T14:43:50Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -179,7 +179,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 29.4,
+   "owned_by": 29.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1592,7 +1592,7 @@
    "pos": "MID",
    "price": 8.0,
    "points": 11,
-   "owned_by": 29.4
+   "owned_by": 29.3
   },
   {
    "name": "Hall",
@@ -1600,7 +1600,7 @@
    "pos": "DEF",
    "price": 5.1,
    "points": 11,
-   "owned_by": 8.8
+   "owned_by": 8.9
   },
   {
    "name": "Dedi\u0107",
@@ -1680,7 +1680,7 @@
    "pos": "DEF",
    "price": 8.0,
    "points": 8,
-   "owned_by": 26.2
+   "owned_by": 26.1
   },
   {
    "name": "Thomas",
@@ -2737,7 +2737,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 29.4,
+   "owned_globally_pct": 29.3,
    "i_own": true
   },
   {
@@ -2746,7 +2746,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 38.5,
-   "owned_globally_pct": 21.4,
+   "owned_globally_pct": 21.3,
    "i_own": false
   },
   {
@@ -2908,7 +2908,7 @@
    "pos": "DEF",
    "price": 8.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 26.2,
+   "owned_globally_pct": 26.1,
    "i_own": false
   },
   {
@@ -3331,7 +3331,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 12.2,
+   "owned_globally_pct": 12.3,
    "i_own": false
   },
   {
@@ -3583,7 +3583,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 8.8,
+   "owned_globally_pct": 8.9,
    "i_own": false
   },
   {
