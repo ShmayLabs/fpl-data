@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-03T08:04:50Z",
+ "generated_utc": "2026-09-03T08:20:47Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -217,7 +217,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.5,
-   "owned_by": 70.9,
+   "owned_by": 71.0,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -1528,7 +1528,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 14,
-   "owned_by": 26.0
+   "owned_by": 26.1
   },
   {
    "name": "Gro\u00df",
@@ -1544,7 +1544,7 @@
    "pos": "FWD",
    "price": 15.5,
    "points": 13,
-   "owned_by": 70.9
+   "owned_by": 71.0
   },
   {
    "name": "Gibbs-White",
@@ -2719,7 +2719,7 @@
    "pos": "FWD",
    "price": 15.5,
    "owned_in_league_pct": 73.1,
-   "owned_globally_pct": 70.9,
+   "owned_globally_pct": 71.0,
    "i_own": true
   },
   {
@@ -3223,7 +3223,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 26.0,
+   "owned_globally_pct": 26.1,
    "i_own": false
   },
   {
