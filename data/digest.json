@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-03T19:07:36Z",
+ "generated_utc": "2026-09-03T19:16:42Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -506,16 +506,16 @@
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
@@ -715,16 +715,16 @@
     },
     {
      "rank": 12,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 103,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 107,
      "total": 148
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 107,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 103,
      "total": 148
     },
     {
@@ -1528,7 +1528,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 14,
-   "owned_by": 27.3
+   "owned_by": 27.4
   },
   {
    "name": "Gro\u00df",
@@ -1536,7 +1536,7 @@
    "pos": "MID",
    "price": 5.5,
    "points": 13,
-   "owned_by": 14.9
+   "owned_by": 15.0
   },
   {
    "name": "Haaland",
@@ -1552,7 +1552,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 13,
-   "owned_by": 9.5
+   "owned_by": 9.6
   },
   {
    "name": "Scott",
@@ -2953,7 +2953,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 14.9,
+   "owned_globally_pct": 15.0,
    "i_own": false
   },
   {
@@ -3115,7 +3115,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 11.9,
+   "owned_globally_pct": 11.8,
    "i_own": false
   },
   {
@@ -3160,7 +3160,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.5,
+   "owned_globally_pct": 5.4,
    "i_own": false
   },
   {
@@ -3223,7 +3223,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 27.3,
+   "owned_globally_pct": 27.4,
    "i_own": false
   },
   {
@@ -3502,7 +3502,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 15.7,
+   "owned_globally_pct": 15.8,
    "i_own": false
   },
   {
@@ -3538,7 +3538,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 9.5,
+   "owned_globally_pct": 9.6,
    "i_own": false
   },
   {
