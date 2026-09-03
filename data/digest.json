@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-03T02:45:26Z",
+ "generated_utc": "2026-09-03T03:08:07Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -84,7 +84,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 10.4,
+   "owned_by": 10.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1568,7 +1568,7 @@
    "pos": "DEF",
    "price": 6.0,
    "points": 12,
-   "owned_by": 10.4
+   "owned_by": 10.5
   },
   {
    "name": "Calafiori",
@@ -3097,7 +3097,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 10.4,
+   "owned_globally_pct": 10.5,
    "i_own": true
   },
   {
