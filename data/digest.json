@@ -1,5 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [
+  "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: E.Le F\u00e9e dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "PRICE FALL: Mu\u00f1oz dropped \u00a30.1m this gameweek.",
@@ -7,7 +8,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-03T22:41:49Z",
+ "generated_utc": "2026-09-03T23:04:21Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -140,7 +141,7 @@
    "name": "Yarmoliuk",
    "team": "BRE",
    "pos": "MID",
-   "price": 5.0,
+   "price": 4.9,
    "owned_by": 0.9,
    "is_captain": false,
    "is_vice": false,
@@ -1528,7 +1529,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 14,
-   "owned_by": 27.9
+   "owned_by": 28.0
   },
   {
    "name": "Gro\u00df",
@@ -1574,7 +1575,7 @@
    "name": "Calafiori",
    "team": "ARS",
    "pos": "DEF",
-   "price": 5.6,
+   "price": 5.7,
    "points": 11,
    "owned_by": 44.1
   },
@@ -1648,7 +1649,7 @@
    "pos": "MID",
    "price": 7.0,
    "points": 9,
-   "owned_by": 5.4
+   "owned_by": 5.5
   },
   {
    "name": "Cunha",
@@ -2726,7 +2727,7 @@
    "name": "Calafiori",
    "team": "ARS",
    "pos": "DEF",
-   "price": 5.6,
+   "price": 5.7,
    "owned_in_league_pct": 57.7,
    "owned_globally_pct": 44.1,
    "i_own": false
@@ -3176,7 +3177,7 @@
    "name": "Gakpo",
    "team": "LIV",
    "pos": "MID",
-   "price": 7.0,
+   "price": 7.1,
    "owned_in_league_pct": 7.7,
    "owned_globally_pct": 8.4,
    "i_own": false
@@ -3214,7 +3215,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 7.3,
+   "owned_globally_pct": 7.2,
    "i_own": false
   },
   {
@@ -3223,7 +3224,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 27.9,
+   "owned_globally_pct": 28.0,
    "i_own": false
   },
   {
@@ -3401,7 +3402,7 @@
    "name": "Yarmoliuk",
    "team": "BRE",
    "pos": "MID",
-   "price": 5.0,
+   "price": 4.9,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 0.9,
    "i_own": true
