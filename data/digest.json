@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-03T21:41:11Z",
+ "generated_utc": "2026-09-03T22:03:35Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -541,16 +541,16 @@
     },
     {
      "rank": 13,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 103,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 107,
      "total": 148
     },
     {
      "rank": 13,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 107,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 103,
      "total": 148
     },
     {
@@ -1536,7 +1536,7 @@
    "pos": "MID",
    "price": 5.5,
    "points": 13,
-   "owned_by": 15.0
+   "owned_by": 15.1
   },
   {
    "name": "Haaland",
@@ -2953,7 +2953,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 15.0,
+   "owned_globally_pct": 15.1,
    "i_own": false
   },
   {
@@ -3691,7 +3691,7 @@
    "pos": "DEF",
    "price": 5.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 5.8,
+   "owned_globally_pct": 5.7,
    "i_own": false
   },
   {
