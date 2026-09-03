@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-03T19:16:42Z",
+ "generated_utc": "2026-09-03T19:39:10Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -198,7 +198,7 @@
    "team": "SUN",
    "pos": "MID",
    "price": 5.9,
-   "owned_by": 6.3,
+   "owned_by": 6.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -506,16 +506,16 @@
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
@@ -541,16 +541,16 @@
     },
     {
      "rank": 13,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 107,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 103,
      "total": 148
     },
     {
      "rank": 13,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 103,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 107,
      "total": 148
     },
     {
@@ -2827,7 +2827,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 13.1,
+   "owned_globally_pct": 13.0,
    "i_own": false
   },
   {
@@ -2836,7 +2836,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 21.6,
+   "owned_globally_pct": 21.7,
    "i_own": false
   },
   {
@@ -2872,7 +2872,7 @@
    "pos": "FWD",
    "price": 5.9,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 9.8,
+   "owned_globally_pct": 9.7,
    "i_own": false
   },
   {
@@ -2962,7 +2962,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 6.3,
+   "owned_globally_pct": 6.2,
    "i_own": true
   },
   {
@@ -3331,7 +3331,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 12.7,
+   "owned_globally_pct": 12.8,
    "i_own": false
   },
   {
