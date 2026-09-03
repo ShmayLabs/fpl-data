@@ -7,7 +7,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-03T17:19:02Z",
+ "generated_utc": "2026-09-03T17:41:32Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -103,7 +103,7 @@
    "team": "MCI",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 18.9,
+   "owned_by": 18.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -179,7 +179,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 29.2,
+   "owned_by": 29.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -255,7 +255,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 26.3,
+   "owned_by": 26.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -506,16 +506,16 @@
     },
     {
      "rank": 8,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 102,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 112,
      "total": 161
     },
     {
      "rank": 8,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 112,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 102,
      "total": 161
     },
     {
@@ -715,16 +715,16 @@
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 107,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 103,
      "total": 148
     },
     {
      "rank": 12,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 103,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 107,
      "total": 148
     },
     {
@@ -1584,7 +1584,7 @@
    "pos": "MID",
    "price": 9.5,
    "points": 11,
-   "owned_by": 10.6
+   "owned_by": 10.7
   },
   {
    "name": "Mbeumo",
@@ -1592,7 +1592,7 @@
    "pos": "MID",
    "price": 8.0,
    "points": 11,
-   "owned_by": 29.2
+   "owned_by": 29.1
   },
   {
    "name": "Hall",
@@ -1696,7 +1696,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 8,
-   "owned_by": 26.3
+   "owned_by": 26.2
   },
   {
    "name": "Isak",
@@ -1712,7 +1712,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 8.8
+   "owned_by": 8.9
   }
  ],
  "rival_count": 26,
@@ -2737,7 +2737,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 29.2,
+   "owned_globally_pct": 29.1,
    "i_own": true
   },
   {
@@ -2746,7 +2746,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 38.5,
-   "owned_globally_pct": 21.2,
+   "owned_globally_pct": 21.1,
    "i_own": false
   },
   {
@@ -2800,7 +2800,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 26.3,
+   "owned_globally_pct": 26.2,
    "i_own": true
   },
   {
@@ -2809,7 +2809,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 16.5,
+   "owned_globally_pct": 16.4,
    "i_own": false
   },
   {
@@ -2818,7 +2818,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 12.0,
+   "owned_globally_pct": 11.9,
    "i_own": false
   },
   {
@@ -2827,7 +2827,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 13.2,
+   "owned_globally_pct": 13.1,
    "i_own": false
   },
   {
@@ -2863,7 +2863,7 @@
    "pos": "MID",
    "price": 8.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 20.4,
+   "owned_globally_pct": 20.3,
    "i_own": false
   },
   {
@@ -2989,7 +2989,7 @@
    "pos": "GK",
    "price": 6.0,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 37.8,
+   "owned_globally_pct": 37.7,
    "i_own": false
   },
   {
@@ -3034,7 +3034,7 @@
    "pos": "DEF",
    "price": 5.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 18.1,
+   "owned_globally_pct": 18.2,
    "i_own": false
   },
   {
@@ -3088,7 +3088,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 18.9,
+   "owned_globally_pct": 18.8,
    "i_own": true
   },
   {
@@ -3178,7 +3178,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 8.2,
+   "owned_globally_pct": 8.3,
    "i_own": false
   },
   {
@@ -3322,7 +3322,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 10.6,
+   "owned_globally_pct": 10.7,
    "i_own": false
   },
   {
@@ -3331,7 +3331,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 12.5,
+   "owned_globally_pct": 12.6,
    "i_own": false
   },
   {
