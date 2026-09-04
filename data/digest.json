@@ -16,7 +16,7 @@
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-04T18:43:40Z",
+ "generated_utc": "2026-09-04T19:06:11Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -108,7 +108,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 10.7,
+   "owned_by": 10.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -203,7 +203,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 27.4,
+   "owned_by": 27.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -366,7 +366,7 @@
    "gw_minutes": 0,
    "form": "0.0",
    "total_points": 0,
-   "fixture_state": "not_kicked_off",
+   "fixture_state": "in_progress",
    "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   }
  ],
@@ -387,7 +387,7 @@
    "gw_minutes": 0,
    "form": "0.0",
    "total_points": 0,
-   "fixture_state": "not_kicked_off",
+   "fixture_state": "in_progress",
    "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   }
  ],
@@ -1537,7 +1537,184 @@
    }
   ]
  },
- "top_scorers_this_gw": [],
+ "top_scorers_this_gw": [
+  {
+   "name": "Diop",
+   "team": "IPS",
+   "pos": "DEF",
+   "price": 4.0,
+   "points": 1,
+   "owned_by": 15.6
+  },
+  {
+   "name": "Luki\u0107",
+   "team": "IPS",
+   "pos": "MID",
+   "price": 5.0,
+   "points": 1,
+   "owned_by": 0.1
+  },
+  {
+   "name": "O'Shea",
+   "team": "IPS",
+   "pos": "DEF",
+   "price": 4.0,
+   "points": 1,
+   "owned_by": 3.2
+  },
+  {
+   "name": "Davis",
+   "team": "IPS",
+   "pos": "DEF",
+   "price": 4.0,
+   "points": 1,
+   "owned_by": 5.1
+  },
+  {
+   "name": "Greaves",
+   "team": "IPS",
+   "pos": "DEF",
+   "price": 4.0,
+   "points": 1,
+   "owned_by": 1.3
+  },
+  {
+   "name": "Fatawu",
+   "team": "IPS",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 1,
+   "owned_by": 0.2
+  },
+  {
+   "name": "Emersonn",
+   "team": "IPS",
+   "pos": "FWD",
+   "price": 5.5,
+   "points": 1,
+   "owned_by": 1.6
+  },
+  {
+   "name": "A.Becker",
+   "team": "LIV",
+   "pos": "GK",
+   "price": 5.5,
+   "points": 1,
+   "owned_by": 3.7
+  },
+  {
+   "name": "Virgil",
+   "team": "LIV",
+   "pos": "DEF",
+   "price": 6.5,
+   "points": 1,
+   "owned_by": 17.4
+  },
+  {
+   "name": "Kerkez",
+   "team": "LIV",
+   "pos": "DEF",
+   "price": 5.5,
+   "points": 1,
+   "owned_by": 2.9
+  },
+  {
+   "name": "Jacquet",
+   "team": "LIV",
+   "pos": "DEF",
+   "price": 5.0,
+   "points": 1,
+   "owned_by": 2.6
+  },
+  {
+   "name": "Wirtz",
+   "team": "LIV",
+   "pos": "MID",
+   "price": 7.5,
+   "points": 1,
+   "owned_by": 9.8
+  },
+  {
+   "name": "Gakpo",
+   "team": "LIV",
+   "pos": "MID",
+   "price": 7.1,
+   "points": 1,
+   "owned_by": 8.4
+  },
+  {
+   "name": "Szoboszlai",
+   "team": "LIV",
+   "pos": "MID",
+   "price": 7.0,
+   "points": 1,
+   "owned_by": 41.4
+  },
+  {
+   "name": "Mac Allister",
+   "team": "LIV",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 1,
+   "owned_by": 1.4
+  },
+  {
+   "name": "Munoz",
+   "team": "LIV",
+   "pos": "MID",
+   "price": 6.5,
+   "points": 1,
+   "owned_by": 1.3
+  },
+  {
+   "name": "Isak",
+   "team": "LIV",
+   "pos": "FWD",
+   "price": 9.0,
+   "points": 1,
+   "owned_by": 16.1
+  },
+  {
+   "name": "Maeda",
+   "team": "IPS",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 1,
+   "owned_by": 0.3
+  },
+  {
+   "name": "Scherpen",
+   "team": "IPS",
+   "pos": "GK",
+   "price": 4.5,
+   "points": 1,
+   "owned_by": 0.6
+  },
+  {
+   "name": "Araujo",
+   "team": "LIV",
+   "pos": "DEF",
+   "price": 5.4,
+   "points": 1,
+   "owned_by": 2.1
+  },
+  {
+   "name": "Enciso",
+   "team": "IPS",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 1,
+   "owned_by": 0.8
+  },
+  {
+   "name": "Palacios",
+   "team": "IPS",
+   "pos": "MID",
+   "price": 5.0,
+   "points": 1,
+   "owned_by": 0.0
+  }
+ ],
  "rival_count": 26,
  "rival_squads": [
   {
@@ -2580,7 +2757,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 27.4,
+   "owned_globally_pct": 27.3,
    "i_own": true
   },
   {
@@ -2859,7 +3036,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 18.9,
+   "owned_globally_pct": 19.0,
    "i_own": false
   },
   {
@@ -2895,7 +3072,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 10.7,
+   "owned_globally_pct": 10.8,
    "i_own": true
   },
   {
@@ -3111,7 +3288,7 @@
    "pos": "DEF",
    "price": 4.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 9.1,
+   "owned_globally_pct": 9.2,
    "i_own": false
   },
   {
@@ -3390,7 +3567,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 7.6,
+   "owned_globally_pct": 7.7,
    "i_own": false
   },
   {
