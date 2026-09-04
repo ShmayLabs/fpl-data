@@ -8,7 +8,7 @@
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-04T11:18:52Z",
+ "generated_utc": "2026-09-04T11:41:16Z",
  "next_gw": 3,
  "next_deadline_utc": "2026-09-04T17:30:00Z",
  "gw_finished": true,
@@ -180,7 +180,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 27.9,
+   "owned_by": 27.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -218,7 +218,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.5,
-   "owned_by": 71.8,
+   "owned_by": 71.9,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -716,16 +716,16 @@
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 107,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 103,
      "total": 148
     },
     {
      "rank": 12,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 103,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 107,
      "total": 148
     },
     {
@@ -1529,7 +1529,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 14,
-   "owned_by": 29.6
+   "owned_by": 29.7
   },
   {
    "name": "Gro\u00df",
@@ -1537,7 +1537,7 @@
    "pos": "MID",
    "price": 5.5,
    "points": 13,
-   "owned_by": 15.4
+   "owned_by": 15.5
   },
   {
    "name": "Haaland",
@@ -1545,7 +1545,7 @@
    "pos": "FWD",
    "price": 15.5,
    "points": 13,
-   "owned_by": 71.8
+   "owned_by": 71.9
   },
   {
    "name": "Gibbs-White",
@@ -1593,7 +1593,7 @@
    "pos": "MID",
    "price": 8.0,
    "points": 11,
-   "owned_by": 27.9
+   "owned_by": 27.8
   },
   {
    "name": "Hall",
@@ -1649,7 +1649,7 @@
    "pos": "MID",
    "price": 7.0,
    "points": 9,
-   "owned_by": 5.7
+   "owned_by": 5.8
   },
   {
    "name": "Cunha",
@@ -2720,7 +2720,7 @@
    "pos": "FWD",
    "price": 15.5,
    "owned_in_league_pct": 73.1,
-   "owned_globally_pct": 71.8,
+   "owned_globally_pct": 71.9,
    "i_own": true
   },
   {
@@ -2738,7 +2738,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 50.0,
-   "owned_globally_pct": 27.9,
+   "owned_globally_pct": 27.8,
    "i_own": true
   },
   {
@@ -2792,7 +2792,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 13.6,
+   "owned_globally_pct": 13.5,
    "i_own": false
   },
   {
@@ -2846,7 +2846,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 14.3,
+   "owned_globally_pct": 14.2,
    "i_own": false
   },
   {
@@ -2864,7 +2864,7 @@
    "pos": "MID",
    "price": 8.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 19.9,
+   "owned_globally_pct": 19.8,
    "i_own": false
   },
   {
@@ -2873,7 +2873,7 @@
    "pos": "FWD",
    "price": 5.9,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 9.4,
+   "owned_globally_pct": 9.3,
    "i_own": false
   },
   {
@@ -2918,7 +2918,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 18.8,
+   "owned_globally_pct": 18.7,
    "i_own": false
   },
   {
@@ -2954,7 +2954,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 15.4,
+   "owned_globally_pct": 15.5,
    "i_own": false
   },
   {
@@ -3224,7 +3224,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 29.6,
+   "owned_globally_pct": 29.7,
    "i_own": false
   },
   {
@@ -3251,7 +3251,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 4.6,
+   "owned_globally_pct": 4.5,
    "i_own": false
   },
   {
@@ -3260,7 +3260,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 14.6,
+   "owned_globally_pct": 14.7,
    "i_own": false
   },
   {
@@ -3503,7 +3503,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 17.0,
+   "owned_globally_pct": 17.1,
    "i_own": false
   },
   {
