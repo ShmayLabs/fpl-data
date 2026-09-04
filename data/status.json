@@ -1,9 +1,9 @@
 {
-  "last_successful_pull_utc": "2026-09-04T05:03:50Z",
+  "last_successful_pull_utc": "2026-09-04T05:17:51Z",
   "data_is_stale": false,
-  "pass_started_utc": "2026-09-04T05:01:23Z",
-  "pass_finished_utc": "2026-09-04T05:03:50Z",
-  "pass_number": 3,
+  "pass_started_utc": "2026-09-04T05:15:24Z",
+  "pass_finished_utc": "2026-09-04T05:17:51Z",
+  "pass_number": 1,
   "gameweek_seen": "3",
   "files_ok": [
     "bootstrap.json",
@@ -23,6 +23,6 @@
   "digest": "ok",
   "render": "ok",
   "healthy": true,
-  "run_url": "https://github.com/ShmayLabs/fpl-data/actions/runs/33836177782",
+  "run_url": "https://github.com/ShmayLabs/fpl-data/actions/runs/33839791731",
   "triggered_by": "schedule"
 }
