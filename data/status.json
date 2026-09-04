@@ -1,28 +1,68 @@
 {
-  "last_successful_pull_utc": "2026-09-04T17:17:58Z",
+  "last_successful_pull_utc": "2026-09-04T17:44:40Z",
   "data_is_stale": false,
-  "pass_started_utc": "2026-09-04T17:15:30Z",
-  "pass_finished_utc": "2026-09-04T17:17:58Z",
-  "pass_number": 1,
+  "pass_started_utc": "2026-09-04T17:38:00Z",
+  "pass_finished_utc": "2026-09-04T17:44:40Z",
+  "pass_number": 2,
   "gameweek_seen": "3",
   "files_ok": [
     "bootstrap.json",
     "fixtures.json",
-    "my_entry.json",
-    "my_history.json",
     "my_transfers.json",
     "picks_gw1.json",
     "picks_gw2.json",
-    "live_gw3.json",
     "live_gw2.json"
   ],
-  "files_failed": [],
-  "files_skipped": [
-    "picks_gw3.json"
+  "files_failed": [
+    {
+      "file": "my_entry.json",
+      "error": "HTTP 503 after 3 attempts"
+    },
+    {
+      "file": "my_history.json",
+      "error": "HTTP 503 after 3 attempts"
+    },
+    {
+      "file": "picks_gw3.json",
+      "error": "HTTP 503 after 3 attempts"
+    },
+    {
+      "file": "live_gw3.json",
+      "error": "HTTP 503 after 3 attempts"
+    },
+    {
+      "file": "league_1",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "file": "league_261",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "file": "league_317",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "file": "league_431170",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "file": "league_799195",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "file": "league_861373",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "file": "league_1263138",
+      "error": "HTTP Error 503: Service Unavailable"
+    }
   ],
+  "files_skipped": [],
   "digest": "ok",
   "render": "ok",
-  "healthy": true,
+  "healthy": false,
   "run_url": "https://github.com/ShmayLabs/fpl-data/actions/runs/33899505257",
   "triggered_by": "schedule"
 }
