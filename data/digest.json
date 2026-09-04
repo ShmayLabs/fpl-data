@@ -16,7 +16,7 @@
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-04T20:41:15Z",
+ "generated_utc": "2026-09-04T21:03:47Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -146,7 +146,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.1,
-   "owned_by": 9.6,
+   "owned_by": 9.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -222,7 +222,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 10.2,
+   "owned_by": 10.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -366,8 +366,8 @@
    "gw_minutes": 0,
    "form": "0.0",
    "total_points": 0,
-   "fixture_state": "in_progress",
-   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   }
  ],
  "flagged_players": [
@@ -387,8 +387,8 @@
    "gw_minutes": 0,
    "form": "0.0",
    "total_points": 0,
-   "fixture_state": "in_progress",
-   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   }
  ],
  "mini_leagues": [
@@ -440,17 +440,17 @@
     },
     {
      "rank": 7,
-     "team": "T_R",
-     "player": "Tom Roberts",
-     "gw": 10,
-     "total": 153
-    },
-    {
-     "rank": 8,
      "team": "Wunited",
      "player": "Luke Woodward",
      "gw": 0,
      "total": 153
+    },
+    {
+     "rank": 8,
+     "team": "T_R",
+     "player": "Tom Roberts",
+     "gw": 9,
+     "total": 152
     },
     {
      "rank": 9,
@@ -560,8 +560,8 @@
      "rank": 12,
      "team": "Andrew's Team",
      "player": "Andrew Bradley",
-     "gw": 10,
-     "total": 155
+     "gw": 9,
+     "total": 154
     },
     {
      "rank": 13,
@@ -727,8 +727,8 @@
      "rank": 10,
      "team": "beef cherki",
      "player": "Samuel Dennis",
-     "gw": 4,
-     "total": 153
+     "gw": 6,
+     "total": 155
     },
     {
      "rank": 11,
@@ -755,8 +755,8 @@
      "rank": 14,
      "team": "RebellTeam",
      "player": "Santi Rebella",
-     "gw": 39,
-     "total": 138
+     "gw": 38,
+     "total": 137
     },
     {
      "rank": 15,
@@ -769,8 +769,8 @@
      "rank": 16,
      "team": "Jimbledon FC",
      "player": "James Martin",
-     "gw": 13,
-     "total": 94
+     "gw": 14,
+     "total": 95
     }
    ]
   }
@@ -1559,7 +1559,7 @@
    "team": "LIV",
    "pos": "GK",
    "price": 5.5,
-   "points": 7,
+   "points": 8,
    "owned_by": 3.7
   },
   {
@@ -1567,7 +1567,7 @@
    "team": "LIV",
    "pos": "DEF",
    "price": 6.5,
-   "points": 7,
+   "points": 6,
    "owned_by": 17.4
   },
   {
@@ -1611,12 +1611,20 @@
    "owned_by": 0.0
   },
   {
+   "name": "Diop",
+   "team": "IPS",
+   "pos": "DEF",
+   "price": 4.0,
+   "points": 3,
+   "owned_by": 15.6
+  },
+  {
    "name": "Wirtz",
    "team": "LIV",
    "pos": "MID",
    "price": 7.5,
    "points": 3,
-   "owned_by": 9.8
+   "owned_by": 9.7
   },
   {
    "name": "Szoboszlai",
@@ -1675,14 +1683,6 @@
    "owned_by": 0.6
   },
   {
-   "name": "Diop",
-   "team": "IPS",
-   "pos": "DEF",
-   "price": 4.0,
-   "points": 1,
-   "owned_by": 15.6
-  },
-  {
    "name": "O'Shea",
    "team": "IPS",
    "pos": "DEF",
@@ -1731,12 +1731,12 @@
    "owned_by": 1.6
   },
   {
-   "name": "Enciso",
-   "team": "IPS",
+   "name": "Nyoni",
+   "team": "LIV",
    "pos": "MID",
-   "price": 5.5,
+   "price": 5.0,
    "points": 1,
-   "owned_by": 0.8
+   "owned_by": 0.0
   }
  ],
  "rival_count": 26,
@@ -1973,10 +1973,44 @@
    ]
   },
   {
-   "team": "T_R",
-   "manager": "Tom Roberts",
+   "team": "Wunited",
+   "manager": "Luke Woodward",
    "rank": 7,
    "total": 153,
+   "chip": null,
+   "squad": [
+    "Roefs",
+    "Hume",
+    "Gu\u00e9hi",
+    "Mukiele",
+    "Gabriel",
+    "B.Fernandes",
+    "Ndiaye",
+    "Mbeumo",
+    "Lavia",
+    "Haaland",
+    "Jo\u00e3o Pedro",
+    "Dubravka",
+    "Diop",
+    "Hughes",
+    "Neave"
+   ],
+   "captain": "B.Fernandes",
+   "differentials_vs_me": [
+    "Lavia",
+    "Diop",
+    "Gabriel",
+    "Ndiaye",
+    "Neave",
+    "Mukiele",
+    "Hume"
+   ]
+  },
+  {
+   "team": "T_R",
+   "manager": "Tom Roberts",
+   "rank": 8,
+   "total": 152,
    "chip": null,
    "squad": [
     "Raya",
@@ -2008,40 +2042,6 @@
     "\u00d8degaard",
     "Kusi-Asare",
     "Lammens"
-   ]
-  },
-  {
-   "team": "Wunited",
-   "manager": "Luke Woodward",
-   "rank": 8,
-   "total": 153,
-   "chip": null,
-   "squad": [
-    "Roefs",
-    "Hume",
-    "Gu\u00e9hi",
-    "Mukiele",
-    "Gabriel",
-    "B.Fernandes",
-    "Ndiaye",
-    "Mbeumo",
-    "Lavia",
-    "Haaland",
-    "Jo\u00e3o Pedro",
-    "Dubravka",
-    "Diop",
-    "Hughes",
-    "Neave"
-   ],
-   "captain": "B.Fernandes",
-   "differentials_vs_me": [
-    "Lavia",
-    "Diop",
-    "Gabriel",
-    "Ndiaye",
-    "Neave",
-    "Mukiele",
-    "Hume"
    ]
   },
   {
@@ -2491,7 +2491,7 @@
    "team": "beef cherki",
    "manager": "Samuel Dennis",
    "rank": 10,
-   "total": 153,
+   "total": 155,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2603,7 +2603,7 @@
    "team": "RebellTeam",
    "manager": "Santi Rebella",
    "rank": 14,
-   "total": 138,
+   "total": 137,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2684,7 +2684,7 @@
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 16,
-   "total": 94,
+   "total": 95,
    "chip": null,
    "squad": [
     "Kelleher",
@@ -2943,7 +2943,7 @@
    "pos": "MID",
    "price": 8.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 19.6,
+   "owned_globally_pct": 19.5,
    "i_own": false
   },
   {
@@ -2961,7 +2961,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 9.6,
+   "owned_globally_pct": 9.7,
    "i_own": true
   },
   {
@@ -3001,6 +3001,15 @@
    "i_own": false
   },
   {
+   "name": "Gabriel",
+   "team": "ARS",
+   "pos": "DEF",
+   "price": 8.0,
+   "owned_in_league_pct": 15.4,
+   "owned_globally_pct": 25.8,
+   "i_own": false
+  },
+  {
    "name": "O'Reilly",
    "team": "MCI",
    "pos": "DEF",
@@ -3016,15 +3025,6 @@
    "price": 4.5,
    "owned_in_league_pct": 15.4,
    "owned_globally_pct": 6.6,
-   "i_own": false
-  },
-  {
-   "name": "Gabriel",
-   "team": "ARS",
-   "pos": "DEF",
-   "price": 8.0,
-   "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 25.8,
    "i_own": false
   },
   {
@@ -3123,7 +3123,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 10.2,
+   "owned_globally_pct": 10.3,
    "i_own": true
   },
   {
@@ -3226,15 +3226,6 @@
    "i_own": false
   },
   {
-   "name": "\u00d8degaard",
-   "team": "ARS",
-   "pos": "MID",
-   "price": 6.6,
-   "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 11.1,
-   "i_own": false
-  },
-  {
    "name": "Roefs",
    "team": "SUN",
    "pos": "GK",
@@ -3250,6 +3241,15 @@
    "price": 4.5,
    "owned_in_league_pct": 7.7,
    "owned_globally_pct": 5.4,
+   "i_own": false
+  },
+  {
+   "name": "\u00d8degaard",
+   "team": "ARS",
+   "pos": "MID",
+   "price": 6.6,
+   "owned_in_league_pct": 7.7,
+   "owned_globally_pct": 11.1,
    "i_own": false
   },
   {
