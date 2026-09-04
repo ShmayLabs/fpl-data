@@ -1,9 +1,9 @@
 {
-  "last_successful_pull_utc": "2026-09-04T17:44:40Z",
+  "last_successful_pull_utc": "2026-09-04T18:12:23Z",
   "data_is_stale": false,
-  "pass_started_utc": "2026-09-04T17:38:00Z",
-  "pass_finished_utc": "2026-09-04T17:44:40Z",
-  "pass_number": 2,
+  "pass_started_utc": "2026-09-04T18:04:42Z",
+  "pass_finished_utc": "2026-09-04T18:12:23Z",
+  "pass_number": 3,
   "gameweek_seen": "3",
   "files_ok": [
     "bootstrap.json",
@@ -36,6 +36,14 @@
     },
     {
       "file": "league_261",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "file": "league_276",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "file": "league_314",
       "error": "HTTP Error 503: Service Unavailable"
     },
     {
