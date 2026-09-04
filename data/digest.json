@@ -16,7 +16,7 @@
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-04T22:17:40Z",
+ "generated_utc": "2026-09-04T22:40:08Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -25,11 +25,11 @@
   "event": 3,
   "points": 0,
   "total_points": 148,
-  "rank": null,
-  "rank_sort": null,
-  "overall_rank": 2204066,
-  "percentile_rank": null,
-  "overall_rank_percentage": null,
+  "rank": 9541536,
+  "rank_sort": 9775459,
+  "overall_rank": 3017161,
+  "percentile_rank": 95,
+  "overall_rank_percentage": "29",
   "bank": 1,
   "value": 999,
   "event_transfers": 2,
@@ -222,7 +222,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 10.3,
+   "owned_by": 10.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -600,16 +600,16 @@
     },
     {
      "rank": 18,
-     "team": "Itchib Alls FC",
-     "player": "Bin Dipper",
-     "gw": 16,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 0,
      "total": 148
     },
     {
      "rank": 18,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 0,
+     "team": "Itchib Alls FC",
+     "player": "Bin Dipper",
+     "gw": 16,
      "total": 148
     },
     {
@@ -2871,7 +2871,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 14.2,
+   "owned_globally_pct": 14.1,
    "i_own": false
   },
   {
@@ -2898,7 +2898,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 13.7,
+   "owned_globally_pct": 13.6,
    "i_own": false
   },
   {
@@ -2970,7 +2970,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 17.2,
+   "owned_globally_pct": 17.3,
    "i_own": false
   },
   {
@@ -3051,7 +3051,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 19.2,
+   "owned_globally_pct": 19.3,
    "i_own": false
   },
   {
@@ -3123,7 +3123,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 10.3,
+   "owned_globally_pct": 10.4,
    "i_own": true
   },
   {
@@ -3195,7 +3195,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.8,
+   "owned_globally_pct": 5.7,
    "i_own": false
   },
   {
