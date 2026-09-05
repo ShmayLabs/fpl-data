@@ -15,7 +15,7 @@
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-05T12:21:47Z",
+ "generated_utc": "2026-09-05T12:44:16Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -153,7 +153,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 3,
-   "gw_minutes": 45,
+   "gw_minutes": 51,
    "form": "5.7",
    "total_points": 17,
    "fixture_state": "in_progress",
@@ -229,7 +229,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 0,
-   "gw_minutes": 45,
+   "gw_minutes": 51,
    "form": "5.7",
    "total_points": 17,
    "fixture_state": "in_progress",
@@ -1551,7 +1551,7 @@
    "pos": "MID",
    "price": 7.1,
    "points": 11,
-   "owned_by": 9.2
+   "owned_by": 9.3
   },
   {
    "name": "Tavernier",
@@ -3068,7 +3068,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 4.4,
+   "owned_globally_pct": 4.3,
    "i_own": false
   },
   {
@@ -3203,7 +3203,7 @@
    "pos": "MID",
    "price": 7.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 9.2,
+   "owned_globally_pct": 9.3,
    "i_own": false
   },
   {
@@ -3356,7 +3356,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 4.1,
+   "owned_globally_pct": 4.0,
    "i_own": false
   },
   {
