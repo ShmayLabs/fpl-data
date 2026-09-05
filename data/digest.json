@@ -17,7 +17,7 @@
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-05T00:28:38Z",
+ "generated_utc": "2026-09-05T00:51:06Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -756,8 +756,8 @@
      "rank": 14,
      "team": "RebellTeam",
      "player": "Santi Rebella",
-     "gw": 38,
-     "total": 137
+     "gw": 40,
+     "total": 139
     },
     {
      "rank": 15,
@@ -1564,20 +1564,20 @@
    "owned_by": 3.7
   },
   {
+   "name": "Araujo",
+   "team": "LIV",
+   "pos": "DEF",
+   "price": 5.4,
+   "points": 8,
+   "owned_by": 2.1
+  },
+  {
    "name": "Virgil",
    "team": "LIV",
    "pos": "DEF",
    "price": 6.5,
    "points": 6,
    "owned_by": 17.4
-  },
-  {
-   "name": "Araujo",
-   "team": "LIV",
-   "pos": "DEF",
-   "price": 5.4,
-   "points": 6,
-   "owned_by": 2.1
   },
   {
    "name": "Kerkez",
@@ -1596,14 +1596,6 @@
    "owned_by": 2.6
   },
   {
-   "name": "Mac Allister",
-   "team": "LIV",
-   "pos": "MID",
-   "price": 5.5,
-   "points": 4,
-   "owned_by": 1.4
-  },
-  {
    "name": "Palacios",
    "team": "IPS",
    "pos": "MID",
@@ -1618,6 +1610,14 @@
    "price": 4.0,
    "points": 3,
    "owned_by": 15.5
+  },
+  {
+   "name": "O'Shea",
+   "team": "IPS",
+   "pos": "DEF",
+   "price": 4.0,
+   "points": 3,
+   "owned_by": 3.2
   },
   {
    "name": "Wirtz",
@@ -1668,6 +1668,14 @@
    "owned_by": 1.7
   },
   {
+   "name": "Mac Allister",
+   "team": "LIV",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 2,
+   "owned_by": 1.4
+  },
+  {
    "name": "Maeda",
    "team": "IPS",
    "pos": "MID",
@@ -1682,14 +1690,6 @@
    "price": 4.5,
    "points": 2,
    "owned_by": 0.6
-  },
-  {
-   "name": "O'Shea",
-   "team": "IPS",
-   "pos": "DEF",
-   "price": 4.0,
-   "points": 1,
-   "owned_by": 3.2
   },
   {
    "name": "Davis",
@@ -2604,7 +2604,7 @@
    "team": "RebellTeam",
    "manager": "Santi Rebella",
    "rank": 14,
-   "total": 137,
+   "total": 139,
    "chip": null,
    "squad": [
     "Pickford",
