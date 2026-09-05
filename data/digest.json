@@ -17,7 +17,7 @@
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-05T00:01:25Z",
+ "generated_utc": "2026-09-05T00:23:54Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -280,7 +280,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 26.0,
+   "owned_by": 25.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1545,7 +1545,7 @@
    "pos": "FWD",
    "price": 9.0,
    "points": 13,
-   "owned_by": 16.4
+   "owned_by": 16.5
   },
   {
    "name": "Gakpo",
@@ -1633,7 +1633,7 @@
    "pos": "MID",
    "price": 7.0,
    "points": 3,
-   "owned_by": 41.2
+   "owned_by": 41.1
   },
   {
    "name": "Munoz",
@@ -2773,7 +2773,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 41.2,
+   "owned_globally_pct": 41.1,
    "i_own": false
   },
   {
@@ -2809,7 +2809,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 26.0,
+   "owned_globally_pct": 25.9,
    "i_own": true
   },
   {
@@ -2818,7 +2818,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 16.4,
+   "owned_globally_pct": 16.5,
    "i_own": false
   },
   {
@@ -2926,7 +2926,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 24.8,
+   "owned_globally_pct": 24.9,
    "i_own": false
   },
   {
@@ -3097,7 +3097,7 @@
    "pos": "GK",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 38.4,
+   "owned_globally_pct": 38.5,
    "i_own": false
   },
   {
@@ -3133,7 +3133,7 @@
    "pos": "FWD",
    "price": 5.9,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 9.2,
+   "owned_globally_pct": 9.1,
    "i_own": false
   },
   {
