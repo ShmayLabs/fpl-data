@@ -8,7 +8,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-05T17:16:22Z",
+ "generated_utc": "2026-09-05T17:38:49Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -222,7 +222,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 77,
+   "gw_minutes": 76,
    "form": "6.0",
    "total_points": 18,
    "fixture_state": "played",
@@ -252,7 +252,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 71.4,
+   "owned_by": 71.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -620,16 +620,16 @@
     },
     {
      "rank": 21,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 31,
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
+     "gw": 58,
      "total": 172
     },
     {
      "rank": 21,
-     "team": "Boundary Park Blues",
-     "player": "Ben McNamara",
-     "gw": 58,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 31,
      "total": 172
     },
     {
@@ -663,8 +663,8 @@
      "rank": 2,
      "team": "Accringtonali FC",
      "player": "Kyle Broadhurst",
-     "gw": 50,
-     "total": 227
+     "gw": 51,
+     "total": 228
     },
     {
      "rank": 3,
@@ -1536,7 +1536,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 15,
-   "owned_by": 4.7
+   "owned_by": 4.8
   },
   {
    "name": "Bogle",
@@ -1576,7 +1576,7 @@
    "pos": "MID",
    "price": 7.1,
    "points": 11,
-   "owned_by": 9.7
+   "owned_by": 9.8
   },
   {
    "name": "Tavernier",
@@ -2180,7 +2180,7 @@
    "team": "Accringtonali FC",
    "manager": "Kyle Broadhurst",
    "rank": 2,
-   "total": 227,
+   "total": 228,
    "chip": "wildcard",
    "squad": [
     "Tzolakis",
@@ -2737,7 +2737,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 69.2,
-   "owned_globally_pct": 71.4,
+   "owned_globally_pct": 71.5,
    "i_own": true
   },
   {
@@ -2809,7 +2809,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 30.7,
+   "owned_globally_pct": 30.6,
    "i_own": false
   },
   {
@@ -2917,7 +2917,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 25.0,
+   "owned_globally_pct": 25.1,
    "i_own": false
   },
   {
@@ -2953,7 +2953,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 17.6,
+   "owned_globally_pct": 17.7,
    "i_own": false
   },
   {
@@ -3205,7 +3205,7 @@
    "pos": "MID",
    "price": 7.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 9.7,
+   "owned_globally_pct": 9.8,
    "i_own": false
   },
   {
@@ -3331,7 +3331,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 4.7,
+   "owned_globally_pct": 4.8,
    "i_own": false
   },
   {
@@ -3349,7 +3349,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 4.0,
+   "owned_globally_pct": 3.9,
    "i_own": false
   },
   {
@@ -3538,7 +3538,7 @@
    "pos": "MID",
    "price": 6.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.9,
+   "owned_globally_pct": 3.8,
    "i_own": false
   },
   {
@@ -3583,7 +3583,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 7.9,
+   "owned_globally_pct": 8.0,
    "i_own": false
   },
   {
