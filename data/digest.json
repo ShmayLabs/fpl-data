@@ -8,7 +8,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-05T18:42:17Z",
+ "generated_utc": "2026-09-05T19:04:41Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -138,7 +138,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.1,
-   "owned_by": 10.1,
+   "owned_by": 10.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -599,16 +599,16 @@
     },
     {
      "rank": 19,
-     "team": "Cruckle FC",
-     "player": "Michael Clarkson",
-     "gw": 46,
+     "team": "Crew Alexander",
+     "player": "Alex Brumby",
+     "gw": 41,
      "total": 176
     },
     {
      "rank": 19,
-     "team": "Crew Alexander",
-     "player": "Alex Brumby",
-     "gw": 41,
+     "team": "Cruckle FC",
+     "player": "Michael Clarkson",
+     "gw": 46,
      "total": 176
     },
     {
@@ -634,16 +634,16 @@
     },
     {
      "rank": 24,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 31,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 43,
      "total": 172
     },
     {
      "rank": 24,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 43,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 31,
      "total": 172
     }
    ]
@@ -2863,7 +2863,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 14.0,
+   "owned_globally_pct": 13.9,
    "i_own": false
   },
   {
@@ -2944,7 +2944,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 10.1,
+   "owned_globally_pct": 10.2,
    "i_own": true
   },
   {
@@ -3052,7 +3052,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 19.7,
+   "owned_globally_pct": 19.8,
    "i_own": false
   },
   {
