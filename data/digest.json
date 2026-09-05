@@ -8,7 +8,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-05T21:39:18Z",
+ "generated_utc": "2026-09-05T22:01:42Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -252,7 +252,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 71.5,
+   "owned_by": 71.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -627,16 +627,16 @@
     },
     {
      "rank": 23,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 24,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 29,
      "total": 172
     },
     {
      "rank": 23,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 29,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 24,
      "total": 172
     },
     {
@@ -1552,7 +1552,7 @@
    "pos": "FWD",
    "price": 9.0,
    "points": 13,
-   "owned_by": 17.2
+   "owned_by": 17.3
   },
   {
    "name": "Barnes",
@@ -2737,7 +2737,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 69.2,
-   "owned_globally_pct": 71.5,
+   "owned_globally_pct": 71.6,
    "i_own": true
   },
   {
@@ -2818,7 +2818,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 17.2,
+   "owned_globally_pct": 17.3,
    "i_own": false
   },
   {
@@ -3295,7 +3295,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 7.6,
+   "owned_globally_pct": 7.7,
    "i_own": false
   },
   {
