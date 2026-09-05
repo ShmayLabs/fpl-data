@@ -17,7 +17,7 @@
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-05T08:18:46Z",
+ "generated_utc": "2026-09-05T08:41:11Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -204,7 +204,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.9,
-   "owned_by": 26.9,
+   "owned_by": 26.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -427,16 +427,16 @@
     },
     {
      "rank": 5,
-     "team": "Class of 94",
-     "player": "Dan Healey",
-     "gw": 11,
+     "team": "HaCunha Matata",
+     "player": "Oliver Norris",
+     "gw": 0,
      "total": 154
     },
     {
      "rank": 5,
-     "team": "HaCunha Matata",
-     "player": "Oliver Norris",
-     "gw": 0,
+     "team": "Class of 94",
+     "player": "Dan Healey",
+     "gw": 11,
      "total": 154
     },
     {
@@ -601,16 +601,16 @@
     },
     {
      "rank": 18,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 0,
+     "team": "Itchib Alls FC",
+     "player": "Bin Dipper",
+     "gw": 16,
      "total": 148
     },
     {
      "rank": 18,
-     "team": "Itchib Alls FC",
-     "player": "Bin Dipper",
-     "gw": 16,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 0,
      "total": 148
     },
     {
@@ -1899,43 +1899,6 @@
    ]
   },
   {
-   "team": "Class of 94",
-   "manager": "Dan Healey",
-   "rank": 5,
-   "total": 154,
-   "chip": null,
-   "squad": [
-    "Lammens",
-    "Calafiori",
-    "Gu\u00e9hi",
-    "Egan",
-    "Ndiaye",
-    "Rogers",
-    "B.Fernandes",
-    "Gakpo",
-    "Havertz",
-    "Haaland",
-    "Calvert-Lewin",
-    "Palmer",
-    "van Ewijk",
-    "Diop",
-    "Hughes"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Diop",
-    "Calafiori",
-    "Rogers",
-    "Ndiaye",
-    "Palmer",
-    "Gakpo",
-    "van Ewijk",
-    "Egan",
-    "Havertz",
-    "Lammens"
-   ]
-  },
-  {
    "team": "HaCunha Matata",
    "manager": "Oliver Norris",
    "rank": 5,
@@ -1971,6 +1934,43 @@
     "Thomas",
     "De Cuyper",
     "Gro\u00df"
+   ]
+  },
+  {
+   "team": "Class of 94",
+   "manager": "Dan Healey",
+   "rank": 5,
+   "total": 154,
+   "chip": null,
+   "squad": [
+    "Lammens",
+    "Calafiori",
+    "Gu\u00e9hi",
+    "Egan",
+    "Ndiaye",
+    "Rogers",
+    "B.Fernandes",
+    "Gakpo",
+    "Havertz",
+    "Haaland",
+    "Calvert-Lewin",
+    "Palmer",
+    "van Ewijk",
+    "Diop",
+    "Hughes"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Diop",
+    "Calafiori",
+    "Rogers",
+    "Ndiaye",
+    "Palmer",
+    "Gakpo",
+    "van Ewijk",
+    "Egan",
+    "Havertz",
+    "Lammens"
    ]
   },
   {
@@ -2782,7 +2782,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 26.9,
+   "owned_globally_pct": 26.8,
    "i_own": true
   },
   {
@@ -2935,7 +2935,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 11.8,
+   "owned_globally_pct": 11.7,
    "i_own": false
   },
   {
@@ -2971,7 +2971,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 17.3,
+   "owned_globally_pct": 17.4,
    "i_own": false
   },
   {
@@ -3065,15 +3065,6 @@
    "i_own": false
   },
   {
-   "name": "Gu\u00e9hi",
-   "team": "MCI",
-   "pos": "DEF",
-   "price": 6.0,
-   "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 18.8,
-   "i_own": true
-  },
-  {
    "name": "Mosquera",
    "team": "ARS",
    "pos": "DEF",
@@ -3090,6 +3081,15 @@
    "owned_in_league_pct": 11.5,
    "owned_globally_pct": 3.3,
    "i_own": false
+  },
+  {
+   "name": "Gu\u00e9hi",
+   "team": "MCI",
+   "pos": "DEF",
+   "price": 6.0,
+   "owned_in_league_pct": 11.5,
+   "owned_globally_pct": 18.8,
+   "i_own": true
   },
   {
    "name": "Raya",
