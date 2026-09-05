@@ -17,7 +17,7 @@
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-05T03:18:29Z",
+ "generated_utc": "2026-09-05T03:41:01Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -601,16 +601,16 @@
     },
     {
      "rank": 18,
-     "team": "Itchib Alls FC",
-     "player": "Bin Dipper",
-     "gw": 16,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 0,
      "total": 148
     },
     {
      "rank": 18,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 0,
+     "team": "Itchib Alls FC",
+     "player": "Bin Dipper",
+     "gw": 16,
      "total": 148
     },
     {
