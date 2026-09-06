@@ -8,7 +8,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-06T08:02:15Z",
+ "generated_utc": "2026-09-06T08:19:56Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -1552,7 +1552,7 @@
    "pos": "FWD",
    "price": 9.0,
    "points": 13,
-   "owned_by": 17.4
+   "owned_by": 17.5
   },
   {
    "name": "Barnes",
@@ -1728,7 +1728,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 8,
-   "owned_by": 5.7
+   "owned_by": 5.8
   }
  ],
  "rival_count": 26,
@@ -2818,7 +2818,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 17.4,
+   "owned_globally_pct": 17.5,
    "i_own": false
   },
   {
