@@ -4,7 +4,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-06T18:01:06Z",
+ "generated_utc": "2026-09-06T18:20:35Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -134,7 +134,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.1,
-   "owned_by": 10.6,
+   "owned_by": 10.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -210,7 +210,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 10.8,
+   "owned_by": 10.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -567,16 +567,16 @@
     },
     {
      "rank": 15,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 69,
      "total": 195
     },
     {
      "rank": 15,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 69,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 195
     },
     {
@@ -623,16 +623,16 @@
     },
     {
      "rank": 23,
-     "team": "Cruckle FC",
-     "player": "Michael Clarkson",
-     "gw": 58,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 47,
      "total": 188
     },
     {
      "rank": 23,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 47,
+     "team": "Cruckle FC",
+     "player": "Michael Clarkson",
+     "gw": 58,
      "total": 188
     },
     {
@@ -1548,7 +1548,7 @@
    "pos": "FWD",
    "price": 9.0,
    "points": 13,
-   "owned_by": 18.1
+   "owned_by": 18.2
   },
   {
    "name": "Barnes",
@@ -1580,7 +1580,7 @@
    "pos": "MID",
    "price": 7.1,
    "points": 11,
-   "owned_by": 11.3
+   "owned_by": 11.4
   },
   {
    "name": "\u00d8degaard",
@@ -1684,7 +1684,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 8,
-   "owned_by": 1.1
+   "owned_by": 1.2
   },
   {
    "name": "A.Becker",
@@ -2778,7 +2778,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 18.5,
+   "owned_globally_pct": 18.4,
    "i_own": false
   },
   {
@@ -2814,7 +2814,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 18.1,
+   "owned_globally_pct": 18.2,
    "i_own": false
   },
   {
@@ -2886,7 +2886,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 13.2,
+   "owned_globally_pct": 13.1,
    "i_own": false
   },
   {
@@ -2904,7 +2904,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 11.7,
+   "owned_globally_pct": 11.8,
    "i_own": false
   },
   {
@@ -2913,7 +2913,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 25.9,
+   "owned_globally_pct": 26.0,
    "i_own": false
   },
   {
@@ -2940,7 +2940,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 10.6,
+   "owned_globally_pct": 10.7,
    "i_own": true
   },
   {
@@ -3012,7 +3012,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 17.0,
+   "owned_globally_pct": 16.9,
    "i_own": false
   },
   {
@@ -3075,7 +3075,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 10.8,
+   "owned_globally_pct": 10.7,
    "i_own": true
   },
   {
@@ -3192,7 +3192,7 @@
    "pos": "MID",
    "price": 7.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 11.3,
+   "owned_globally_pct": 11.4,
    "i_own": false
   },
   {
@@ -3300,7 +3300,7 @@
    "pos": "DEF",
    "price": 4.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 10.1,
+   "owned_globally_pct": 10.2,
    "i_own": false
   },
   {
@@ -3372,7 +3372,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.2,
+   "owned_globally_pct": 3.1,
    "i_own": false
   },
   {
@@ -3435,7 +3435,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.1,
+   "owned_globally_pct": 1.2,
    "i_own": false
   },
   {
@@ -3579,7 +3579,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 8.4,
+   "owned_globally_pct": 8.5,
    "i_own": false
   },
   {
