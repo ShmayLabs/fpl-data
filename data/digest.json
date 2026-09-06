@@ -8,7 +8,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-06T04:03:44Z",
+ "generated_utc": "2026-09-06T04:18:37Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -627,16 +627,16 @@
     },
     {
      "rank": 23,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 29,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 24,
      "total": 172
     },
     {
      "rank": 23,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 24,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 29,
      "total": 172
     },
     {
@@ -2764,7 +2764,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 40.5,
+   "owned_globally_pct": 40.4,
    "i_own": false
   },
   {
