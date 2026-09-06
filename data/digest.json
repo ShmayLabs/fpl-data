@@ -8,7 +8,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-06T00:01:33Z",
+ "generated_utc": "2026-09-06T00:23:57Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -515,16 +515,16 @@
     },
     {
      "rank": 7,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
-     "gw": 43,
+     "team": "Maddcatts",
+     "player": "Craig Cattrall",
+     "gw": 46,
      "total": 204
     },
     {
      "rank": 7,
-     "team": "Maddcatts",
-     "player": "Craig Cattrall",
-     "gw": 46,
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
+     "gw": 43,
      "total": 204
     },
     {
@@ -627,16 +627,16 @@
     },
     {
      "rank": 23,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 24,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 29,
      "total": 172
     },
     {
      "rank": 23,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 29,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 24,
      "total": 172
     },
     {
@@ -2953,7 +2953,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 17.8,
+   "owned_globally_pct": 17.9,
    "i_own": false
   },
   {
