@@ -4,7 +4,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-06T22:40:55Z",
+ "generated_utc": "2026-09-06T23:03:25Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -172,7 +172,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 47.7,
+   "owned_by": 47.6,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -567,16 +567,16 @@
     },
     {
      "rank": 15,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 69,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 195
     },
     {
      "rank": 15,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 69,
      "total": 195
     },
     {
@@ -1548,7 +1548,7 @@
    "pos": "FWD",
    "price": 9.0,
    "points": 13,
-   "owned_by": 18.6
+   "owned_by": 18.7
   },
   {
    "name": "Barnes",
@@ -1578,7 +1578,7 @@
    "name": "Gakpo",
    "team": "LIV",
    "pos": "MID",
-   "price": 7.1,
+   "price": 7.2,
    "points": 11,
    "owned_by": 12.2
   },
@@ -1596,7 +1596,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 10,
-   "owned_by": 2.8
+   "owned_by": 2.9
   },
   {
    "name": "Scott",
@@ -2724,7 +2724,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 76.9,
-   "owned_globally_pct": 47.7,
+   "owned_globally_pct": 47.6,
    "i_own": true
   },
   {
@@ -2742,7 +2742,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 53.8,
-   "owned_globally_pct": 46.7,
+   "owned_globally_pct": 46.8,
    "i_own": false
   },
   {
@@ -2760,7 +2760,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 39.6,
+   "owned_globally_pct": 39.5,
    "i_own": false
   },
   {
@@ -2814,7 +2814,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 18.6,
+   "owned_globally_pct": 18.7,
    "i_own": false
   },
   {
@@ -2911,7 +2911,7 @@
    "name": "Rogers",
    "team": "CHE",
    "pos": "MID",
-   "price": 7.5,
+   "price": 7.6,
    "owned_in_league_pct": 19.2,
    "owned_globally_pct": 26.8,
    "i_own": false
@@ -2965,7 +2965,7 @@
    "name": "Egan",
    "team": "HUL",
    "pos": "DEF",
-   "price": 4.0,
+   "price": 4.1,
    "owned_in_league_pct": 15.4,
    "owned_globally_pct": 6.0,
    "i_own": false
@@ -2976,16 +2976,16 @@
    "pos": "FWD",
    "price": 6.2,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 16.4,
+   "owned_globally_pct": 16.5,
    "i_own": false
   },
   {
    "name": "Shaw",
    "team": "MUN",
    "pos": "DEF",
-   "price": 4.5,
+   "price": 4.4,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 14.7,
+   "owned_globally_pct": 14.6,
    "i_own": false
   },
   {
@@ -3012,7 +3012,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 16.6,
+   "owned_globally_pct": 16.5,
    "i_own": false
   },
   {
@@ -3048,7 +3048,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 20.7,
+   "owned_globally_pct": 20.8,
    "i_own": false
   },
   {
@@ -3082,7 +3082,7 @@
    "name": "Mosquera",
    "team": "ARS",
    "pos": "DEF",
-   "price": 5.5,
+   "price": 5.4,
    "owned_in_league_pct": 11.5,
    "owned_globally_pct": 3.9,
    "i_own": false
@@ -3172,7 +3172,7 @@
    "name": "Kerkez",
    "team": "LIV",
    "pos": "DEF",
-   "price": 5.5,
+   "price": 5.4,
    "owned_in_league_pct": 7.7,
    "owned_globally_pct": 2.9,
    "i_own": false
@@ -3181,7 +3181,7 @@
    "name": "Thiago",
    "team": "BRE",
    "pos": "FWD",
-   "price": 8.0,
+   "price": 7.9,
    "owned_in_league_pct": 7.7,
    "owned_globally_pct": 12.6,
    "i_own": false
@@ -3190,7 +3190,7 @@
    "name": "Gakpo",
    "team": "LIV",
    "pos": "MID",
-   "price": 7.1,
+   "price": 7.2,
    "owned_in_league_pct": 7.7,
    "owned_globally_pct": 12.2,
    "i_own": false
@@ -3244,7 +3244,7 @@
    "name": "Rayan",
    "team": "BOU",
    "pos": "MID",
-   "price": 6.5,
+   "price": 6.4,
    "owned_in_league_pct": 7.7,
    "owned_globally_pct": 2.1,
    "i_own": false
@@ -3300,7 +3300,7 @@
    "pos": "DEF",
    "price": 4.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 10.3,
+   "owned_globally_pct": 10.4,
    "i_own": false
   },
   {
@@ -3316,7 +3316,7 @@
    "name": "Anderson",
    "team": "MCI",
    "pos": "MID",
-   "price": 6.4,
+   "price": 6.3,
    "owned_in_league_pct": 7.7,
    "owned_globally_pct": 4.8,
    "i_own": false
