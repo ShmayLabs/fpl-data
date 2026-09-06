@@ -5,7 +5,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-06T13:07:31Z",
+ "generated_utc": "2026-09-06T13:17:18Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -105,9 +105,9 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 1,
-   "form": "6.0",
-   "total_points": 18,
+   "gw_minutes": 12,
+   "form": "6.3",
+   "total_points": 19,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -181,9 +181,9 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 1,
-   "form": "8.3",
-   "total_points": 25,
+   "gw_minutes": 12,
+   "form": "8.7",
+   "total_points": 26,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -200,9 +200,9 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 1,
-   "form": "4.3",
-   "total_points": 13,
+   "gw_minutes": 12,
+   "form": "4.7",
+   "total_points": 14,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -389,78 +389,78 @@
      "rank": 1,
      "team": "I\u2019m a Baleba",
      "player": "Tom Healey",
-     "gw": 56,
-     "total": 228
+     "gw": 57,
+     "total": 229
     },
     {
      "rank": 2,
      "team": "hitmeinthesaka",
      "player": "Liam Fearnley",
-     "gw": 52,
-     "total": 207
+     "gw": 54,
+     "total": 209
     },
     {
      "rank": 3,
      "team": "net six and chill",
      "player": "william batterbury",
-     "gw": 35,
-     "total": 202
+     "gw": 38,
+     "total": 205
     },
     {
      "rank": 4,
      "team": "Bayer Neverlusen",
      "player": "Jamie Mourant",
-     "gw": 32,
-     "total": 191
+     "gw": 35,
+     "total": 194
     },
     {
      "rank": 5,
      "team": "Class of 94",
      "player": "Dan Healey",
-     "gw": 47,
-     "total": 190
+     "gw": 49,
+     "total": 192
     },
     {
-     "rank": 6,
+     "rank": 5,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 41,
-     "total": 189
+     "gw": 44,
+     "total": 192
     },
     {
      "rank": 7,
      "team": "HaCunha Matata",
      "player": "Oliver Norris",
-     "gw": 29,
-     "total": 183
+     "gw": 31,
+     "total": 185
     },
     {
      "rank": 8,
      "team": "Wunited",
      "player": "Luke Woodward",
-     "gw": 27,
-     "total": 180
+     "gw": 30,
+     "total": 183
     },
     {
      "rank": 9,
      "team": "T_R",
      "player": "Tom Roberts",
-     "gw": 27,
-     "total": 170
+     "gw": 28,
+     "total": 171
     },
     {
      "rank": 10,
      "team": "Tics Champs By Xmas",
      "player": "Kieron Murphy",
-     "gw": 31,
-     "total": 151
+     "gw": 33,
+     "total": 153
     },
     {
      "rank": 11,
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
-     "gw": 34,
-     "total": 143
+     "gw": 36,
+     "total": 145
     }
    ]
   },
@@ -512,16 +512,16 @@
     },
     {
      "rank": 7,
-     "team": "Maddcatts",
-     "player": "Craig Cattrall",
-     "gw": 48,
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
+     "gw": 45,
      "total": 206
     },
     {
      "rank": 7,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
-     "gw": 45,
+     "team": "Maddcatts",
+     "player": "Craig Cattrall",
+     "gw": 48,
      "total": 206
     },
     {
@@ -596,16 +596,16 @@
     },
     {
      "rank": 18,
-     "team": "Boundary Park Blues",
-     "player": "Ben McNamara",
-     "gw": 64,
+     "team": "Cruckle FC",
+     "player": "Michael Clarkson",
+     "gw": 48,
      "total": 178
     },
     {
      "rank": 18,
-     "team": "Cruckle FC",
-     "player": "Michael Clarkson",
-     "gw": 48,
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
+     "gw": 64,
      "total": 178
     },
     {
@@ -631,9 +631,9 @@
     },
     {
      "rank": 24,
-     "team": "Itchib Alls FC",
-     "player": "Bin Dipper",
-     "gw": 41,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 44,
      "total": 173
     },
     {
@@ -1533,7 +1533,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 15,
-   "owned_by": 4.9
+   "owned_by": 5.0
   },
   {
    "name": "Bogle",
@@ -1734,7 +1734,7 @@
    "team": "I\u2019m a Baleba",
    "manager": "Tom Healey",
    "rank": 1,
-   "total": 228,
+   "total": 229,
    "chip": "freehit",
    "squad": [
     "Kelleher",
@@ -1773,7 +1773,7 @@
    "team": "hitmeinthesaka",
    "manager": "Liam Fearnley",
    "rank": 2,
-   "total": 207,
+   "total": 209,
    "chip": null,
    "squad": [
     "Donnarumma",
@@ -1814,7 +1814,7 @@
    "team": "net six and chill",
    "manager": "william batterbury",
    "rank": 3,
-   "total": 202,
+   "total": 205,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -1852,7 +1852,7 @@
    "team": "Bayer Neverlusen",
    "manager": "Jamie Mourant",
    "rank": 4,
-   "total": 191,
+   "total": 194,
    "chip": null,
    "squad": [
     "Leno",
@@ -1890,7 +1890,7 @@
    "team": "Class of 94",
    "manager": "Dan Healey",
    "rank": 5,
-   "total": 190,
+   "total": 192,
    "chip": null,
    "squad": [
     "Lammens",
@@ -1953,7 +1953,7 @@
    "team": "HaCunha Matata",
    "manager": "Oliver Norris",
    "rank": 7,
-   "total": 183,
+   "total": 185,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -1991,7 +1991,7 @@
    "team": "Wunited",
    "manager": "Luke Woodward",
    "rank": 8,
-   "total": 180,
+   "total": 183,
    "chip": null,
    "squad": [
     "Roefs",
@@ -2025,7 +2025,7 @@
    "team": "T_R",
    "manager": "Tom Roberts",
    "rank": 9,
-   "total": 170,
+   "total": 171,
    "chip": null,
    "squad": [
     "Raya",
@@ -2063,7 +2063,7 @@
    "team": "Tics Champs By Xmas",
    "manager": "Kieron Murphy",
    "rank": 10,
-   "total": 151,
+   "total": 153,
    "chip": null,
    "squad": [
     "Kelleher",
@@ -2102,7 +2102,7 @@
    "team": "The Goal Hangers",
    "manager": "Nik Barlow",
    "rank": 11,
-   "total": 143,
+   "total": 145,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2779,7 +2779,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 18.7,
+   "owned_globally_pct": 18.6,
    "i_own": false
   },
   {
@@ -3328,7 +3328,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 4.9,
+   "owned_globally_pct": 5.0,
    "i_own": false
   },
   {
@@ -3634,7 +3634,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.8,
+   "owned_globally_pct": 2.7,
    "i_own": false
   },
   {
