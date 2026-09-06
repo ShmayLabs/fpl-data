@@ -8,7 +8,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-06T05:39:27Z",
+ "generated_utc": "2026-09-06T06:01:51Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -592,16 +592,16 @@
     },
     {
      "rank": 18,
-     "team": "Cruckle FC",
-     "player": "Michael Clarkson",
-     "gw": 47,
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
+     "gw": 63,
      "total": 177
     },
     {
      "rank": 18,
-     "team": "Boundary Park Blues",
-     "player": "Ben McNamara",
-     "gw": 63,
+     "team": "Cruckle FC",
+     "player": "Michael Clarkson",
+     "gw": 47,
      "total": 177
     },
     {
@@ -1680,7 +1680,7 @@
    "pos": "DEF",
    "price": 5.6,
    "points": 8,
-   "owned_by": 18.9
+   "owned_by": 19.0
   },
   {
    "name": "Murillo",
@@ -2836,7 +2836,7 @@
    "pos": "DEF",
    "price": 5.6,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 18.9,
+   "owned_globally_pct": 19.0,
    "i_own": false
   },
   {
@@ -3016,7 +3016,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 17.8,
+   "owned_globally_pct": 17.7,
    "i_own": false
   },
   {
