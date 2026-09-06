@@ -4,7 +4,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-06T21:16:59Z",
+ "generated_utc": "2026-09-06T21:39:23Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -96,7 +96,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 11.0,
+   "owned_by": 11.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -134,7 +134,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.1,
-   "owned_by": 10.8,
+   "owned_by": 10.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -172,7 +172,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 47.8,
+   "owned_by": 47.7,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -1548,7 +1548,7 @@
    "pos": "FWD",
    "price": 9.0,
    "points": 13,
-   "owned_by": 18.5
+   "owned_by": 18.6
   },
   {
    "name": "Barnes",
@@ -1708,7 +1708,7 @@
    "pos": "DEF",
    "price": 5.6,
    "points": 8,
-   "owned_by": 19.4
+   "owned_by": 19.5
   },
   {
    "name": "Mbeumo",
@@ -2724,7 +2724,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 76.9,
-   "owned_globally_pct": 47.8,
+   "owned_globally_pct": 47.7,
    "i_own": true
   },
   {
@@ -2778,7 +2778,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 18.3,
+   "owned_globally_pct": 18.2,
    "i_own": false
   },
   {
@@ -2814,7 +2814,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 18.5,
+   "owned_globally_pct": 18.6,
    "i_own": false
   },
   {
@@ -2832,7 +2832,7 @@
    "pos": "DEF",
    "price": 5.6,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 19.4,
+   "owned_globally_pct": 19.5,
    "i_own": false
   },
   {
@@ -2904,7 +2904,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 12.0,
+   "owned_globally_pct": 12.1,
    "i_own": false
   },
   {
@@ -2913,7 +2913,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 26.5,
+   "owned_globally_pct": 26.6,
    "i_own": false
   },
   {
@@ -2922,7 +2922,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 11.5,
+   "owned_globally_pct": 11.4,
    "i_own": false
   },
   {
@@ -2940,7 +2940,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 10.8,
+   "owned_globally_pct": 10.9,
    "i_own": true
   },
   {
@@ -2967,7 +2967,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 5.9,
+   "owned_globally_pct": 6.0,
    "i_own": false
   },
   {
@@ -2976,7 +2976,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 14.8,
+   "owned_globally_pct": 14.7,
    "i_own": false
   },
   {
@@ -3012,7 +3012,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 16.7,
+   "owned_globally_pct": 16.6,
    "i_own": false
   },
   {
@@ -3048,7 +3048,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 20.6,
+   "owned_globally_pct": 20.7,
    "i_own": false
   },
   {
@@ -3066,7 +3066,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 11.0,
+   "owned_globally_pct": 11.1,
    "i_own": true
   },
   {
@@ -3183,7 +3183,7 @@
    "pos": "FWD",
    "price": 8.0,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 12.7,
+   "owned_globally_pct": 12.6,
    "i_own": false
   },
   {
@@ -3228,7 +3228,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.0,
+   "owned_globally_pct": 4.9,
    "i_own": false
   },
   {
