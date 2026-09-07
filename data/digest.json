@@ -4,7 +4,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-07T00:24:05Z",
+ "generated_utc": "2026-09-07T00:30:19Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": false,
@@ -567,30 +567,30 @@
     },
     {
      "rank": 15,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
-     "total": 195
-    },
-    {
-     "rank": 15,
      "team": "Bribery Finary",
      "player": "Andy Livingstone",
      "gw": 69,
      "total": 195
     },
     {
-     "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 49,
-     "total": 193
+     "rank": 15,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
+     "total": 195
     },
     {
      "rank": 17,
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
      "gw": 50,
+     "total": 193
+    },
+    {
+     "rank": 17,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 49,
      "total": 193
     },
     {
@@ -623,16 +623,16 @@
     },
     {
      "rank": 23,
-     "team": "Cruckle FC",
-     "player": "Michael Clarkson",
-     "gw": 58,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 47,
      "total": 188
     },
     {
      "rank": 23,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 47,
+     "team": "Cruckle FC",
+     "player": "Michael Clarkson",
+     "gw": 58,
      "total": 188
     },
     {
