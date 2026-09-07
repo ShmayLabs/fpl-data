@@ -4,7 +4,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-07T13:21:30Z",
+ "generated_utc": "2026-09-07T13:43:56Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": true,
@@ -191,7 +191,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.9,
-   "owned_by": 26.0,
+   "owned_by": 25.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1540,7 +1540,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 14,
-   "owned_by": 1.1
+   "owned_by": 1.2
   },
   {
    "name": "Isak",
@@ -1556,7 +1556,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 12,
-   "owned_by": 1.7
+   "owned_by": 1.8
   },
   {
    "name": "Vuskovic",
@@ -1716,7 +1716,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 8,
-   "owned_by": 26.0
+   "owned_by": 25.9
   },
   {
    "name": "Murillo",
@@ -2760,7 +2760,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 39.2,
+   "owned_globally_pct": 39.1,
    "i_own": false
   },
   {
@@ -2769,7 +2769,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 26.0,
+   "owned_globally_pct": 25.9,
    "i_own": true
   },
   {
@@ -3354,7 +3354,7 @@
    "pos": "FWD",
    "price": 5.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 5.3,
+   "owned_globally_pct": 5.4,
    "i_own": false
   },
   {
@@ -3381,7 +3381,7 @@
    "pos": "FWD",
    "price": 5.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.3,
+   "owned_globally_pct": 1.2,
    "i_own": false
   },
   {
