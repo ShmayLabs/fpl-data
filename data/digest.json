@@ -4,7 +4,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-09T07:20:41Z",
+ "generated_utc": "2026-09-09T07:43:12Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": true,
@@ -581,16 +581,16 @@
     },
     {
      "rank": 17,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 69,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 195
     },
     {
      "rank": 17,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 69,
      "total": 195
     },
     {
@@ -1540,7 +1540,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 14,
-   "owned_by": 1.4
+   "owned_by": 1.5
   },
   {
    "name": "Isak",
@@ -1556,7 +1556,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 12,
-   "owned_by": 1.9
+   "owned_by": 2.0
   },
   {
    "name": "Vuskovic",
@@ -2913,7 +2913,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 28.4,
+   "owned_globally_pct": 28.5,
    "i_own": false
   },
   {
@@ -3111,7 +3111,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 17.3,
+   "owned_globally_pct": 17.2,
    "i_own": false
   },
   {
