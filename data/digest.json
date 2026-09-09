@@ -4,7 +4,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-09T14:42:35Z",
+ "generated_utc": "2026-09-09T15:05:03Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": true,
@@ -581,16 +581,16 @@
     },
     {
      "rank": 17,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 69,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 195
     },
     {
      "rank": 17,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 69,
      "total": 195
     },
     {
