@@ -4,7 +4,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-10T18:21:32Z",
+ "generated_utc": "2026-09-10T18:44:02Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": true,
@@ -191,7 +191,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.9,
-   "owned_by": 25.1,
+   "owned_by": 25.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -248,7 +248,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 72.6,
+   "owned_by": 72.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -400,16 +400,16 @@
     },
     {
      "rank": 3,
-     "team": "Bayer Neverlusen",
-     "player": "Jamie Mourant",
-     "gw": 54,
+     "team": "hitmeinthesaka",
+     "player": "Liam Fearnley",
+     "gw": 58,
      "total": 213
     },
     {
      "rank": 3,
-     "team": "hitmeinthesaka",
-     "player": "Liam Fearnley",
-     "gw": 58,
+     "team": "Bayer Neverlusen",
+     "player": "Jamie Mourant",
+     "gw": 54,
      "total": 213
     },
     {
@@ -637,9 +637,9 @@
     },
     {
      "rank": 25,
-     "team": "Cruckle FC",
-     "player": "Michael Clarkson",
-     "gw": 58,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 47,
      "total": 188
     }
    ]
@@ -1604,7 +1604,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 10,
-   "owned_by": 4.8
+   "owned_by": 4.9
   },
   {
    "name": "George",
@@ -1684,7 +1684,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 8,
-   "owned_by": 1.3
+   "owned_by": 1.4
   },
   {
    "name": "A.Becker",
@@ -1716,7 +1716,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 8,
-   "owned_by": 25.1
+   "owned_by": 25.0
   },
   {
    "name": "Murillo",
@@ -1807,44 +1807,6 @@
    ]
   },
   {
-   "team": "Bayer Neverlusen",
-   "manager": "Jamie Mourant",
-   "rank": 3,
-   "total": 213,
-   "chip": null,
-   "squad": [
-    "Leno",
-    "Calafiori",
-    "Shaw",
-    "Gvardiol",
-    "Gomez",
-    "Szoboszlai",
-    "Mbeumo",
-    "Tzolis",
-    "B.Fernandes",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Kinsky",
-    "Richarlison",
-    "Thomas",
-    "van Ewijk"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Shaw",
-    "Calafiori",
-    "Gvardiol",
-    "Thomas",
-    "Tzolis",
-    "Richarlison",
-    "Szoboszlai",
-    "Kinsky",
-    "van Ewijk",
-    "Leno",
-    "Gomez"
-   ]
-  },
-  {
    "team": "hitmeinthesaka",
    "manager": "Liam Fearnley",
    "rank": 3,
@@ -1883,6 +1845,44 @@
     "Giles",
     "Lecomte",
     "Tchaouna"
+   ]
+  },
+  {
+   "team": "Bayer Neverlusen",
+   "manager": "Jamie Mourant",
+   "rank": 3,
+   "total": 213,
+   "chip": null,
+   "squad": [
+    "Leno",
+    "Calafiori",
+    "Shaw",
+    "Gvardiol",
+    "Gomez",
+    "Szoboszlai",
+    "Mbeumo",
+    "Tzolis",
+    "B.Fernandes",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Kinsky",
+    "Richarlison",
+    "Thomas",
+    "van Ewijk"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Shaw",
+    "Calafiori",
+    "Gvardiol",
+    "Thomas",
+    "Tzolis",
+    "Richarlison",
+    "Szoboszlai",
+    "Kinsky",
+    "van Ewijk",
+    "Leno",
+    "Gomez"
    ]
   },
   {
@@ -2733,7 +2733,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 69.2,
-   "owned_globally_pct": 72.6,
+   "owned_globally_pct": 72.7,
    "i_own": true
   },
   {
@@ -2769,7 +2769,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 25.1,
+   "owned_globally_pct": 25.0,
    "i_own": true
   },
   {
@@ -2886,7 +2886,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 12.1,
+   "owned_globally_pct": 12.0,
    "i_own": false
   },
   {
@@ -2904,7 +2904,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 14.1,
+   "owned_globally_pct": 14.2,
    "i_own": false
   },
   {
@@ -2971,21 +2971,21 @@
    "i_own": false
   },
   {
-   "name": "Shaw",
-   "team": "MUN",
-   "pos": "DEF",
-   "price": 4.4,
-   "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 13.6,
-   "i_own": false
-  },
-  {
    "name": "Wissa",
    "team": "NEW",
    "pos": "FWD",
    "price": 6.2,
    "owned_in_league_pct": 15.4,
    "owned_globally_pct": 17.2,
+   "i_own": false
+  },
+  {
+   "name": "Shaw",
+   "team": "MUN",
+   "pos": "DEF",
+   "price": 4.4,
+   "owned_in_league_pct": 15.4,
+   "owned_globally_pct": 13.5,
    "i_own": false
   },
   {
@@ -3376,33 +3376,6 @@
    "i_own": false
   },
   {
-   "name": "Richarlison",
-   "team": "TOT",
-   "pos": "FWD",
-   "price": 5.9,
-   "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.1,
-   "i_own": false
-  },
-  {
-   "name": "Leno",
-   "team": "FUL",
-   "pos": "GK",
-   "price": 4.5,
-   "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.0,
-   "i_own": false
-  },
-  {
-   "name": "Gomez",
-   "team": "BHA",
-   "pos": "MID",
-   "price": 5.0,
-   "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.8,
-   "i_own": false
-  },
-  {
    "name": "Donnarumma",
    "team": "MCI",
    "pos": "GK",
@@ -3435,7 +3408,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.3,
+   "owned_globally_pct": 1.4,
    "i_own": false
   },
   {
@@ -3454,6 +3427,33 @@
    "price": 5.5,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 0.1,
+   "i_own": false
+  },
+  {
+   "name": "Richarlison",
+   "team": "TOT",
+   "pos": "FWD",
+   "price": 5.9,
+   "owned_in_league_pct": 3.8,
+   "owned_globally_pct": 1.1,
+   "i_own": false
+  },
+  {
+   "name": "Leno",
+   "team": "FUL",
+   "pos": "GK",
+   "price": 4.5,
+   "owned_in_league_pct": 3.8,
+   "owned_globally_pct": 3.0,
+   "i_own": false
+  },
+  {
+   "name": "Gomez",
+   "team": "BHA",
+   "pos": "MID",
+   "price": 5.0,
+   "owned_in_league_pct": 3.8,
+   "owned_globally_pct": 4.8,
    "i_own": false
   },
   {
