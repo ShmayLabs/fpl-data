@@ -4,7 +4,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-11T10:42:06Z",
+ "generated_utc": "2026-09-11T11:04:30Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": true,
@@ -134,7 +134,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.1,
-   "owned_by": 12.6,
+   "owned_by": 12.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -2940,7 +2940,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 12.6,
+   "owned_globally_pct": 12.7,
    "i_own": true
   },
   {
@@ -2949,7 +2949,7 @@
    "pos": "DEF",
    "price": 4.8,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 20.8,
+   "owned_globally_pct": 20.9,
    "i_own": false
   },
   {
@@ -3003,7 +3003,7 @@
    "pos": "DEF",
    "price": 6.4,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 14.0,
+   "owned_globally_pct": 13.9,
    "i_own": false
   },
   {
@@ -3705,7 +3705,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.4,
+   "owned_globally_pct": 2.5,
    "i_own": false
   },
   {
