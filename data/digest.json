@@ -4,7 +4,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-11T15:04:49Z",
+ "generated_utc": "2026-09-11T15:18:58Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": true,
@@ -581,16 +581,16 @@
     },
     {
      "rank": 17,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 69,
      "total": 195
     },
     {
      "rank": 17,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 69,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 195
     },
     {
@@ -637,9 +637,9 @@
     },
     {
      "rank": 25,
-     "team": "Cruckle FC",
-     "player": "Michael Clarkson",
-     "gw": 58,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 47,
      "total": 188
     }
    ]
@@ -1580,7 +1580,7 @@
    "pos": "MID",
    "price": 7.2,
    "points": 11,
-   "owned_by": 13.5
+   "owned_by": 13.4
   },
   {
    "name": "\u00d8degaard",
@@ -2886,7 +2886,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 11.8,
+   "owned_globally_pct": 11.7,
    "i_own": false
   },
   {
@@ -2913,7 +2913,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 31.6,
+   "owned_globally_pct": 31.7,
    "i_own": false
   },
   {
@@ -2985,7 +2985,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 13.1,
+   "owned_globally_pct": 13.0,
    "i_own": false
   },
   {
@@ -3066,7 +3066,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 3.0,
+   "owned_globally_pct": 2.9,
    "i_own": false
   },
   {
@@ -3192,7 +3192,7 @@
    "pos": "MID",
    "price": 7.2,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 13.5,
+   "owned_globally_pct": 13.4,
    "i_own": false
   },
   {
