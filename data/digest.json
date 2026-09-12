@@ -10,7 +10,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Dubravka (TOT) shows 0 minutes but his match is in_progress -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-12T16:41:18Z",
+ "generated_utc": "2026-09-12T17:03:47Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -125,7 +125,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 7,
+   "gw_minutes": 28,
    "form": "5.5",
    "total_points": 22,
    "fixture_state": "in_progress",
@@ -155,7 +155,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 14.0,
+   "owned_by": 14.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -624,16 +624,16 @@
     },
     {
      "rank": 23,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 15,
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
+     "gw": 37,
      "total": 218
     },
     {
      "rank": 23,
-     "team": "Boundary Park Blues",
-     "player": "Ben McNamara",
-     "gw": 37,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 15,
      "total": 218
     },
     {
@@ -1565,7 +1565,7 @@
    "pos": "FWD",
    "price": 5.5,
    "points": 12,
-   "owned_by": 1.7
+   "owned_by": 1.8
   },
   {
    "name": "A.Becker",
@@ -2920,7 +2920,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 14.0,
+   "owned_globally_pct": 14.1,
    "i_own": true
   },
   {
@@ -3037,7 +3037,7 @@
    "pos": "MID",
    "price": 7.4,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 13.0,
+   "owned_globally_pct": 12.9,
    "i_own": false
   },
   {
@@ -3658,7 +3658,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.5,
+   "owned_globally_pct": 2.4,
    "i_own": false
   },
   {
@@ -3685,7 +3685,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.3,
+   "owned_globally_pct": 3.2,
    "i_own": false
   },
   {
