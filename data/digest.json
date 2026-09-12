@@ -16,7 +16,7 @@
   "NOT YET PLAYED: Yarmoliuk (BRE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-12T13:39:39Z",
+ "generated_utc": "2026-09-12T14:02:02Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -588,15 +588,15 @@
     },
     {
      "rank": 17,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
      "gw": 0,
      "total": 195
     },
     {
      "rank": 17,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
      "gw": 0,
      "total": 195
     },
@@ -616,15 +616,15 @@
     },
     {
      "rank": 21,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
      "gw": 0,
      "total": 191
     },
     {
      "rank": 21,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
      "gw": 0,
      "total": 191
     },
@@ -3022,7 +3022,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 10.7,
+   "owned_globally_pct": 10.6,
    "i_own": false
   },
   {
