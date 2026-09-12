@@ -10,7 +10,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Dubravka (TOT) shows 0 minutes but his match is in_progress -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-12T17:03:47Z",
+ "generated_utc": "2026-09-12T17:16:49Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -125,7 +125,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 28,
+   "gw_minutes": 43,
    "form": "5.5",
    "total_points": 22,
    "fixture_state": "in_progress",
@@ -417,8 +417,8 @@
      "rank": 5,
      "team": "hitmeinthesaka",
      "player": "Liam Fearnley",
-     "gw": 14,
-     "total": 227
+     "gw": 17,
+     "total": 230
     },
     {
      "rank": 6,
@@ -624,13 +624,6 @@
     },
     {
      "rank": 23,
-     "team": "Boundary Park Blues",
-     "player": "Ben McNamara",
-     "gw": 37,
-     "total": 218
-    },
-    {
-     "rank": 23,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
      "gw": 15,
@@ -641,6 +634,13 @@
      "team": "Enter Team Name",
      "player": "Andy Grundy",
      "gw": 27,
+     "total": 218
+    },
+    {
+     "rank": 23,
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
+     "gw": 37,
      "total": 218
     }
    ]
@@ -1533,7 +1533,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 15,
-   "owned_by": 3.8
+   "owned_by": 3.9
   },
   {
    "name": "Davis",
@@ -1886,7 +1886,7 @@
    "team": "hitmeinthesaka",
    "manager": "Liam Fearnley",
    "rank": 5,
-   "total": 227,
+   "total": 230,
    "chip": null,
    "squad": [
     "Donnarumma",
@@ -3496,7 +3496,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 5.4,
+   "owned_globally_pct": 5.5,
    "i_own": false
   },
   {
