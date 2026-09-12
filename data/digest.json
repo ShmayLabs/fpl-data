@@ -9,7 +9,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-12T21:18:15Z",
+ "generated_utc": "2026-09-12T21:40:47Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -116,7 +116,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 11.7,
+   "owned_by": 11.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -154,7 +154,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 14.1,
+   "owned_by": 14.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1532,7 +1532,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 15,
-   "owned_by": 4.0
+   "owned_by": 4.1
   },
   {
    "name": "Raya",
@@ -1540,7 +1540,7 @@
    "pos": "GK",
    "price": 6.0,
    "points": 14,
-   "owned_by": 39.1
+   "owned_by": 39.2
   },
   {
    "name": "Davis",
@@ -1572,7 +1572,7 @@
    "pos": "FWD",
    "price": 5.5,
    "points": 12,
-   "owned_by": 1.8
+   "owned_by": 1.9
   },
   {
    "name": "Mykolenko",
@@ -1628,7 +1628,7 @@
    "pos": "MID",
    "price": 7.6,
    "points": 8,
-   "owned_by": 35.0
+   "owned_by": 35.1
   },
   {
    "name": "Tavernier",
@@ -1676,7 +1676,7 @@
    "pos": "DEF",
    "price": 6.0,
    "points": 8,
-   "owned_by": 11.7
+   "owned_by": 11.8
   },
   {
    "name": "Virgil",
@@ -2748,7 +2748,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 42.3,
-   "owned_globally_pct": 35.0,
+   "owned_globally_pct": 35.1,
    "i_own": false
   },
   {
@@ -2883,7 +2883,7 @@
    "pos": "MID",
    "price": 6.4,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 15.9,
+   "owned_globally_pct": 15.8,
    "i_own": false
   },
   {
@@ -2910,7 +2910,7 @@
    "pos": "MID",
    "price": 4.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 5.5,
+   "owned_globally_pct": 5.6,
    "i_own": false
   },
   {
@@ -2919,7 +2919,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 14.1,
+   "owned_globally_pct": 14.2,
    "i_own": true
   },
   {
@@ -3009,7 +3009,7 @@
    "pos": "GK",
    "price": 6.0,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 39.1,
+   "owned_globally_pct": 39.2,
    "i_own": false
   },
   {
@@ -3189,7 +3189,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 11.7,
+   "owned_globally_pct": 11.8,
    "i_own": true
   },
   {
@@ -3225,7 +3225,7 @@
    "pos": "DEF",
    "price": 4.9,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 1.1,
+   "owned_globally_pct": 1.0,
    "i_own": false
   },
   {
@@ -3378,7 +3378,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.8,
+   "owned_globally_pct": 1.9,
    "i_own": false
   },
   {
@@ -3693,7 +3693,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.7,
+   "owned_globally_pct": 2.6,
    "i_own": false
   },
   {
