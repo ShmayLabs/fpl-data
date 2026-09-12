@@ -8,9 +8,9 @@
   "NOT YET PLAYED: Elanga (NEW) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Haaland (MCI) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
-  "NOT YET PLAYED: Dubravka (TOT) shows 0 minutes but his match is in_progress -- do NOT read this as him being dropped."
+  "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-12T18:20:18Z",
+ "generated_utc": "2026-09-12T18:42:47Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -125,10 +125,10 @@
    "chance_next": null,
    "news": "",
    "gw_points": 8,
-   "gw_minutes": 87,
+   "gw_minutes": 90,
    "form": "7.2",
    "total_points": 29,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -269,7 +269,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 73.8,
+   "owned_by": 73.9,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -318,8 +318,8 @@
    "gw_minutes": 0,
    "form": "0.0",
    "total_points": 0,
-   "fixture_state": "in_progress",
-   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   },
   {
    "name": "Egan",
@@ -493,8 +493,8 @@
      "rank": 4,
      "team": "ChickenTikka Mangala",
      "player": "James Davies",
-     "gw": 49,
-     "total": 265
+     "gw": 51,
+     "total": 267
     },
     {
      "rank": 5,
@@ -596,17 +596,17 @@
     },
     {
      "rank": 19,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 33,
+     "total": 226
+    },
+    {
+     "rank": 20,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
      "gw": 22,
      "total": 225
-    },
-    {
-     "rank": 20,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 31,
-     "total": 224
     },
     {
      "rank": 21,
@@ -1557,7 +1557,7 @@
    "pos": "FWD",
    "price": 7.7,
    "points": 12,
-   "owned_by": 73.8
+   "owned_by": 73.9
   },
   {
    "name": "Emersonn",
@@ -1614,6 +1614,14 @@
    "price": 6.0,
    "points": 8,
    "owned_by": 1.0
+  },
+  {
+   "name": "Van Hecke",
+   "team": "TOT",
+   "pos": "DEF",
+   "price": 4.9,
+   "points": 8,
+   "owned_by": 6.8
   },
   {
    "name": "Kamada",
@@ -1718,14 +1726,6 @@
    "price": 5.0,
    "points": 6,
    "owned_by": 0.0
-  },
-  {
-   "name": "Van Hecke",
-   "team": "TOT",
-   "pos": "DEF",
-   "price": 4.9,
-   "points": 6,
-   "owned_by": 6.8
   }
  ],
  "rival_count": 26,
@@ -2713,7 +2713,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 73.8,
+   "owned_globally_pct": 73.9,
    "i_own": true
   },
   {
@@ -2776,7 +2776,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 38.4,
+   "owned_globally_pct": 38.3,
    "i_own": false
   },
   {
@@ -2875,7 +2875,7 @@
    "pos": "DEF",
    "price": 5.6,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 20.4,
+   "owned_globally_pct": 20.5,
    "i_own": false
   },
   {
@@ -3091,7 +3091,7 @@
    "pos": "DEF",
    "price": 6.4,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 13.3,
+   "owned_globally_pct": 13.2,
    "i_own": false
   },
   {
@@ -3118,7 +3118,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 29.4,
+   "owned_globally_pct": 29.3,
    "i_own": false
   },
   {
@@ -3136,7 +3136,7 @@
    "pos": "FWD",
    "price": 5.8,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 6.8,
+   "owned_globally_pct": 6.7,
    "i_own": false
   },
   {
@@ -3199,7 +3199,7 @@
    "pos": "FWD",
    "price": 7.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 8.0,
+   "owned_globally_pct": 8.1,
    "i_own": false
   },
   {
@@ -3667,7 +3667,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.5,
+   "owned_globally_pct": 6.4,
    "i_own": false
   },
   {
