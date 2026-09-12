@@ -4,7 +4,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "UNAVAILABLE: Ramsay (LIV) -- Has joined St Mirren on loan for the rest of the season. He is on the bench, so this costs nothing per week -- replace him when a free transfer is spare, not urgently."
  ],
- "generated_utc": "2026-09-12T08:18:55Z",
+ "generated_utc": "2026-09-12T08:41:20Z",
  "next_gw": 4,
  "next_deadline_utc": "2026-09-12T12:30:00Z",
  "gw_finished": true,
@@ -172,7 +172,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 42.9,
+   "owned_by": 42.8,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -191,7 +191,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.9,
-   "owned_by": 23.7,
+   "owned_by": 23.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -305,7 +305,7 @@
    "team": "BRE",
    "pos": "MID",
    "price": 4.9,
-   "owned_by": 0.8,
+   "owned_by": 0.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -324,7 +324,7 @@
    "team": "CRY",
    "pos": "MID",
    "price": 4.5,
-   "owned_by": 8.5,
+   "owned_by": 8.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -581,16 +581,16 @@
     },
     {
      "rank": 17,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 69,
      "total": 195
     },
     {
      "rank": 17,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 69,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 195
     },
     {
@@ -1548,7 +1548,7 @@
    "pos": "FWD",
    "price": 9.1,
    "points": 13,
-   "owned_by": 23.5
+   "owned_by": 23.6
   },
   {
    "name": "Barnes",
@@ -1580,7 +1580,7 @@
    "pos": "MID",
    "price": 7.2,
    "points": 11,
-   "owned_by": 12.9
+   "owned_by": 12.8
   },
   {
    "name": "\u00d8degaard",
@@ -1588,7 +1588,7 @@
    "pos": "MID",
    "price": 6.7,
    "points": 10,
-   "owned_by": 17.9
+   "owned_by": 18.0
   },
   {
    "name": "Tavernier",
@@ -1716,7 +1716,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 8,
-   "owned_by": 23.7
+   "owned_by": 23.6
   },
   {
    "name": "Murillo",
@@ -2724,7 +2724,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 76.9,
-   "owned_globally_pct": 42.9,
+   "owned_globally_pct": 42.8,
    "i_own": true
   },
   {
@@ -2769,7 +2769,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 23.7,
+   "owned_globally_pct": 23.6,
    "i_own": true
   },
   {
@@ -2814,7 +2814,7 @@
    "pos": "FWD",
    "price": 9.1,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 23.5,
+   "owned_globally_pct": 23.6,
    "i_own": false
   },
   {
@@ -2868,7 +2868,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 8.9,
+   "owned_globally_pct": 8.8,
    "i_own": false
   },
   {
@@ -2895,7 +2895,7 @@
    "pos": "MID",
    "price": 4.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 8.5,
+   "owned_globally_pct": 8.4,
    "i_own": true
   },
   {
@@ -2904,7 +2904,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 16.4,
+   "owned_globally_pct": 16.5,
    "i_own": false
   },
   {
@@ -2913,7 +2913,7 @@
    "pos": "MID",
    "price": 7.6,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 33.9,
+   "owned_globally_pct": 34.0,
    "i_own": false
   },
   {
@@ -2949,7 +2949,7 @@
    "pos": "DEF",
    "price": 4.8,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 22.3,
+   "owned_globally_pct": 22.4,
    "i_own": false
   },
   {
@@ -2958,7 +2958,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 13.0,
+   "owned_globally_pct": 12.9,
    "i_own": false
   },
   {
@@ -3048,7 +3048,7 @@
    "pos": "MID",
    "price": 9.7,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 27.0,
+   "owned_globally_pct": 27.1,
    "i_own": false
   },
   {
@@ -3111,7 +3111,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 17.2,
+   "owned_globally_pct": 17.1,
    "i_own": false
   },
   {
@@ -3192,7 +3192,7 @@
    "pos": "MID",
    "price": 7.2,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 12.9,
+   "owned_globally_pct": 12.8,
    "i_own": false
   },
   {
@@ -3228,7 +3228,7 @@
    "pos": "MID",
    "price": 6.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 17.9,
+   "owned_globally_pct": 18.0,
    "i_own": false
   },
   {
@@ -3345,7 +3345,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 3.1,
+   "owned_globally_pct": 3.0,
    "i_own": false
   },
   {
@@ -3435,7 +3435,7 @@
    "pos": "FWD",
    "price": 5.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.0,
+   "owned_globally_pct": 0.9,
    "i_own": false
   },
   {
@@ -3471,7 +3471,7 @@
    "pos": "MID",
    "price": 4.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 0.8,
+   "owned_globally_pct": 0.7,
    "i_own": true
   },
   {
@@ -3624,7 +3624,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.3,
+   "owned_globally_pct": 2.2,
    "i_own": false
   },
   {
