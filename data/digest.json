@@ -9,7 +9,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-12T19:15:41Z",
+ "generated_utc": "2026-09-12T19:38:10Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -104,10 +104,10 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 1,
-   "gw_minutes": 10,
-   "form": "2.5",
-   "total_points": 10,
+   "gw_points": 2,
+   "gw_minutes": 33,
+   "form": "2.8",
+   "total_points": 11,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -423,8 +423,8 @@
      "rank": 6,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 23,
-     "total": 226
+     "gw": 25,
+     "total": 228
     },
     {
      "rank": 7,
@@ -444,8 +444,8 @@
      "rank": 9,
      "team": "Wunited",
      "player": "Luke Woodward",
-     "gw": 17,
-     "total": 213
+     "gw": 19,
+     "total": 215
     },
     {
      "rank": 10,
@@ -458,8 +458,8 @@
      "rank": 11,
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
-     "gw": 16,
-     "total": 182
+     "gw": 19,
+     "total": 185
     }
    ]
   },
@@ -471,8 +471,8 @@
      "rank": 1,
      "team": "Previously Athletic",
      "player": "Phil Dudson",
-     "gw": 50,
-     "total": 294
+     "gw": 52,
+     "total": 296
     },
     {
      "rank": 2,
@@ -485,8 +485,8 @@
      "rank": 3,
      "team": "L&K 11",
      "player": "Lee Gorman",
-     "gw": 29,
-     "total": 272
+     "gw": 31,
+     "total": 274
     },
     {
      "rank": 4,
@@ -506,8 +506,8 @@
      "rank": 6,
      "team": "Paul's Team",
      "player": "Paul Larkin",
-     "gw": 41,
-     "total": 255
+     "gw": 43,
+     "total": 257
     },
     {
      "rank": 7,
@@ -527,36 +527,36 @@
      "rank": 9,
      "team": "Grab your Jacquet",
      "player": "Jon Marlow",
-     "gw": 45,
-     "total": 240
+     "gw": 47,
+     "total": 242
     },
     {
      "rank": 10,
      "team": "Set and regret",
      "player": "Adam Lowe",
-     "gw": 16,
-     "total": 238
+     "gw": 18,
+     "total": 240
     },
     {
      "rank": 11,
      "team": "Kash FC",
      "player": "Prakash Shan",
-     "gw": 29,
-     "total": 238
+     "gw": 31,
+     "total": 240
     },
     {
      "rank": 12,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 22,
-     "total": 234
+     "team": "WheelshavfallenoffXI",
+     "player": "simon g",
+     "gw": 38,
+     "total": 237
     },
     {
      "rank": 13,
-     "team": "WheelshavfallenoffXI",
-     "player": "simon g",
-     "gw": 35,
-     "total": 234
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 24,
+     "total": 236
     },
     {
      "rank": 14,
@@ -567,73 +567,73 @@
     },
     {
      "rank": 15,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 37,
+     "total": 232
+    },
+    {
+     "rank": 15,
      "team": "Spring Thyme Rovers",
      "player": "Derek Holden",
      "gw": 19,
      "total": 232
     },
     {
-     "rank": 16,
+     "rank": 17,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 37,
+     "total": 230
+    },
+    {
+     "rank": 17,
      "team": "MightyGar",
      "player": "Stephen Lowe",
      "gw": 36,
      "total": 230
     },
     {
-     "rank": 17,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 34,
+     "rank": 19,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 38,
      "total": 229
     },
     {
-     "rank": 17,
+     "rank": 19,
      "team": "Expected Toulouse",
      "player": "Joe McClelland",
      "gw": 44,
      "total": 229
     },
     {
-     "rank": 19,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 35,
-     "total": 228
-    },
-    {
-     "rank": 20,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 36,
+     "rank": 21,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 24,
      "total": 227
     },
     {
-     "rank": 21,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 35,
+     "rank": 22,
+     "team": "Crew Alexander",
+     "player": "Alex Brumby",
+     "gw": 40,
      "total": 226
     },
     {
-     "rank": 21,
+     "rank": 23,
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
      "gw": 30,
      "total": 226
     },
     {
-     "rank": 21,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 23,
+     "rank": 23,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 35,
      "total": 226
-    },
-    {
-     "rank": 24,
-     "team": "Crew Alexander",
-     "player": "Alex Brumby",
-     "gw": 38,
-     "total": 224
     },
     {
      "rank": 25,
@@ -708,8 +708,8 @@
      "rank": 9,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 23,
-     "total": 226
+     "gw": 25,
+     "total": 228
     },
     {
      "rank": 10,
@@ -729,8 +729,8 @@
      "rank": 12,
      "team": "RebellTeam",
      "player": "Santi Rebella",
-     "gw": 53,
-     "total": 217
+     "gw": 56,
+     "total": 220
     },
     {
      "rank": 13,
@@ -750,15 +750,15 @@
      "rank": 15,
      "team": "King Scarles",
      "player": "Tom Horsman",
-     "gw": 10,
-     "total": 195
+     "gw": 13,
+     "total": 198
     },
     {
      "rank": 16,
      "team": "Jimbledon FC",
      "player": "James Martin",
-     "gw": 38,
-     "total": 167
+     "gw": 41,
+     "total": 170
     }
    ]
   }
@@ -1532,7 +1532,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 15,
-   "owned_by": 3.9
+   "owned_by": 4.0
   },
   {
    "name": "Davis",
@@ -1540,7 +1540,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 14,
-   "owned_by": 5.2
+   "owned_by": 5.3
   },
   {
    "name": "Belloumi",
@@ -1668,7 +1668,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 8,
-   "owned_by": 9.5
+   "owned_by": 9.6
   },
   {
    "name": "Affengruber",
@@ -1926,7 +1926,7 @@
    "team": "Claude Mak\u00e9l\u00e9l\u00e9",
    "manager": "Aidan Whitehouse",
    "rank": 9,
-   "total": 226,
+   "total": 228,
    "chip": null,
    "squad": [
     "Roefs",
@@ -2026,7 +2026,7 @@
    "team": "Wunited",
    "manager": "Luke Woodward",
    "rank": 9,
-   "total": 213,
+   "total": 215,
    "chip": null,
    "squad": [
     "Roefs",
@@ -2098,7 +2098,7 @@
    "team": "The Goal Hangers",
    "manager": "Nik Barlow",
    "rank": 11,
-   "total": 182,
+   "total": 185,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2516,7 +2516,7 @@
    "team": "RebellTeam",
    "manager": "Santi Rebella",
    "rank": 12,
-   "total": 217,
+   "total": 220,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2630,7 +2630,7 @@
    "team": "King Scarles",
    "manager": "Tom Horsman",
    "rank": 15,
-   "total": 195,
+   "total": 198,
    "chip": null,
    "squad": [
     "Raya",
@@ -2670,7 +2670,7 @@
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 16,
-   "total": 167,
+   "total": 170,
    "chip": null,
    "squad": [
     "Kelleher",
@@ -2964,7 +2964,7 @@
    "pos": "MID",
    "price": 8.4,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 16.2,
+   "owned_globally_pct": 16.1,
    "i_own": false
   },
   {
@@ -3387,7 +3387,7 @@
    "pos": "GK",
    "price": 4.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.2,
+   "owned_globally_pct": 1.1,
    "i_own": false
   },
   {
@@ -3522,7 +3522,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 9.5,
+   "owned_globally_pct": 9.6,
    "i_own": false
   },
   {
@@ -3576,7 +3576,7 @@
    "pos": "DEF",
    "price": 4.2,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 12.7,
+   "owned_globally_pct": 12.8,
    "i_own": false
   },
   {
