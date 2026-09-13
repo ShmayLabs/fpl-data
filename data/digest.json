@@ -5,7 +5,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-13T19:38:17Z",
+ "generated_utc": "2026-09-13T20:00:49Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -577,16 +577,16 @@
     },
     {
      "rank": 17,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 64,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 75,
      "total": 260
     },
     {
      "rank": 17,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 75,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 64,
      "total": 260
     },
     {
@@ -1592,7 +1592,7 @@
    "pos": "DEF",
    "price": 4.8,
    "points": 11,
-   "owned_by": 22.5
+   "owned_by": 22.6
   },
   {
    "name": "Mykolenko",
@@ -2834,7 +2834,7 @@
    "pos": "DEF",
    "price": 4.8,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 22.5,
+   "owned_globally_pct": 22.6,
    "i_own": false
   },
   {
@@ -3527,7 +3527,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 5.8,
+   "owned_globally_pct": 5.7,
    "i_own": false
   },
   {
