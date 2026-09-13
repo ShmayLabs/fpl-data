@@ -5,7 +5,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-13T19:06:04Z",
+ "generated_utc": "2026-09-13T19:15:46Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -359,7 +359,7 @@
    "team": "CRY",
    "pos": "MID",
    "price": 4.5,
-   "owned_by": 8.3,
+   "owned_by": 8.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1584,7 +1584,7 @@
    "pos": "FWD",
    "price": 5.5,
    "points": 12,
-   "owned_by": 2.1
+   "owned_by": 2.2
   },
   {
    "name": "De Cuyper",
@@ -1608,7 +1608,7 @@
    "pos": "DEF",
    "price": 5.6,
    "points": 11,
-   "owned_by": 21.0
+   "owned_by": 21.1
   },
   {
    "name": "Kostoulas",
@@ -2852,7 +2852,7 @@
    "pos": "DEF",
    "price": 5.6,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 21.0,
+   "owned_globally_pct": 21.1,
    "i_own": false
   },
   {
@@ -2888,7 +2888,7 @@
    "pos": "MID",
    "price": 4.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 8.3,
+   "owned_globally_pct": 8.2,
    "i_own": true
   },
   {
@@ -3050,7 +3050,7 @@
    "pos": "DEF",
    "price": 6.4,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 13.0,
+   "owned_globally_pct": 12.9,
    "i_own": false
   },
   {
@@ -3266,7 +3266,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 10.4,
+   "owned_globally_pct": 10.5,
    "i_own": false
   },
   {
