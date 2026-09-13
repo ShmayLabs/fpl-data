@@ -9,7 +9,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-13T08:42:00Z",
+ "generated_utc": "2026-09-13T09:04:29Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -268,7 +268,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 74.1,
+   "owned_by": 74.2,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -1564,7 +1564,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 74.1
+   "owned_by": 74.2
   },
   {
    "name": "Emersonn",
@@ -2712,7 +2712,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 74.1,
+   "owned_globally_pct": 74.2,
    "i_own": true
   },
   {
@@ -3171,7 +3171,7 @@
    "pos": "FWD",
    "price": 7.9,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 10.4,
+   "owned_globally_pct": 10.3,
    "i_own": false
   },
   {
