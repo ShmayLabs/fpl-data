@@ -9,7 +9,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-13T01:39:28Z",
+ "generated_utc": "2026-09-13T02:02:01Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -116,7 +116,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 11.8,
+   "owned_by": 11.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1676,7 +1676,7 @@
    "pos": "DEF",
    "price": 6.0,
    "points": 8,
-   "owned_by": 11.8
+   "owned_by": 11.9
   },
   {
    "name": "Virgil",
@@ -3189,7 +3189,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 11.8,
+   "owned_globally_pct": 11.9,
    "i_own": true
   },
   {
