@@ -9,7 +9,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-13T04:19:10Z",
+ "generated_utc": "2026-09-13T04:41:41Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -1556,7 +1556,7 @@
    "pos": "MID",
    "price": 5.0,
    "points": 13,
-   "owned_by": 1.6
+   "owned_by": 1.7
   },
   {
    "name": "Jo\u00e3o Pedro",
