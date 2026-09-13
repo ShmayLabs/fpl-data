@@ -9,7 +9,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-13T07:18:31Z",
+ "generated_utc": "2026-09-13T07:40:59Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -1620,7 +1620,7 @@
    "pos": "MID",
    "price": 9.5,
    "points": 8,
-   "owned_by": 11.4
+   "owned_by": 11.5
   },
   {
    "name": "Rogers",
@@ -3162,7 +3162,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 11.4,
+   "owned_globally_pct": 11.5,
    "i_own": false
   },
   {
