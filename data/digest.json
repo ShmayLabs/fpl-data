@@ -5,7 +5,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-13T17:16:55Z",
+ "generated_utc": "2026-09-13T17:39:24Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -112,7 +112,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 12.2,
+   "owned_by": 12.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -139,10 +139,10 @@
    "chance_next": null,
    "news": "",
    "gw_points": 6,
-   "gw_minutes": 86,
+   "gw_minutes": 90,
    "form": "6.5",
    "total_points": 26,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -196,10 +196,10 @@
    "chance_next": null,
    "news": "",
    "gw_points": 2,
-   "gw_minutes": 86,
+   "gw_minutes": 90,
    "form": "7.2",
    "total_points": 29,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -215,10 +215,10 @@
    "chance_next": null,
    "news": "",
    "gw_points": 2,
-   "gw_minutes": 86,
+   "gw_minutes": 90,
    "form": "5.8",
    "total_points": 23,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -253,10 +253,10 @@
    "chance_next": null,
    "news": "",
    "gw_points": 8,
-   "gw_minutes": 86,
+   "gw_minutes": 90,
    "form": "8.0",
    "total_points": 32,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -410,16 +410,16 @@
     },
     {
      "rank": 5,
-     "team": "T_R",
-     "player": "Tom Roberts",
-     "gw": 68,
-     "total": 264
+     "team": "hitmeinthesaka",
+     "player": "Liam Fearnley",
+     "gw": 52,
+     "total": 265
     },
     {
      "rank": 6,
-     "team": "hitmeinthesaka",
-     "player": "Liam Fearnley",
-     "gw": 51,
+     "team": "T_R",
+     "player": "Tom Roberts",
+     "gw": 68,
      "total": 264
     },
     {
@@ -577,20 +577,20 @@
     },
     {
      "rank": 17,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 75,
+     "total": 260
+    },
+    {
+     "rank": 17,
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
      "gw": 64,
      "total": 260
     },
     {
-     "rank": 18,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 74,
-     "total": 259
-    },
-    {
-     "rank": 18,
+     "rank": 19,
      "team": "Blind Faith",
      "player": "Janied Inayat",
      "gw": 68,
@@ -674,16 +674,16 @@
     },
     {
      "rank": 5,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 57,
-     "total": 273
+     "team": "Norris FC",
+     "player": "Rob Norris",
+     "gw": 64,
+     "total": 275
     },
     {
      "rank": 6,
-     "team": "Norris FC",
-     "player": "Rob Norris",
-     "gw": 62,
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 57,
      "total": 273
     },
     {
@@ -746,8 +746,8 @@
      "rank": 15,
      "team": "RebellTeam",
      "player": "Santi Rebella",
-     "gw": 64,
-     "total": 228
+     "gw": 66,
+     "total": 230
     },
     {
      "rank": 16,
@@ -1560,7 +1560,7 @@
    "pos": "MID",
    "price": 5.0,
    "points": 13,
-   "owned_by": 1.9
+   "owned_by": 2.0
   },
   {
    "name": "Dunk",
@@ -1672,7 +1672,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 8,
-   "owned_by": 35.7
+   "owned_by": 35.8
   },
   {
    "name": "Tavernier",
@@ -1878,48 +1878,10 @@
    ]
   },
   {
-   "team": "T_R",
-   "manager": "Tom Roberts",
-   "rank": 5,
-   "total": 264,
-   "chip": null,
-   "squad": [
-    "Raya",
-    "Virgil",
-    "Calafiori",
-    "van Ewijk",
-    "Hughes",
-    "Szoboszlai",
-    "Semenyo",
-    "Mbeumo",
-    "\u00d8degaard",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Lammens",
-    "O'Reilly",
-    "Diop",
-    "Kusi-Asare"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Raya",
-    "Diop",
-    "O'Reilly",
-    "Virgil",
-    "Calafiori",
-    "Semenyo",
-    "van Ewijk",
-    "Szoboszlai",
-    "\u00d8degaard",
-    "Kusi-Asare",
-    "Lammens"
-   ]
-  },
-  {
    "team": "hitmeinthesaka",
    "manager": "Liam Fearnley",
-   "rank": 6,
-   "total": 264,
+   "rank": 5,
+   "total": 265,
    "chip": null,
    "squad": [
     "Donnarumma",
@@ -1954,6 +1916,44 @@
     "Giles",
     "Lecomte",
     "Tchaouna"
+   ]
+  },
+  {
+   "team": "T_R",
+   "manager": "Tom Roberts",
+   "rank": 6,
+   "total": 264,
+   "chip": null,
+   "squad": [
+    "Raya",
+    "Virgil",
+    "Calafiori",
+    "van Ewijk",
+    "Hughes",
+    "Szoboszlai",
+    "Semenyo",
+    "Mbeumo",
+    "\u00d8degaard",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Lammens",
+    "O'Reilly",
+    "Diop",
+    "Kusi-Asare"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Raya",
+    "Diop",
+    "O'Reilly",
+    "Virgil",
+    "Calafiori",
+    "Semenyo",
+    "van Ewijk",
+    "Szoboszlai",
+    "\u00d8degaard",
+    "Kusi-Asare",
+    "Lammens"
    ]
   },
   {
@@ -2281,46 +2281,10 @@
    ]
   },
   {
-   "team": "Bruno Dos Tres",
-   "manager": "David Taylor",
-   "rank": 5,
-   "total": 273,
-   "chip": null,
-   "squad": [
-    "Verbruggen",
-    "Calafiori",
-    "Hall",
-    "N.Williams",
-    "Konsa",
-    "Szoboszlai",
-    "B.Fernandes",
-    "Palmer",
-    "Wissa",
-    "Haaland",
-    "Jo\u00e3o Pedro",
-    "Steele",
-    "M.Sangar\u00e9",
-    "Egan",
-    "Slater"
-   ],
-   "captain": "Palmer",
-   "differentials_vs_me": [
-    "Slater",
-    "Calafiori",
-    "Verbruggen",
-    "Steele",
-    "Szoboszlai",
-    "Wissa",
-    "M.Sangar\u00e9",
-    "Palmer",
-    "Konsa"
-   ]
-  },
-  {
    "team": "Norris FC",
    "manager": "Rob Norris",
-   "rank": 6,
-   "total": 273,
+   "rank": 5,
+   "total": 275,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2352,6 +2316,42 @@
     "Ajer",
     "Palmer",
     "Lammens",
+    "Konsa"
+   ]
+  },
+  {
+   "team": "Bruno Dos Tres",
+   "manager": "David Taylor",
+   "rank": 6,
+   "total": 273,
+   "chip": null,
+   "squad": [
+    "Verbruggen",
+    "Calafiori",
+    "Hall",
+    "N.Williams",
+    "Konsa",
+    "Szoboszlai",
+    "B.Fernandes",
+    "Palmer",
+    "Wissa",
+    "Haaland",
+    "Jo\u00e3o Pedro",
+    "Steele",
+    "M.Sangar\u00e9",
+    "Egan",
+    "Slater"
+   ],
+   "captain": "Palmer",
+   "differentials_vs_me": [
+    "Slater",
+    "Calafiori",
+    "Verbruggen",
+    "Steele",
+    "Szoboszlai",
+    "Wissa",
+    "M.Sangar\u00e9",
+    "Palmer",
     "Konsa"
    ]
   },
@@ -2626,7 +2626,7 @@
    "team": "RebellTeam",
    "manager": "Santi Rebella",
    "rank": 15,
-   "total": 228,
+   "total": 230,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2744,7 +2744,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 42.3,
-   "owned_globally_pct": 35.7,
+   "owned_globally_pct": 35.8,
    "i_own": false
   },
   {
@@ -2987,7 +2987,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 11.4,
+   "owned_globally_pct": 11.3,
    "i_own": false
   },
   {
@@ -3050,7 +3050,7 @@
    "pos": "DEF",
    "price": 6.4,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 13.1,
+   "owned_globally_pct": 13.0,
    "i_own": false
   },
   {
@@ -3113,7 +3113,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 29.3,
+   "owned_globally_pct": 29.2,
    "i_own": false
   },
   {
@@ -3185,7 +3185,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 12.2,
+   "owned_globally_pct": 12.3,
    "i_own": true
   },
   {
@@ -3279,21 +3279,21 @@
    "i_own": false
   },
   {
-   "name": "Steele",
-   "team": "BHA",
-   "pos": "GK",
-   "price": 4.0,
-   "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 4.3,
-   "i_own": false
-  },
-  {
    "name": "Anderson",
    "team": "MCI",
    "pos": "MID",
    "price": 6.3,
    "owned_in_league_pct": 7.7,
    "owned_globally_pct": 4.2,
+   "i_own": false
+  },
+  {
+   "name": "Steele",
+   "team": "BHA",
+   "pos": "GK",
+   "price": 4.0,
+   "owned_in_league_pct": 7.7,
+   "owned_globally_pct": 4.3,
    "i_own": false
   },
   {
@@ -3329,7 +3329,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.0,
+   "owned_globally_pct": 2.9,
    "i_own": false
   },
   {
@@ -3338,7 +3338,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.3,
+   "owned_globally_pct": 4.2,
    "i_own": false
   },
   {
@@ -3671,7 +3671,7 @@
    "pos": "DEF",
    "price": 5.8,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.3,
+   "owned_globally_pct": 4.2,
    "i_own": false
   },
   {
