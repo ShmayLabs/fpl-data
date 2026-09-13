@@ -9,7 +9,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-13T15:03:03Z",
+ "generated_utc": "2026-09-13T15:17:58Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -595,13 +595,6 @@
     },
     {
      "rank": 19,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 52,
-     "total": 240
-    },
-    {
-     "rank": 19,
      "team": "Bribery Finary",
      "player": "Andy Livingstone",
      "gw": 45,
@@ -612,6 +605,13 @@
      "team": "Expected Toulouse",
      "player": "Joe McClelland",
      "gw": 55,
+     "total": 240
+    },
+    {
+     "rank": 19,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 52,
      "total": 240
     },
     {
@@ -1532,7 +1532,7 @@
    "pos": "MID",
    "price": 5.6,
    "points": 17,
-   "owned_by": 16.1
+   "owned_by": 16.2
   },
   {
    "name": "Schade",
@@ -1556,7 +1556,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 14,
-   "owned_by": 5.5
+   "owned_by": 5.6
   },
   {
    "name": "Belloumi",
@@ -2955,7 +2955,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 8.6,
+   "owned_globally_pct": 8.5,
    "i_own": false
   },
   {
@@ -3045,7 +3045,7 @@
    "pos": "MID",
    "price": 5.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 16.1,
+   "owned_globally_pct": 16.2,
    "i_own": false
   },
   {
@@ -3189,7 +3189,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 6.6,
+   "owned_globally_pct": 6.5,
    "i_own": false
   },
   {
@@ -3243,7 +3243,7 @@
    "pos": "FWD",
    "price": 7.2,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 3.6,
+   "owned_globally_pct": 3.5,
    "i_own": false
   },
   {
