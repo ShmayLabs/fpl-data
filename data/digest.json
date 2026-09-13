@@ -5,20 +5,20 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-13T18:01:55Z",
+ "generated_utc": "2026-09-13T18:20:57Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
  "squad_from_gw": 4,
  "entry_history": {
   "event": 4,
-  "points": 24,
-  "total_points": 227,
-  "rank": 9633836,
-  "rank_sort": 9644743,
-  "overall_rank": 4305838,
-  "percentile_rank": 95,
-  "overall_rank_percentage": "40",
+  "points": 50,
+  "total_points": 253,
+  "rank": 8736347,
+  "rank_sort": 8749816,
+  "overall_rank": 3901270,
+  "percentile_rank": 85,
+  "overall_rank_percentage": "36",
   "bank": 0,
   "value": 1000,
   "event_transfers": 1,
@@ -1552,7 +1552,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 14,
-   "owned_by": 5.6
+   "owned_by": 5.7
   },
   {
    "name": "Belloumi",
@@ -1648,7 +1648,7 @@
    "pos": "DEF",
    "price": 5.0,
    "points": 9,
-   "owned_by": 2.9
+   "owned_by": 3.0
   },
   {
    "name": "Matheus N.",
@@ -3113,7 +3113,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 29.2,
+   "owned_globally_pct": 29.1,
    "i_own": false
   },
   {
@@ -3419,7 +3419,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.9,
+   "owned_globally_pct": 3.0,
    "i_own": false
   },
   {
@@ -3518,7 +3518,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 10.0,
+   "owned_globally_pct": 10.1,
    "i_own": false
   },
   {
@@ -3590,7 +3590,7 @@
    "pos": "DEF",
    "price": 4.2,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 13.2,
+   "owned_globally_pct": 13.3,
    "i_own": false
   },
   {
