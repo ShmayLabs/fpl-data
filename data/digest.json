@@ -5,7 +5,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-13T19:15:46Z",
+ "generated_utc": "2026-09-13T19:38:17Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -188,7 +188,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 42.6,
+   "owned_by": 42.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -577,16 +577,16 @@
     },
     {
      "rank": 17,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 75,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 64,
      "total": 260
     },
     {
      "rank": 17,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 64,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 75,
      "total": 260
     },
     {
@@ -1528,7 +1528,7 @@
    "pos": "MID",
    "price": 5.6,
    "points": 17,
-   "owned_by": 16.7
+   "owned_by": 16.8
   },
   {
    "name": "Schade",
@@ -1672,7 +1672,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 8,
-   "owned_by": 36.0
+   "owned_by": 36.1
   },
   {
    "name": "Tavernier",
@@ -1680,7 +1680,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 8,
-   "owned_by": 4.4
+   "owned_by": 4.5
   },
   {
    "name": "Kluivert",
@@ -2726,7 +2726,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 61.5,
-   "owned_globally_pct": 42.6,
+   "owned_globally_pct": 42.5,
    "i_own": true
   },
   {
@@ -2735,7 +2735,7 @@
    "pos": "DEF",
    "price": 5.8,
    "owned_in_league_pct": 57.7,
-   "owned_globally_pct": 49.7,
+   "owned_globally_pct": 49.8,
    "i_own": false
   },
   {
@@ -2744,7 +2744,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 42.3,
-   "owned_globally_pct": 36.0,
+   "owned_globally_pct": 36.1,
    "i_own": false
   },
   {
@@ -2771,7 +2771,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 37.5,
+   "owned_globally_pct": 37.4,
    "i_own": false
   },
   {
@@ -2843,7 +2843,7 @@
    "pos": "GK",
    "price": 4.9,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 11.2,
+   "owned_globally_pct": 11.1,
    "i_own": false
   },
   {
@@ -3041,7 +3041,7 @@
    "pos": "MID",
    "price": 5.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 16.7,
+   "owned_globally_pct": 16.8,
    "i_own": false
   },
   {
@@ -3518,7 +3518,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 10.1,
+   "owned_globally_pct": 10.2,
    "i_own": false
   },
   {
