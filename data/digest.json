@@ -1,11 +1,12 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [
+  "PRICE FALL: Roefs dropped \u00a30.1m this gameweek.",
   "NOT YET PLAYED: Hall (NEW) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Elanga (NEW) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-13T22:40:40Z",
+ "generated_utc": "2026-09-13T23:03:06Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -92,7 +93,7 @@
    "name": "Roefs",
    "team": "SUN",
    "pos": "GK",
-   "price": 5.0,
+   "price": 4.9,
    "owned_by": 2.8,
    "is_captain": false,
    "is_vice": false,
@@ -111,7 +112,7 @@
    "name": "Tarkowski",
    "team": "EVE",
    "pos": "DEF",
-   "price": 6.0,
+   "price": 6.1,
    "owned_by": 12.6,
    "is_captain": false,
    "is_vice": false,
@@ -570,20 +571,6 @@
     },
     {
      "rank": 16,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
-     "total": 261
-    },
-    {
-     "rank": 16,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
-     "total": 261
-    },
-    {
-     "rank": 16,
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
      "gw": 65,
@@ -594,6 +581,20 @@
      "team": "Expected Toulouse",
      "player": "Joe McClelland",
      "gw": 76,
+     "total": 261
+    },
+    {
+     "rank": 16,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
+     "total": 261
+    },
+    {
+     "rank": 16,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
@@ -1606,7 +1607,7 @@
    "name": "Gvardiol",
    "team": "MCI",
    "pos": "DEF",
-   "price": 5.6,
+   "price": 5.7,
    "points": 11,
    "owned_by": 21.4
   },
@@ -1686,7 +1687,7 @@
    "name": "Tavernier",
    "team": "BOU",
    "pos": "MID",
-   "price": 6.0,
+   "price": 6.1,
    "points": 8,
    "owned_by": 4.6
   },
@@ -2850,7 +2851,7 @@
    "name": "Gvardiol",
    "team": "MCI",
    "pos": "DEF",
-   "price": 5.6,
+   "price": 5.7,
    "owned_in_league_pct": 23.1,
    "owned_globally_pct": 21.4,
    "i_own": false
@@ -3183,7 +3184,7 @@
    "name": "Tarkowski",
    "team": "EVE",
    "pos": "DEF",
-   "price": 6.0,
+   "price": 6.1,
    "owned_in_league_pct": 7.7,
    "owned_globally_pct": 12.6,
    "i_own": true
@@ -3192,7 +3193,7 @@
    "name": "Roefs",
    "team": "SUN",
    "pos": "GK",
-   "price": 5.0,
+   "price": 4.9,
    "owned_in_league_pct": 7.7,
    "owned_globally_pct": 2.8,
    "i_own": true
@@ -3293,7 +3294,7 @@
    "pos": "GK",
    "price": 4.0,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 4.2,
+   "owned_globally_pct": 4.3,
    "i_own": false
   },
   {
@@ -3453,7 +3454,7 @@
    "name": "Mukiele",
    "team": "SUN",
    "pos": "DEF",
-   "price": 5.5,
+   "price": 5.4,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 2.1,
    "i_own": false
@@ -3545,7 +3546,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 7.1,
+   "owned_globally_pct": 7.0,
    "i_own": false
   },
   {
