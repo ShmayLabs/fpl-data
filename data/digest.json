@@ -4,7 +4,7 @@
   "FLAGGED: Elanga (NEW) -- Unspecified injury - Unknown return date (0% chance).",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T20:42:20Z",
+ "generated_utc": "2026-09-14T21:04:48Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -157,10 +157,10 @@
    "chance_next": null,
    "news": "",
    "gw_points": 0,
-   "gw_minutes": 79,
+   "gw_minutes": 90,
    "form": "4.5",
    "total_points": 18,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -225,7 +225,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 11.3,
+   "owned_by": 11.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -236,8 +236,8 @@
    "gw_minutes": 0,
    "form": "4.5",
    "total_points": 18,
-   "fixture_state": "in_progress",
-   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   },
   {
    "name": "Haaland",
@@ -282,18 +282,18 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 21.8,
+   "owned_by": 21.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 9,
+   "gw_points": 10,
    "gw_minutes": 77,
-   "form": "4.8",
-   "total_points": 19,
-   "fixture_state": "in_progress",
+   "form": "5.0",
+   "total_points": 20,
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -379,7 +379,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 11.3,
+   "owned_by": 11.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -390,8 +390,8 @@
    "gw_minutes": 0,
    "form": "4.5",
    "total_points": 18,
-   "fixture_state": "in_progress",
-   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   }
  ],
  "mini_leagues": [
@@ -403,15 +403,15 @@
      "rank": 1,
      "team": "I\u2019m a Baleba",
      "player": "Tom Healey",
-     "gw": 85,
-     "total": 311
+     "gw": 81,
+     "total": 307
     },
     {
      "rank": 2,
      "team": "net six and chill",
      "player": "william batterbury",
-     "gw": 68,
-     "total": 285
+     "gw": 69,
+     "total": 286
     },
     {
      "rank": 3,
@@ -438,8 +438,8 @@
      "rank": 6,
      "team": "Class of 94",
      "player": "Dan Healey",
-     "gw": 60,
-     "total": 270
+     "gw": 61,
+     "total": 271
     },
     {
      "rank": 7,
@@ -452,15 +452,15 @@
      "rank": 8,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 61,
-     "total": 264
+     "gw": 62,
+     "total": 265
     },
     {
      "rank": 9,
      "team": "Tics Champs By Xmas",
      "player": "Kieron Murphy",
-     "gw": 89,
-     "total": 253
+     "gw": 90,
+     "total": 254
     },
     {
      "rank": 10,
@@ -486,8 +486,8 @@
      "rank": 1,
      "team": "Gangsters Allardyce",
      "player": "Jordan White",
-     "gw": 91,
-     "total": 337
+     "gw": 87,
+     "total": 333
     },
     {
      "rank": 2,
@@ -507,8 +507,8 @@
      "rank": 4,
      "team": "Man (Zambi) On",
      "player": "Liam Brockhurst",
-     "gw": 94,
-     "total": 306
+     "gw": 91,
+     "total": 303
     },
     {
      "rank": 5,
@@ -535,35 +535,35 @@
      "rank": 8,
      "team": "ChickenTikka Mangala",
      "player": "James Davies",
-     "gw": 76,
-     "total": 292
+     "gw": 77,
+     "total": 293
     },
     {
      "rank": 9,
      "team": "Set and regret",
      "player": "Adam Lowe",
-     "gw": 69,
-     "total": 291
+     "gw": 70,
+     "total": 292
     },
     {
      "rank": 10,
      "team": "Enter Team Name",
      "player": "Andy Grundy",
-     "gw": 93,
-     "total": 284
+     "gw": 94,
+     "total": 285
     },
     {
      "rank": 11,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 68,
-     "total": 282
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 90,
+     "total": 283
     },
     {
      "rank": 12,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 89,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 68,
      "total": 282
     },
     {
@@ -584,8 +584,8 @@
      "rank": 15,
      "team": "Expected Toulouse",
      "player": "Joe McClelland",
-     "gw": 85,
-     "total": 270
+     "gw": 86,
+     "total": 271
     },
     {
      "rank": 16,
@@ -595,17 +595,31 @@
      "total": 265
     },
     {
-     "rank": 17,
+     "rank": 16,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 61,
-     "total": 264
+     "gw": 62,
+     "total": 265
     },
     {
      "rank": 18,
      "team": "MightyGar",
      "player": "Stephen Lowe",
-     "gw": 67,
+     "gw": 68,
+     "total": 262
+    },
+    {
+     "rank": 19,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 73,
+     "total": 261
+    },
+    {
+     "rank": 19,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
      "total": 261
     },
     {
@@ -621,20 +635,6 @@
      "player": "Jon Marlow",
      "gw": 66,
      "total": 261
-    },
-    {
-     "rank": 19,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
-     "total": 261
-    },
-    {
-     "rank": 22,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 72,
-     "total": 260
     },
     {
      "rank": 23,
@@ -667,22 +667,22 @@
      "rank": 1,
      "team": "Gangsters Allardyce",
      "player": "Jordan White",
-     "gw": 91,
-     "total": 337
+     "gw": 87,
+     "total": 333
     },
     {
      "rank": 2,
      "team": "Tzolis and Gromit",
      "player": "Alex Midmore",
-     "gw": 74,
-     "total": 311
+     "gw": 70,
+     "total": 307
     },
     {
      "rank": 3,
      "team": "Set and regret",
      "player": "Adam Lowe",
-     "gw": 69,
-     "total": 291
+     "gw": 70,
+     "total": 292
     },
     {
      "rank": 4,
@@ -716,15 +716,15 @@
      "rank": 8,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 61,
-     "total": 264
+     "gw": 62,
+     "total": 265
     },
     {
      "rank": 9,
      "team": "JTindall Solo Album",
      "player": "Niall Ballinger",
-     "gw": 67,
-     "total": 259
+     "gw": 68,
+     "total": 260
     },
     {
      "rank": 10,
@@ -772,8 +772,8 @@
      "rank": 16,
      "team": "Jimbledon FC",
      "player": "James Martin",
-     "gw": 66,
-     "total": 195
+     "gw": 67,
+     "total": 196
     }
    ]
   }
@@ -1587,7 +1587,7 @@
    "pos": "MID",
    "price": 5.0,
    "points": 13,
-   "owned_by": 2.5
+   "owned_by": 2.6
   },
   {
    "name": "Dunk",
@@ -1612,14 +1612,6 @@
    "price": 5.5,
    "points": 12,
    "owned_by": 2.4
-  },
-  {
-   "name": "Muharemovi\u0107",
-   "team": "LEE",
-   "pos": "DEF",
-   "price": 5.0,
-   "points": 12,
-   "owned_by": 3.9
   },
   {
    "name": "De Cuyper",
@@ -1654,6 +1646,14 @@
    "owned_by": 0.7
   },
   {
+   "name": "Calvert-Lewin",
+   "team": "LEE",
+   "pos": "FWD",
+   "price": 6.0,
+   "points": 10,
+   "owned_by": 21.9
+  },
+  {
    "name": "Gabriel",
    "team": "ARS",
    "pos": "DEF",
@@ -1670,12 +1670,12 @@
    "owned_by": 3.0
   },
   {
-   "name": "Calvert-Lewin",
+   "name": "Okafor",
    "team": "LEE",
-   "pos": "FWD",
-   "price": 6.0,
+   "pos": "MID",
+   "price": 5.8,
    "points": 9,
-   "owned_by": 21.8
+   "owned_by": 0.3
   },
   {
    "name": "A.Becker",
@@ -1748,7 +1748,7 @@
    "team": "I\u2019m a Baleba",
    "manager": "Tom Healey",
    "rank": 1,
-   "total": 311,
+   "total": 307,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -1786,7 +1786,7 @@
    "team": "net six and chill",
    "manager": "william batterbury",
    "rank": 2,
-   "total": 285,
+   "total": 286,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -1941,7 +1941,7 @@
    "team": "Class of 94",
    "manager": "Dan Healey",
    "rank": 6,
-   "total": 270,
+   "total": 271,
    "chip": null,
    "squad": [
     "Raya",
@@ -2015,7 +2015,7 @@
    "team": "Claude Mak\u00e9l\u00e9l\u00e9",
    "manager": "Aidan Whitehouse",
    "rank": 8,
-   "total": 264,
+   "total": 265,
    "chip": null,
    "squad": [
     "Roefs",
@@ -2041,7 +2041,7 @@
    "team": "Tics Champs By Xmas",
    "manager": "Kieron Murphy",
    "rank": 9,
-   "total": 253,
+   "total": 254,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -2150,7 +2150,7 @@
    "team": "Gangsters Allardyce",
    "manager": "Jordan White",
    "rank": 1,
-   "total": 337,
+   "total": 333,
    "chip": "freehit",
    "squad": [
     "Kinsky",
@@ -2190,7 +2190,7 @@
    "team": "Tzolis and Gromit",
    "manager": "Alex Midmore",
    "rank": 2,
-   "total": 311,
+   "total": 307,
    "chip": "wildcard",
    "squad": [
     "Trafford",
@@ -2228,7 +2228,7 @@
    "team": "Set and regret",
    "manager": "Adam Lowe",
    "rank": 3,
-   "total": 291,
+   "total": 292,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2418,7 +2418,7 @@
    "team": "JTindall Solo Album",
    "manager": "Niall Ballinger",
    "rank": 9,
-   "total": 259,
+   "total": 260,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2685,7 +2685,7 @@
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 16,
-   "total": 195,
+   "total": 196,
    "chip": null,
    "squad": [
     "Kelleher",
@@ -2817,7 +2817,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 21.8,
+   "owned_globally_pct": 21.9,
    "i_own": true
   },
   {
@@ -2979,7 +2979,7 @@
    "pos": "MID",
    "price": 8.4,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 15.7,
+   "owned_globally_pct": 15.6,
    "i_own": false
   },
   {
@@ -3105,7 +3105,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 11.3,
+   "owned_globally_pct": 11.2,
    "i_own": true
   },
   {
