@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T09:21:23Z",
+ "generated_utc": "2026-09-14T09:43:53Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -322,7 +322,7 @@
    "team": "HUL",
    "pos": "DEF",
    "price": 4.1,
-   "owned_by": 6.6,
+   "owned_by": 6.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -578,9 +578,9 @@
     },
     {
      "rank": 16,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
      "total": 261
     },
     {
@@ -592,9 +592,9 @@
     },
     {
      "rank": 16,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
@@ -2763,7 +2763,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 38.5,
-   "owned_globally_pct": 17.6,
+   "owned_globally_pct": 17.7,
    "i_own": false
   },
   {
@@ -2871,7 +2871,7 @@
    "pos": "DEF",
    "price": 4.1,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 6.6,
+   "owned_globally_pct": 6.7,
    "i_own": true
   },
   {
@@ -2988,7 +2988,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 11.0,
+   "owned_globally_pct": 10.9,
    "i_own": false
   },
   {
@@ -3519,7 +3519,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 10.5,
+   "owned_globally_pct": 10.6,
    "i_own": false
   },
   {
@@ -3528,7 +3528,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 5.7,
+   "owned_globally_pct": 5.6,
    "i_own": false
   },
   {
@@ -3537,7 +3537,7 @@
    "pos": "FWD",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 0.8,
+   "owned_globally_pct": 0.7,
    "i_own": false
   },
   {
