@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T06:48:57Z",
+ "generated_utc": "2026-09-14T07:11:24Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -246,7 +246,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.5,
-   "owned_by": 71.9,
+   "owned_by": 72.0,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -571,9 +571,9 @@
     },
     {
      "rank": 16,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
@@ -585,16 +585,16 @@
     },
     {
      "rank": 16,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
      "rank": 16,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
      "total": 261
     },
     {
@@ -1665,7 +1665,7 @@
    "pos": "FWD",
    "price": 15.5,
    "points": 9,
-   "owned_by": 71.9
+   "owned_by": 72.0
   },
   {
    "name": "Saka",
@@ -2718,7 +2718,7 @@
    "pos": "FWD",
    "price": 15.5,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 71.9,
+   "owned_globally_pct": 72.0,
    "i_own": true
   },
   {
@@ -3690,7 +3690,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.6,
+   "owned_globally_pct": 2.5,
    "i_own": false
   },
   {
