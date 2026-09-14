@@ -2,9 +2,11 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "PRICE FALL: Roefs dropped \u00a30.1m this gameweek.",
   "FLAGGED: Elanga (NEW) -- Unspecified injury - Unknown return date (0% chance).",
-  "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
+  "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
+  "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
+  "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-14T22:41:58Z",
+ "generated_utc": "2026-09-14T23:04:22Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -338,7 +340,7 @@
    "name": "Yarmoliuk",
    "team": "BRE",
    "pos": "MID",
-   "price": 4.9,
+   "price": 4.8,
    "owned_by": 0.7,
    "is_captain": false,
    "is_vice": false,
@@ -357,7 +359,7 @@
    "name": "Hughes",
    "team": "CRY",
    "pos": "MID",
-   "price": 4.5,
+   "price": 4.4,
    "owned_by": 8.1,
    "is_captain": false,
    "is_vice": false,
@@ -589,16 +591,16 @@
     },
     {
      "rank": 16,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 52,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 62,
      "total": 265
     },
     {
      "rank": 16,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 62,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 52,
      "total": 265
     },
     {
@@ -610,16 +612,16 @@
     },
     {
      "rank": 19,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
      "rank": 19,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
@@ -631,9 +633,9 @@
     },
     {
      "rank": 19,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
      "total": 261
     },
     {
@@ -1547,7 +1549,7 @@
    "pos": "MID",
    "price": 5.6,
    "points": 17,
-   "owned_by": 17.9
+   "owned_by": 18.0
   },
   {
    "name": "Schade",
@@ -2790,7 +2792,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 36.7,
+   "owned_globally_pct": 36.6,
    "i_own": false
   },
   {
@@ -2905,7 +2907,7 @@
    "name": "Hughes",
    "team": "CRY",
    "pos": "MID",
-   "price": 4.5,
+   "price": 4.4,
    "owned_in_league_pct": 23.1,
    "owned_globally_pct": 8.1,
    "i_own": true
@@ -3015,7 +3017,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 10.7,
+   "owned_globally_pct": 10.6,
    "i_own": false
   },
   {
@@ -3060,7 +3062,7 @@
    "pos": "MID",
    "price": 5.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 17.9,
+   "owned_globally_pct": 18.0,
    "i_own": false
   },
   {
@@ -3150,7 +3152,7 @@
    "pos": "FWD",
    "price": 5.8,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 6.3,
+   "owned_globally_pct": 6.2,
    "i_own": false
   },
   {
@@ -3321,7 +3323,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 6.5,
+   "owned_globally_pct": 6.4,
    "i_own": false
   },
   {
@@ -3427,7 +3429,7 @@
    "name": "Yarmoliuk",
    "team": "BRE",
    "pos": "MID",
-   "price": 4.9,
+   "price": 4.8,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 0.7,
    "i_own": true
@@ -3537,7 +3539,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 11.1,
+   "owned_globally_pct": 11.2,
    "i_own": false
   },
   {
