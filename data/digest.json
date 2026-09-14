@@ -4,7 +4,7 @@
   "FLAGGED: Elanga (NEW) -- Unspecified injury - Unknown return date (0% chance).",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T22:19:30Z",
+ "generated_utc": "2026-09-14T22:41:58Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -15,7 +15,7 @@
   "total_points": 265,
   "rank": 6895701,
   "rank_sort": 6917457,
-  "overall_rank": 3156062,
+  "overall_rank": 3156094,
   "percentile_rank": 65,
   "overall_rank_percentage": "30",
   "bank": 0,
@@ -72,13 +72,13 @@
   },
   {
    "event": 4,
-   "points": 50,
-   "total_points": 253,
-   "rank": 8736347,
-   "rank_sort": 8749816,
-   "overall_rank": 3901295,
-   "percentile_rank": 85,
-   "overall_rank_percentage": "36",
+   "points": 62,
+   "total_points": 265,
+   "rank": 6895701,
+   "rank_sort": 6917457,
+   "overall_rank": 3156094,
+   "percentile_rank": 65,
+   "overall_rank_percentage": "30",
    "bank": 0,
    "value": 1000,
    "event_transfers": 1,
@@ -111,7 +111,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.1,
-   "owned_by": 12.9,
+   "owned_by": 13.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -225,7 +225,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 10.9,
+   "owned_by": 10.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -244,7 +244,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.5,
-   "owned_by": 72.1,
+   "owned_by": 72.2,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -379,7 +379,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 10.9,
+   "owned_by": 10.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -589,16 +589,16 @@
     },
     {
      "rank": 16,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 62,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 52,
      "total": 265
     },
     {
      "rank": 16,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 52,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 62,
      "total": 265
     },
     {
@@ -607,20 +607,6 @@
      "player": "Stephen Lowe",
      "gw": 68,
      "total": 262
-    },
-    {
-     "rank": 19,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 73,
-     "total": 261
-    },
-    {
-     "rank": 19,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
-     "total": 261
     },
     {
      "rank": 19,
@@ -634,6 +620,20 @@
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
      "gw": 65,
+     "total": 261
+    },
+    {
+     "rank": 19,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 73,
+     "total": 261
+    },
+    {
+     "rank": 19,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
@@ -1555,7 +1555,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 15,
-   "owned_by": 5.4
+   "owned_by": 5.5
   },
   {
    "name": "Bogle",
@@ -1587,7 +1587,7 @@
    "pos": "MID",
    "price": 5.0,
    "points": 13,
-   "owned_by": 2.6
+   "owned_by": 2.7
   },
   {
    "name": "Dunk",
@@ -1635,7 +1635,7 @@
    "pos": "DEF",
    "price": 5.7,
    "points": 11,
-   "owned_by": 22.3
+   "owned_by": 22.4
   },
   {
    "name": "Kostoulas",
@@ -1707,7 +1707,7 @@
    "pos": "FWD",
    "price": 15.5,
    "points": 9,
-   "owned_by": 72.1
+   "owned_by": 72.2
   },
   {
    "name": "Saka",
@@ -1723,7 +1723,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 8,
-   "owned_by": 37.0
+   "owned_by": 37.1
   },
   {
    "name": "Tavernier",
@@ -2736,7 +2736,7 @@
    "pos": "FWD",
    "price": 15.5,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 72.1,
+   "owned_globally_pct": 72.2,
    "i_own": true
   },
   {
@@ -2763,7 +2763,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 42.3,
-   "owned_globally_pct": 37.0,
+   "owned_globally_pct": 37.1,
    "i_own": false
   },
   {
@@ -2781,7 +2781,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 38.5,
-   "owned_globally_pct": 17.8,
+   "owned_globally_pct": 17.9,
    "i_own": false
   },
   {
@@ -2871,7 +2871,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 22.3,
+   "owned_globally_pct": 22.4,
    "i_own": false
   },
   {
@@ -2889,7 +2889,7 @@
    "pos": "MID",
    "price": 6.4,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 15.0,
+   "owned_globally_pct": 14.9,
    "i_own": false
   },
   {
@@ -3105,7 +3105,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 10.9,
+   "owned_globally_pct": 10.8,
    "i_own": true
   },
   {
@@ -3123,7 +3123,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 2.0,
+   "owned_globally_pct": 1.9,
    "i_own": false
   },
   {
@@ -3132,7 +3132,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 28.7,
+   "owned_globally_pct": 28.6,
    "i_own": false
   },
   {
@@ -3204,7 +3204,7 @@
    "pos": "DEF",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 12.9,
+   "owned_globally_pct": 13.0,
    "i_own": true
   },
   {
@@ -3564,7 +3564,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.9,
+   "owned_globally_pct": 6.8,
    "i_own": false
   },
   {
