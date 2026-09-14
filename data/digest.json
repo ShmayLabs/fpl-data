@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T10:42:06Z",
+ "generated_utc": "2026-09-14T11:04:36Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -571,9 +571,9 @@
     },
     {
      "rank": 16,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 76,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
@@ -592,9 +592,9 @@
     },
     {
      "rank": 16,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 76,
      "total": 261
     },
     {
@@ -1609,7 +1609,7 @@
    "pos": "DEF",
    "price": 5.7,
    "points": 11,
-   "owned_by": 21.7
+   "owned_by": 21.8
   },
   {
    "name": "Kostoulas",
@@ -1681,7 +1681,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 8,
-   "owned_by": 36.5
+   "owned_by": 36.6
   },
   {
    "name": "Tavernier",
@@ -2745,7 +2745,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 42.3,
-   "owned_globally_pct": 36.5,
+   "owned_globally_pct": 36.6,
    "i_own": false
   },
   {
@@ -2844,7 +2844,7 @@
    "pos": "GK",
    "price": 4.9,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 11.1,
+   "owned_globally_pct": 11.0,
    "i_own": false
   },
   {
@@ -2853,7 +2853,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 21.7,
+   "owned_globally_pct": 21.8,
    "i_own": false
   },
   {
@@ -2970,7 +2970,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 12.5,
+   "owned_globally_pct": 12.4,
    "i_own": false
   },
   {
@@ -3123,7 +3123,7 @@
    "pos": "GK",
    "price": 5.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 8.7,
+   "owned_globally_pct": 8.8,
    "i_own": false
   },
   {
@@ -3231,7 +3231,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 9.8,
+   "owned_globally_pct": 9.7,
    "i_own": false
   },
   {
