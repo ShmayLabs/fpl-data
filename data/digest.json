@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-13T23:39:40Z",
+ "generated_utc": "2026-09-14T00:02:08Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -571,20 +571,6 @@
     },
     {
      "rank": 16,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
-     "total": 261
-    },
-    {
-     "rank": 16,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 76,
-     "total": 261
-    },
-    {
-     "rank": 16,
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
      "gw": 65,
@@ -595,6 +581,20 @@
      "team": "Grab your Jacquet",
      "player": "Jon Marlow",
      "gw": 66,
+     "total": 261
+    },
+    {
+     "rank": 16,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
+     "total": 261
+    },
+    {
+     "rank": 16,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 76,
      "total": 261
     },
     {
@@ -1537,7 +1537,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 15,
-   "owned_by": 4.8
+   "owned_by": 4.9
   },
   {
    "name": "Raya",
@@ -1673,7 +1673,7 @@
    "pos": "MID",
    "price": 9.5,
    "points": 8,
-   "owned_by": 11.7
+   "owned_by": 11.8
   },
   {
    "name": "Rogers",
@@ -2790,7 +2790,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 14.1,
+   "owned_globally_pct": 14.0,
    "i_own": false
   },
   {
@@ -2997,7 +2997,7 @@
    "pos": "DEF",
    "price": 4.9,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 10.5,
+   "owned_globally_pct": 10.4,
    "i_own": false
   },
   {
@@ -3159,7 +3159,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 11.7,
+   "owned_globally_pct": 11.8,
    "i_own": false
   },
   {
