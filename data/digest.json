@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T08:05:51Z",
+ "generated_utc": "2026-09-14T08:21:06Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -571,13 +571,6 @@
     },
     {
      "rank": 16,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 76,
-     "total": 261
-    },
-    {
-     "rank": 16,
      "team": "Grab your Jacquet",
      "player": "Jon Marlow",
      "gw": 66,
@@ -595,6 +588,13 @@
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
      "gw": 65,
+     "total": 261
+    },
+    {
+     "rank": 16,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 76,
      "total": 261
     },
     {
@@ -1609,7 +1609,7 @@
    "pos": "DEF",
    "price": 5.7,
    "points": 11,
-   "owned_by": 21.6
+   "owned_by": 21.7
   },
   {
    "name": "Kostoulas",
@@ -2853,7 +2853,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 21.6,
+   "owned_globally_pct": 21.7,
    "i_own": false
   },
   {
