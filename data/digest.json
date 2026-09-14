@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-14T23:18:43Z",
+ "generated_utc": "2026-09-14T23:41:13Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -227,7 +227,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 10.8,
+   "owned_by": 10.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -265,7 +265,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 75.0,
+   "owned_by": 75.1,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -381,7 +381,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 10.8,
+   "owned_by": 10.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -591,16 +591,16 @@
     },
     {
      "rank": 16,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 52,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 62,
      "total": 265
     },
     {
      "rank": 16,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 62,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 52,
      "total": 265
     },
     {
@@ -619,9 +619,9 @@
     },
     {
      "rank": 19,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
@@ -633,9 +633,9 @@
     },
     {
      "rank": 19,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
@@ -1605,7 +1605,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 75.0
+   "owned_by": 75.1
   },
   {
    "name": "Emersonn",
@@ -2729,7 +2729,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 75.0,
+   "owned_globally_pct": 75.1,
    "i_own": true
   },
   {
@@ -2882,7 +2882,7 @@
    "pos": "FWD",
    "price": 9.1,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 22.3,
+   "owned_globally_pct": 22.2,
    "i_own": false
   },
   {
@@ -2945,7 +2945,7 @@
    "pos": "FWD",
    "price": 6.2,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 18.5,
+   "owned_globally_pct": 18.4,
    "i_own": false
   },
   {
@@ -3107,7 +3107,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 10.8,
+   "owned_globally_pct": 10.7,
    "i_own": true
   },
   {
@@ -3611,7 +3611,7 @@
    "pos": "DEF",
    "price": 4.2,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 13.5,
+   "owned_globally_pct": 13.6,
    "i_own": false
   },
   {
