@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T08:43:31Z",
+ "generated_utc": "2026-09-14T09:05:57Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -265,7 +265,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 74.7,
+   "owned_by": 74.8,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -578,9 +578,9 @@
     },
     {
      "rank": 16,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
      "total": 261
     },
     {
@@ -592,9 +592,9 @@
     },
     {
      "rank": 16,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
@@ -1577,7 +1577,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 74.7
+   "owned_by": 74.8
   },
   {
    "name": "Emersonn",
@@ -1601,7 +1601,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 11,
-   "owned_by": 2.6
+   "owned_by": 2.7
   },
   {
    "name": "Gvardiol",
@@ -2709,7 +2709,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 74.7,
+   "owned_globally_pct": 74.8,
    "i_own": true
   },
   {
@@ -3357,7 +3357,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.6,
+   "owned_globally_pct": 2.7,
    "i_own": false
   },
   {
