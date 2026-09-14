@@ -4,7 +4,7 @@
   "NOT YET PLAYED: Elanga (NEW) shows 0 minutes but his match is in_progress -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T19:07:39Z",
+ "generated_utc": "2026-09-14T19:19:26Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -157,9 +157,9 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 2,
-   "form": "4.5",
-   "total_points": 18,
+   "gw_minutes": 16,
+   "form": "4.8",
+   "total_points": 19,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -290,9 +290,9 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 2,
-   "form": "2.5",
-   "total_points": 10,
+   "gw_minutes": 16,
+   "form": "2.8",
+   "total_points": 11,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -583,16 +583,16 @@
     },
     {
      "rank": 17,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
      "total": 261
     },
     {
      "rank": 17,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
@@ -611,16 +611,16 @@
     },
     {
      "rank": 22,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 54,
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
+     "gw": 76,
      "total": 257
     },
     {
      "rank": 22,
-     "team": "Boundary Park Blues",
-     "player": "Ben McNamara",
-     "gw": 76,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 54,
      "total": 257
     },
     {
@@ -1607,7 +1607,7 @@
    "pos": "DEF",
    "price": 5.7,
    "points": 11,
-   "owned_by": 22.0
+   "owned_by": 22.1
   },
   {
    "name": "Kostoulas",
@@ -2851,7 +2851,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 22.0,
+   "owned_globally_pct": 22.1,
    "i_own": false
   },
   {
@@ -3517,7 +3517,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 10.8,
+   "owned_globally_pct": 10.9,
    "i_own": false
   },
   {
