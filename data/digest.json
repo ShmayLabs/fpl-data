@@ -4,20 +4,20 @@
   "FLAGGED: Elanga (NEW) -- Unspecified injury - Unknown return date (0% chance).",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T22:03:55Z",
+ "generated_utc": "2026-09-14T22:19:30Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
  "squad_from_gw": 4,
  "entry_history": {
   "event": 4,
-  "points": 50,
-  "total_points": 253,
-  "rank": 8736347,
-  "rank_sort": 8749816,
-  "overall_rank": 3901295,
-  "percentile_rank": 85,
-  "overall_rank_percentage": "36",
+  "points": 62,
+  "total_points": 265,
+  "rank": 6895701,
+  "rank_sort": 6917457,
+  "overall_rank": 3156062,
+  "percentile_rank": 65,
+  "overall_rank_percentage": "30",
   "bank": 0,
   "value": 1000,
   "event_transfers": 1,
@@ -589,16 +589,16 @@
     },
     {
      "rank": 16,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 52,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 62,
      "total": 265
     },
     {
      "rank": 16,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 62,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 52,
      "total": 265
     },
     {
@@ -610,16 +610,16 @@
     },
     {
      "rank": 19,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 73,
      "total": 261
     },
     {
      "rank": 19,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
@@ -631,9 +631,9 @@
     },
     {
      "rank": 19,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 73,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
@@ -1563,7 +1563,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 15,
-   "owned_by": 2.3
+   "owned_by": 2.4
   },
   {
    "name": "Raya",
@@ -3294,7 +3294,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 4.1,
+   "owned_globally_pct": 4.0,
    "i_own": false
   },
   {
@@ -3366,7 +3366,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.3,
+   "owned_globally_pct": 2.4,
    "i_own": false
   },
   {
@@ -3492,7 +3492,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.3,
+   "owned_globally_pct": 1.2,
    "i_own": false
   },
   {
