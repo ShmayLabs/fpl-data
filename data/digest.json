@@ -4,7 +4,7 @@
   "FLAGGED: Elanga (NEW) -- Unspecified injury - Unknown return date (0% chance).",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T21:41:29Z",
+ "generated_utc": "2026-09-14T22:03:55Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -225,7 +225,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 11.0,
+   "owned_by": 10.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -379,7 +379,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 11.0,
+   "owned_by": 10.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -610,16 +610,16 @@
     },
     {
      "rank": 19,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
      "rank": 19,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 73,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
@@ -631,9 +631,9 @@
     },
     {
      "rank": 19,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 73,
      "total": 261
     },
     {
@@ -2862,7 +2862,7 @@
    "pos": "GK",
    "price": 4.9,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 11.0,
+   "owned_globally_pct": 10.9,
    "i_own": false
   },
   {
@@ -2916,7 +2916,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 22.1,
+   "owned_globally_pct": 22.0,
    "i_own": false
   },
   {
@@ -3105,7 +3105,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 11.0,
+   "owned_globally_pct": 10.9,
    "i_own": true
   },
   {
