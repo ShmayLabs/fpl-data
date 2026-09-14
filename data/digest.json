@@ -4,7 +4,7 @@
   "FLAGGED: Elanga (NEW) -- Unspecified injury - Unknown return date (0% chance).",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T21:19:03Z",
+ "generated_utc": "2026-09-14T21:41:29Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -206,7 +206,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.9,
-   "owned_by": 23.1,
+   "owned_by": 23.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -225,7 +225,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 11.1,
+   "owned_by": 11.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -282,7 +282,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 21.9,
+   "owned_by": 22.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -379,7 +379,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 11.1,
+   "owned_by": 11.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -589,16 +589,16 @@
     },
     {
      "rank": 16,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 62,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 52,
      "total": 265
     },
     {
      "rank": 16,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 52,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 62,
      "total": 265
     },
     {
@@ -607,20 +607,6 @@
      "player": "Stephen Lowe",
      "gw": 68,
      "total": 262
-    },
-    {
-     "rank": 19,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
-     "total": 261
-    },
-    {
-     "rank": 19,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
-     "total": 261
     },
     {
      "rank": 19,
@@ -634,6 +620,20 @@
      "team": "OneDirection_Top",
      "player": "Paul Dickinson",
      "gw": 73,
+     "total": 261
+    },
+    {
+     "rank": 19,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
+     "total": 261
+    },
+    {
+     "rank": 19,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
@@ -1547,7 +1547,7 @@
    "pos": "MID",
    "price": 5.6,
    "points": 17,
-   "owned_by": 17.8
+   "owned_by": 17.9
   },
   {
    "name": "Schade",
@@ -1555,7 +1555,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 15,
-   "owned_by": 5.3
+   "owned_by": 5.4
   },
   {
    "name": "Bogle",
@@ -1571,7 +1571,7 @@
    "pos": "GK",
    "price": 6.0,
    "points": 14,
-   "owned_by": 40.1
+   "owned_by": 40.2
   },
   {
    "name": "Davis",
@@ -1635,7 +1635,7 @@
    "pos": "DEF",
    "price": 5.7,
    "points": 11,
-   "owned_by": 22.2
+   "owned_by": 22.3
   },
   {
    "name": "Kostoulas",
@@ -1651,7 +1651,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 10,
-   "owned_by": 21.9
+   "owned_by": 22.0
   },
   {
    "name": "Gabriel",
@@ -1659,7 +1659,7 @@
    "pos": "DEF",
    "price": 8.0,
    "points": 9,
-   "owned_by": 23.6
+   "owned_by": 23.5
   },
   {
    "name": "Leno",
@@ -1731,7 +1731,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 4.9
+   "owned_by": 5.0
   },
   {
    "name": "Kluivert",
@@ -2817,7 +2817,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 21.9,
+   "owned_globally_pct": 22.0,
    "i_own": true
   },
   {
@@ -2826,7 +2826,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 23.1,
+   "owned_globally_pct": 23.0,
    "i_own": true
   },
   {
@@ -2871,7 +2871,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 22.2,
+   "owned_globally_pct": 22.3,
    "i_own": false
   },
   {
@@ -3024,7 +3024,7 @@
    "pos": "GK",
    "price": 6.0,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 40.1,
+   "owned_globally_pct": 40.2,
    "i_own": false
   },
   {
@@ -3042,7 +3042,7 @@
    "pos": "DEF",
    "price": 8.0,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 23.6,
+   "owned_globally_pct": 23.5,
    "i_own": false
   },
   {
@@ -3051,7 +3051,7 @@
    "pos": "MID",
    "price": 7.4,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 12.8,
+   "owned_globally_pct": 12.7,
    "i_own": false
   },
   {
@@ -3060,7 +3060,7 @@
    "pos": "MID",
    "price": 5.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 17.8,
+   "owned_globally_pct": 17.9,
    "i_own": false
   },
   {
@@ -3105,7 +3105,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 11.1,
+   "owned_globally_pct": 11.0,
    "i_own": true
   },
   {
@@ -3249,7 +3249,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 9.6,
+   "owned_globally_pct": 9.5,
    "i_own": false
   },
   {
@@ -3537,7 +3537,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 11.0,
+   "owned_globally_pct": 11.1,
    "i_own": false
   },
   {
