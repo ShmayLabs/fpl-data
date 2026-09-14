@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T15:22:48Z",
+ "generated_utc": "2026-09-14T15:45:20Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -265,7 +265,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 74.8,
+   "owned_by": 74.9,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -571,16 +571,9 @@
     },
     {
      "rank": 16,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 76,
-     "total": 261
-    },
-    {
-     "rank": 16,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
@@ -592,9 +585,16 @@
     },
     {
      "rank": 16,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 76,
+     "total": 261
+    },
+    {
+     "rank": 16,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
@@ -1577,7 +1577,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 74.8
+   "owned_by": 74.9
   },
   {
    "name": "Emersonn",
@@ -1593,7 +1593,7 @@
    "pos": "DEF",
    "price": 4.8,
    "points": 11,
-   "owned_by": 23.0
+   "owned_by": 23.1
   },
   {
    "name": "Mykolenko",
@@ -2709,7 +2709,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 74.8,
+   "owned_globally_pct": 74.9,
    "i_own": true
   },
   {
@@ -2772,7 +2772,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 37.0,
+   "owned_globally_pct": 36.9,
    "i_own": false
   },
   {
@@ -2835,7 +2835,7 @@
    "pos": "DEF",
    "price": 4.8,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 23.0,
+   "owned_globally_pct": 23.1,
    "i_own": false
   },
   {
@@ -2988,7 +2988,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 10.9,
+   "owned_globally_pct": 10.8,
    "i_own": false
   },
   {
@@ -3132,7 +3132,7 @@
    "pos": "FWD",
    "price": 5.8,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 6.4,
+   "owned_globally_pct": 6.3,
    "i_own": false
   },
   {
