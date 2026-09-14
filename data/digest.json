@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T14:22:17Z",
+ "generated_utc": "2026-09-14T14:44:43Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -284,7 +284,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 21.7,
+   "owned_by": 21.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -585,16 +585,16 @@
     },
     {
      "rank": 16,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 76,
      "total": 261
     },
     {
      "rank": 16,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 76,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
      "total": 261
     },
     {
@@ -1681,7 +1681,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 8,
-   "owned_by": 36.6
+   "owned_by": 36.7
   },
   {
    "name": "Tavernier",
@@ -2745,7 +2745,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 42.3,
-   "owned_globally_pct": 36.6,
+   "owned_globally_pct": 36.7,
    "i_own": false
   },
   {
@@ -2799,7 +2799,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 21.7,
+   "owned_globally_pct": 21.6,
    "i_own": true
   },
   {
@@ -3222,7 +3222,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 3.7,
+   "owned_globally_pct": 3.6,
    "i_own": false
   },
   {
@@ -3240,7 +3240,7 @@
    "pos": "FWD",
    "price": 7.2,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 3.5,
+   "owned_globally_pct": 3.4,
    "i_own": false
   },
   {
@@ -3591,7 +3591,7 @@
    "pos": "DEF",
    "price": 4.2,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 13.4,
+   "owned_globally_pct": 13.5,
    "i_own": false
   },
   {
