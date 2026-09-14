@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-14T00:49:44Z",
+ "generated_utc": "2026-09-14T01:12:14Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -571,20 +571,6 @@
     },
     {
      "rank": 16,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
-     "total": 261
-    },
-    {
-     "rank": 16,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
-     "total": 261
-    },
-    {
-     "rank": 16,
      "team": "Expected Toulouse",
      "player": "Joe McClelland",
      "gw": 76,
@@ -595,6 +581,20 @@
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
      "gw": 65,
+     "total": 261
+    },
+    {
+     "rank": 16,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
+     "total": 261
+    },
+    {
+     "rank": 16,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
@@ -2772,7 +2772,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 37.3,
+   "owned_globally_pct": 37.2,
    "i_own": false
   },
   {
@@ -3114,7 +3114,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 29.0,
+   "owned_globally_pct": 28.9,
    "i_own": false
   },
   {
