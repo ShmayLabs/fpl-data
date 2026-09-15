@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-15T00:03:41Z",
+ "generated_utc": "2026-09-15T00:27:02Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -591,16 +591,16 @@
     },
     {
      "rank": 16,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 52,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 62,
      "total": 265
     },
     {
      "rank": 16,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 62,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 52,
      "total": 265
     },
     {
@@ -609,6 +609,20 @@
      "player": "Stephen Lowe",
      "gw": 68,
      "total": 262
+    },
+    {
+     "rank": 19,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 73,
+     "total": 261
+    },
+    {
+     "rank": 19,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
+     "total": 261
     },
     {
      "rank": 19,
@@ -622,20 +636,6 @@
      "team": "Grab your Jacquet",
      "player": "Jon Marlow",
      "gw": 66,
-     "total": 261
-    },
-    {
-     "rank": 19,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
-     "total": 261
-    },
-    {
-     "rank": 19,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 73,
      "total": 261
     },
     {
@@ -1565,7 +1565,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 15,
-   "owned_by": 2.4
+   "owned_by": 2.5
   },
   {
    "name": "Raya",
@@ -3368,7 +3368,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.4,
+   "owned_globally_pct": 2.5,
    "i_own": false
   },
   {
