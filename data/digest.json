@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-15T04:20:17Z",
+ "generated_utc": "2026-09-15T04:42:49Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -591,16 +591,16 @@
     },
     {
      "rank": 16,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 52,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 62,
      "total": 265
     },
     {
      "rank": 16,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 62,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 52,
      "total": 265
     },
     {
@@ -612,16 +612,16 @@
     },
     {
      "rank": 19,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
      "rank": 19,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
@@ -1701,7 +1701,7 @@
    "pos": "DEF",
    "price": 5.9,
    "points": 9,
-   "owned_by": 0.9
+   "owned_by": 1.0
   },
   {
    "name": "Haaland",
@@ -2792,7 +2792,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 36.6,
+   "owned_globally_pct": 36.5,
    "i_own": false
   },
   {
@@ -3089,7 +3089,7 @@
    "pos": "DEF",
    "price": 6.4,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 12.6,
+   "owned_globally_pct": 12.5,
    "i_own": false
   },
   {
