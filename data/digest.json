@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-15T15:19:28Z",
+ "generated_utc": "2026-09-15T15:42:01Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -113,7 +113,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.1,
-   "owned_by": 13.1,
+   "owned_by": 13.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -322,7 +322,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 9.8,
+   "owned_by": 9.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -381,7 +381,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 9.8,
+   "owned_by": 9.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1637,7 +1637,7 @@
    "pos": "DEF",
    "price": 5.7,
    "points": 11,
-   "owned_by": 22.9
+   "owned_by": 23.0
   },
   {
    "name": "Kostoulas",
@@ -1733,7 +1733,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 5.3
+   "owned_by": 5.4
   },
   {
    "name": "Kluivert",
@@ -2873,7 +2873,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 22.9,
+   "owned_globally_pct": 23.0,
    "i_own": false
   },
   {
@@ -3089,7 +3089,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 9.8,
+   "owned_globally_pct": 9.7,
    "i_own": true
   },
   {
@@ -3206,7 +3206,7 @@
    "pos": "DEF",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 13.1,
+   "owned_globally_pct": 13.2,
    "i_own": true
   },
   {
@@ -3251,7 +3251,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 9.3,
+   "owned_globally_pct": 9.2,
    "i_own": false
   },
   {
