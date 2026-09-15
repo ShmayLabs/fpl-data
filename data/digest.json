@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-15T16:42:34Z",
+ "generated_utc": "2026-09-15T17:05:08Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -284,7 +284,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 22.5,
+   "owned_by": 22.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1621,7 +1621,7 @@
    "pos": "DEF",
    "price": 4.8,
    "points": 11,
-   "owned_by": 23.6
+   "owned_by": 23.7
   },
   {
    "name": "Mykolenko",
@@ -1653,7 +1653,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 10,
-   "owned_by": 22.5
+   "owned_by": 22.6
   },
   {
    "name": "Gabriel",
@@ -2819,7 +2819,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 22.5,
+   "owned_globally_pct": 22.6,
    "i_own": true
   },
   {
@@ -2855,7 +2855,7 @@
    "pos": "DEF",
    "price": 4.8,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 23.6,
+   "owned_globally_pct": 23.7,
    "i_own": false
   },
   {
@@ -3134,7 +3134,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 28.5,
+   "owned_globally_pct": 28.4,
    "i_own": false
   },
   {
