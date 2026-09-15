@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-15T12:03:54Z",
+ "generated_utc": "2026-09-15T12:24:24Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -322,7 +322,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 10.0,
+   "owned_by": 9.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -381,7 +381,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 10.0,
+   "owned_by": 9.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -626,16 +626,16 @@
     },
     {
      "rank": 21,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
      "rank": 21,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
@@ -1589,7 +1589,7 @@
    "pos": "MID",
    "price": 5.0,
    "points": 13,
-   "owned_by": 2.9
+   "owned_by": 3.0
   },
   {
    "name": "Dunk",
@@ -3089,7 +3089,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 10.0,
+   "owned_globally_pct": 9.9,
    "i_own": true
   },
   {
@@ -3539,7 +3539,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 11.6,
+   "owned_globally_pct": 11.7,
    "i_own": false
   },
   {
@@ -3566,7 +3566,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.8,
+   "owned_globally_pct": 6.7,
    "i_own": false
   },
   {
