@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-15T08:21:55Z",
+ "generated_utc": "2026-09-15T08:44:23Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -113,7 +113,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.1,
-   "owned_by": 13.0,
+   "owned_by": 13.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -612,16 +612,16 @@
     },
     {
      "rank": 19,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 73,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
      "total": 261
     },
     {
      "rank": 19,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 73,
      "total": 261
     },
     {
@@ -633,9 +633,9 @@
     },
     {
      "rank": 19,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
@@ -1637,7 +1637,7 @@
    "pos": "DEF",
    "price": 5.7,
    "points": 11,
-   "owned_by": 22.6
+   "owned_by": 22.7
   },
   {
    "name": "Kostoulas",
@@ -2873,7 +2873,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 22.6,
+   "owned_globally_pct": 22.7,
    "i_own": false
   },
   {
@@ -3098,7 +3098,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 16.8,
+   "owned_globally_pct": 16.7,
    "i_own": false
   },
   {
@@ -3206,7 +3206,7 @@
    "pos": "DEF",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 13.0,
+   "owned_globally_pct": 13.1,
    "i_own": true
   },
   {
@@ -3287,7 +3287,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 10.7,
+   "owned_globally_pct": 10.8,
    "i_own": false
   },
   {
