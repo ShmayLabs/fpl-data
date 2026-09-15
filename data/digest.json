@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-15T07:44:07Z",
+ "generated_utc": "2026-09-15T08:06:34Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -227,7 +227,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 10.3,
+   "owned_by": 10.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -265,7 +265,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 75.1,
+   "owned_by": 75.2,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -360,7 +360,7 @@
    "team": "CRY",
    "pos": "MID",
    "price": 4.4,
-   "owned_by": 8.1,
+   "owned_by": 8.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -381,7 +381,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 10.3,
+   "owned_by": 10.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -591,16 +591,16 @@
     },
     {
      "rank": 16,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 52,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 62,
      "total": 265
     },
     {
      "rank": 16,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 62,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 52,
      "total": 265
     },
     {
@@ -609,6 +609,20 @@
      "player": "Stephen Lowe",
      "gw": 68,
      "total": 262
+    },
+    {
+     "rank": 19,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
+     "total": 261
+    },
+    {
+     "rank": 19,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 73,
+     "total": 261
     },
     {
      "rank": 19,
@@ -622,20 +636,6 @@
      "team": "Blind Faith",
      "player": "Janied Inayat",
      "gw": 70,
-     "total": 261
-    },
-    {
-     "rank": 19,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 73,
-     "total": 261
-    },
-    {
-     "rank": 19,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
      "total": 261
     },
     {
@@ -1605,7 +1605,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 75.1
+   "owned_by": 75.2
   },
   {
    "name": "Emersonn",
@@ -2729,7 +2729,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 75.1,
+   "owned_globally_pct": 75.2,
    "i_own": true
   },
   {
@@ -2909,7 +2909,7 @@
    "pos": "MID",
    "price": 4.4,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 8.1,
+   "owned_globally_pct": 8.0,
    "i_own": true
   },
   {
@@ -2936,7 +2936,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 8.1,
+   "owned_globally_pct": 8.0,
    "i_own": false
   },
   {
@@ -3107,7 +3107,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 10.3,
+   "owned_globally_pct": 10.2,
    "i_own": true
   },
   {
