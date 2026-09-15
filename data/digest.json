@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-15T13:44:43Z",
+ "generated_utc": "2026-09-15T14:07:07Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -265,7 +265,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 75.2,
+   "owned_by": 75.3,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -626,16 +626,16 @@
     },
     {
      "rank": 21,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
      "rank": 21,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
@@ -1565,7 +1565,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 15,
-   "owned_by": 2.9
+   "owned_by": 3.0
   },
   {
    "name": "Raya",
@@ -1605,7 +1605,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 75.2
+   "owned_by": 75.3
   },
   {
    "name": "Emersonn",
@@ -2729,7 +2729,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 75.2,
+   "owned_globally_pct": 75.3,
    "i_own": true
   },
   {
@@ -2990,7 +2990,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 12.2,
+   "owned_globally_pct": 12.1,
    "i_own": false
   },
   {
@@ -3368,7 +3368,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.9,
+   "owned_globally_pct": 3.0,
    "i_own": false
   },
   {
@@ -3476,7 +3476,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.1,
+   "owned_globally_pct": 2.0,
    "i_own": false
   },
   {
