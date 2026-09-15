@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-15T09:06:50Z",
+ "generated_utc": "2026-09-15T09:21:51Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -189,7 +189,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 41.9,
+   "owned_by": 41.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -246,7 +246,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.5,
-   "owned_by": 72.2,
+   "owned_by": 72.3,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -612,13 +612,6 @@
     },
     {
      "rank": 19,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 70,
-     "total": 261
-    },
-    {
-     "rank": 19,
      "team": "Grab your Jacquet",
      "player": "Jon Marlow",
      "gw": 66,
@@ -629,6 +622,13 @@
      "team": "OneDirection_Top",
      "player": "Paul Dickinson",
      "gw": 73,
+     "total": 261
+    },
+    {
+     "rank": 19,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 70,
      "total": 261
     },
     {
@@ -1565,7 +1565,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 15,
-   "owned_by": 2.7
+   "owned_by": 2.8
   },
   {
    "name": "Raya",
@@ -1709,7 +1709,7 @@
    "pos": "FWD",
    "price": 15.5,
    "points": 9,
-   "owned_by": 72.2
+   "owned_by": 72.3
   },
   {
    "name": "Saka",
@@ -2738,7 +2738,7 @@
    "pos": "FWD",
    "price": 15.5,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 72.2,
+   "owned_globally_pct": 72.3,
    "i_own": true
   },
   {
@@ -2747,7 +2747,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 61.5,
-   "owned_globally_pct": 41.9,
+   "owned_globally_pct": 41.8,
    "i_own": true
   },
   {
@@ -3368,7 +3368,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.7,
+   "owned_globally_pct": 2.8,
    "i_own": false
   },
   {
@@ -3638,7 +3638,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.1,
+   "owned_globally_pct": 2.0,
    "i_own": false
   },
   {
@@ -3647,7 +3647,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.2,
+   "owned_globally_pct": 6.1,
    "i_own": false
   },
   {
