@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-15T23:17:32Z",
+ "generated_utc": "2026-09-15T23:39:58Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -113,7 +113,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.1,
-   "owned_by": 13.2,
+   "owned_by": 13.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -3206,7 +3206,7 @@
    "pos": "DEF",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 13.2,
+   "owned_globally_pct": 13.3,
    "i_own": true
   },
   {
@@ -3341,7 +3341,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.0,
+   "owned_globally_pct": 3.9,
    "i_own": false
   },
   {
