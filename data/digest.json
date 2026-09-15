@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-15T11:41:21Z",
+ "generated_utc": "2026-09-15T12:03:54Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -303,7 +303,7 @@
    "team": "TOT",
    "pos": "GK",
    "price": 4.0,
-   "owned_by": 17.7,
+   "owned_by": 17.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1621,7 +1621,7 @@
    "pos": "DEF",
    "price": 4.8,
    "points": 11,
-   "owned_by": 23.5
+   "owned_by": 23.6
   },
   {
    "name": "Mykolenko",
@@ -1725,7 +1725,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 8,
-   "owned_by": 37.4
+   "owned_by": 37.5
   },
   {
    "name": "Tavernier",
@@ -2765,7 +2765,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 42.3,
-   "owned_globally_pct": 37.4,
+   "owned_globally_pct": 37.5,
    "i_own": false
   },
   {
@@ -2774,7 +2774,7 @@
    "pos": "GK",
    "price": 4.0,
    "owned_in_league_pct": 38.5,
-   "owned_globally_pct": 17.7,
+   "owned_globally_pct": 17.6,
    "i_own": true
   },
   {
@@ -2855,7 +2855,7 @@
    "pos": "DEF",
    "price": 4.8,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 23.5,
+   "owned_globally_pct": 23.6,
    "i_own": false
   },
   {
