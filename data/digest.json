@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-15T08:44:23Z",
+ "generated_utc": "2026-09-15T09:06:50Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": false,
@@ -591,16 +591,16 @@
     },
     {
      "rank": 16,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 62,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 52,
      "total": 265
     },
     {
      "rank": 16,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 52,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 62,
      "total": 265
     },
     {
@@ -619,6 +619,13 @@
     },
     {
      "rank": 19,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
+     "total": 261
+    },
+    {
+     "rank": 19,
      "team": "OneDirection_Top",
      "player": "Paul Dickinson",
      "gw": 73,
@@ -629,13 +636,6 @@
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
      "gw": 65,
-     "total": 261
-    },
-    {
-     "rank": 19,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
      "total": 261
     },
     {
@@ -1725,7 +1725,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 8,
-   "owned_by": 37.3
+   "owned_by": 37.4
   },
   {
    "name": "Tavernier",
@@ -2765,7 +2765,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 42.3,
-   "owned_globally_pct": 37.3,
+   "owned_globally_pct": 37.4,
    "i_own": false
   },
   {
@@ -2981,7 +2981,7 @@
    "pos": "MID",
    "price": 8.4,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 15.6,
+   "owned_globally_pct": 15.5,
    "i_own": false
   },
   {
@@ -3134,7 +3134,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 28.6,
+   "owned_globally_pct": 28.5,
    "i_own": false
   },
   {
@@ -3161,7 +3161,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 3.9,
+   "owned_globally_pct": 4.0,
    "i_own": false
   },
   {
