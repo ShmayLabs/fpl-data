@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T08:20:26Z",
+ "generated_utc": "2026-09-16T08:42:56Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -3413,7 +3413,7 @@
    "pos": "MID",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.6,
+   "owned_globally_pct": 4.5,
    "i_own": false
   },
   {
