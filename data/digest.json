@@ -7,7 +7,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T23:03:26Z",
+ "generated_utc": "2026-09-16T23:17:47Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -1745,7 +1745,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 8,
-   "owned_by": 38.1
+   "owned_by": 38.2
   },
   {
    "name": "Tavernier",
@@ -2785,7 +2785,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 42.3,
-   "owned_globally_pct": 38.1,
+   "owned_globally_pct": 38.2,
    "i_own": false
   },
   {
