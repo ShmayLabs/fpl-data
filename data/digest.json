@@ -7,7 +7,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T22:40:55Z",
+ "generated_utc": "2026-09-16T23:03:26Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -209,7 +209,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 41.4,
+   "owned_by": 41.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -266,7 +266,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 75.1,
+   "owned_by": 75.0,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -285,7 +285,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 23.1,
+   "owned_by": 23.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -382,7 +382,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 75.1,
+   "owned_by": 75.0,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -1609,7 +1609,7 @@
    "pos": "MID",
    "price": 5.1,
    "points": 13,
-   "owned_by": 3.4
+   "owned_by": 3.5
   },
   {
    "name": "Dunk",
@@ -1625,7 +1625,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 75.1
+   "owned_by": 75.0
   },
   {
    "name": "Emersonn",
@@ -1639,7 +1639,7 @@
    "name": "De Cuyper",
    "team": "BHA",
    "pos": "DEF",
-   "price": 4.8,
+   "price": 4.9,
    "points": 11,
    "owned_by": 24.0
   },
@@ -1673,7 +1673,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 10,
-   "owned_by": 23.1
+   "owned_by": 23.2
   },
   {
    "name": "Gabriel",
@@ -2749,7 +2749,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 75.1,
+   "owned_globally_pct": 75.0,
    "i_own": true
   },
   {
@@ -2767,7 +2767,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 61.5,
-   "owned_globally_pct": 41.4,
+   "owned_globally_pct": 41.3,
    "i_own": true
   },
   {
@@ -2839,7 +2839,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 23.1,
+   "owned_globally_pct": 23.2,
    "i_own": true
   },
   {
@@ -2873,7 +2873,7 @@
    "name": "De Cuyper",
    "team": "BHA",
    "pos": "DEF",
-   "price": 4.8,
+   "price": 4.9,
    "owned_in_league_pct": 23.1,
    "owned_globally_pct": 24.0,
    "i_own": false
@@ -2938,7 +2938,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 21.9,
+   "owned_globally_pct": 21.8,
    "i_own": false
   },
   {
@@ -3712,7 +3712,7 @@
    "pos": "DEF",
    "price": 5.8,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.0,
+   "owned_globally_pct": 3.9,
    "i_own": false
   },
   {
