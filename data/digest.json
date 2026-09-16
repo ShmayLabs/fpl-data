@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T11:41:47Z",
+ "generated_utc": "2026-09-16T12:04:16Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -1557,7 +1557,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 15,
-   "owned_by": 6.2
+   "owned_by": 6.3
   },
   {
    "name": "Bogle",
@@ -1565,7 +1565,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 15,
-   "owned_by": 3.5
+   "owned_by": 3.6
   },
   {
    "name": "Raya",
@@ -1637,7 +1637,7 @@
    "pos": "DEF",
    "price": 5.7,
    "points": 11,
-   "owned_by": 23.4
+   "owned_by": 23.5
   },
   {
    "name": "Kostoulas",
@@ -2873,7 +2873,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 23.4,
+   "owned_globally_pct": 23.5,
    "i_own": false
   },
   {
@@ -3368,7 +3368,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.5,
+   "owned_globally_pct": 3.6,
    "i_own": false
   },
   {
