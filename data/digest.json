@@ -1,12 +1,13 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "PRICE FALL: Roefs dropped \u00a30.1m this gameweek.",
+  "FLAGGED: Jo\u00e3o Pedro (CHE) -- Unspecified injury - 75% chance of playing (75% chance).",
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "FLAGGED: Elanga (NEW) -- Unspecified injury - Unknown return date (0% chance).",
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T18:44:09Z",
+ "generated_utc": "2026-09-16T19:06:34Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -269,9 +270,9 @@
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
-   "status": "a",
-   "chance_next": null,
-   "news": "",
+   "status": "d",
+   "chance_next": 75,
+   "news": "Unspecified injury - 75% chance of playing",
    "gw_points": 12,
    "gw_minutes": 90,
    "form": "8.2",
@@ -376,6 +377,25 @@
   }
  ],
  "flagged_players": [
+  {
+   "name": "Jo\u00e3o Pedro",
+   "team": "CHE",
+   "pos": "FWD",
+   "price": 7.8,
+   "owned_by": 75.4,
+   "is_captain": false,
+   "is_vice": true,
+   "on_bench": false,
+   "status": "d",
+   "chance_next": 75,
+   "news": "Unspecified injury - 75% chance of playing",
+   "gw_points": 12,
+   "gw_minutes": 90,
+   "form": "8.2",
+   "total_points": 33,
+   "fixture_state": "played",
+   "zero_minutes_means": null
+  },
   {
    "name": "Elanga",
    "team": "NEW",
@@ -626,16 +646,16 @@
     },
     {
      "rank": 21,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
      "rank": 21,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
@@ -1549,7 +1569,7 @@
    "pos": "MID",
    "price": 5.7,
    "points": 17,
-   "owned_by": 19.2
+   "owned_by": 19.3
   },
   {
    "name": "Schade",
@@ -1637,7 +1657,7 @@
    "pos": "DEF",
    "price": 5.7,
    "points": 11,
-   "owned_by": 23.6
+   "owned_by": 23.7
   },
   {
    "name": "Kostoulas",
@@ -1725,7 +1745,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 8,
-   "owned_by": 38.0
+   "owned_by": 38.1
   },
   {
    "name": "Tavernier",
@@ -1733,7 +1753,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 5.6
+   "owned_by": 5.7
   },
   {
    "name": "Kluivert",
@@ -2765,7 +2785,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 42.3,
-   "owned_globally_pct": 38.0,
+   "owned_globally_pct": 38.1,
    "i_own": false
   },
   {
@@ -2873,7 +2893,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 23.6,
+   "owned_globally_pct": 23.7,
    "i_own": false
   },
   {
@@ -3062,7 +3082,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 19.2,
+   "owned_globally_pct": 19.3,
    "i_own": false
   },
   {
