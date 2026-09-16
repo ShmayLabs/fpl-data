@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T08:05:21Z",
+ "generated_utc": "2026-09-16T08:20:26Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -1581,7 +1581,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 14,
-   "owned_by": 6.2
+   "owned_by": 6.3
   },
   {
    "name": "Belloumi",
