@@ -7,7 +7,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T22:18:23Z",
+ "generated_utc": "2026-09-16T22:40:55Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -1633,7 +1633,7 @@
    "pos": "FWD",
    "price": 5.5,
    "points": 12,
-   "owned_by": 2.7
+   "owned_by": 2.8
   },
   {
    "name": "De Cuyper",
@@ -1697,7 +1697,7 @@
    "pos": "MID",
    "price": 5.8,
    "points": 9,
-   "owned_by": 0.3
+   "owned_by": 0.4
   },
   {
    "name": "A.Becker",
@@ -3469,7 +3469,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.7,
+   "owned_globally_pct": 2.6,
    "i_own": false
   },
   {
