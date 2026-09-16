@@ -7,7 +7,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T21:05:12Z",
+ "generated_utc": "2026-09-16T21:20:33Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -1569,7 +1569,7 @@
    "pos": "MID",
    "price": 5.7,
    "points": 17,
-   "owned_by": 19.3
+   "owned_by": 19.4
   },
   {
    "name": "Schade",
@@ -1585,7 +1585,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 15,
-   "owned_by": 3.8
+   "owned_by": 3.9
   },
   {
    "name": "Raya",
@@ -2911,7 +2911,7 @@
    "pos": "MID",
    "price": 6.4,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 14.5,
+   "owned_globally_pct": 14.4,
    "i_own": false
   },
   {
@@ -3082,7 +3082,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 19.3,
+   "owned_globally_pct": 19.4,
    "i_own": false
   },
   {
@@ -3154,7 +3154,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 28.3,
+   "owned_globally_pct": 28.2,
    "i_own": false
   },
   {
@@ -3388,7 +3388,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.8,
+   "owned_globally_pct": 3.9,
    "i_own": false
   },
   {
