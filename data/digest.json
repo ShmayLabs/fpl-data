@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T06:24:42Z",
+ "generated_utc": "2026-09-16T06:47:11Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -1629,7 +1629,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 11,
-   "owned_by": 3.0
+   "owned_by": 3.1
   },
   {
    "name": "Gvardiol",
@@ -3134,7 +3134,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 28.4,
+   "owned_globally_pct": 28.3,
    "i_own": false
   },
   {
@@ -3359,7 +3359,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.0,
+   "owned_globally_pct": 3.1,
    "i_own": false
   },
   {
@@ -3710,7 +3710,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.5,
+   "owned_globally_pct": 2.4,
    "i_own": false
   },
   {
