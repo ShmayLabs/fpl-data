@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T07:42:54Z",
+ "generated_utc": "2026-09-16T08:05:21Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -246,7 +246,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.5,
-   "owned_by": 72.4,
+   "owned_by": 72.5,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -1565,7 +1565,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 15,
-   "owned_by": 3.4
+   "owned_by": 3.5
   },
   {
    "name": "Raya",
@@ -1637,7 +1637,7 @@
    "pos": "DEF",
    "price": 5.7,
    "points": 11,
-   "owned_by": 23.3
+   "owned_by": 23.4
   },
   {
    "name": "Kostoulas",
@@ -1709,7 +1709,7 @@
    "pos": "FWD",
    "price": 15.5,
    "points": 9,
-   "owned_by": 72.4
+   "owned_by": 72.5
   },
   {
    "name": "Saka",
@@ -1725,7 +1725,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 8,
-   "owned_by": 37.8
+   "owned_by": 37.9
   },
   {
    "name": "Tavernier",
@@ -2738,7 +2738,7 @@
    "pos": "FWD",
    "price": 15.5,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 72.4,
+   "owned_globally_pct": 72.5,
    "i_own": true
   },
   {
@@ -2765,7 +2765,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 42.3,
-   "owned_globally_pct": 37.8,
+   "owned_globally_pct": 37.9,
    "i_own": false
   },
   {
@@ -2873,7 +2873,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 23.3,
+   "owned_globally_pct": 23.4,
    "i_own": false
   },
   {
@@ -3152,7 +3152,7 @@
    "pos": "FWD",
    "price": 5.8,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 6.1,
+   "owned_globally_pct": 6.0,
    "i_own": false
   },
   {
@@ -3368,7 +3368,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.4,
+   "owned_globally_pct": 3.5,
    "i_own": false
   },
   {
@@ -3377,7 +3377,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.4,
+   "owned_globally_pct": 2.5,
    "i_own": false
   },
   {
