@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T18:21:43Z",
+ "generated_utc": "2026-09-16T18:44:09Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -170,7 +170,7 @@
    "team": "NFO",
    "pos": "DEF",
    "price": 5.0,
-   "owned_by": 8.6,
+   "owned_by": 8.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -265,7 +265,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 75.5,
+   "owned_by": 75.4,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -322,7 +322,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 8.9,
+   "owned_by": 8.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -381,7 +381,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 8.9,
+   "owned_by": 8.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1605,7 +1605,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 75.5
+   "owned_by": 75.4
   },
   {
    "name": "Emersonn",
@@ -2729,7 +2729,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 75.5,
+   "owned_globally_pct": 75.4,
    "i_own": true
   },
   {
@@ -2846,7 +2846,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 10.0,
+   "owned_globally_pct": 9.9,
    "i_own": false
   },
   {
@@ -2936,7 +2936,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 7.9,
+   "owned_globally_pct": 7.8,
    "i_own": false
   },
   {
@@ -3089,7 +3089,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 8.9,
+   "owned_globally_pct": 8.8,
    "i_own": true
   },
   {
@@ -3098,7 +3098,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 8.6,
+   "owned_globally_pct": 8.7,
    "i_own": true
   },
   {
