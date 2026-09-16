@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T13:44:29Z",
+ "generated_utc": "2026-09-16T14:06:58Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -626,16 +626,16 @@
     },
     {
      "rank": 21,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
      "rank": 21,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
@@ -1725,7 +1725,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 8,
-   "owned_by": 37.9
+   "owned_by": 38.0
   },
   {
    "name": "Tavernier",
@@ -2765,7 +2765,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 42.3,
-   "owned_globally_pct": 37.9,
+   "owned_globally_pct": 38.0,
    "i_own": false
   },
   {
@@ -3548,7 +3548,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 5.3,
+   "owned_globally_pct": 5.2,
    "i_own": false
   },
   {
