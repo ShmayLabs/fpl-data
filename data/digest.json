@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T15:19:11Z",
+ "generated_utc": "2026-09-16T15:41:42Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -322,7 +322,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 9.0,
+   "owned_by": 8.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -381,7 +381,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 9.0,
+   "owned_by": 8.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1589,7 +1589,7 @@
    "pos": "MID",
    "price": 5.1,
    "points": 13,
-   "owned_by": 3.3
+   "owned_by": 3.4
   },
   {
    "name": "Dunk",
@@ -1637,7 +1637,7 @@
    "pos": "DEF",
    "price": 5.7,
    "points": 11,
-   "owned_by": 23.5
+   "owned_by": 23.6
   },
   {
    "name": "Kostoulas",
@@ -2873,7 +2873,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 23.5,
+   "owned_globally_pct": 23.6,
    "i_own": false
   },
   {
@@ -2972,7 +2972,7 @@
    "pos": "MID",
    "price": 6.7,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 19.4,
+   "owned_globally_pct": 19.5,
    "i_own": false
   },
   {
@@ -2990,7 +2990,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 12.0,
+   "owned_globally_pct": 11.9,
    "i_own": false
   },
   {
@@ -3089,7 +3089,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 9.0,
+   "owned_globally_pct": 8.9,
    "i_own": true
   },
   {
@@ -3197,7 +3197,7 @@
    "pos": "FWD",
    "price": 7.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 7.9,
+   "owned_globally_pct": 7.8,
    "i_own": false
   },
   {
@@ -3350,7 +3350,7 @@
    "pos": "GK",
    "price": 5.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 7.6,
+   "owned_globally_pct": 7.7,
    "i_own": false
   },
   {
