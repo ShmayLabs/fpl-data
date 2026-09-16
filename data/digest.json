@@ -6,7 +6,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-16T06:03:11Z",
+ "generated_utc": "2026-09-16T06:24:42Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -284,7 +284,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 22.7,
+   "owned_by": 22.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1653,7 +1653,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 10,
-   "owned_by": 22.7
+   "owned_by": 22.8
   },
   {
    "name": "Gabriel",
@@ -2819,7 +2819,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 22.7,
+   "owned_globally_pct": 22.8,
    "i_own": true
   },
   {
