@@ -7,7 +7,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-17T16:20:56Z",
+ "generated_utc": "2026-09-17T16:43:24Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -266,7 +266,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 73.9,
+   "owned_by": 73.8,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -382,7 +382,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 73.9,
+   "owned_by": 73.8,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -1577,7 +1577,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 15,
-   "owned_by": 6.6
+   "owned_by": 6.7
   },
   {
    "name": "Bogle",
@@ -1625,7 +1625,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 73.9
+   "owned_by": 73.8
   },
   {
    "name": "Emersonn",
@@ -1737,7 +1737,7 @@
    "pos": "MID",
    "price": 9.5,
    "points": 8,
-   "owned_by": 12.5
+   "owned_by": 12.6
   },
   {
    "name": "Rogers",
@@ -2749,7 +2749,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 73.9,
+   "owned_globally_pct": 73.8,
    "i_own": true
   },
   {
@@ -2911,7 +2911,7 @@
    "pos": "MID",
    "price": 6.4,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 14.3,
+   "owned_globally_pct": 14.2,
    "i_own": false
   },
   {
@@ -2938,7 +2938,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 21.8,
+   "owned_globally_pct": 21.7,
    "i_own": false
   },
   {
@@ -3145,7 +3145,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 1.9,
+   "owned_globally_pct": 1.8,
    "i_own": false
   },
   {
@@ -3199,7 +3199,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 12.5,
+   "owned_globally_pct": 12.6,
    "i_own": false
   },
   {
