@@ -7,7 +7,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-17T09:19:52Z",
+ "generated_utc": "2026-09-17T09:42:21Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -190,7 +190,7 @@
    "team": "HUL",
    "pos": "DEF",
    "price": 4.1,
-   "owned_by": 6.8,
+   "owned_by": 6.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -266,7 +266,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 74.6,
+   "owned_by": 74.5,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -382,7 +382,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 74.6,
+   "owned_by": 74.5,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -1625,7 +1625,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 74.6
+   "owned_by": 74.5
   },
   {
    "name": "Emersonn",
@@ -1657,7 +1657,7 @@
    "pos": "DEF",
    "price": 5.7,
    "points": 11,
-   "owned_by": 23.9
+   "owned_by": 24.0
   },
   {
    "name": "Kostoulas",
@@ -2749,7 +2749,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 74.6,
+   "owned_globally_pct": 74.5,
    "i_own": true
   },
   {
@@ -2893,7 +2893,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 23.9,
+   "owned_globally_pct": 24.0,
    "i_own": false
   },
   {
@@ -2920,7 +2920,7 @@
    "pos": "DEF",
    "price": 4.1,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 6.8,
+   "owned_globally_pct": 6.9,
    "i_own": true
   },
   {
@@ -3307,7 +3307,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 11.0,
+   "owned_globally_pct": 11.1,
    "i_own": false
   },
   {
