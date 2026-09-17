@@ -7,7 +7,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-17T18:02:41Z",
+ "generated_utc": "2026-09-17T18:23:02Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -266,7 +266,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 73.6,
+   "owned_by": 73.5,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -285,7 +285,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 23.8,
+   "owned_by": 23.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -323,7 +323,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 8.1,
+   "owned_by": 8.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -382,7 +382,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 73.6,
+   "owned_by": 73.5,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -401,7 +401,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 8.1,
+   "owned_by": 8.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1569,7 +1569,7 @@
    "pos": "MID",
    "price": 5.7,
    "points": 17,
-   "owned_by": 19.8
+   "owned_by": 19.9
   },
   {
    "name": "Schade",
@@ -1601,7 +1601,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 14,
-   "owned_by": 6.4
+   "owned_by": 6.5
   },
   {
    "name": "Belloumi",
@@ -1625,7 +1625,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 73.6
+   "owned_by": 73.5
   },
   {
    "name": "Emersonn",
@@ -1673,7 +1673,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 10,
-   "owned_by": 23.8
+   "owned_by": 23.9
   },
   {
    "name": "Gabriel",
@@ -1745,7 +1745,7 @@
    "pos": "MID",
    "price": 7.7,
    "points": 8,
-   "owned_by": 38.5
+   "owned_by": 38.6
   },
   {
    "name": "Tavernier",
@@ -2749,7 +2749,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.6,
-   "owned_globally_pct": 73.6,
+   "owned_globally_pct": 73.5,
    "i_own": true
   },
   {
@@ -2785,7 +2785,7 @@
    "pos": "MID",
    "price": 7.7,
    "owned_in_league_pct": 42.3,
-   "owned_globally_pct": 38.5,
+   "owned_globally_pct": 38.6,
    "i_own": false
   },
   {
@@ -2812,7 +2812,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 35.5,
+   "owned_globally_pct": 35.4,
    "i_own": false
   },
   {
@@ -2839,7 +2839,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 23.8,
+   "owned_globally_pct": 23.9,
    "i_own": true
   },
   {
@@ -3082,7 +3082,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 19.8,
+   "owned_globally_pct": 19.9,
    "i_own": false
   },
   {
@@ -3109,7 +3109,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 8.1,
+   "owned_globally_pct": 8.0,
    "i_own": true
   },
   {
@@ -3154,7 +3154,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 28.2,
+   "owned_globally_pct": 28.1,
    "i_own": false
   },
   {
@@ -3163,7 +3163,7 @@
    "pos": "GK",
    "price": 5.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 8.9,
+   "owned_globally_pct": 9.0,
    "i_own": false
   },
   {
@@ -3172,7 +3172,7 @@
    "pos": "FWD",
    "price": 5.8,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.9,
+   "owned_globally_pct": 5.8,
    "i_own": false
   },
   {
@@ -3208,7 +3208,7 @@
    "pos": "FWD",
    "price": 7.9,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 9.3,
+   "owned_globally_pct": 9.2,
    "i_own": false
   },
   {
@@ -3559,7 +3559,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 13.6,
+   "owned_globally_pct": 13.7,
    "i_own": false
   },
   {
@@ -3586,7 +3586,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 6.1,
+   "owned_globally_pct": 6.0,
    "i_own": false
   },
   {
