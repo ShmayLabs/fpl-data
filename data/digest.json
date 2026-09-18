@@ -7,7 +7,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-18T04:03:43Z",
+ "generated_utc": "2026-09-18T04:19:13Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -646,16 +646,16 @@
     },
     {
      "rank": 21,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 66,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 65,
      "total": 261
     },
     {
      "rank": 21,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 65,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 66,
      "total": 261
     },
     {
@@ -1569,7 +1569,7 @@
    "pos": "MID",
    "price": 5.7,
    "points": 17,
-   "owned_by": 20.0
+   "owned_by": 20.1
   },
   {
    "name": "Schade",
@@ -1657,7 +1657,7 @@
    "pos": "DEF",
    "price": 5.7,
    "points": 11,
-   "owned_by": 24.7
+   "owned_by": 24.8
   },
   {
    "name": "Kostoulas",
@@ -2893,7 +2893,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 24.7,
+   "owned_globally_pct": 24.8,
    "i_own": false
   },
   {
@@ -3082,7 +3082,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 20.0,
+   "owned_globally_pct": 20.1,
    "i_own": false
   },
   {
