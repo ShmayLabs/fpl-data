@@ -13,10 +13,9 @@
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Dubravka (TOT) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Egan (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
-  "NOT YET PLAYED: Yarmoliuk (BRE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-18T18:44:34Z",
+ "generated_utc": "2026-09-18T19:07:07Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -214,7 +213,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 40.1,
+   "owned_by": 40.0,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -301,7 +300,7 @@
    "gw_minutes": 0,
    "form": "6.6",
    "total_points": 33,
-   "fixture_state": "not_kicked_off",
+   "fixture_state": "in_progress",
    "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
@@ -373,12 +372,12 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 0,
-   "gw_minutes": 0,
+   "gw_points": 1,
+   "gw_minutes": 2,
    "form": "1.2",
    "total_points": 6,
-   "fixture_state": "not_kicked_off",
-   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+   "fixture_state": "in_progress",
+   "zero_minutes_means": null
   },
   {
    "name": "Hughes",
@@ -436,7 +435,7 @@
    "gw_minutes": 0,
    "form": "6.6",
    "total_points": 33,
-   "fixture_state": "not_kicked_off",
+   "fixture_state": "in_progress",
    "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   }
  ],
@@ -1586,7 +1585,184 @@
    }
   ]
  },
- "top_scorers_this_gw": [],
+ "top_scorers_this_gw": [
+  {
+   "name": "Martinez",
+   "team": "CHE",
+   "pos": "GK",
+   "price": 5.0,
+   "points": 1,
+   "owned_by": 4.9
+  },
+  {
+   "name": "Rogers",
+   "team": "CHE",
+   "pos": "MID",
+   "price": 7.7,
+   "points": 1,
+   "owned_by": 39.9
+  },
+  {
+   "name": "Kelleher",
+   "team": "BRE",
+   "pos": "GK",
+   "price": 5.0,
+   "points": 1,
+   "owned_by": 6.1
+  },
+  {
+   "name": "Lewis-Potter",
+   "team": "BRE",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 1,
+   "owned_by": 1.8
+  },
+  {
+   "name": "Ajer",
+   "team": "BRE",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 1,
+   "owned_by": 4.0
+  },
+  {
+   "name": "Kayode",
+   "team": "BRE",
+   "pos": "DEF",
+   "price": 4.6,
+   "points": 1,
+   "owned_by": 7.8
+  },
+  {
+   "name": "Schuster",
+   "team": "BRE",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 1,
+   "owned_by": 0.1
+  },
+  {
+   "name": "Schade",
+   "team": "BRE",
+   "pos": "MID",
+   "price": 6.1,
+   "points": 1,
+   "owned_by": 7.5
+  },
+  {
+   "name": "Damsgaard",
+   "team": "BRE",
+   "pos": "MID",
+   "price": 5.4,
+   "points": 1,
+   "owned_by": 0.4
+  },
+  {
+   "name": "Janelt",
+   "team": "BRE",
+   "pos": "MID",
+   "price": 5.0,
+   "points": 1,
+   "owned_by": 2.5
+  },
+  {
+   "name": "Henderson",
+   "team": "CHE",
+   "pos": "MID",
+   "price": 4.9,
+   "points": 1,
+   "owned_by": 0.0
+  },
+  {
+   "name": "Yarmoliuk",
+   "team": "BRE",
+   "pos": "MID",
+   "price": 4.8,
+   "points": 1,
+   "owned_by": 0.7
+  },
+  {
+   "name": "Anthony",
+   "team": "BRE",
+   "pos": "MID",
+   "price": 5.9,
+   "points": 1,
+   "owned_by": 0.1
+  },
+  {
+   "name": "Thiago",
+   "team": "BRE",
+   "pos": "FWD",
+   "price": 7.8,
+   "points": 1,
+   "owned_by": 8.9
+  },
+  {
+   "name": "Welbeck",
+   "team": "CHE",
+   "pos": "FWD",
+   "price": 5.9,
+   "points": 1,
+   "owned_by": 1.0
+  },
+  {
+   "name": "Fofana",
+   "team": "CHE",
+   "pos": "DEF",
+   "price": 5.0,
+   "points": 1,
+   "owned_by": 0.2
+  },
+  {
+   "name": "Colwill",
+   "team": "CHE",
+   "pos": "DEF",
+   "price": 4.9,
+   "points": 1,
+   "owned_by": 0.9
+  },
+  {
+   "name": "Palmer",
+   "team": "CHE",
+   "pos": "MID",
+   "price": 9.7,
+   "points": 1,
+   "owned_by": 27.0
+  },
+  {
+   "name": "Neto",
+   "team": "CHE",
+   "pos": "MID",
+   "price": 6.5,
+   "points": 1,
+   "owned_by": 1.4
+  },
+  {
+   "name": "Lacroix",
+   "team": "CHE",
+   "pos": "DEF",
+   "price": 6.0,
+   "points": 1,
+   "owned_by": 7.0
+  },
+  {
+   "name": "Barco",
+   "team": "CHE",
+   "pos": "MID",
+   "price": 5.4,
+   "points": 1,
+   "owned_by": 0.1
+  },
+  {
+   "name": "Chavarria",
+   "team": "CHE",
+   "pos": "DEF",
+   "price": 4.9,
+   "points": 1,
+   "owned_by": 0.1
+  }
+ ],
  "rival_count": 26,
  "rival_squads": [
   {
@@ -2596,7 +2772,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 53.8,
-   "owned_globally_pct": 40.1,
+   "owned_globally_pct": 40.0,
    "i_own": true
   },
   {
@@ -2659,7 +2835,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 25.7,
+   "owned_globally_pct": 25.8,
    "i_own": false
   },
   {
@@ -2776,7 +2952,7 @@
    "pos": "FWD",
    "price": 6.2,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 19.2,
+   "owned_globally_pct": 19.3,
    "i_own": false
   },
   {
