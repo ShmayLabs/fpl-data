@@ -16,7 +16,7 @@
   "NOT YET PLAYED: Egan (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-18T23:04:02Z",
+ "generated_utc": "2026-09-18T23:17:51Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -691,16 +691,16 @@
     },
     {
      "rank": 24,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 0,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 5,
      "total": 261
     },
     {
      "rank": 24,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 5,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 0,
      "total": 261
     }
    ]
@@ -1609,7 +1609,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 9,
-   "owned_by": 7.7
+   "owned_by": 7.8
   },
   {
    "name": "Ajer",
@@ -2869,7 +2869,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 34.6,
+   "owned_globally_pct": 34.5,
    "i_own": false
   },
   {
@@ -3022,7 +3022,7 @@
    "pos": "DEF",
    "price": 4.9,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 9.3,
+   "owned_globally_pct": 9.2,
    "i_own": false
   },
   {
