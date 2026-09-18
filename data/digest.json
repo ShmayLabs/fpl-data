@@ -15,7 +15,7 @@
   "NOT YET PLAYED: Egan (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-18T19:40:55Z",
+ "generated_utc": "2026-09-18T20:03:21Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -372,10 +372,10 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 4,
-   "gw_minutes": 37,
-   "form": "2.0",
-   "total_points": 10,
+   "gw_points": 3,
+   "gw_minutes": 45,
+   "form": "1.8",
+   "total_points": 9,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -599,17 +599,17 @@
     },
     {
      "rank": 11,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 3,
+     "total": 286
+    },
+    {
+     "rank": 12,
      "team": "Enter Team Name",
      "player": "Andy Grundy",
      "gw": 0,
      "total": 285
-    },
-    {
-     "rank": 12,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 1,
-     "total": 284
     },
     {
      "rank": 13,
@@ -641,30 +641,30 @@
     },
     {
      "rank": 17,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 6,
-     "total": 267
-    },
-    {
-     "rank": 18,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
      "gw": 0,
      "total": 267
     },
     {
-     "rank": 19,
+     "rank": 18,
      "team": "Blind Faith",
      "player": "Janied Inayat",
      "gw": 1,
      "total": 265
     },
     {
-     "rank": 20,
+     "rank": 19,
      "team": "OneDirection_Top",
      "player": "Paul Dickinson",
      "gw": 1,
+     "total": 264
+    },
+    {
+     "rank": 19,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 3,
      "total": 264
     },
     {
@@ -817,8 +817,8 @@
      "rank": 16,
      "team": "Jimbledon FC",
      "player": "James Martin",
-     "gw": 4,
-     "total": 200
+     "gw": 1,
+     "total": 197
     }
    ]
   }
@@ -1587,36 +1587,36 @@
  },
  "top_scorers_this_gw": [
   {
-   "name": "Yarmoliuk",
-   "team": "BRE",
-   "pos": "MID",
-   "price": 4.8,
-   "points": 4,
-   "owned_by": 0.7
-  },
-  {
-   "name": "Kelleher",
-   "team": "BRE",
-   "pos": "GK",
-   "price": 5.0,
-   "points": 3,
-   "owned_by": 6.1
-  },
-  {
-   "name": "Fofana",
-   "team": "CHE",
-   "pos": "DEF",
-   "price": 5.0,
-   "points": 3,
-   "owned_by": 0.2
-  },
-  {
    "name": "Barco",
    "team": "CHE",
    "pos": "MID",
    "price": 5.4,
-   "points": 3,
+   "points": 4,
    "owned_by": 0.1
+  },
+  {
+   "name": "Ajer",
+   "team": "BRE",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 3,
+   "owned_by": 4.0
+  },
+  {
+   "name": "Henderson",
+   "team": "CHE",
+   "pos": "MID",
+   "price": 4.9,
+   "points": 3,
+   "owned_by": 0.0
+  },
+  {
+   "name": "Yarmoliuk",
+   "team": "BRE",
+   "pos": "MID",
+   "price": 4.8,
+   "points": 3,
+   "owned_by": 0.7
   },
   {
    "name": "Martinez",
@@ -1635,20 +1635,20 @@
    "owned_by": 39.9
   },
   {
+   "name": "Kelleher",
+   "team": "BRE",
+   "pos": "GK",
+   "price": 5.0,
+   "points": 1,
+   "owned_by": 6.1
+  },
+  {
    "name": "Lewis-Potter",
    "team": "BRE",
    "pos": "MID",
    "price": 5.5,
    "points": 1,
    "owned_by": 1.8
-  },
-  {
-   "name": "Ajer",
-   "team": "BRE",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 1,
-   "owned_by": 4.0
   },
   {
    "name": "Kayode",
@@ -1691,14 +1691,6 @@
    "owned_by": 2.5
   },
   {
-   "name": "Henderson",
-   "team": "CHE",
-   "pos": "MID",
-   "price": 4.9,
-   "points": 1,
-   "owned_by": 0.0
-  },
-  {
    "name": "Anthony",
    "team": "BRE",
    "pos": "MID",
@@ -1721,6 +1713,14 @@
    "price": 5.9,
    "points": 1,
    "owned_by": 1.0
+  },
+  {
+   "name": "Fofana",
+   "team": "CHE",
+   "pos": "DEF",
+   "price": 5.0,
+   "points": 1,
+   "owned_by": 0.2
   },
   {
    "name": "Colwill",
@@ -2703,7 +2703,7 @@
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 16,
-   "total": 200,
+   "total": 197,
    "chip": null,
    "squad": [
     "Kelleher",
@@ -2844,7 +2844,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 34.7,
+   "owned_globally_pct": 34.6,
    "i_own": false
   },
   {
@@ -3510,7 +3510,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.1,
+   "owned_globally_pct": 2.0,
    "i_own": false
   },
   {
