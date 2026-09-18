@@ -7,7 +7,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-18T10:03:52Z",
+ "generated_utc": "2026-09-18T10:19:25Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -285,7 +285,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 24.7,
+   "owned_by": 24.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1593,7 +1593,7 @@
    "pos": "GK",
    "price": 6.0,
    "points": 14,
-   "owned_by": 41.0
+   "owned_by": 41.1
   },
   {
    "name": "Davis",
@@ -1633,7 +1633,7 @@
    "pos": "FWD",
    "price": 5.5,
    "points": 12,
-   "owned_by": 3.0
+   "owned_by": 3.1
   },
   {
    "name": "De Cuyper",
@@ -1673,7 +1673,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 10,
-   "owned_by": 24.7
+   "owned_by": 24.8
   },
   {
    "name": "Gabriel",
@@ -2839,7 +2839,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 24.7,
+   "owned_globally_pct": 24.8,
    "i_own": true
   },
   {
@@ -2992,7 +2992,7 @@
    "pos": "MID",
    "price": 6.8,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 19.7,
+   "owned_globally_pct": 19.8,
    "i_own": false
   },
   {
@@ -3046,7 +3046,7 @@
    "pos": "GK",
    "price": 6.0,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 41.0,
+   "owned_globally_pct": 41.1,
    "i_own": false
   },
   {
