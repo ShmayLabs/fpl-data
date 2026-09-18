@@ -15,7 +15,7 @@
   "NOT YET PLAYED: Egan (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-18T20:03:21Z",
+ "generated_utc": "2026-09-18T20:18:54Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -372,10 +372,10 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 3,
-   "gw_minutes": 45,
-   "form": "1.8",
-   "total_points": 9,
+   "gw_points": 4,
+   "gw_minutes": 57,
+   "form": "2.0",
+   "total_points": 10,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -599,17 +599,17 @@
     },
     {
      "rank": 11,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 3,
-     "total": 286
-    },
-    {
-     "rank": 12,
      "team": "Enter Team Name",
      "player": "Andy Grundy",
      "gw": 0,
      "total": 285
+    },
+    {
+     "rank": 12,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 1,
+     "total": 284
     },
     {
      "rank": 13,
@@ -655,16 +655,16 @@
     },
     {
      "rank": 19,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 1,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 3,
      "total": 264
     },
     {
      "rank": 19,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 3,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 1,
      "total": 264
     },
     {
@@ -676,22 +676,22 @@
     },
     {
      "rank": 22,
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
+     "gw": 2,
+     "total": 261
+    },
+    {
+     "rank": 22,
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
      "gw": 0,
      "total": 261
     },
     {
-     "rank": 23,
+     "rank": 24,
      "team": "Crew Alexander",
      "player": "Alex Brumby",
-     "gw": 1,
-     "total": 260
-    },
-    {
-     "rank": 24,
-     "team": "Boundary Park Blues",
-     "player": "Ben McNamara",
      "gw": 1,
      "total": 260
     },
@@ -1587,6 +1587,14 @@
  },
  "top_scorers_this_gw": [
   {
+   "name": "Yarmoliuk",
+   "team": "BRE",
+   "pos": "MID",
+   "price": 4.8,
+   "points": 4,
+   "owned_by": 0.7
+  },
+  {
    "name": "Barco",
    "team": "CHE",
    "pos": "MID",
@@ -1595,28 +1603,28 @@
    "owned_by": 0.1
   },
   {
-   "name": "Ajer",
-   "team": "BRE",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 3,
-   "owned_by": 4.0
-  },
-  {
-   "name": "Henderson",
+   "name": "Fofana",
    "team": "CHE",
-   "pos": "MID",
-   "price": 4.9,
+   "pos": "DEF",
+   "price": 5.0,
    "points": 3,
-   "owned_by": 0.0
+   "owned_by": 0.2
   },
   {
-   "name": "Yarmoliuk",
+   "name": "Janelt",
    "team": "BRE",
    "pos": "MID",
-   "price": 4.8,
-   "points": 3,
-   "owned_by": 0.7
+   "price": 5.0,
+   "points": 2,
+   "owned_by": 2.5
+  },
+  {
+   "name": "Chavarria",
+   "team": "CHE",
+   "pos": "DEF",
+   "price": 4.9,
+   "points": 2,
+   "owned_by": 0.1
   },
   {
    "name": "Martinez",
@@ -1651,6 +1659,14 @@
    "owned_by": 1.8
   },
   {
+   "name": "Ajer",
+   "team": "BRE",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 1,
+   "owned_by": 4.0
+  },
+  {
    "name": "Kayode",
    "team": "BRE",
    "pos": "DEF",
@@ -1683,12 +1699,12 @@
    "owned_by": 0.4
   },
   {
-   "name": "Janelt",
-   "team": "BRE",
+   "name": "Henderson",
+   "team": "CHE",
    "pos": "MID",
-   "price": 5.0,
+   "price": 4.9,
    "points": 1,
-   "owned_by": 2.5
+   "owned_by": 0.0
   },
   {
    "name": "Anthony",
@@ -1713,14 +1729,6 @@
    "price": 5.9,
    "points": 1,
    "owned_by": 1.0
-  },
-  {
-   "name": "Fofana",
-   "team": "CHE",
-   "pos": "DEF",
-   "price": 5.0,
-   "points": 1,
-   "owned_by": 0.2
   },
   {
    "name": "Colwill",
@@ -1753,14 +1761,6 @@
    "price": 6.0,
    "points": 1,
    "owned_by": 7.0
-  },
-  {
-   "name": "Chavarria",
-   "team": "CHE",
-   "pos": "DEF",
-   "price": 4.9,
-   "points": 1,
-   "owned_by": 0.1
   }
  ],
  "rival_count": 26,
