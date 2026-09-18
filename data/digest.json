@@ -15,7 +15,7 @@
   "NOT YET PLAYED: Egan (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-18T22:19:00Z",
+ "generated_utc": "2026-09-18T22:41:31Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -102,7 +102,7 @@
    "total_points": 267,
    "rank": 9618213,
    "rank_sort": 9878005,
-   "overall_rank": 3314131,
+   "overall_rank": 3314150,
    "percentile_rank": 90,
    "overall_rank_percentage": "31",
    "bank": 3,
@@ -2823,7 +2823,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 38.5,
-   "owned_globally_pct": 19.3,
+   "owned_globally_pct": 19.4,
    "i_own": false
   },
   {
@@ -3075,7 +3075,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 4.4,
+   "owned_globally_pct": 4.5,
    "i_own": false
   },
   {
