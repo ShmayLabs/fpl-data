@@ -7,7 +7,7 @@
   "PRICE FALL: Yarmoliuk dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Hughes dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-09-18T04:19:13Z",
+ "generated_utc": "2026-09-18T04:41:40Z",
  "next_gw": 5,
  "next_deadline_utc": "2026-09-18T17:30:00Z",
  "gw_finished": true,
@@ -114,7 +114,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.1,
-   "owned_by": 13.9,
+   "owned_by": 14.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1609,7 +1609,7 @@
    "pos": "MID",
    "price": 5.1,
    "points": 13,
-   "owned_by": 3.8
+   "owned_by": 3.9
   },
   {
    "name": "Dunk",
@@ -1737,7 +1737,7 @@
    "pos": "MID",
    "price": 9.5,
    "points": 8,
-   "owned_by": 12.7
+   "owned_by": 12.8
   },
   {
    "name": "Rogers",
@@ -3199,7 +3199,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 12.7,
+   "owned_globally_pct": 12.8,
    "i_own": false
   },
   {
@@ -3226,7 +3226,7 @@
    "pos": "DEF",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 13.9,
+   "owned_globally_pct": 14.0,
    "i_own": true
   },
   {
@@ -3559,7 +3559,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 14.3,
+   "owned_globally_pct": 14.4,
    "i_own": false
   },
   {
