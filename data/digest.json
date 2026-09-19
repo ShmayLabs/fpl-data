@@ -11,7 +11,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-19T17:38:47Z",
+ "generated_utc": "2026-09-19T18:01:10Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -197,10 +197,10 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 4,
-   "gw_minutes": 47,
-   "form": "4.2",
-   "total_points": 21,
+   "gw_points": 2,
+   "gw_minutes": 70,
+   "form": "3.8",
+   "total_points": 19,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -451,22 +451,22 @@
      "rank": 2,
      "team": "Bayer Neverlusen",
      "player": "Jamie Mourant",
-     "gw": 26,
-     "total": 306
+     "gw": 25,
+     "total": 305
     },
     {
      "rank": 3,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 36,
-     "total": 303
+     "gw": 34,
+     "total": 301
     },
     {
      "rank": 4,
      "team": "HaCunha Matata",
      "player": "Oliver Norris",
-     "gw": 22,
-     "total": 293
+     "gw": 28,
+     "total": 299
     },
     {
      "rank": 5,
@@ -493,8 +493,8 @@
      "rank": 8,
      "team": "Tics Champs By Xmas",
      "player": "Kieron Murphy",
-     "gw": 20,
-     "total": 274
+     "gw": 21,
+     "total": 275
     },
     {
      "rank": 9,
@@ -514,8 +514,8 @@
      "rank": 11,
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
-     "gw": 14,
-     "total": 241
+     "gw": 12,
+     "total": 239
     }
    ]
   },
@@ -548,29 +548,29 @@
      "rank": 4,
      "team": "HMH Ath",
      "player": "Craig Hughes",
-     "gw": 34,
-     "total": 333
+     "gw": 35,
+     "total": 334
     },
     {
      "rank": 5,
      "team": "L&K 11",
      "player": "Lee Gorman",
-     "gw": 16,
-     "total": 326
+     "gw": 12,
+     "total": 322
     },
     {
      "rank": 6,
      "team": "Paul's Team",
      "player": "Paul Larkin",
-     "gw": 32,
-     "total": 320
+     "gw": 31,
+     "total": 319
     },
     {
      "rank": 7,
      "team": "Maddcatts",
      "player": "Craig Cattrall",
-     "gw": 24,
-     "total": 318
+     "gw": 23,
+     "total": 317
     },
     {
      "rank": 8,
@@ -590,29 +590,29 @@
      "rank": 10,
      "team": "Enter Team Name",
      "player": "Andy Grundy",
-     "gw": 30,
-     "total": 315
+     "gw": 27,
+     "total": 312
     },
     {
      "rank": 11,
      "team": "ChickenTikka Mangala",
      "player": "James Davies",
-     "gw": 19,
-     "total": 312
+     "gw": 18,
+     "total": 311
     },
     {
      "rank": 12,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 27,
-     "total": 303
+     "gw": 25,
+     "total": 301
     },
     {
      "rank": 13,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 36,
-     "total": 303
+     "gw": 34,
+     "total": 301
     },
     {
      "rank": 14,
@@ -625,8 +625,8 @@
      "rank": 15,
      "team": "Spring Thyme Rovers",
      "player": "Derek Holden",
-     "gw": 19,
-     "total": 294
+     "gw": 25,
+     "total": 300
     },
     {
      "rank": 16,
@@ -639,29 +639,29 @@
      "rank": 17,
      "team": "WheelshavfallenoffXI",
      "player": "simon g",
-     "gw": 8,
-     "total": 287
-    },
-    {
-     "rank": 18,
-     "team": "OneDirection_Top",
-     "player": "Paul Dickinson",
-     "gw": 23,
+     "gw": 7,
      "total": 286
     },
     {
-     "rank": 19,
+     "rank": 18,
      "team": "MightyGar",
      "player": "Stephen Lowe",
-     "gw": 23,
-     "total": 285
+     "gw": 22,
+     "total": 284
+    },
+    {
+     "rank": 19,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 20,
+     "total": 283
     },
     {
      "rank": 20,
      "team": "Cruckle FC",
      "player": "Michael Clarkson",
-     "gw": 36,
-     "total": 283
+     "gw": 34,
+     "total": 281
     },
     {
      "rank": 21,
@@ -729,15 +729,15 @@
      "rank": 4,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 27,
-     "total": 303
+     "gw": 25,
+     "total": 301
     },
     {
      "rank": 5,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 36,
-     "total": 303
+     "gw": 34,
+     "total": 301
     },
     {
      "rank": 6,
@@ -750,8 +750,8 @@
      "rank": 7,
      "team": "Tramontozpor",
      "player": "Kwadwo David",
-     "gw": 25,
-     "total": 293
+     "gw": 23,
+     "total": 291
     },
     {
      "rank": 8,
@@ -778,8 +778,8 @@
      "rank": 11,
      "team": "JTindall Solo Album",
      "player": "Niall Ballinger",
-     "gw": 16,
-     "total": 272
+     "gw": 15,
+     "total": 271
     },
     {
      "rank": 12,
@@ -1583,6 +1583,14 @@
  },
  "top_scorers_this_gw": [
   {
+   "name": "Dasilva",
+   "team": "COV",
+   "pos": "DEF",
+   "price": 4.0,
+   "points": 15,
+   "owned_by": 0.7
+  },
+  {
    "name": "Schuster",
    "team": "BRE",
    "pos": "DEF",
@@ -1596,7 +1604,7 @@
    "pos": "MID",
    "price": 5.7,
    "points": 14,
-   "owned_by": 22.9
+   "owned_by": 23.0
   },
   {
    "name": "Tarkowski",
@@ -1621,6 +1629,14 @@
    "price": 5.9,
    "points": 12,
    "owned_by": 0.9
+  },
+  {
+   "name": "Rushworth",
+   "team": "COV",
+   "pos": "GK",
+   "price": 4.5,
+   "points": 12,
+   "owned_by": 0.8
   },
   {
    "name": "Hall",
@@ -1679,6 +1695,14 @@
    "owned_by": 0.0
   },
   {
+   "name": "Pinnock",
+   "team": "COV",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 8,
+   "owned_by": 0.1
+  },
+  {
    "name": "Gomez",
    "team": "BHA",
    "pos": "MID",
@@ -1735,6 +1759,14 @@
    "owned_by": 21.7
   },
   {
+   "name": "Thomas",
+   "team": "COV",
+   "pos": "DEF",
+   "price": 4.0,
+   "points": 7,
+   "owned_by": 8.6
+  },
+  {
    "name": "McGinn",
    "team": "AVL",
    "pos": "MID",
@@ -1749,38 +1781,6 @@
    "price": 5.0,
    "points": 6,
    "owned_by": 0.3
-  },
-  {
-   "name": "Kelleher",
-   "team": "BRE",
-   "pos": "GK",
-   "price": 5.0,
-   "points": 6,
-   "owned_by": 6.1
-  },
-  {
-   "name": "Kayode",
-   "team": "BRE",
-   "pos": "DEF",
-   "price": 4.6,
-   "points": 6,
-   "owned_by": 7.7
-  },
-  {
-   "name": "Carvalho",
-   "team": "BRE",
-   "pos": "MID",
-   "price": 5.0,
-   "points": 6,
-   "owned_by": 0.0
-  },
-  {
-   "name": "Van Hecke",
-   "team": "TOT",
-   "pos": "DEF",
-   "price": 4.9,
-   "points": 6,
-   "owned_by": 6.6
   }
  ],
  "rival_count": 26,
@@ -1827,7 +1827,7 @@
    "team": "Bayer Neverlusen",
    "manager": "Jamie Mourant",
    "rank": 2,
-   "total": 306,
+   "total": 305,
    "chip": "wildcard",
    "squad": [
     "Kinsky",
@@ -1867,7 +1867,7 @@
    "team": "Claude Mak\u00e9l\u00e9l\u00e9",
    "manager": "Aidan Whitehouse",
    "rank": 5,
-   "total": 303,
+   "total": 301,
    "chip": null,
    "squad": [
     "Tzolakis",
@@ -1893,7 +1893,7 @@
    "team": "HaCunha Matata",
    "manager": "Oliver Norris",
    "rank": 4,
-   "total": 293,
+   "total": 299,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -2045,7 +2045,7 @@
    "team": "Tics Champs By Xmas",
    "manager": "Kieron Murphy",
    "rank": 8,
-   "total": 274,
+   "total": 275,
    "chip": "freehit",
    "squad": [
     "Sels",
@@ -2157,7 +2157,7 @@
    "team": "The Goal Hangers",
    "manager": "Nik Barlow",
    "rank": 11,
-   "total": 241,
+   "total": 239,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2306,7 +2306,7 @@
    "team": "Bruno Dos Tres",
    "manager": "David Taylor",
    "rank": 4,
-   "total": 303,
+   "total": 301,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2380,7 +2380,7 @@
    "team": "Tramontozpor",
    "manager": "Kwadwo David",
    "rank": 7,
-   "total": 293,
+   "total": 291,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2534,7 +2534,7 @@
    "team": "JTindall Solo Album",
    "manager": "Niall Ballinger",
    "rank": 11,
-   "total": 272,
+   "total": 271,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2990,7 +2990,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 22.9,
+   "owned_globally_pct": 23.0,
    "i_own": false
   },
   {
