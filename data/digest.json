@@ -11,7 +11,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-19T19:05:18Z",
+ "generated_utc": "2026-09-19T19:15:33Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -178,10 +178,10 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 12,
+   "gw_points": 13,
    "gw_minutes": 90,
-   "form": "6.0",
-   "total_points": 30,
+   "form": "6.2",
+   "total_points": 31,
    "fixture_state": "played",
    "zero_minutes_means": null
   },
@@ -458,15 +458,15 @@
      "rank": 3,
      "team": "HaCunha Matata",
      "player": "Oliver Norris",
-     "gw": 30,
-     "total": 301
+     "gw": 31,
+     "total": 302
     },
     {
      "rank": 4,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 34,
-     "total": 301
+     "gw": 35,
+     "total": 302
     },
     {
      "rank": 5,
@@ -548,8 +548,8 @@
      "rank": 4,
      "team": "HMH Ath",
      "player": "Craig Hughes",
-     "gw": 35,
-     "total": 334
+     "gw": 36,
+     "total": 335
     },
     {
      "rank": 5,
@@ -562,8 +562,8 @@
      "rank": 6,
      "team": "Paul's Team",
      "player": "Paul Larkin",
-     "gw": 31,
-     "total": 319
+     "gw": 32,
+     "total": 320
     },
     {
      "rank": 7,
@@ -602,6 +602,13 @@
     },
     {
      "rank": 12,
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 26,
+     "total": 302
+    },
+    {
+     "rank": 13,
      "team": "Spring Thyme Rovers",
      "player": "Derek Holden",
      "gw": 27,
@@ -609,17 +616,10 @@
     },
     {
      "rank": 13,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 25,
-     "total": 301
-    },
-    {
-     "rank": 14,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 34,
-     "total": 301
+     "gw": 35,
+     "total": 302
     },
     {
      "rank": 15,
@@ -632,8 +632,8 @@
      "rank": 16,
      "team": "Expected Toulouse",
      "player": "Joe McClelland",
-     "gw": 19,
-     "total": 290
+     "gw": 20,
+     "total": 291
     },
     {
      "rank": 17,
@@ -646,8 +646,8 @@
      "rank": 18,
      "team": "MightyGar",
      "player": "Stephen Lowe",
-     "gw": 22,
-     "total": 284
+     "gw": 23,
+     "total": 285
     },
     {
      "rank": 19,
@@ -667,8 +667,8 @@
      "rank": 21,
      "team": "Crew Alexander",
      "player": "Alex Brumby",
-     "gw": 20,
-     "total": 279
+     "gw": 21,
+     "total": 280
     },
     {
      "rank": 22,
@@ -715,8 +715,8 @@
      "rank": 2,
      "team": "Tzolis and Gromit",
      "player": "Alex Midmore",
-     "gw": 23,
-     "total": 330
+     "gw": 24,
+     "total": 331
     },
     {
      "rank": 3,
@@ -729,15 +729,15 @@
      "rank": 4,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 25,
-     "total": 301
+     "gw": 26,
+     "total": 302
     },
     {
      "rank": 5,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 34,
-     "total": 301
+     "gw": 35,
+     "total": 302
     },
     {
      "rank": 6,
@@ -792,8 +792,8 @@
      "rank": 13,
      "team": "Prep Big B",
      "player": "Darren Heath",
-     "gw": 21,
-     "total": 268
+     "gw": 22,
+     "total": 269
     },
     {
      "rank": 14,
@@ -1623,6 +1623,14 @@
    "owned_by": 0.2
   },
   {
+   "name": "Hall",
+   "team": "NEW",
+   "pos": "DEF",
+   "price": 5.2,
+   "points": 13,
+   "owned_by": 15.2
+  },
+  {
    "name": "Buend\u00eda",
    "team": "AVL",
    "pos": "MID",
@@ -1637,14 +1645,6 @@
    "price": 4.5,
    "points": 12,
    "owned_by": 0.8
-  },
-  {
-   "name": "Hall",
-   "team": "NEW",
-   "pos": "DEF",
-   "price": 5.2,
-   "points": 12,
-   "owned_by": 15.2
   },
   {
    "name": "Anthony",
@@ -1867,7 +1867,7 @@
    "team": "HaCunha Matata",
    "manager": "Oliver Norris",
    "rank": 3,
-   "total": 301,
+   "total": 302,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -1904,7 +1904,7 @@
    "team": "Claude Mak\u00e9l\u00e9l\u00e9",
    "manager": "Aidan Whitehouse",
    "rank": 5,
-   "total": 301,
+   "total": 302,
    "chip": null,
    "squad": [
     "Tzolakis",
@@ -2232,7 +2232,7 @@
    "team": "Tzolis and Gromit",
    "manager": "Alex Midmore",
    "rank": 2,
-   "total": 330,
+   "total": 331,
    "chip": null,
    "squad": [
     "Trafford",
@@ -2306,7 +2306,7 @@
    "team": "Bruno Dos Tres",
    "manager": "David Taylor",
    "rank": 4,
-   "total": 301,
+   "total": 302,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2608,7 +2608,7 @@
    "team": "Prep Big B",
    "manager": "Darren Heath",
    "rank": 13,
-   "total": 268,
+   "total": 269,
    "chip": null,
    "squad": [
     "Lammens",
@@ -3116,7 +3116,7 @@
    "pos": "MID",
    "price": 7.2,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 12.8,
+   "owned_globally_pct": 12.7,
    "i_own": false
   },
   {
@@ -3305,7 +3305,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 1.8,
+   "owned_globally_pct": 1.7,
    "i_own": false
   },
   {
