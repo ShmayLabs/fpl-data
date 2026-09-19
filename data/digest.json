@@ -16,7 +16,7 @@
   "NOT YET PLAYED: Egan (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-19T12:02:24Z",
+ "generated_utc": "2026-09-19T12:22:39Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -558,16 +558,16 @@
     },
     {
      "rank": 5,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 14,
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
+     "gw": 3,
      "total": 302
     },
     {
      "rank": 5,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
-     "gw": 3,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 14,
      "total": 302
     },
     {
@@ -670,16 +670,16 @@
     },
     {
      "rank": 21,
-     "team": "Boundary Park Blues",
-     "player": "Ben McNamara",
-     "gw": 4,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 1,
      "total": 263
     },
     {
      "rank": 21,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 1,
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
+     "gw": 4,
      "total": 263
     },
     {
@@ -1732,6 +1732,14 @@
    "owned_by": 40.0
   },
   {
+   "name": "Buend\u00eda",
+   "team": "AVL",
+   "pos": "MID",
+   "price": 5.9,
+   "points": 2,
+   "owned_by": 0.9
+  },
+  {
    "name": "Henderson",
    "team": "CHE",
    "pos": "MID",
@@ -1764,12 +1772,12 @@
    "owned_by": 1.4
   },
   {
-   "name": "Kinsky",
+   "name": "Van de Ven",
    "team": "TOT",
-   "pos": "GK",
-   "price": 4.5,
+   "pos": "DEF",
+   "price": 5.0,
    "points": 2,
-   "owned_by": 18.2
+   "owned_by": 4.0
   },
   {
    "name": "Barco",
@@ -1778,14 +1786,6 @@
    "price": 5.4,
    "points": 2,
    "owned_by": 0.1
-  },
-  {
-   "name": "Mings",
-   "team": "AVL",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 1,
-   "owned_by": 0.4
   }
  ],
  "rival_count": 26,
@@ -3184,7 +3184,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.9,
+   "owned_globally_pct": 6.0,
    "i_own": false
   },
   {
