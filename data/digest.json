@@ -12,7 +12,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-19T16:02:27Z",
+ "generated_utc": "2026-09-19T16:18:11Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -126,7 +126,7 @@
    "gw_minutes": 90,
    "form": "6.8",
    "total_points": 34,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -181,9 +181,9 @@
    "news": "",
    "gw_points": 12,
    "gw_minutes": 90,
-   "form": "5.6",
-   "total_points": 28,
-   "fixture_state": "in_progress",
+   "form": "6.0",
+   "total_points": 30,
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -248,7 +248,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 5.7,
+   "owned_by": 5.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -259,8 +259,8 @@
    "gw_minutes": 0,
    "form": "3.6",
    "total_points": 18,
-   "fixture_state": "in_progress",
-   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   },
   {
    "name": "Haaland",
@@ -354,7 +354,7 @@
    "gw_minutes": 77,
    "form": "5.2",
    "total_points": 26,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -402,7 +402,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 5.7,
+   "owned_by": 5.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -413,8 +413,8 @@
    "gw_minutes": 0,
    "form": "3.6",
    "total_points": 18,
-   "fixture_state": "in_progress",
-   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   },
   {
    "name": "Jo\u00e3o Pedro",
@@ -515,8 +515,8 @@
      "rank": 11,
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
-     "gw": 10,
-     "total": 237
+     "gw": 9,
+     "total": 236
     }
    ]
   },
@@ -640,8 +640,8 @@
      "rank": 17,
      "team": "WheelshavfallenoffXI",
      "player": "simon g",
-     "gw": 6,
-     "total": 285
+     "gw": 5,
+     "total": 284
     },
     {
      "rank": 18,
@@ -652,44 +652,44 @@
     },
     {
      "rank": 19,
-     "team": "Cruckle FC",
-     "player": "Michael Clarkson",
-     "gw": 33,
-     "total": 280
-    },
-    {
-     "rank": 20,
      "team": "Crew Alexander",
      "player": "Alex Brumby",
      "gw": 20,
      "total": 279
     },
     {
-     "rank": 21,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 29,
+     "rank": 20,
+     "team": "Cruckle FC",
+     "player": "Michael Clarkson",
+     "gw": 32,
      "total": 279
     },
     {
-     "rank": 22,
+     "rank": 21,
      "team": "OneDirection_Top",
      "player": "Paul Dickinson",
      "gw": 15,
      "total": 278
     },
     {
+     "rank": 22,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 28,
+     "total": 278
+    },
+    {
      "rank": 23,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 14,
-     "total": 275
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 13,
+     "total": 277
     },
     {
      "rank": 24,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 11,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 14,
      "total": 275
     },
     {
@@ -800,22 +800,22 @@
      "rank": 14,
      "team": "RebellTeam",
      "player": "Santi Rebella",
-     "gw": 26,
-     "total": 256
+     "gw": 25,
+     "total": 255
     },
     {
      "rank": 15,
      "team": "King Scarles",
      "player": "Tom Horsman",
-     "gw": 9,
-     "total": 246
+     "gw": 8,
+     "total": 245
     },
     {
      "rank": 16,
      "team": "Jimbledon FC",
      "player": "James Martin",
-     "gw": 12,
-     "total": 208
+     "gw": 11,
+     "total": 207
     }
    ]
   }
@@ -1597,7 +1597,7 @@
    "pos": "MID",
    "price": 5.7,
    "points": 14,
-   "owned_by": 22.4
+   "owned_by": 22.5
   },
   {
    "name": "Tarkowski",
@@ -1645,7 +1645,7 @@
    "pos": "FWD",
    "price": 5.5,
    "points": 10,
-   "owned_by": 1.2
+   "owned_by": 1.3
   },
   {
    "name": "Willock",
@@ -1702,6 +1702,14 @@
    "price": 5.5,
    "points": 8,
    "owned_by": 2.3
+  },
+  {
+   "name": "Vuskovic",
+   "team": "BHA",
+   "pos": "DEF",
+   "price": 5.0,
+   "points": 8,
+   "owned_by": 3.2
   },
   {
    "name": "Maitland-Niles",
@@ -1774,14 +1782,6 @@
    "price": 4.9,
    "points": 6,
    "owned_by": 6.7
-  },
-  {
-   "name": "Boscagli",
-   "team": "BHA",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 6,
-   "owned_by": 0.3
   }
  ],
  "rival_count": 26,
@@ -2158,7 +2158,7 @@
    "team": "The Goal Hangers",
    "manager": "Nik Barlow",
    "rank": 11,
-   "total": 237,
+   "total": 236,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2645,7 +2645,7 @@
    "team": "RebellTeam",
    "manager": "Santi Rebella",
    "rank": 14,
-   "total": 256,
+   "total": 255,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2684,7 +2684,7 @@
    "team": "King Scarles",
    "manager": "Tom Horsman",
    "rank": 15,
-   "total": 246,
+   "total": 245,
    "chip": null,
    "squad": [
     "Raya",
@@ -2724,7 +2724,7 @@
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 16,
-   "total": 208,
+   "total": 207,
    "chip": null,
    "squad": [
     "Kelleher",
@@ -2946,7 +2946,7 @@
    "pos": "MID",
    "price": 4.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 5.5,
+   "owned_globally_pct": 5.4,
    "i_own": false
   },
   {
@@ -2991,7 +2991,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 22.4,
+   "owned_globally_pct": 22.5,
    "i_own": false
   },
   {
@@ -3207,7 +3207,7 @@
    "pos": "MID",
    "price": 5.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 10.9,
+   "owned_globally_pct": 10.8,
    "i_own": false
   },
   {
@@ -3261,7 +3261,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.7,
+   "owned_globally_pct": 5.6,
    "i_own": true
   },
   {
@@ -3279,7 +3279,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 3.5,
+   "owned_globally_pct": 3.4,
    "i_own": false
   },
   {
@@ -3567,7 +3567,7 @@
    "pos": "FWD",
    "price": 7.2,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.2,
+   "owned_globally_pct": 3.1,
    "i_own": false
   },
   {
@@ -3585,7 +3585,7 @@
    "pos": "FWD",
    "price": 5.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.2,
+   "owned_globally_pct": 1.3,
    "i_own": false
   },
   {
@@ -3603,7 +3603,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 5.1,
+   "owned_globally_pct": 5.0,
    "i_own": false
   },
   {
