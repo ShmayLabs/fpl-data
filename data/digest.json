@@ -16,7 +16,7 @@
   "NOT YET PLAYED: Egan (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-19T07:17:10Z",
+ "generated_utc": "2026-09-19T07:39:42Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -565,16 +565,16 @@
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 13,
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
+     "gw": 2,
      "total": 301
     },
     {
      "rank": 6,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
-     "gw": 2,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 13,
      "total": 301
     },
     {
@@ -670,16 +670,16 @@
     },
     {
      "rank": 21,
-     "team": "Boundary Park Blues",
-     "player": "Ben McNamara",
-     "gw": 3,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 0,
      "total": 262
     },
     {
      "rank": 21,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 0,
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
+     "gw": 3,
      "total": 262
     },
     {
@@ -691,16 +691,16 @@
     },
     {
      "rank": 24,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 0,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 5,
      "total": 261
     },
     {
      "rank": 24,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 5,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 0,
      "total": 261
     }
    ]
