@@ -11,25 +11,25 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-19T19:38:04Z",
+ "generated_utc": "2026-09-19T20:00:42Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
  "squad_from_gw": 5,
  "entry_history": {
   "event": 5,
-  "points": 0,
-  "total_points": 267,
-  "rank": 9618213,
-  "rank_sort": 9878005,
-  "overall_rank": 3314150,
-  "percentile_rank": 90,
-  "overall_rank_percentage": "31",
+  "points": 35,
+  "total_points": 302,
+  "rank": 685795,
+  "rank_sort": 697429,
+  "overall_rank": 1812820,
+  "percentile_rank": 10,
+  "overall_rank_percentage": "17",
   "bank": 3,
   "value": 1000,
   "event_transfers": 1,
   "event_transfers_cost": 0,
-  "points_on_bench": 3
+  "points_on_bench": 4
  },
  "season_history": [
   {
@@ -444,8 +444,8 @@
      "rank": 1,
      "team": "I\u2019m a Baleba",
      "player": "Tom Healey",
-     "gw": 8,
-     "total": 315
+     "gw": 9,
+     "total": 316
     },
     {
      "rank": 2,
@@ -514,8 +514,8 @@
      "rank": 11,
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
-     "gw": 12,
-     "total": 239
+     "gw": 11,
+     "total": 238
     }
    ]
   },
@@ -567,16 +567,16 @@
     },
     {
      "rank": 7,
-     "team": "Maddcatts",
-     "player": "Craig Cattrall",
-     "gw": 23,
+     "team": "Kash FC",
+     "player": "Prakash Shan",
+     "gw": 19,
      "total": 317
     },
     {
      "rank": 8,
-     "team": "Kash FC",
-     "player": "Prakash Shan",
-     "gw": 18,
+     "team": "Maddcatts",
+     "player": "Craig Cattrall",
+     "gw": 22,
      "total": 316
     },
     {
@@ -602,24 +602,24 @@
     },
     {
      "rank": 12,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 26,
-     "total": 302
-    },
-    {
-     "rank": 13,
      "team": "Spring Thyme Rovers",
      "player": "Derek Holden",
      "gw": 27,
      "total": 302
     },
     {
-     "rank": 13,
+     "rank": 12,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
      "gw": 35,
      "total": 302
+    },
+    {
+     "rank": 14,
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 25,
+     "total": 301
     },
     {
      "rank": 15,
@@ -632,8 +632,8 @@
      "rank": 16,
      "team": "Expected Toulouse",
      "player": "Joe McClelland",
-     "gw": 20,
-     "total": 291
+     "gw": 21,
+     "total": 292
     },
     {
      "rank": 17,
@@ -722,22 +722,22 @@
      "rank": 3,
      "team": "Accringtonali FC",
      "player": "Kyle Broadhurst",
-     "gw": 20,
-     "total": 312
+     "gw": 21,
+     "total": 313
     },
     {
      "rank": 4,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 26,
-     "total": 302
-    },
-    {
-     "rank": 5,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
      "gw": 35,
      "total": 302
+    },
+    {
+     "rank": 5,
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 25,
+     "total": 301
     },
     {
      "rank": 6,
@@ -776,16 +776,16 @@
     },
     {
      "rank": 11,
-     "team": "JTindall Solo Album",
-     "player": "Niall Ballinger",
-     "gw": 15,
+     "team": "Millennium Falcons",
+     "player": "Jack Richardson",
+     "gw": 35,
      "total": 271
     },
     {
      "rank": 12,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 34,
+     "team": "JTindall Solo Album",
+     "player": "Niall Ballinger",
+     "gw": 14,
      "total": 270
     },
     {
@@ -1676,7 +1676,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 9,
-   "owned_by": 8.4
+   "owned_by": 8.5
   },
   {
    "name": "Thomas",
@@ -1693,14 +1693,6 @@
    "price": 6.1,
    "points": 9,
    "owned_by": 4.7
-  },
-  {
-   "name": "Andr\u00e9s",
-   "team": "BHA",
-   "pos": "MID",
-   "price": 5.5,
-   "points": 9,
-   "owned_by": 0.0
   },
   {
    "name": "Pinnock",
@@ -1743,6 +1735,14 @@
    "owned_by": 3.2
   },
   {
+   "name": "Andr\u00e9s",
+   "team": "BHA",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 8,
+   "owned_by": 0.0
+  },
+  {
    "name": "Maitland-Niles",
    "team": "EVE",
    "pos": "DEF",
@@ -1759,14 +1759,6 @@
    "owned_by": 4.0
   },
   {
-   "name": "Verbruggen",
-   "team": "BHA",
-   "pos": "GK",
-   "price": 4.5,
-   "points": 7,
-   "owned_by": 21.7
-  },
-  {
    "name": "McGinn",
    "team": "AVL",
    "pos": "MID",
@@ -1781,6 +1773,14 @@
    "price": 5.0,
    "points": 6,
    "owned_by": 0.3
+  },
+  {
+   "name": "Kelleher",
+   "team": "BRE",
+   "pos": "GK",
+   "price": 5.0,
+   "points": 6,
+   "owned_by": 6.1
   }
  ],
  "rival_count": 26,
@@ -1789,7 +1789,7 @@
    "team": "I\u2019m a Baleba",
    "manager": "Tom Healey",
    "rank": 1,
-   "total": 315,
+   "total": 316,
    "chip": null,
    "squad": [
     "Lammens",
@@ -1903,7 +1903,7 @@
   {
    "team": "Claude Mak\u00e9l\u00e9l\u00e9",
    "manager": "Aidan Whitehouse",
-   "rank": 5,
+   "rank": 4,
    "total": 302,
    "chip": null,
    "squad": [
@@ -2157,7 +2157,7 @@
    "team": "The Goal Hangers",
    "manager": "Nik Barlow",
    "rank": 11,
-   "total": 239,
+   "total": 238,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2269,7 +2269,7 @@
    "team": "Accringtonali FC",
    "manager": "Kyle Broadhurst",
    "rank": 3,
-   "total": 312,
+   "total": 313,
    "chip": null,
    "squad": [
     "Tzolakis",
@@ -2305,8 +2305,8 @@
   {
    "team": "Bruno Dos Tres",
    "manager": "David Taylor",
-   "rank": 4,
-   "total": 302,
+   "rank": 5,
+   "total": 301,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2531,46 +2531,10 @@
    ]
   },
   {
-   "team": "JTindall Solo Album",
-   "manager": "Niall Ballinger",
-   "rank": 11,
-   "total": 271,
-   "chip": null,
-   "squad": [
-    "Verbruggen",
-    "Konsa",
-    "Calafiori",
-    "Diop",
-    "Gibbs-White",
-    "Cherki",
-    "B.Fernandes",
-    "Szoboszlai",
-    "Calvert-Lewin",
-    "Haaland",
-    "Jo\u00e3o Pedro",
-    "Dubravka",
-    "Gro\u00df",
-    "Egan",
-    "Targett"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Gibbs-White",
-    "Diop",
-    "Calafiori",
-    "Targett",
-    "Verbruggen",
-    "Cherki",
-    "Szoboszlai",
-    "Gro\u00df",
-    "Konsa"
-   ]
-  },
-  {
    "team": "Millennium Falcons",
    "manager": "Jack Richardson",
-   "rank": 12,
-   "total": 270,
+   "rank": 11,
+   "total": 271,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2602,6 +2566,42 @@
     "Palmer",
     "Gro\u00df",
     "Belloumi"
+   ]
+  },
+  {
+   "team": "JTindall Solo Album",
+   "manager": "Niall Ballinger",
+   "rank": 12,
+   "total": 270,
+   "chip": null,
+   "squad": [
+    "Verbruggen",
+    "Konsa",
+    "Calafiori",
+    "Diop",
+    "Gibbs-White",
+    "Cherki",
+    "B.Fernandes",
+    "Szoboszlai",
+    "Calvert-Lewin",
+    "Haaland",
+    "Jo\u00e3o Pedro",
+    "Dubravka",
+    "Gro\u00df",
+    "Egan",
+    "Targett"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Gibbs-White",
+    "Diop",
+    "Calafiori",
+    "Targett",
+    "Verbruggen",
+    "Cherki",
+    "Szoboszlai",
+    "Gro\u00df",
+    "Konsa"
    ]
   },
   {
@@ -3651,21 +3651,21 @@
    "i_own": false
   },
   {
-   "name": "Targett",
-   "team": "HUL",
-   "pos": "DEF",
-   "price": 4.0,
-   "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.7,
-   "i_own": false
-  },
-  {
    "name": "Belloumi",
    "team": "HUL",
    "pos": "MID",
    "price": 5.1,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 4.4,
+   "i_own": false
+  },
+  {
+   "name": "Targett",
+   "team": "HUL",
+   "pos": "DEF",
+   "price": 4.0,
+   "owned_in_league_pct": 3.8,
+   "owned_globally_pct": 1.7,
    "i_own": false
   },
   {
