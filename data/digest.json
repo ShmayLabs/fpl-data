@@ -16,7 +16,7 @@
   "NOT YET PLAYED: Egan (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-19T12:45:04Z",
+ "generated_utc": "2026-09-19T13:07:29Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -456,15 +456,15 @@
      "rank": 2,
      "team": "net six and chill",
      "player": "william batterbury",
-     "gw": 3,
-     "total": 289
+     "gw": 5,
+     "total": 291
     },
     {
      "rank": 3,
      "team": "Bayer Neverlusen",
      "player": "Jamie Mourant",
-     "gw": 5,
-     "total": 285
+     "gw": 7,
+     "total": 287
     },
     {
      "rank": 4,
@@ -477,8 +477,8 @@
      "rank": 5,
      "team": "HaCunha Matata",
      "player": "Oliver Norris",
-     "gw": 5,
-     "total": 276
+     "gw": 7,
+     "total": 278
     },
     {
      "rank": 6,
@@ -539,8 +539,8 @@
      "rank": 2,
      "team": "Previously Athletic",
      "player": "Phil Dudson",
-     "gw": 5,
-     "total": 331
+     "gw": 6,
+     "total": 332
     },
     {
      "rank": 3,
@@ -558,17 +558,17 @@
     },
     {
      "rank": 5,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 14,
-     "total": 302
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
+     "gw": 4,
+     "total": 303
     },
     {
      "rank": 5,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
-     "gw": 3,
-     "total": 302
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 15,
+     "total": 303
     },
     {
      "rank": 7,
@@ -595,22 +595,22 @@
      "rank": 10,
      "team": "Set and regret",
      "player": "Adam Lowe",
-     "gw": 1,
-     "total": 293
+     "gw": 2,
+     "total": 294
     },
     {
      "rank": 11,
      "team": "Ctrl Alt De Ligt",
      "player": "Ian Cox",
-     "gw": 8,
-     "total": 291
+     "gw": 9,
+     "total": 292
     },
     {
      "rank": 12,
      "team": "Enter Team Name",
      "player": "Andy Grundy",
-     "gw": 1,
-     "total": 286
+     "gw": 2,
+     "total": 287
     },
     {
      "rank": 13,
@@ -630,8 +630,8 @@
      "rank": 15,
      "team": "Spring Thyme Rovers",
      "player": "Derek Holden",
-     "gw": 1,
-     "total": 276
+     "gw": 2,
+     "total": 277
     },
     {
      "rank": 16,
@@ -651,8 +651,8 @@
      "rank": 18,
      "team": "OneDirection_Top",
      "player": "Paul Dickinson",
-     "gw": 6,
-     "total": 269
+     "gw": 7,
+     "total": 270
     },
     {
      "rank": 19,
@@ -670,37 +670,37 @@
     },
     {
      "rank": 21,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 1,
-     "total": 263
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
+     "gw": 5,
+     "total": 264
     },
     {
      "rank": 21,
-     "team": "Boundary Park Blues",
-     "player": "Ben McNamara",
-     "gw": 4,
-     "total": 263
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 2,
+     "total": 264
     },
     {
      "rank": 23,
      "team": "Crew Alexander",
      "player": "Alex Brumby",
-     "gw": 3,
-     "total": 262
-    },
-    {
-     "rank": 24,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 0,
-     "total": 261
+     "gw": 4,
+     "total": 263
     },
     {
      "rank": 24,
      "team": "Static FC",
      "player": "Nathaniel Josephs",
      "gw": 5,
+     "total": 261
+    },
+    {
+     "rank": 24,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 0,
      "total": 261
     }
    ]
@@ -734,8 +734,8 @@
      "rank": 4,
      "team": "Set and regret",
      "player": "Adam Lowe",
-     "gw": 1,
-     "total": 293
+     "gw": 2,
+     "total": 294
     },
     {
      "rank": 5,
@@ -797,8 +797,8 @@
      "rank": 13,
      "team": "King Scarles",
      "player": "Tom Horsman",
-     "gw": 2,
-     "total": 239
+     "gw": 7,
+     "total": 244
     },
     {
      "rank": 14,
@@ -1588,6 +1588,14 @@
  },
  "top_scorers_this_gw": [
   {
+   "name": "Manzambi",
+   "team": "AVL",
+   "pos": "MID",
+   "price": 5.9,
+   "points": 14,
+   "owned_by": 0.1
+  },
+  {
    "name": "Schuster",
    "team": "BRE",
    "pos": "DEF",
@@ -1604,14 +1612,6 @@
    "owned_by": 0.1
   },
   {
-   "name": "Manzambi",
-   "team": "AVL",
-   "pos": "MID",
-   "price": 5.9,
-   "points": 9,
-   "owned_by": 0.1
-  },
-  {
    "name": "Schade",
    "team": "BRE",
    "pos": "MID",
@@ -1620,12 +1620,36 @@
    "owned_by": 8.0
   },
   {
+   "name": "Suzuki",
+   "team": "AVL",
+   "pos": "GK",
+   "price": 5.0,
+   "points": 9,
+   "owned_by": 1.8
+  },
+  {
    "name": "Ajer",
    "team": "BRE",
    "pos": "DEF",
    "price": 4.5,
    "points": 7,
    "owned_by": 4.0
+  },
+  {
+   "name": "Mings",
+   "team": "AVL",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 6,
+   "owned_by": 0.4
+  },
+  {
+   "name": "Lindel\u00f6f",
+   "team": "AVL",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 6,
+   "owned_by": 0.3
   },
   {
    "name": "Kamara",
@@ -1660,6 +1684,22 @@
    "owned_by": 0.0
   },
   {
+   "name": "N.Jackson",
+   "team": "AVL",
+   "pos": "FWD",
+   "price": 6.5,
+   "points": 6,
+   "owned_by": 1.2
+  },
+  {
+   "name": "Ruggeri",
+   "team": "AVL",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 6,
+   "owned_by": 0.1
+  },
+  {
    "name": "Thiago",
    "team": "BRE",
    "pos": "FWD",
@@ -1674,6 +1714,38 @@
    "price": 5.0,
    "points": 4,
    "owned_by": 0.2
+  },
+  {
+   "name": "Bentancur",
+   "team": "TOT",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 4,
+   "owned_by": 0.2
+  },
+  {
+   "name": "Buend\u00eda",
+   "team": "AVL",
+   "pos": "MID",
+   "price": 5.9,
+   "points": 3,
+   "owned_by": 0.9
+  },
+  {
+   "name": "McGinn",
+   "team": "AVL",
+   "pos": "MID",
+   "price": 5.4,
+   "points": 3,
+   "owned_by": 2.2
+  },
+  {
+   "name": "Gomes",
+   "team": "AVL",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 3,
+   "owned_by": 0.0
   },
   {
    "name": "Lewis-Potter",
@@ -1714,78 +1786,6 @@
    "price": 5.9,
    "points": 3,
    "owned_by": 7.0
-  },
-  {
-   "name": "Bentancur",
-   "team": "TOT",
-   "pos": "MID",
-   "price": 5.5,
-   "points": 3,
-   "owned_by": 0.2
-  },
-  {
-   "name": "Suzuki",
-   "team": "AVL",
-   "pos": "GK",
-   "price": 5.0,
-   "points": 3,
-   "owned_by": 1.8
-  },
-  {
-   "name": "Martinez",
-   "team": "CHE",
-   "pos": "GK",
-   "price": 5.0,
-   "points": 2,
-   "owned_by": 4.9
-  },
-  {
-   "name": "Rogers",
-   "team": "CHE",
-   "pos": "MID",
-   "price": 7.7,
-   "points": 2,
-   "owned_by": 40.0
-  },
-  {
-   "name": "Henderson",
-   "team": "CHE",
-   "pos": "MID",
-   "price": 4.9,
-   "points": 2,
-   "owned_by": 0.0
-  },
-  {
-   "name": "Welbeck",
-   "team": "CHE",
-   "pos": "FWD",
-   "price": 5.9,
-   "points": 2,
-   "owned_by": 1.0
-  },
-  {
-   "name": "Palmer",
-   "team": "CHE",
-   "pos": "MID",
-   "price": 9.7,
-   "points": 2,
-   "owned_by": 27.0
-  },
-  {
-   "name": "Neto",
-   "team": "CHE",
-   "pos": "MID",
-   "price": 6.5,
-   "points": 2,
-   "owned_by": 1.4
-  },
-  {
-   "name": "Barco",
-   "team": "CHE",
-   "pos": "MID",
-   "price": 5.4,
-   "points": 2,
-   "owned_by": 0.1
   }
  ],
  "rival_count": 26,
@@ -1832,7 +1832,7 @@
    "team": "net six and chill",
    "manager": "william batterbury",
    "rank": 2,
-   "total": 289,
+   "total": 291,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -1870,7 +1870,7 @@
    "team": "Bayer Neverlusen",
    "manager": "Jamie Mourant",
    "rank": 3,
-   "total": 285,
+   "total": 287,
    "chip": "wildcard",
    "squad": [
     "Kinsky",
@@ -1951,7 +1951,7 @@
    "team": "HaCunha Matata",
    "manager": "Oliver Norris",
    "rank": 5,
-   "total": 276,
+   "total": 278,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -2311,7 +2311,7 @@
    "team": "Set and regret",
    "manager": "Adam Lowe",
    "rank": 4,
-   "total": 293,
+   "total": 294,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -2611,7 +2611,7 @@
    "team": "King Scarles",
    "manager": "Tom Horsman",
    "rank": 13,
-   "total": 239,
+   "total": 244,
    "chip": null,
    "squad": [
     "Raya",
