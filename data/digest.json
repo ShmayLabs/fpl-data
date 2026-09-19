@@ -12,11 +12,11 @@
   "NOT YET PLAYED: Haaland (MCI) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Knee injury - 75% chance of playing (75% chance).",
   "NOT YET PLAYED: Calvert-Lewin (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
-  "NOT YET PLAYED: Dubravka (TOT) shows 0 minutes but his match is in_progress -- do NOT read this as him being dropped.",
+  "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "NOT YET PLAYED: Egan (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-19T13:18:15Z",
+ "generated_utc": "2026-09-19T13:40:44Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -339,8 +339,8 @@
    "gw_minutes": 0,
    "form": "0.0",
    "total_points": 0,
-   "fixture_state": "in_progress",
-   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   },
   {
    "name": "Egan",
@@ -558,16 +558,16 @@
     },
     {
      "rank": 5,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
-     "gw": 4,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 15,
      "total": 303
     },
     {
      "rank": 5,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 15,
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
+     "gw": 4,
      "total": 303
     },
     {
@@ -579,31 +579,31 @@
     },
     {
      "rank": 8,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 15,
+     "total": 298
+    },
+    {
+     "rank": 9,
      "team": "ChickenTikka Mangala",
      "player": "James Davies",
      "gw": 4,
      "total": 297
     },
     {
-     "rank": 9,
+     "rank": 10,
      "team": "Maddcatts",
      "player": "Craig Cattrall",
      "gw": 2,
      "total": 296
     },
     {
-     "rank": 10,
+     "rank": 11,
      "team": "Set and regret",
      "player": "Adam Lowe",
      "gw": 2,
      "total": 294
-    },
-    {
-     "rank": 11,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 9,
-     "total": 292
     },
     {
      "rank": 12,
@@ -670,16 +670,16 @@
     },
     {
      "rank": 21,
-     "team": "Boundary Park Blues",
-     "player": "Ben McNamara",
-     "gw": 5,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 2,
      "total": 264
     },
     {
      "rank": 21,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 2,
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
+     "gw": 5,
      "total": 264
     },
     {
@@ -691,16 +691,16 @@
     },
     {
      "rank": 24,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 0,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 5,
      "total": 261
     },
     {
      "rank": 24,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 5,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 0,
      "total": 261
     }
    ]
@@ -753,17 +753,17 @@
     },
     {
      "rank": 7,
-     "team": "Tramontozpor",
-     "player": "Kwadwo David",
-     "gw": 1,
-     "total": 269
-    },
-    {
-     "rank": 8,
      "team": "beef cherki",
      "player": "Samuel Dennis",
      "gw": 10,
      "total": 269
+    },
+    {
+     "rank": 8,
+     "team": "Tramontozpor",
+     "player": "Kwadwo David",
+     "gw": -1,
+     "total": 267
     },
     {
      "rank": 9,
@@ -797,8 +797,8 @@
      "rank": 13,
      "team": "King Scarles",
      "player": "Tom Horsman",
-     "gw": 7,
-     "total": 244
+     "gw": 4,
+     "total": 241
     },
     {
      "rank": 14,
@@ -1588,14 +1588,6 @@
  },
  "top_scorers_this_gw": [
   {
-   "name": "Manzambi",
-   "team": "AVL",
-   "pos": "MID",
-   "price": 5.9,
-   "points": 14,
-   "owned_by": 0.2
-  },
-  {
    "name": "Schuster",
    "team": "BRE",
    "pos": "DEF",
@@ -1604,11 +1596,19 @@
    "owned_by": 0.2
   },
   {
+   "name": "Manzambi",
+   "team": "AVL",
+   "pos": "MID",
+   "price": 5.9,
+   "points": 13,
+   "owned_by": 0.2
+  },
+  {
    "name": "Buend\u00eda",
    "team": "AVL",
    "pos": "MID",
    "price": 5.9,
-   "points": 10,
+   "points": 12,
    "owned_by": 0.9
   },
   {
@@ -1628,44 +1628,12 @@
    "owned_by": 8.0
   },
   {
-   "name": "Ruggeri",
-   "team": "AVL",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 8,
-   "owned_by": 0.1
-  },
-  {
-   "name": "Suzuki",
-   "team": "AVL",
-   "pos": "GK",
-   "price": 5.0,
-   "points": 8,
-   "owned_by": 1.8
-  },
-  {
    "name": "Ajer",
    "team": "BRE",
    "pos": "DEF",
    "price": 4.5,
    "points": 7,
    "owned_by": 4.0
-  },
-  {
-   "name": "Mings",
-   "team": "AVL",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 6,
-   "owned_by": 0.4
-  },
-  {
-   "name": "Lindel\u00f6f",
-   "team": "AVL",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 6,
-   "owned_by": 0.3
   },
   {
    "name": "McGinn",
@@ -1708,6 +1676,30 @@
    "owned_by": 0.0
   },
   {
+   "name": "Van Hecke",
+   "team": "TOT",
+   "pos": "DEF",
+   "price": 4.9,
+   "points": 6,
+   "owned_by": 6.7
+  },
+  {
+   "name": "N.Jackson",
+   "team": "AVL",
+   "pos": "FWD",
+   "price": 6.5,
+   "points": 6,
+   "owned_by": 1.2
+  },
+  {
+   "name": "Gallagher",
+   "team": "TOT",
+   "pos": "MID",
+   "price": 5.3,
+   "points": 6,
+   "owned_by": 0.2
+  },
+  {
    "name": "Thiago",
    "team": "BRE",
    "pos": "FWD",
@@ -1716,12 +1708,12 @@
    "owned_by": 8.9
   },
   {
-   "name": "N.Jackson",
+   "name": "Gomes",
    "team": "AVL",
-   "pos": "FWD",
-   "price": 6.5,
-   "points": 5,
-   "owned_by": 1.2
+   "pos": "MID",
+   "price": 5.5,
+   "points": 4,
+   "owned_by": 0.0
   },
   {
    "name": "Fofana",
@@ -1732,6 +1724,22 @@
    "owned_by": 0.2
   },
   {
+   "name": "Robertson",
+   "team": "TOT",
+   "pos": "DEF",
+   "price": 4.4,
+   "points": 4,
+   "owned_by": 2.6
+  },
+  {
+   "name": "Kudus",
+   "team": "TOT",
+   "pos": "MID",
+   "price": 6.5,
+   "points": 4,
+   "owned_by": 0.1
+  },
+  {
    "name": "Bentancur",
    "team": "TOT",
    "pos": "MID",
@@ -1740,12 +1748,12 @@
    "owned_by": 0.2
   },
   {
-   "name": "Gomes",
+   "name": "Mings",
    "team": "AVL",
-   "pos": "MID",
-   "price": 5.5,
+   "pos": "DEF",
+   "price": 4.5,
    "points": 3,
-   "owned_by": 0.0
+   "owned_by": 0.4
   },
   {
    "name": "Lewis-Potter",
@@ -1778,14 +1786,6 @@
    "price": 4.8,
    "points": 3,
    "owned_by": 0.7
-  },
-  {
-   "name": "Lacroix",
-   "team": "CHE",
-   "pos": "DEF",
-   "price": 5.9,
-   "points": 3,
-   "owned_by": 7.0
   }
  ],
  "rival_count": 26,
@@ -2421,10 +2421,48 @@
    ]
   },
   {
-   "team": "Tramontozpor",
-   "manager": "Kwadwo David",
+   "team": "beef cherki",
+   "manager": "Samuel Dennis",
    "rank": 7,
    "total": 269,
+   "chip": null,
+   "squad": [
+    "Lammens",
+    "Diop",
+    "Gabriel",
+    "Calafiori",
+    "Kayode",
+    "Szoboszlai",
+    "Rogers",
+    "Palmer",
+    "Cherki",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Dubravka",
+    "Kusi-Asare",
+    "van Ewijk",
+    "Hughes"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Diop",
+    "Gabriel",
+    "Calafiori",
+    "Rogers",
+    "Cherki",
+    "Szoboszlai",
+    "Kusi-Asare",
+    "van Ewijk",
+    "Kayode",
+    "Palmer",
+    "Lammens"
+   ]
+  },
+  {
+   "team": "Tramontozpor",
+   "manager": "Kwadwo David",
+   "rank": 8,
+   "total": 267,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2458,44 +2496,6 @@
     "Gakpo",
     "De Cuyper",
     "Havertz"
-   ]
-  },
-  {
-   "team": "beef cherki",
-   "manager": "Samuel Dennis",
-   "rank": 8,
-   "total": 269,
-   "chip": null,
-   "squad": [
-    "Lammens",
-    "Diop",
-    "Gabriel",
-    "Calafiori",
-    "Kayode",
-    "Szoboszlai",
-    "Rogers",
-    "Palmer",
-    "Cherki",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Dubravka",
-    "Kusi-Asare",
-    "van Ewijk",
-    "Hughes"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Diop",
-    "Gabriel",
-    "Calafiori",
-    "Rogers",
-    "Cherki",
-    "Szoboszlai",
-    "Kusi-Asare",
-    "van Ewijk",
-    "Kayode",
-    "Palmer",
-    "Lammens"
    ]
   },
   {
@@ -2611,7 +2611,7 @@
    "team": "King Scarles",
    "manager": "Tom Horsman",
    "rank": 13,
-   "total": 244,
+   "total": 241,
    "chip": null,
    "squad": [
     "Raya",
@@ -2968,7 +2968,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 21.5,
+   "owned_globally_pct": 21.6,
    "i_own": false
   },
   {
@@ -3499,7 +3499,7 @@
    "pos": "GK",
    "price": 4.9,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.6,
+   "owned_globally_pct": 2.5,
    "i_own": false
   },
   {
