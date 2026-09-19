@@ -16,7 +16,7 @@
   "NOT YET PLAYED: Egan (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-19T13:07:29Z",
+ "generated_utc": "2026-09-19T13:18:15Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -456,15 +456,15 @@
      "rank": 2,
      "team": "net six and chill",
      "player": "william batterbury",
-     "gw": 5,
-     "total": 291
+     "gw": 4,
+     "total": 290
     },
     {
      "rank": 3,
      "team": "Bayer Neverlusen",
      "player": "Jamie Mourant",
-     "gw": 7,
-     "total": 287
+     "gw": 6,
+     "total": 286
     },
     {
      "rank": 4,
@@ -477,8 +477,8 @@
      "rank": 5,
      "team": "HaCunha Matata",
      "player": "Oliver Norris",
-     "gw": 7,
-     "total": 278
+     "gw": 6,
+     "total": 277
     },
     {
      "rank": 6,
@@ -691,16 +691,16 @@
     },
     {
      "rank": 24,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 5,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 0,
      "total": 261
     },
     {
      "rank": 24,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 0,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 5,
      "total": 261
     }
    ]
@@ -1593,7 +1593,7 @@
    "pos": "MID",
    "price": 5.9,
    "points": 14,
-   "owned_by": 0.1
+   "owned_by": 0.2
   },
   {
    "name": "Schuster",
@@ -1602,6 +1602,14 @@
    "price": 4.5,
    "points": 14,
    "owned_by": 0.2
+  },
+  {
+   "name": "Buend\u00eda",
+   "team": "AVL",
+   "pos": "MID",
+   "price": 5.9,
+   "points": 10,
+   "owned_by": 0.9
   },
   {
    "name": "Anthony",
@@ -1620,11 +1628,19 @@
    "owned_by": 8.0
   },
   {
+   "name": "Ruggeri",
+   "team": "AVL",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 8,
+   "owned_by": 0.1
+  },
+  {
    "name": "Suzuki",
    "team": "AVL",
    "pos": "GK",
    "price": 5.0,
-   "points": 9,
+   "points": 8,
    "owned_by": 1.8
   },
   {
@@ -1650,6 +1666,14 @@
    "price": 4.5,
    "points": 6,
    "owned_by": 0.3
+  },
+  {
+   "name": "McGinn",
+   "team": "AVL",
+   "pos": "MID",
+   "price": 5.4,
+   "points": 6,
+   "owned_by": 2.2
   },
   {
    "name": "Kamara",
@@ -1684,28 +1708,20 @@
    "owned_by": 0.0
   },
   {
-   "name": "N.Jackson",
-   "team": "AVL",
-   "pos": "FWD",
-   "price": 6.5,
-   "points": 6,
-   "owned_by": 1.2
-  },
-  {
-   "name": "Ruggeri",
-   "team": "AVL",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 6,
-   "owned_by": 0.1
-  },
-  {
    "name": "Thiago",
    "team": "BRE",
    "pos": "FWD",
    "price": 7.8,
    "points": 5,
    "owned_by": 8.9
+  },
+  {
+   "name": "N.Jackson",
+   "team": "AVL",
+   "pos": "FWD",
+   "price": 6.5,
+   "points": 5,
+   "owned_by": 1.2
   },
   {
    "name": "Fofana",
@@ -1722,22 +1738,6 @@
    "price": 5.5,
    "points": 4,
    "owned_by": 0.2
-  },
-  {
-   "name": "Buend\u00eda",
-   "team": "AVL",
-   "pos": "MID",
-   "price": 5.9,
-   "points": 3,
-   "owned_by": 0.9
-  },
-  {
-   "name": "McGinn",
-   "team": "AVL",
-   "pos": "MID",
-   "price": 5.4,
-   "points": 3,
-   "owned_by": 2.2
   },
   {
    "name": "Gomes",
@@ -1832,7 +1832,7 @@
    "team": "net six and chill",
    "manager": "william batterbury",
    "rank": 2,
-   "total": 291,
+   "total": 290,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -1870,7 +1870,7 @@
    "team": "Bayer Neverlusen",
    "manager": "Jamie Mourant",
    "rank": 3,
-   "total": 287,
+   "total": 286,
    "chip": "wildcard",
    "squad": [
     "Kinsky",
@@ -1951,7 +1951,7 @@
    "team": "HaCunha Matata",
    "manager": "Oliver Norris",
    "rank": 5,
-   "total": 278,
+   "total": 277,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -2842,7 +2842,7 @@
    "pos": "MID",
    "price": 9.7,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 27.0,
+   "owned_globally_pct": 26.9,
    "i_own": false
   },
   {
