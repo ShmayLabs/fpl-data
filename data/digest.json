@@ -12,7 +12,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-19T15:02:48Z",
+ "generated_utc": "2026-09-19T15:17:40Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -115,7 +115,7 @@
    "team": "HUL",
    "pos": "GK",
    "price": 4.6,
-   "owned_by": 11.5,
+   "owned_by": 11.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -123,7 +123,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 4,
-   "gw_minutes": 45,
+   "gw_minutes": 51,
    "form": "6.4",
    "total_points": 32,
    "fixture_state": "in_progress",
@@ -142,7 +142,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 6,
-   "gw_minutes": 45,
+   "gw_minutes": 51,
    "form": "7.0",
    "total_points": 35,
    "fixture_state": "in_progress",
@@ -180,7 +180,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 9,
-   "gw_minutes": 45,
+   "gw_minutes": 51,
    "form": "5.4",
    "total_points": 27,
    "fixture_state": "in_progress",
@@ -210,7 +210,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 39.9,
+   "owned_by": 39.8,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -351,7 +351,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 0,
-   "gw_minutes": 45,
+   "gw_minutes": 51,
    "form": "5.0",
    "total_points": 25,
    "fixture_state": "in_progress",
@@ -554,16 +554,16 @@
     },
     {
      "rank": 5,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 24,
+     "team": "L&K 11",
+     "player": "Lee Gorman",
+     "gw": 2,
      "total": 312
     },
     {
      "rank": 5,
-     "team": "L&K 11",
-     "player": "Lee Gorman",
-     "gw": 2,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 24,
      "total": 312
     },
     {
@@ -758,8 +758,8 @@
      "rank": 8,
      "team": "Tramontozpor",
      "player": "Kwadwo David",
-     "gw": 9,
-     "total": 277
+     "gw": 11,
+     "total": 279
     },
     {
      "rank": 9,
@@ -793,22 +793,22 @@
      "rank": 13,
      "team": "Millennium Falcons",
      "player": "Jack Richardson",
-     "gw": 13,
-     "total": 249
+     "gw": 15,
+     "total": 251
     },
     {
      "rank": 14,
+     "team": "RebellTeam",
+     "player": "Santi Rebella",
+     "gw": 12,
+     "total": 242
+    },
+    {
+     "rank": 15,
      "team": "King Scarles",
      "player": "Tom Horsman",
      "gw": 4,
      "total": 241
-    },
-    {
-     "rank": 15,
-     "team": "RebellTeam",
-     "player": "Santi Rebella",
-     "gw": 10,
-     "total": 240
     },
     {
      "rank": 16,
@@ -1653,7 +1653,7 @@
    "pos": "MID",
    "price": 5.7,
    "points": 8,
-   "owned_by": 21.8
+   "owned_by": 21.9
   },
   {
    "name": "Barry",
@@ -1669,7 +1669,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 8,
-   "owned_by": 4.5
+   "owned_by": 4.6
   },
   {
    "name": "Ajer",
@@ -2420,7 +2420,7 @@
    "team": "Tramontozpor",
    "manager": "Kwadwo David",
    "rank": 8,
-   "total": 277,
+   "total": 279,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2607,7 +2607,7 @@
    "team": "Millennium Falcons",
    "manager": "Jack Richardson",
    "rank": 13,
-   "total": 249,
+   "total": 251,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2642,9 +2642,48 @@
    ]
   },
   {
+   "team": "RebellTeam",
+   "manager": "Santi Rebella",
+   "rank": 14,
+   "total": 242,
+   "chip": null,
+   "squad": [
+    "Pickford",
+    "Tarkowski",
+    "Virgil",
+    "Araujo",
+    "Cherki",
+    "Rice",
+    "Rogers",
+    "Anderson",
+    "Enzo",
+    "Calvert-Lewin",
+    "Isak",
+    "Verbruggen",
+    "Hincapie",
+    "Jo\u00e3o Pedro",
+    "Senesi"
+   ],
+   "captain": "Isak",
+   "differentials_vs_me": [
+    "Anderson",
+    "Pickford",
+    "Araujo",
+    "Virgil",
+    "Rogers",
+    "Hincapie",
+    "Enzo",
+    "Rice",
+    "Verbruggen",
+    "Cherki",
+    "Senesi",
+    "Isak"
+   ]
+  },
+  {
    "team": "King Scarles",
    "manager": "Tom Horsman",
-   "rank": 14,
+   "rank": 15,
    "total": 241,
    "chip": null,
    "squad": [
@@ -2678,45 +2717,6 @@
     "De Cuyper",
     "Colwill",
     "Petrovi\u0107",
-    "Isak"
-   ]
-  },
-  {
-   "team": "RebellTeam",
-   "manager": "Santi Rebella",
-   "rank": 15,
-   "total": 240,
-   "chip": null,
-   "squad": [
-    "Pickford",
-    "Tarkowski",
-    "Virgil",
-    "Araujo",
-    "Cherki",
-    "Rice",
-    "Rogers",
-    "Anderson",
-    "Enzo",
-    "Calvert-Lewin",
-    "Isak",
-    "Verbruggen",
-    "Hincapie",
-    "Jo\u00e3o Pedro",
-    "Senesi"
-   ],
-   "captain": "Isak",
-   "differentials_vs_me": [
-    "Anderson",
-    "Pickford",
-    "Araujo",
-    "Virgil",
-    "Rogers",
-    "Hincapie",
-    "Enzo",
-    "Rice",
-    "Verbruggen",
-    "Cherki",
-    "Senesi",
     "Isak"
    ]
   },
@@ -2793,7 +2793,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 53.8,
-   "owned_globally_pct": 39.9,
+   "owned_globally_pct": 39.8,
    "i_own": true
   },
   {
@@ -2865,7 +2865,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 34.5,
+   "owned_globally_pct": 34.4,
    "i_own": false
   },
   {
@@ -2964,7 +2964,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 21.8,
+   "owned_globally_pct": 21.9,
    "i_own": false
   },
   {
@@ -3063,7 +3063,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 4.5,
+   "owned_globally_pct": 4.6,
    "i_own": false
   },
   {
@@ -3090,7 +3090,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 11.5,
+   "owned_globally_pct": 11.6,
    "i_own": true
   },
   {
@@ -3670,6 +3670,42 @@
    "i_own": false
   },
   {
+   "name": "Araujo",
+   "team": "LIV",
+   "pos": "DEF",
+   "price": 5.4,
+   "owned_in_league_pct": 3.8,
+   "owned_globally_pct": 2.9,
+   "i_own": false
+  },
+  {
+   "name": "Hincapie",
+   "team": "ARS",
+   "pos": "DEF",
+   "price": 5.3,
+   "owned_in_league_pct": 3.8,
+   "owned_globally_pct": 0.9,
+   "i_own": false
+  },
+  {
+   "name": "Senesi",
+   "team": "TOT",
+   "pos": "DEF",
+   "price": 5.8,
+   "owned_in_league_pct": 3.8,
+   "owned_globally_pct": 3.7,
+   "i_own": false
+  },
+  {
+   "name": "Enzo",
+   "team": "MCI",
+   "pos": "MID",
+   "price": 6.9,
+   "owned_in_league_pct": 3.8,
+   "owned_globally_pct": 3.5,
+   "i_own": false
+  },
+  {
    "name": "Mings",
    "team": "AVL",
    "pos": "DEF",
@@ -3733,42 +3769,6 @@
    "i_own": false
   },
   {
-   "name": "Araujo",
-   "team": "LIV",
-   "pos": "DEF",
-   "price": 5.4,
-   "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.9,
-   "i_own": false
-  },
-  {
-   "name": "Hincapie",
-   "team": "ARS",
-   "pos": "DEF",
-   "price": 5.3,
-   "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 0.9,
-   "i_own": false
-  },
-  {
-   "name": "Senesi",
-   "team": "TOT",
-   "pos": "DEF",
-   "price": 5.8,
-   "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.7,
-   "i_own": false
-  },
-  {
-   "name": "Enzo",
-   "team": "MCI",
-   "pos": "MID",
-   "price": 6.9,
-   "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.5,
-   "i_own": false
-  },
-  {
    "name": "Kerkez",
    "team": "LIV",
    "pos": "DEF",
@@ -3783,7 +3783,7 @@
    "pos": "MID",
    "price": 5.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.5,
+   "owned_globally_pct": 2.6,
    "i_own": false
   },
   {
@@ -3823,11 +3823,11 @@
    "picked_by_pct": 3.8
   },
   {
-   "name": "George",
+   "name": "Isak",
    "picked_by_pct": 3.8
   },
   {
-   "name": "Isak",
+   "name": "George",
    "picked_by_pct": 3.8
   },
   {
