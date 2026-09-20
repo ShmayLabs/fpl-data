@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-20T22:02:25Z",
+ "generated_utc": "2026-09-20T22:17:29Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -128,7 +128,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.1,
-   "owned_by": 15.1,
+   "owned_by": 15.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -204,7 +204,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 39.3,
+   "owned_by": 39.2,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -1623,7 +1623,7 @@
    "pos": "DEF",
    "price": 6.1,
    "points": 14,
-   "owned_by": 15.1
+   "owned_by": 15.2
   },
   {
    "name": "Manzambi",
@@ -1671,7 +1671,7 @@
    "pos": "FWD",
    "price": 5.5,
    "points": 10,
-   "owned_by": 2.7
+   "owned_by": 2.8
   },
   {
    "name": "Trafford",
@@ -1703,7 +1703,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 9,
-   "owned_by": 9.6
+   "owned_by": 9.7
   },
   {
    "name": "Thomas",
@@ -2787,7 +2787,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 53.8,
-   "owned_globally_pct": 39.3,
+   "owned_globally_pct": 39.2,
    "i_own": true
   },
   {
@@ -2949,7 +2949,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 17.8,
+   "owned_globally_pct": 17.7,
    "i_own": false
   },
   {
@@ -3210,7 +3210,7 @@
    "pos": "DEF",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 15.1,
+   "owned_globally_pct": 15.2,
    "i_own": true
   },
   {
@@ -3579,7 +3579,7 @@
    "pos": "FWD",
    "price": 5.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.7,
+   "owned_globally_pct": 2.8,
    "i_own": false
   },
   {
