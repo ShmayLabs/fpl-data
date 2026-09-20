@@ -11,7 +11,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-20T10:40:36Z",
+ "generated_utc": "2026-09-20T11:03:00Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -114,7 +114,7 @@
    "team": "HUL",
    "pos": "GK",
    "price": 4.6,
-   "owned_by": 11.7,
+   "owned_by": 11.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -2891,7 +2891,7 @@
    "pos": "DEF",
    "price": 4.9,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 25.8,
+   "owned_globally_pct": 25.9,
    "i_own": false
   },
   {
@@ -3089,7 +3089,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 11.7,
+   "owned_globally_pct": 11.8,
    "i_own": true
   },
   {
