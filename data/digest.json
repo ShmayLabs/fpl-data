@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-20T15:40:54Z",
+ "generated_utc": "2026-09-20T16:03:18Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -166,7 +166,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 15.6,
+   "owned_by": 15.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -212,8 +212,8 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 5,
-   "form": "5.8",
+   "gw_minutes": 28,
+   "form": "6.0",
    "total_points": 30,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
@@ -231,8 +231,8 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 5,
-   "form": "4.6",
+   "gw_minutes": 28,
+   "form": "4.8",
    "total_points": 24,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
@@ -606,8 +606,8 @@
      "rank": 13,
      "team": "Bribery Finary",
      "player": "Andy Livingstone",
-     "gw": 73,
-     "total": 323
+     "gw": 74,
+     "total": 324
     },
     {
      "rank": 14,
@@ -648,8 +648,8 @@
      "rank": 19,
      "team": "Blind Faith",
      "player": "Janied Inayat",
-     "gw": 50,
-     "total": 314
+     "gw": 51,
+     "total": 315
     },
     {
      "rank": 20,
@@ -801,8 +801,8 @@
      "rank": 15,
      "team": "King Scarles",
      "player": "Tom Horsman",
-     "gw": 27,
-     "total": 264
+     "gw": 28,
+     "total": 265
     },
     {
      "rank": 16,
@@ -1615,7 +1615,7 @@
    "pos": "MID",
    "price": 5.8,
    "points": 14,
-   "owned_by": 24.9
+   "owned_by": 25.0
   },
   {
    "name": "Tarkowski",
@@ -1639,7 +1639,7 @@
    "pos": "DEF",
    "price": 5.2,
    "points": 13,
-   "owned_by": 15.6
+   "owned_by": 15.7
   },
   {
    "name": "Buend\u00eda",
@@ -2678,7 +2678,7 @@
    "team": "King Scarles",
    "manager": "Tom Horsman",
    "rank": 15,
-   "total": 264,
+   "total": 265,
    "chip": null,
    "squad": [
     "Raya",
@@ -2904,7 +2904,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 15.6,
+   "owned_globally_pct": 15.7,
    "i_own": true
   },
   {
@@ -2976,7 +2976,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 24.9,
+   "owned_globally_pct": 25.0,
    "i_own": false
   },
   {
@@ -3048,7 +3048,7 @@
    "pos": "DEF",
    "price": 8.0,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 23.0,
+   "owned_globally_pct": 22.9,
    "i_own": false
   },
   {
@@ -3102,7 +3102,7 @@
    "pos": "GK",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 41.8,
+   "owned_globally_pct": 41.9,
    "i_own": false
   },
   {
