@@ -11,7 +11,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-20T06:02:41Z",
+ "generated_utc": "2026-09-20T06:23:02Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -171,7 +171,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 15.3,
+   "owned_by": 15.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -228,7 +228,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.9,
-   "owned_by": 21.4,
+   "owned_by": 21.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -602,16 +602,16 @@
     },
     {
      "rank": 12,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 27,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 35,
      "total": 302
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 35,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 27,
      "total": 302
     },
     {
@@ -1604,7 +1604,7 @@
    "pos": "MID",
    "price": 5.8,
    "points": 14,
-   "owned_by": 23.9
+   "owned_by": 24.0
   },
   {
    "name": "Tarkowski",
@@ -1628,7 +1628,7 @@
    "pos": "DEF",
    "price": 5.2,
    "points": 13,
-   "owned_by": 15.3
+   "owned_by": 15.4
   },
   {
    "name": "Buend\u00eda",
@@ -2882,7 +2882,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 21.4,
+   "owned_globally_pct": 21.3,
    "i_own": true
   },
   {
@@ -2909,7 +2909,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 15.3,
+   "owned_globally_pct": 15.4,
    "i_own": true
   },
   {
@@ -2990,7 +2990,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 23.9,
+   "owned_globally_pct": 24.0,
    "i_own": false
   },
   {
