@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-20T17:16:58Z",
+ "generated_utc": "2026-09-20T17:39:22Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -166,7 +166,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 15.7,
+   "owned_by": 15.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -204,7 +204,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 39.6,
+   "owned_by": 39.5,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -212,10 +212,10 @@
    "chance_next": null,
    "news": "",
    "gw_points": 2,
-   "gw_minutes": 85,
+   "gw_minutes": 90,
    "form": "6.2",
    "total_points": 31,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -223,7 +223,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.9,
-   "owned_by": 21.3,
+   "owned_by": 21.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -231,10 +231,10 @@
    "chance_next": null,
    "news": "",
    "gw_points": 2,
-   "gw_minutes": 85,
+   "gw_minutes": 90,
    "form": "5.0",
    "total_points": 25,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -242,7 +242,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 5.2,
+   "owned_by": 5.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -261,7 +261,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.6,
-   "owned_by": 73.4,
+   "owned_by": 73.5,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -280,7 +280,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 67.2,
+   "owned_by": 67.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -375,7 +375,7 @@
    "team": "CRY",
    "pos": "MID",
    "price": 4.4,
-   "owned_by": 7.6,
+   "owned_by": 7.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -396,7 +396,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 5.2,
+   "owned_by": 5.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -415,7 +415,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 67.2,
+   "owned_by": 67.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -583,38 +583,45 @@
     },
     {
      "rank": 10,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 82,
+     "total": 332
+    },
+    {
+     "rank": 11,
      "team": "ChickenTikka Mangala",
      "player": "James Davies",
      "gw": 38,
      "total": 331
     },
     {
-     "rank": 11,
+     "rank": 12,
      "team": "Enter Team Name",
      "player": "Andy Grundy",
      "gw": 45,
      "total": 330
     },
     {
-     "rank": 12,
+     "rank": 13,
      "team": "Ctrl Alt De Ligt",
      "player": "Ian Cox",
      "gw": 44,
      "total": 327
     },
     {
-     "rank": 13,
+     "rank": 14,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
      "gw": 57,
      "total": 324
     },
     {
-     "rank": 13,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 74,
-     "total": 324
+     "rank": 15,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 59,
+     "total": 323
     },
     {
      "rank": 15,
@@ -624,32 +631,25 @@
      "total": 323
     },
     {
-     "rank": 16,
+     "rank": 17,
      "team": "Set and regret",
      "player": "Adam Lowe",
      "gw": 30,
      "total": 322
     },
     {
-     "rank": 17,
+     "rank": 18,
      "team": "MightyGar",
      "player": "Stephen Lowe",
      "gw": 58,
      "total": 320
     },
     {
-     "rank": 18,
+     "rank": 19,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
      "gw": 41,
      "total": 317
-    },
-    {
-     "rank": 19,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 51,
-     "total": 315
     },
     {
      "rank": 20,
@@ -771,38 +771,38 @@
     },
     {
      "rank": 11,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 43,
-     "total": 299
-    },
-    {
-     "rank": 12,
      "team": "JTindall Solo Album",
      "player": "Niall Ballinger",
      "gw": 40,
      "total": 296
     },
     {
-     "rank": 13,
+     "rank": 12,
      "team": "Prep Big B",
      "player": "Darren Heath",
      "gw": 48,
      "total": 295
     },
     {
-     "rank": 14,
+     "rank": 13,
      "team": "Millennium Falcons",
      "player": "Jack Richardson",
      "gw": 58,
      "total": 294
     },
     {
+     "rank": 14,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 37,
+     "total": 293
+    },
+    {
      "rank": 15,
      "team": "King Scarles",
      "player": "Tom Horsman",
-     "gw": 28,
-     "total": 265
+     "gw": 36,
+     "total": 273
     },
     {
      "rank": 16,
@@ -1591,7 +1591,7 @@
    "pos": "FWD",
    "price": 5.7,
    "points": 17,
-   "owned_by": 5.9
+   "owned_by": 6.0
   },
   {
    "name": "Dasilva",
@@ -1615,7 +1615,7 @@
    "pos": "MID",
    "price": 5.8,
    "points": 14,
-   "owned_by": 25.2
+   "owned_by": 25.3
   },
   {
    "name": "Tarkowski",
@@ -1639,7 +1639,7 @@
    "pos": "DEF",
    "price": 5.2,
    "points": 13,
-   "owned_by": 15.7
+   "owned_by": 15.8
   },
   {
    "name": "Buend\u00eda",
@@ -1648,14 +1648,6 @@
    "price": 5.9,
    "points": 12,
    "owned_by": 0.9
-  },
-  {
-   "name": "Bassey",
-   "team": "FUL",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 12,
-   "owned_by": 0.7
   },
   {
    "name": "Rushworth",
@@ -1679,7 +1671,7 @@
    "pos": "FWD",
    "price": 5.5,
    "points": 10,
-   "owned_by": 2.3
+   "owned_by": 2.4
   },
   {
    "name": "Trafford",
@@ -1688,6 +1680,14 @@
    "price": 5.0,
    "points": 10,
    "owned_by": 5.4
+  },
+  {
+   "name": "Cunha",
+   "team": "MUN",
+   "pos": "MID",
+   "price": 7.9,
+   "points": 10,
+   "owned_by": 5.7
   },
   {
    "name": "Willock",
@@ -1703,7 +1703,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 9,
-   "owned_by": 9.1
+   "owned_by": 9.2
   },
   {
    "name": "Thomas",
@@ -1712,14 +1712,6 @@
    "price": 4.0,
    "points": 9,
    "owned_by": 8.6
-  },
-  {
-   "name": "Leno",
-   "team": "FUL",
-   "pos": "GK",
-   "price": 4.5,
-   "points": 9,
-   "owned_by": 3.2
   },
   {
    "name": "Barnes",
@@ -1776,6 +1768,14 @@
    "price": 5.5,
    "points": 8,
    "owned_by": 9.1
+  },
+  {
+   "name": "Branthwaite",
+   "team": "EVE",
+   "pos": "DEF",
+   "price": 5.5,
+   "points": 8,
+   "owned_by": 2.3
   }
  ],
  "rival_count": 26,
@@ -2528,46 +2528,9 @@
    ]
   },
   {
-   "team": "Static FC",
-   "manager": "Nathaniel Josephs",
-   "rank": 11,
-   "total": 299,
-   "chip": null,
-   "squad": [
-    "Leno",
-    "Egan",
-    "Calafiori",
-    "Konsa",
-    "Maitland-Niles",
-    "B.Fernandes",
-    "Mbeumo",
-    "Tzolis",
-    "Thiago",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Verbruggen",
-    "De Cuyper",
-    "George Hemmings",
-    "Slater"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Slater",
-    "Calafiori",
-    "Maitland-Niles",
-    "Thiago",
-    "Tzolis",
-    "Verbruggen",
-    "De Cuyper",
-    "George Hemmings",
-    "Leno",
-    "Konsa"
-   ]
-  },
-  {
    "team": "JTindall Solo Album",
    "manager": "Niall Ballinger",
-   "rank": 12,
+   "rank": 11,
    "total": 296,
    "chip": null,
    "squad": [
@@ -2603,7 +2566,7 @@
   {
    "team": "Prep Big B",
    "manager": "Darren Heath",
-   "rank": 13,
+   "rank": 12,
    "total": 295,
    "chip": null,
    "squad": [
@@ -2639,7 +2602,7 @@
   {
    "team": "Millennium Falcons",
    "manager": "Jack Richardson",
-   "rank": 14,
+   "rank": 13,
    "total": 294,
    "chip": null,
    "squad": [
@@ -2675,10 +2638,47 @@
    ]
   },
   {
+   "team": "Static FC",
+   "manager": "Nathaniel Josephs",
+   "rank": 14,
+   "total": 293,
+   "chip": null,
+   "squad": [
+    "Leno",
+    "Egan",
+    "Calafiori",
+    "Konsa",
+    "Maitland-Niles",
+    "B.Fernandes",
+    "Mbeumo",
+    "Tzolis",
+    "Thiago",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Verbruggen",
+    "De Cuyper",
+    "George Hemmings",
+    "Slater"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Slater",
+    "Calafiori",
+    "Maitland-Niles",
+    "Thiago",
+    "Tzolis",
+    "Verbruggen",
+    "De Cuyper",
+    "George Hemmings",
+    "Leno",
+    "Konsa"
+   ]
+  },
+  {
    "team": "King Scarles",
    "manager": "Tom Horsman",
    "rank": 15,
-   "total": 265,
+   "total": 273,
    "chip": null,
    "squad": [
     "Raya",
@@ -2760,7 +2760,7 @@
    "pos": "FWD",
    "price": 15.6,
    "owned_in_league_pct": 88.5,
-   "owned_globally_pct": 73.4,
+   "owned_globally_pct": 73.5,
    "i_own": true
   },
   {
@@ -2769,7 +2769,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 67.2,
+   "owned_globally_pct": 67.1,
    "i_own": true
   },
   {
@@ -2778,7 +2778,7 @@
    "pos": "DEF",
    "price": 5.8,
    "owned_in_league_pct": 61.5,
-   "owned_globally_pct": 50.7,
+   "owned_globally_pct": 50.6,
    "i_own": false
   },
   {
@@ -2787,7 +2787,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 53.8,
-   "owned_globally_pct": 39.6,
+   "owned_globally_pct": 39.5,
    "i_own": true
   },
   {
@@ -2868,7 +2868,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 26.2,
+   "owned_globally_pct": 26.3,
    "i_own": false
   },
   {
@@ -2877,7 +2877,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 21.3,
+   "owned_globally_pct": 21.2,
    "i_own": true
   },
   {
@@ -2904,7 +2904,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 15.7,
+   "owned_globally_pct": 15.8,
    "i_own": true
   },
   {
@@ -2913,7 +2913,7 @@
    "pos": "MID",
    "price": 4.4,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 7.6,
+   "owned_globally_pct": 7.5,
    "i_own": true
   },
   {
@@ -2976,7 +2976,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 25.2,
+   "owned_globally_pct": 25.3,
    "i_own": false
   },
   {
@@ -3183,7 +3183,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.9,
+   "owned_globally_pct": 6.0,
    "i_own": false
   },
   {
@@ -3219,7 +3219,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.2,
+   "owned_globally_pct": 5.1,
    "i_own": true
   },
   {
@@ -3570,7 +3570,7 @@
    "pos": "DEF",
    "price": 4.3,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.0,
+   "owned_globally_pct": 2.9,
    "i_own": false
   },
   {
@@ -3579,7 +3579,7 @@
    "pos": "FWD",
    "price": 5.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.3,
+   "owned_globally_pct": 2.4,
    "i_own": false
   },
   {
@@ -3655,6 +3655,24 @@
    "i_own": false
   },
   {
+   "name": "Targett",
+   "team": "HUL",
+   "pos": "DEF",
+   "price": 4.0,
+   "owned_in_league_pct": 3.8,
+   "owned_globally_pct": 1.7,
+   "i_own": false
+  },
+  {
+   "name": "Belloumi",
+   "team": "HUL",
+   "pos": "MID",
+   "price": 5.1,
+   "owned_in_league_pct": 3.8,
+   "owned_globally_pct": 4.6,
+   "i_own": false
+  },
+  {
    "name": "Maitland-Niles",
    "team": "EVE",
    "pos": "DEF",
@@ -3679,24 +3697,6 @@
    "price": 4.5,
    "owned_in_league_pct": 3.8,
    "owned_globally_pct": 1.2,
-   "i_own": false
-  },
-  {
-   "name": "Targett",
-   "team": "HUL",
-   "pos": "DEF",
-   "price": 4.0,
-   "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.7,
-   "i_own": false
-  },
-  {
-   "name": "Belloumi",
-   "team": "HUL",
-   "pos": "MID",
-   "price": 5.1,
-   "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.6,
    "i_own": false
   },
   {
