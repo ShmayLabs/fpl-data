@@ -11,7 +11,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "NOT YET PLAYED: Hughes (CRY) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-09-20T09:40:37Z",
+ "generated_utc": "2026-09-20T10:03:02Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -602,16 +602,16 @@
     },
     {
      "rank": 12,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 27,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 35,
      "total": 302
     },
     {
      "rank": 12,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 35,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 27,
      "total": 302
     },
     {
