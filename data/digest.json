@@ -8,7 +8,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-20T15:02:48Z",
+ "generated_utc": "2026-09-20T15:18:30Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -130,7 +130,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.1,
-   "owned_by": 14.7,
+   "owned_by": 14.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -160,7 +160,7 @@
    "gw_minutes": 90,
    "form": "6.0",
    "total_points": 30,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -244,7 +244,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 5.3,
+   "owned_by": 5.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -274,7 +274,7 @@
    "gw_minutes": 90,
    "form": "7.8",
    "total_points": 39,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -282,7 +282,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 67.5,
+   "owned_by": 67.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -398,7 +398,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 5.3,
+   "owned_by": 5.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -417,7 +417,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 67.5,
+   "owned_by": 67.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -545,8 +545,8 @@
      "rank": 4,
      "team": "HMH Ath",
      "player": "Craig Hughes",
-     "gw": 59,
-     "total": 358
+     "gw": 60,
+     "total": 359
     },
     {
      "rank": 5,
@@ -606,20 +606,20 @@
     },
     {
      "rank": 13,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 72,
+     "total": 322
+    },
+    {
+     "rank": 14,
      "team": "Set and regret",
      "player": "Adam Lowe",
      "gw": 28,
      "total": 320
     },
     {
-     "rank": 14,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 70,
-     "total": 320
-    },
-    {
-     "rank": 14,
+     "rank": 15,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
      "gw": 53,
@@ -650,8 +650,8 @@
      "rank": 19,
      "team": "Blind Faith",
      "player": "Janied Inayat",
-     "gw": 48,
-     "total": 312
+     "gw": 49,
+     "total": 313
     },
     {
      "rank": 20,
@@ -789,8 +789,8 @@
      "rank": 13,
      "team": "Prep Big B",
      "player": "Darren Heath",
-     "gw": 41,
-     "total": 288
+     "gw": 42,
+     "total": 289
     },
     {
      "rank": 14,
@@ -1585,7 +1585,7 @@
    "pos": "MID",
    "price": 8.4,
    "points": 17,
-   "owned_by": 14.6
+   "owned_by": 14.7
   },
   {
    "name": "Brobbey",
@@ -1593,7 +1593,7 @@
    "pos": "FWD",
    "price": 5.7,
    "points": 17,
-   "owned_by": 5.6
+   "owned_by": 5.7
   },
   {
    "name": "Dasilva",
@@ -1617,7 +1617,7 @@
    "pos": "MID",
    "price": 5.8,
    "points": 14,
-   "owned_by": 24.7
+   "owned_by": 24.8
   },
   {
    "name": "Tarkowski",
@@ -1625,7 +1625,7 @@
    "pos": "DEF",
    "price": 6.1,
    "points": 14,
-   "owned_by": 14.7
+   "owned_by": 14.8
   },
   {
    "name": "Manzambi",
@@ -1713,7 +1713,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 9,
-   "owned_by": 4.8
+   "owned_by": 4.9
   },
   {
    "name": "Pinnock",
@@ -2607,7 +2607,7 @@
    "team": "Prep Big B",
    "manager": "Darren Heath",
    "rank": 13,
-   "total": 288,
+   "total": 289,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2771,7 +2771,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 67.5,
+   "owned_globally_pct": 67.4,
    "i_own": true
   },
   {
@@ -2852,7 +2852,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 34.1,
+   "owned_globally_pct": 34.0,
    "i_own": false
   },
   {
@@ -2888,7 +2888,7 @@
    "pos": "DEF",
    "price": 4.9,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 26.0,
+   "owned_globally_pct": 26.1,
    "i_own": false
   },
   {
@@ -2987,7 +2987,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 24.7,
+   "owned_globally_pct": 24.8,
    "i_own": false
   },
   {
@@ -2996,7 +2996,7 @@
    "pos": "MID",
    "price": 8.4,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 14.6,
+   "owned_globally_pct": 14.7,
    "i_own": false
   },
   {
@@ -3059,7 +3059,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 4.8,
+   "owned_globally_pct": 4.9,
    "i_own": false
   },
   {
@@ -3185,7 +3185,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.6,
+   "owned_globally_pct": 5.7,
    "i_own": false
   },
   {
@@ -3248,7 +3248,7 @@
    "pos": "DEF",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 14.7,
+   "owned_globally_pct": 14.8,
    "i_own": true
   },
   {
@@ -3257,7 +3257,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.3,
+   "owned_globally_pct": 5.2,
    "i_own": true
   },
   {
