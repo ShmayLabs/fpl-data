@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-20T19:05:24Z",
+ "generated_utc": "2026-09-20T19:15:46Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -109,7 +109,7 @@
    "team": "HUL",
    "pos": "GK",
    "price": 4.6,
-   "owned_by": 11.9,
+   "owned_by": 12.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -166,7 +166,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 15.8,
+   "owned_by": 15.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -223,7 +223,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.9,
-   "owned_by": 21.2,
+   "owned_by": 21.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -299,7 +299,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 25.5,
+   "owned_by": 25.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -583,20 +583,20 @@
     },
     {
      "rank": 10,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 82,
-     "total": 332
-    },
-    {
-     "rank": 11,
      "team": "ChickenTikka Mangala",
      "player": "James Davies",
      "gw": 38,
      "total": 331
     },
     {
-     "rank": 12,
+     "rank": 11,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 80,
+     "total": 330
+    },
+    {
+     "rank": 11,
      "team": "Enter Team Name",
      "player": "Andy Grundy",
      "gw": 45,
@@ -1591,7 +1591,7 @@
    "pos": "FWD",
    "price": 5.7,
    "points": 17,
-   "owned_by": 6.0
+   "owned_by": 6.1
   },
   {
    "name": "Dasilva",
@@ -1615,7 +1615,7 @@
    "pos": "MID",
    "price": 5.8,
    "points": 14,
-   "owned_by": 25.5
+   "owned_by": 25.6
   },
   {
    "name": "Tarkowski",
@@ -1639,7 +1639,7 @@
    "pos": "DEF",
    "price": 5.2,
    "points": 13,
-   "owned_by": 15.8
+   "owned_by": 15.9
   },
   {
    "name": "Buend\u00eda",
@@ -1703,7 +1703,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 9,
-   "owned_by": 9.3
+   "owned_by": 9.4
   },
   {
    "name": "Thomas",
@@ -2832,7 +2832,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 25.5,
+   "owned_globally_pct": 25.4,
    "i_own": true
   },
   {
@@ -2841,7 +2841,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 13.1,
+   "owned_globally_pct": 13.0,
    "i_own": false
   },
   {
@@ -2877,7 +2877,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 21.2,
+   "owned_globally_pct": 21.1,
    "i_own": true
   },
   {
@@ -2886,7 +2886,7 @@
    "pos": "DEF",
    "price": 4.9,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 26.3,
+   "owned_globally_pct": 26.4,
    "i_own": false
   },
   {
@@ -2904,7 +2904,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 15.8,
+   "owned_globally_pct": 15.9,
    "i_own": true
   },
   {
@@ -2922,7 +2922,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 27.9,
+   "owned_globally_pct": 28.0,
    "i_own": false
   },
   {
@@ -2976,7 +2976,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 25.5,
+   "owned_globally_pct": 25.6,
    "i_own": false
   },
   {
@@ -3039,7 +3039,7 @@
    "pos": "MID",
    "price": 7.4,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 12.3,
+   "owned_globally_pct": 12.2,
    "i_own": false
   },
   {
@@ -3075,7 +3075,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 11.9,
+   "owned_globally_pct": 12.0,
    "i_own": true
   },
   {
@@ -3183,7 +3183,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 6.0,
+   "owned_globally_pct": 6.1,
    "i_own": false
   },
   {
@@ -3489,7 +3489,7 @@
    "pos": "DEF",
    "price": 4.3,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 8.0,
+   "owned_globally_pct": 7.9,
    "i_own": false
   },
   {
