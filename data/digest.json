@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-20T21:17:33Z",
+ "generated_utc": "2026-09-20T21:39:58Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -242,7 +242,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 5.1,
+   "owned_by": 5.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -280,7 +280,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 66.9,
+   "owned_by": 66.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -299,7 +299,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 25.4,
+   "owned_by": 25.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -396,7 +396,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 5.1,
+   "owned_by": 5.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -415,7 +415,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 66.9,
+   "owned_by": 66.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1591,7 +1591,7 @@
    "pos": "FWD",
    "price": 5.7,
    "points": 17,
-   "owned_by": 6.1
+   "owned_by": 6.2
   },
   {
    "name": "Dasilva",
@@ -2769,7 +2769,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 66.9,
+   "owned_globally_pct": 66.8,
    "i_own": true
   },
   {
@@ -2832,7 +2832,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 34.6,
-   "owned_globally_pct": 25.4,
+   "owned_globally_pct": 25.3,
    "i_own": true
   },
   {
@@ -2967,7 +2967,7 @@
    "pos": "FWD",
    "price": 9.1,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 22.0,
+   "owned_globally_pct": 22.1,
    "i_own": false
   },
   {
@@ -3174,7 +3174,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 6.4,
+   "owned_globally_pct": 6.5,
    "i_own": false
   },
   {
@@ -3183,7 +3183,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 6.1,
+   "owned_globally_pct": 6.2,
    "i_own": false
   },
   {
@@ -3219,7 +3219,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.1,
+   "owned_globally_pct": 5.0,
    "i_own": true
   },
   {
@@ -3237,7 +3237,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 13.3,
+   "owned_globally_pct": 13.4,
    "i_own": false
   },
   {
@@ -3669,7 +3669,7 @@
    "pos": "MID",
    "price": 5.1,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.6,
+   "owned_globally_pct": 4.7,
    "i_own": false
   },
   {
