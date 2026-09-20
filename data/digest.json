@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-20T21:39:58Z",
+ "generated_utc": "2026-09-20T22:02:25Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -1615,7 +1615,7 @@
    "pos": "MID",
    "price": 5.8,
    "points": 14,
-   "owned_by": 25.8
+   "owned_by": 25.9
   },
   {
    "name": "Tarkowski",
@@ -2976,7 +2976,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 25.8,
+   "owned_globally_pct": 25.9,
    "i_own": false
   },
   {
@@ -3111,7 +3111,7 @@
    "pos": "MID",
    "price": 7.2,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 12.7,
+   "owned_globally_pct": 12.6,
    "i_own": false
   },
   {
@@ -3381,7 +3381,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.8,
+   "owned_globally_pct": 2.7,
    "i_own": false
   },
   {
