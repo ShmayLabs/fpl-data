@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-20T17:39:22Z",
+ "generated_utc": "2026-09-20T18:01:46Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -128,7 +128,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.1,
-   "owned_by": 14.9,
+   "owned_by": 15.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -543,8 +543,8 @@
      "rank": 4,
      "team": "HMH Ath",
      "player": "Craig Hughes",
-     "gw": 62,
-     "total": 361
+     "gw": 61,
+     "total": 360
     },
     {
      "rank": 5,
@@ -618,23 +618,23 @@
     },
     {
      "rank": 15,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 59,
-     "total": 323
-    },
-    {
-     "rank": 15,
      "team": "Spring Thyme Rovers",
      "player": "Derek Holden",
      "gw": 48,
      "total": 323
     },
     {
-     "rank": 17,
+     "rank": 16,
      "team": "Set and regret",
      "player": "Adam Lowe",
      "gw": 30,
+     "total": 322
+    },
+    {
+     "rank": 17,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 58,
      "total": 322
     },
     {
@@ -780,8 +780,8 @@
      "rank": 12,
      "team": "Prep Big B",
      "player": "Darren Heath",
-     "gw": 48,
-     "total": 295
+     "gw": 47,
+     "total": 294
     },
     {
      "rank": 13,
@@ -1615,7 +1615,7 @@
    "pos": "MID",
    "price": 5.8,
    "points": 14,
-   "owned_by": 25.3
+   "owned_by": 25.4
   },
   {
    "name": "Tarkowski",
@@ -1623,7 +1623,7 @@
    "pos": "DEF",
    "price": 6.1,
    "points": 14,
-   "owned_by": 14.9
+   "owned_by": 15.0
   },
   {
    "name": "Manzambi",
@@ -1719,7 +1719,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 9,
-   "owned_by": 4.9
+   "owned_by": 5.0
   },
   {
    "name": "Pinnock",
@@ -1754,14 +1754,6 @@
    "owned_by": 0.2
   },
   {
-   "name": "Mitchell",
-   "team": "CRY",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 8,
-   "owned_by": 6.0
-  },
-  {
    "name": "Pickford",
    "team": "EVE",
    "pos": "GK",
@@ -1776,6 +1768,14 @@
    "price": 5.5,
    "points": 8,
    "owned_by": 2.3
+  },
+  {
+   "name": "Justin",
+   "team": "LEE",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 8,
+   "owned_by": 1.5
   }
  ],
  "rival_count": 26,
@@ -2567,7 +2567,7 @@
    "team": "Prep Big B",
    "manager": "Darren Heath",
    "rank": 12,
-   "total": 295,
+   "total": 294,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2886,7 +2886,7 @@
    "pos": "DEF",
    "price": 4.9,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 26.2,
+   "owned_globally_pct": 26.3,
    "i_own": false
   },
   {
@@ -2976,7 +2976,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 25.3,
+   "owned_globally_pct": 25.4,
    "i_own": false
   },
   {
@@ -3084,7 +3084,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 4.9,
+   "owned_globally_pct": 5.0,
    "i_own": false
   },
   {
@@ -3138,7 +3138,7 @@
    "pos": "FWD",
    "price": 4.5,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 5.6,
+   "owned_globally_pct": 5.5,
    "i_own": false
   },
   {
@@ -3210,7 +3210,7 @@
    "pos": "DEF",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 14.9,
+   "owned_globally_pct": 15.0,
    "i_own": true
   },
   {
