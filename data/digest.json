@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-20T21:03:05Z",
+ "generated_utc": "2026-09-20T21:17:33Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -166,7 +166,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 15.9,
+   "owned_by": 16.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -590,16 +590,16 @@
     },
     {
      "rank": 11,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 80,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 45,
      "total": 330
     },
     {
      "rank": 11,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 45,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 80,
      "total": 330
     },
     {
@@ -1639,7 +1639,7 @@
    "pos": "DEF",
    "price": 5.2,
    "points": 13,
-   "owned_by": 15.9
+   "owned_by": 16.0
   },
   {
    "name": "Buend\u00eda",
@@ -1719,7 +1719,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 9,
-   "owned_by": 5.0
+   "owned_by": 5.1
   },
   {
    "name": "Pinnock",
@@ -2886,7 +2886,7 @@
    "pos": "DEF",
    "price": 4.9,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 26.4,
+   "owned_globally_pct": 26.5,
    "i_own": false
   },
   {
@@ -2904,7 +2904,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 15.9,
+   "owned_globally_pct": 16.0,
    "i_own": true
   },
   {
@@ -3084,7 +3084,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 5.0,
+   "owned_globally_pct": 5.1,
    "i_own": false
   },
   {
@@ -3678,7 +3678,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 1.1,
+   "owned_globally_pct": 1.2,
    "i_own": false
   },
   {
