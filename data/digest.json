@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-20T20:00:35Z",
+ "generated_utc": "2026-09-20T20:17:59Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -204,7 +204,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 12.0,
-   "owned_by": 39.4,
+   "owned_by": 39.3,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -2787,7 +2787,7 @@
    "pos": "MID",
    "price": 12.0,
    "owned_in_league_pct": 53.8,
-   "owned_globally_pct": 39.4,
+   "owned_globally_pct": 39.3,
    "i_own": true
   },
   {
@@ -2850,7 +2850,7 @@
    "pos": "MID",
    "price": 7.0,
    "owned_in_league_pct": 30.8,
-   "owned_globally_pct": 33.8,
+   "owned_globally_pct": 33.7,
    "i_own": false
   },
   {
@@ -3102,7 +3102,7 @@
    "pos": "GK",
    "price": 6.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 41.9,
+   "owned_globally_pct": 42.0,
    "i_own": false
   },
   {
