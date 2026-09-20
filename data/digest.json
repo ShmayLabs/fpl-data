@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-20T20:40:34Z",
+ "generated_utc": "2026-09-20T21:03:05Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -1583,7 +1583,7 @@
    "pos": "MID",
    "price": 8.4,
    "points": 17,
-   "owned_by": 14.9
+   "owned_by": 15.0
   },
   {
    "name": "Brobbey",
@@ -1615,7 +1615,7 @@
    "pos": "MID",
    "price": 5.8,
    "points": 14,
-   "owned_by": 25.7
+   "owned_by": 25.8
   },
   {
    "name": "Tarkowski",
@@ -1703,7 +1703,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 9,
-   "owned_by": 9.5
+   "owned_by": 9.6
   },
   {
    "name": "Thomas",
@@ -2976,7 +2976,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 25.7,
+   "owned_globally_pct": 25.8,
    "i_own": false
   },
   {
@@ -2994,7 +2994,7 @@
    "pos": "MID",
    "price": 8.4,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 14.9,
+   "owned_globally_pct": 15.0,
    "i_own": false
   },
   {
@@ -3003,7 +3003,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 9.2,
+   "owned_globally_pct": 9.1,
    "i_own": false
   },
   {
@@ -3624,7 +3624,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 2.9,
+   "owned_globally_pct": 3.0,
    "i_own": false
   },
   {
