@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-21T05:04:19Z",
+ "generated_utc": "2026-09-21T05:18:40Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -185,7 +185,7 @@
    "team": "NFO",
    "pos": "DEF",
    "price": 5.0,
-   "owned_by": 9.0,
+   "owned_by": 8.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -2985,7 +2985,7 @@
    "pos": "FWD",
    "price": 6.2,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 18.9,
+   "owned_globally_pct": 18.8,
    "i_own": false
   },
   {
@@ -3021,7 +3021,7 @@
    "pos": "DEF",
    "price": 4.9,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 9.0,
+   "owned_globally_pct": 8.9,
    "i_own": false
   },
   {
@@ -3066,7 +3066,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 9.0,
+   "owned_globally_pct": 8.9,
    "i_own": true
   },
   {
@@ -3102,7 +3102,7 @@
    "pos": "GK",
    "price": 6.1,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 42.0,
+   "owned_globally_pct": 42.1,
    "i_own": false
   },
   {
