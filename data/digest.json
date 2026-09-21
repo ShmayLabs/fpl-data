@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-21T02:41:25Z",
+ "generated_utc": "2026-09-21T03:03:59Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -1591,7 +1591,7 @@
    "pos": "FWD",
    "price": 5.7,
    "points": 17,
-   "owned_by": 6.2
+   "owned_by": 6.3
   },
   {
    "name": "Dasilva",
@@ -3183,7 +3183,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 6.2,
+   "owned_globally_pct": 6.3,
    "i_own": false
   },
   {
