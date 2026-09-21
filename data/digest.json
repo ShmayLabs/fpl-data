@@ -6,7 +6,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Knee injury - 75% chance of playing (75% chance).",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-21T12:23:11Z",
+ "generated_utc": "2026-09-21T12:45:40Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -569,30 +569,30 @@
     },
     {
      "rank": 8,
-     "team": "Maddcatts",
-     "player": "Craig Cattrall",
-     "gw": 42,
-     "total": 336
-    },
-    {
-     "rank": 8,
      "team": "Expected Toulouse",
      "player": "Joe McClelland",
      "gw": 65,
      "total": 336
     },
     {
-     "rank": 10,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 48,
-     "total": 331
+     "rank": 8,
+     "team": "Maddcatts",
+     "player": "Craig Cattrall",
+     "gw": 42,
+     "total": 336
     },
     {
      "rank": 10,
      "team": "ChickenTikka Mangala",
      "player": "James Davies",
      "gw": 38,
+     "total": 331
+    },
+    {
+     "rank": 10,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 48,
      "total": 331
     },
     {
@@ -1703,7 +1703,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 9,
-   "owned_by": 10.0
+   "owned_by": 10.1
   },
   {
    "name": "Thomas",
@@ -3003,7 +3003,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 15.4,
-   "owned_globally_pct": 9.1,
+   "owned_globally_pct": 9.0,
    "i_own": false
   },
   {
@@ -3147,7 +3147,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 15.8,
+   "owned_globally_pct": 15.7,
    "i_own": false
   },
   {
