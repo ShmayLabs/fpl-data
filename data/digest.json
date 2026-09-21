@@ -6,7 +6,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Knee injury - 75% chance of playing (75% chance).",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-21T20:19:11Z",
+ "generated_utc": "2026-09-21T20:41:42Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -166,7 +166,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 16.5,
+   "owned_by": 16.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -356,7 +356,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 66.2,
+   "owned_by": 66.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -415,7 +415,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 66.2,
+   "owned_by": 66.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -583,16 +583,16 @@
     },
     {
      "rank": 10,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 48,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 38,
      "total": 331
     },
     {
      "rank": 10,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 38,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 48,
      "total": 331
     },
     {
@@ -1639,7 +1639,7 @@
    "pos": "DEF",
    "price": 5.2,
    "points": 13,
-   "owned_by": 16.5
+   "owned_by": 16.6
   },
   {
    "name": "Buend\u00eda",
@@ -2769,7 +2769,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 66.2,
+   "owned_globally_pct": 66.1,
    "i_own": true
   },
   {
@@ -2895,7 +2895,7 @@
    "pos": "GK",
    "price": 4.9,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 10.1,
+   "owned_globally_pct": 10.0,
    "i_own": false
   },
   {
@@ -2904,7 +2904,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 16.5,
+   "owned_globally_pct": 16.6,
    "i_own": true
   },
   {
@@ -3390,7 +3390,7 @@
    "pos": "GK",
    "price": 5.5,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 7.7,
+   "owned_globally_pct": 7.6,
    "i_own": false
   },
   {
