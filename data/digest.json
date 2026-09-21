@@ -6,7 +6,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Knee injury - 75% chance of playing (75% chance).",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-21T16:19:55Z",
+ "generated_utc": "2026-09-21T16:42:27Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -597,16 +597,16 @@
     },
     {
      "rank": 12,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 80,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 45,
      "total": 330
     },
     {
      "rank": 12,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 45,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 80,
      "total": 330
     },
     {
@@ -1671,7 +1671,7 @@
    "pos": "FWD",
    "price": 5.6,
    "points": 10,
-   "owned_by": 3.1
+   "owned_by": 3.2
   },
   {
    "name": "Trafford",
@@ -3579,7 +3579,7 @@
    "pos": "FWD",
    "price": 5.6,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 3.1,
+   "owned_globally_pct": 3.2,
    "i_own": false
   },
   {
@@ -3696,7 +3696,7 @@
    "pos": "MID",
    "price": 5.1,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 4.7,
+   "owned_globally_pct": 4.8,
    "i_own": false
   },
   {
