@@ -6,7 +6,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Knee injury - 75% chance of playing (75% chance).",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-21T14:03:26Z",
+ "generated_utc": "2026-09-21T14:20:17Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -137,7 +137,7 @@
    "news": "",
    "gw_points": 14,
    "gw_minutes": 90,
-   "form": "8.6",
+   "form": "9.2",
    "total_points": 43,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -194,7 +194,7 @@
    "news": "",
    "gw_points": 2,
    "gw_minutes": 90,
-   "form": "3.8",
+   "form": "4.2",
    "total_points": 19,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -308,7 +308,7 @@
    "news": "",
    "gw_points": 2,
    "gw_minutes": 90,
-   "form": "4.4",
+   "form": "5.2",
    "total_points": 22,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -384,7 +384,7 @@
    "news": "",
    "gw_points": 0,
    "gw_minutes": 0,
-   "form": "0.4",
+   "form": "0.5",
    "total_points": 2,
    "fixture_state": "played",
    "zero_minutes_means": "match finished and he played no part"
@@ -569,16 +569,16 @@
     },
     {
      "rank": 8,
-     "team": "Maddcatts",
-     "player": "Craig Cattrall",
-     "gw": 42,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 65,
      "total": 336
     },
     {
      "rank": 8,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 65,
+     "team": "Maddcatts",
+     "player": "Craig Cattrall",
+     "gw": 42,
      "total": 336
     },
     {
@@ -597,16 +597,16 @@
     },
     {
      "rank": 12,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 45,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 80,
      "total": 330
     },
     {
      "rank": 12,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 80,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 45,
      "total": 330
     },
     {
@@ -1615,7 +1615,7 @@
    "pos": "MID",
    "price": 5.8,
    "points": 14,
-   "owned_by": 26.6
+   "owned_by": 26.7
   },
   {
    "name": "Tarkowski",
@@ -2976,7 +2976,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 26.6,
+   "owned_globally_pct": 26.7,
    "i_own": false
   },
   {
@@ -3345,7 +3345,7 @@
    "pos": "MID",
    "price": 6.3,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 4.1,
+   "owned_globally_pct": 4.0,
    "i_own": false
   },
   {
