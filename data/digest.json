@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-21T08:20:53Z",
+ "generated_utc": "2026-09-21T08:43:17Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -242,7 +242,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 5.0,
+   "owned_by": 4.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -396,7 +396,7 @@
    "team": "NEW",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 5.0,
+   "owned_by": 4.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -590,16 +590,16 @@
     },
     {
      "rank": 11,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 80,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 45,
      "total": 330
     },
     {
      "rank": 11,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 45,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 80,
      "total": 330
     },
     {
@@ -2922,7 +2922,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 23.1,
-   "owned_globally_pct": 28.0,
+   "owned_globally_pct": 28.1,
    "i_own": false
   },
   {
@@ -3219,7 +3219,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 5.0,
+   "owned_globally_pct": 4.9,
    "i_own": true
   },
   {
