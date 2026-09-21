@@ -6,7 +6,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Knee injury - 75% chance of playing (75% chance).",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-21T13:18:30Z",
+ "generated_utc": "2026-09-21T13:40:56Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -109,7 +109,7 @@
    "team": "HUL",
    "pos": "GK",
    "price": 4.6,
-   "owned_by": 12.1,
+   "owned_by": 12.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -569,16 +569,16 @@
     },
     {
      "rank": 8,
-     "team": "Maddcatts",
-     "player": "Craig Cattrall",
-     "gw": 42,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 65,
      "total": 336
     },
     {
      "rank": 8,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 65,
+     "team": "Maddcatts",
+     "player": "Craig Cattrall",
+     "gw": 42,
      "total": 336
     },
     {
@@ -3075,7 +3075,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 11.5,
-   "owned_globally_pct": 12.1,
+   "owned_globally_pct": 12.2,
    "i_own": true
   },
   {
