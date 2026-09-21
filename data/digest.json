@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-21T06:26:02Z",
+ "generated_utc": "2026-09-21T06:48:27Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -280,7 +280,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 66.7,
+   "owned_by": 66.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -415,7 +415,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 66.7,
+   "owned_by": 66.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -590,16 +590,16 @@
     },
     {
      "rank": 11,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 45,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 80,
      "total": 330
     },
     {
      "rank": 11,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 80,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 45,
      "total": 330
     },
     {
@@ -1703,7 +1703,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 9,
-   "owned_by": 9.8
+   "owned_by": 9.9
   },
   {
    "name": "Thomas",
@@ -1735,7 +1735,7 @@
    "pos": "MID",
    "price": 5.0,
    "points": 8,
-   "owned_by": 4.1
+   "owned_by": 4.0
   },
   {
    "name": "Richards",
@@ -2769,7 +2769,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 66.7,
+   "owned_globally_pct": 66.6,
    "i_own": true
   },
   {
