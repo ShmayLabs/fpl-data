@@ -6,7 +6,7 @@
   "ZERO MINUTES: Dubravka (TOT) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-21T05:18:40Z",
+ "generated_utc": "2026-09-21T05:41:05Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": false,
@@ -128,7 +128,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.1,
-   "owned_by": 15.2,
+   "owned_by": 15.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -590,16 +590,16 @@
     },
     {
      "rank": 11,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 45,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 80,
      "total": 330
     },
     {
      "rank": 11,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 80,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 45,
      "total": 330
     },
     {
@@ -1583,7 +1583,7 @@
    "pos": "MID",
    "price": 8.4,
    "points": 17,
-   "owned_by": 15.0
+   "owned_by": 15.1
   },
   {
    "name": "Brobbey",
@@ -1615,7 +1615,7 @@
    "pos": "MID",
    "price": 5.8,
    "points": 14,
-   "owned_by": 26.1
+   "owned_by": 26.2
   },
   {
    "name": "Tarkowski",
@@ -1623,7 +1623,7 @@
    "pos": "DEF",
    "price": 6.1,
    "points": 14,
-   "owned_by": 15.2
+   "owned_by": 15.3
   },
   {
    "name": "Manzambi",
@@ -2976,7 +2976,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 26.1,
+   "owned_globally_pct": 26.2,
    "i_own": false
   },
   {
@@ -2994,7 +2994,7 @@
    "pos": "MID",
    "price": 8.4,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 15.0,
+   "owned_globally_pct": 15.1,
    "i_own": false
   },
   {
@@ -3210,7 +3210,7 @@
    "pos": "DEF",
    "price": 6.1,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 15.2,
+   "owned_globally_pct": 15.3,
    "i_own": true
   },
   {
