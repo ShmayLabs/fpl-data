@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-22T10:20:10Z",
+ "generated_utc": "2026-09-22T10:42:40Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -599,16 +599,16 @@
     },
     {
      "rank": 12,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 45,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 80,
      "total": 330
     },
     {
      "rank": 12,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 80,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 45,
      "total": 330
     },
     {
@@ -1617,7 +1617,7 @@
    "pos": "MID",
    "price": 5.8,
    "points": 14,
-   "owned_by": 27.3
+   "owned_by": 27.4
   },
   {
    "name": "Tarkowski",
@@ -1705,7 +1705,7 @@
    "pos": "MID",
    "price": 6.2,
    "points": 9,
-   "owned_by": 10.5
+   "owned_by": 10.6
   },
   {
    "name": "Thomas",
@@ -2978,7 +2978,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 27.3,
+   "owned_globally_pct": 27.4,
    "i_own": false
   },
   {
