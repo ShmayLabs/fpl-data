@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-24T08:40:13Z",
+ "generated_utc": "2026-09-24T09:02:43Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -263,7 +263,7 @@
    "team": "BRE",
    "pos": "MID",
    "price": 4.8,
-   "owned_by": 0.6,
+   "owned_by": 0.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -585,30 +585,30 @@
     },
     {
      "rank": 10,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 38,
-     "total": 331
-    },
-    {
-     "rank": 10,
      "team": "Ctrl Alt De Ligt",
      "player": "Ian Cox",
      "gw": 48,
      "total": 331
     },
     {
-     "rank": 12,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 80,
-     "total": 330
+     "rank": 10,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 38,
+     "total": 331
     },
     {
      "rank": 12,
      "team": "Enter Team Name",
      "player": "Andy Grundy",
      "gw": 45,
+     "total": 330
+    },
+    {
+     "rank": 12,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 80,
      "total": 330
     },
     {
@@ -1585,7 +1585,7 @@
    "pos": "MID",
    "price": 8.4,
    "points": 17,
-   "owned_by": 15.5
+   "owned_by": 15.6
   },
   {
    "name": "Brobbey",
@@ -2987,7 +2987,7 @@
    "pos": "MID",
    "price": 8.4,
    "owned_in_league_pct": 19.2,
-   "owned_globally_pct": 15.5,
+   "owned_globally_pct": 15.6,
    "i_own": false
   },
   {
@@ -3365,7 +3365,7 @@
    "pos": "MID",
    "price": 4.8,
    "owned_in_league_pct": 3.8,
-   "owned_globally_pct": 0.6,
+   "owned_globally_pct": 0.7,
    "i_own": true
   },
   {
