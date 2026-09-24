@@ -1,9 +1,9 @@
 {
-  "last_successful_pull_utc": "2026-09-24T16:27:01Z",
+  "last_successful_pull_utc": "2026-09-24T16:49:29Z",
   "data_is_stale": false,
-  "pass_started_utc": "2026-09-24T16:24:36Z",
-  "pass_finished_utc": "2026-09-24T16:27:01Z",
-  "pass_number": 11,
+  "pass_started_utc": "2026-09-24T16:47:03Z",
+  "pass_finished_utc": "2026-09-24T16:49:29Z",
+  "pass_number": 12,
   "gameweek_seen": "6",
   "files_ok": [
     "bootstrap.json",
