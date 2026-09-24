@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-24T22:58:21Z",
+ "generated_utc": "2026-09-24T23:20:49Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -110,7 +110,7 @@
    "name": "Tzolakis",
    "team": "HUL",
    "pos": "GK",
-   "price": 4.6,
+   "price": 4.7,
    "owned_by": 12.7,
    "is_captain": false,
    "is_vice": false,
@@ -585,16 +585,16 @@
     },
     {
      "rank": 10,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 48,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 38,
      "total": 331
     },
     {
      "rank": 10,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 38,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 48,
      "total": 331
     },
     {
@@ -3075,7 +3075,7 @@
    "name": "Tzolakis",
    "team": "HUL",
    "pos": "GK",
-   "price": 4.6,
+   "price": 4.7,
    "owned_in_league_pct": 11.5,
    "owned_globally_pct": 12.7,
    "i_own": true
