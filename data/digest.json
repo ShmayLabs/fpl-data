@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-25T10:11:42Z",
+ "generated_utc": "2026-09-25T12:44:00Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -358,7 +358,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 65.5,
+   "owned_by": 65.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -417,7 +417,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 65.5,
+   "owned_by": 65.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -571,30 +571,30 @@
     },
     {
      "rank": 8,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 65,
-     "total": 336
-    },
-    {
-     "rank": 8,
      "team": "Maddcatts",
      "player": "Craig Cattrall",
      "gw": 42,
      "total": 336
     },
     {
-     "rank": 10,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 38,
-     "total": 331
+     "rank": 8,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 65,
+     "total": 336
     },
     {
      "rank": 10,
      "team": "Ctrl Alt De Ligt",
      "player": "Ian Cox",
      "gw": 48,
+     "total": 331
+    },
+    {
+     "rank": 10,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 38,
      "total": 331
     },
     {
@@ -822,7 +822,7 @@
     "gw": 6,
     "opp": "LEE",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    },
    {
     "gw": 7,
@@ -884,7 +884,7 @@
     "gw": 10,
     "opp": "TOT",
     "ha": "H",
-    "difficulty": 3
+    "difficulty": 2
    },
    {
     "gw": 11,
@@ -928,7 +928,7 @@
     "gw": 11,
     "opp": "SUN",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    }
   ],
   "BRE": [
@@ -936,7 +936,7 @@
     "gw": 6,
     "opp": "AVL",
     "ha": "A",
-    "difficulty": 4
+    "difficulty": 3
    },
    {
     "gw": 7,
@@ -960,7 +960,7 @@
     "gw": 10,
     "opp": "BHA",
     "ha": "A",
-    "difficulty": 3
+    "difficulty": 4
    },
    {
     "gw": 11,
@@ -986,7 +986,7 @@
     "gw": 8,
     "opp": "TOT",
     "ha": "H",
-    "difficulty": 3
+    "difficulty": 2
    },
    {
     "gw": 9,
@@ -1004,7 +1004,7 @@
     "gw": 11,
     "opp": "LEE",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    }
   ],
   "BOU": [
@@ -1018,7 +1018,7 @@
     "gw": 7,
     "opp": "SUN",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    },
    {
     "gw": 8,
@@ -1030,7 +1030,7 @@
     "gw": 9,
     "opp": "LEE",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    },
    {
     "gw": 10,
@@ -1106,13 +1106,13 @@
     "gw": 9,
     "opp": "AVL",
     "ha": "A",
-    "difficulty": 4
+    "difficulty": 3
    },
    {
     "gw": 10,
     "opp": "NEW",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    },
    {
     "gw": 11,
@@ -1126,7 +1126,7 @@
     "gw": 6,
     "opp": "BHA",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    },
    {
     "gw": 7,
@@ -1138,7 +1138,7 @@
     "gw": 8,
     "opp": "LEE",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    },
    {
     "gw": 9,
@@ -1156,7 +1156,7 @@
     "gw": 11,
     "opp": "AVL",
     "ha": "A",
-    "difficulty": 4
+    "difficulty": 3
    }
   ],
   "BHA": [
@@ -1170,7 +1170,7 @@
     "gw": 7,
     "opp": "CRY",
     "ha": "H",
-    "difficulty": 3
+    "difficulty": 2
    },
    {
     "gw": 8,
@@ -1202,7 +1202,7 @@
     "gw": 6,
     "opp": "TOT",
     "ha": "H",
-    "difficulty": 3
+    "difficulty": 2
    },
    {
     "gw": 7,
@@ -1258,7 +1258,7 @@
     "gw": 9,
     "opp": "CRY",
     "ha": "H",
-    "difficulty": 3
+    "difficulty": 2
    },
    {
     "gw": 10,
@@ -1284,13 +1284,13 @@
     "gw": 7,
     "opp": "BHA",
     "ha": "A",
-    "difficulty": 3
+    "difficulty": 4
    },
    {
     "gw": 8,
     "opp": "NEW",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    },
    {
     "gw": 9,
@@ -1384,7 +1384,7 @@
     "gw": 11,
     "opp": "BHA",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    }
   ],
   "EVE": [
@@ -1442,7 +1442,7 @@
     "gw": 8,
     "opp": "BHA",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    },
    {
     "gw": 9,
@@ -1480,13 +1480,13 @@
     "gw": 8,
     "opp": "AVL",
     "ha": "A",
-    "difficulty": 4
+    "difficulty": 3
    },
    {
     "gw": 9,
     "opp": "BHA",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    },
    {
     "gw": 10,
@@ -1506,7 +1506,7 @@
     "gw": 6,
     "opp": "NEW",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    },
    {
     "gw": 7,
@@ -1524,7 +1524,7 @@
     "gw": 9,
     "opp": "SUN",
     "ha": "H",
-    "difficulty": 2
+    "difficulty": 3
    },
    {
     "gw": 10,
@@ -1536,7 +1536,7 @@
     "gw": 11,
     "opp": "CRY",
     "ha": "H",
-    "difficulty": 3
+    "difficulty": 2
    }
   ],
   "NEW": [
@@ -2771,7 +2771,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 80.8,
-   "owned_globally_pct": 65.5,
+   "owned_globally_pct": 65.4,
    "i_own": true
   },
   {
@@ -2888,7 +2888,7 @@
    "pos": "DEF",
    "price": 4.9,
    "owned_in_league_pct": 26.9,
-   "owned_globally_pct": 27.5,
+   "owned_globally_pct": 27.6,
    "i_own": false
   },
   {
@@ -3338,7 +3338,7 @@
    "pos": "MID",
    "price": 6.3,
    "owned_in_league_pct": 7.7,
-   "owned_globally_pct": 12.3,
+   "owned_globally_pct": 12.2,
    "i_own": false
   },
   {
