@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-25T03:27:39Z",
+ "generated_utc": "2026-09-25T03:50:06Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -571,16 +571,16 @@
     },
     {
      "rank": 8,
-     "team": "Maddcatts",
-     "player": "Craig Cattrall",
-     "gw": 42,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 65,
      "total": 336
     },
     {
      "rank": 8,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 65,
+     "team": "Maddcatts",
+     "player": "Craig Cattrall",
+     "gw": 42,
      "total": 336
     },
     {
