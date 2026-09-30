@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-09-30T22:59:07Z",
+ "generated_utc": "2026-09-30T23:21:26Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -129,7 +129,7 @@
    "name": "Tarkowski",
    "team": "EVE",
    "pos": "DEF",
-   "price": 6.1,
+   "price": 6.2,
    "owned_by": 16.5,
    "is_captain": false,
    "is_vice": false,
@@ -585,30 +585,30 @@
     },
     {
      "rank": 10,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 38,
-     "total": 331
-    },
-    {
-     "rank": 10,
      "team": "Ctrl Alt De Ligt",
      "player": "Ian Cox",
      "gw": 48,
      "total": 331
     },
     {
-     "rank": 12,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 45,
-     "total": 330
+     "rank": 10,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 38,
+     "total": 331
     },
     {
      "rank": 12,
      "team": "Bribery Finary",
      "player": "Andy Livingstone",
      "gw": 80,
+     "total": 330
+    },
+    {
+     "rank": 12,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 45,
      "total": 330
     },
     {
@@ -1616,7 +1616,7 @@
    "name": "Tarkowski",
    "team": "EVE",
    "pos": "DEF",
-   "price": 6.1,
+   "price": 6.2,
    "points": 14,
    "owned_by": 16.5
   },
@@ -1736,7 +1736,7 @@
    "name": "Richards",
    "team": "CRY",
    "pos": "DEF",
-   "price": 5.0,
+   "price": 4.9,
    "points": 8,
    "owned_by": 0.6
   },
@@ -3156,7 +3156,7 @@
    "name": "Tarkowski",
    "team": "EVE",
    "pos": "DEF",
-   "price": 6.1,
+   "price": 6.2,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 16.5,
    "i_own": true
