@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-10-03T11:52:40Z",
+ "generated_utc": "2026-10-03T12:15:03Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -1610,7 +1610,7 @@
    "pos": "MID",
    "price": 5.8,
    "points": 14,
-   "owned_by": 29.1
+   "owned_by": 29.2
   },
   {
    "name": "Tarkowski",
@@ -2906,7 +2906,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 29.1,
+   "owned_globally_pct": 29.2,
    "i_own": false
   },
   {
