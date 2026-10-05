@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-10-05T11:26:52Z",
+ "generated_utc": "2026-10-05T11:49:12Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -168,7 +168,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.3,
-   "owned_by": 17.4,
+   "owned_by": 17.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -177,7 +177,7 @@
    "news": "",
    "gw_points": 13,
    "gw_minutes": 90,
-   "form": "5.7",
+   "form": "6.5",
    "total_points": 31,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -348,7 +348,7 @@
    "news": "Unspecified injury - Unknown return date",
    "gw_points": 0,
    "gw_minutes": 0,
-   "form": "0.3",
+   "form": "0.0",
    "total_points": 18,
    "fixture_state": "played",
    "zero_minutes_means": "match finished and he played no part"
@@ -407,7 +407,7 @@
    "news": "Unspecified injury - Unknown return date",
    "gw_points": 0,
    "gw_minutes": 0,
-   "form": "0.3",
+   "form": "0.0",
    "total_points": 18,
    "fixture_state": "played",
    "zero_minutes_means": "match finished and he played no part"
@@ -571,24 +571,17 @@
     },
     {
      "rank": 8,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 65,
-     "total": 336
-    },
-    {
-     "rank": 8,
      "team": "Maddcatts",
      "player": "Craig Cattrall",
      "gw": 42,
      "total": 336
     },
     {
-     "rank": 10,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 48,
-     "total": 331
+     "rank": 8,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 65,
+     "total": 336
     },
     {
      "rank": 10,
@@ -598,17 +591,24 @@
      "total": 331
     },
     {
-     "rank": 12,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 80,
-     "total": 330
+     "rank": 10,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 48,
+     "total": 331
     },
     {
      "rank": 12,
      "team": "Enter Team Name",
      "player": "Andy Grundy",
      "gw": 45,
+     "total": 330
+    },
+    {
+     "rank": 12,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 80,
      "total": 330
     },
     {
@@ -1634,7 +1634,7 @@
    "pos": "DEF",
    "price": 5.3,
    "points": 13,
-   "owned_by": 17.4
+   "owned_by": 17.5
   },
   {
    "name": "Buend\u00eda",
@@ -2861,7 +2861,7 @@
    "pos": "DEF",
    "price": 5.3,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 17.4,
+   "owned_globally_pct": 17.5,
    "i_own": true
   },
   {
