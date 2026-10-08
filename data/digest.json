@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-10-08T19:21:22Z",
+ "generated_utc": "2026-10-08T19:43:47Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -168,7 +168,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.3,
-   "owned_by": 18.1,
+   "owned_by": 18.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -358,7 +358,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 64.2,
+   "owned_by": 64.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -417,7 +417,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 64.2,
+   "owned_by": 64.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -571,16 +571,16 @@
     },
     {
      "rank": 8,
-     "team": "Maddcatts",
-     "player": "Craig Cattrall",
-     "gw": 42,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 65,
      "total": 336
     },
     {
      "rank": 8,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 65,
+     "team": "Maddcatts",
+     "player": "Craig Cattrall",
+     "gw": 42,
      "total": 336
     },
     {
@@ -599,16 +599,16 @@
     },
     {
      "rank": 12,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 80,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 45,
      "total": 330
     },
     {
      "rank": 12,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 45,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 80,
      "total": 330
     },
     {
@@ -1634,7 +1634,7 @@
    "pos": "DEF",
    "price": 5.3,
    "points": 13,
-   "owned_by": 18.1
+   "owned_by": 18.2
   },
   {
    "name": "Buend\u00eda",
@@ -1698,7 +1698,7 @@
    "pos": "MID",
    "price": 6.2,
    "points": 9,
-   "owned_by": 12.7
+   "owned_by": 12.8
   },
   {
    "name": "Thomas",
@@ -2726,7 +2726,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 80.0,
-   "owned_globally_pct": 64.2,
+   "owned_globally_pct": 64.1,
    "i_own": true
   },
   {
@@ -2771,7 +2771,7 @@
    "pos": "MID",
    "price": 9.7,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 24.9,
+   "owned_globally_pct": 24.8,
    "i_own": false
   },
   {
@@ -2861,7 +2861,7 @@
    "pos": "DEF",
    "price": 5.3,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 18.1,
+   "owned_globally_pct": 18.2,
    "i_own": true
   },
   {
@@ -3374,7 +3374,7 @@
    "pos": "FWD",
    "price": 6.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 1.6,
+   "owned_globally_pct": 1.7,
    "i_own": false
   },
   {
@@ -3536,7 +3536,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.8,
+   "owned_globally_pct": 4.7,
    "i_own": false
   },
   {
