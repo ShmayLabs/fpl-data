@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-10-08T20:28:37Z",
+ "generated_utc": "2026-10-08T21:59:49Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -130,7 +130,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.2,
-   "owned_by": 17.2,
+   "owned_by": 17.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -585,16 +585,16 @@
     },
     {
      "rank": 10,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 38,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 48,
      "total": 331
     },
     {
      "rank": 10,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 48,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 38,
      "total": 331
     },
     {
@@ -1578,7 +1578,7 @@
    "pos": "MID",
    "price": 8.4,
    "points": 17,
-   "owned_by": 14.8
+   "owned_by": 14.7
   },
   {
    "name": "Brobbey",
@@ -1610,7 +1610,7 @@
    "pos": "MID",
    "price": 5.9,
    "points": 14,
-   "owned_by": 30.8
+   "owned_by": 30.9
   },
   {
    "name": "Tarkowski",
@@ -1618,7 +1618,7 @@
    "pos": "DEF",
    "price": 6.2,
    "points": 14,
-   "owned_by": 17.2
+   "owned_by": 17.3
   },
   {
    "name": "Manzambi",
@@ -1666,7 +1666,7 @@
    "pos": "FWD",
    "price": 5.6,
    "points": 10,
-   "owned_by": 5.3
+   "owned_by": 5.4
   },
   {
    "name": "Trafford",
@@ -2906,7 +2906,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 30.8,
+   "owned_globally_pct": 30.9,
    "i_own": false
   },
   {
@@ -2915,7 +2915,7 @@
    "pos": "MID",
    "price": 8.4,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 14.8,
+   "owned_globally_pct": 14.7,
    "i_own": false
   },
   {
@@ -3023,7 +3023,7 @@
    "pos": "DEF",
    "price": 4.8,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 8.5,
+   "owned_globally_pct": 8.4,
    "i_own": false
   },
   {
@@ -3158,7 +3158,7 @@
    "pos": "DEF",
    "price": 6.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 17.2,
+   "owned_globally_pct": 17.3,
    "i_own": true
   },
   {
@@ -3203,7 +3203,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 14.7,
+   "owned_globally_pct": 14.8,
    "i_own": false
   },
   {
@@ -3518,7 +3518,7 @@
    "pos": "FWD",
    "price": 5.6,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.3,
+   "owned_globally_pct": 5.4,
    "i_own": false
   },
   {
