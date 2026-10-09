@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-10-09T11:56:38Z",
+ "generated_utc": "2026-10-09T12:19:00Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -130,7 +130,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.2,
-   "owned_by": 17.5,
+   "owned_by": 17.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -168,7 +168,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.3,
-   "owned_by": 18.6,
+   "owned_by": 18.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -301,7 +301,7 @@
    "team": "LEE",
    "pos": "FWD",
    "price": 6.0,
-   "owned_by": 24.3,
+   "owned_by": 24.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -358,7 +358,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 63.7,
+   "owned_by": 63.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -417,7 +417,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 63.7,
+   "owned_by": 63.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -585,16 +585,16 @@
     },
     {
      "rank": 10,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 48,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 38,
      "total": 331
     },
     {
      "rank": 10,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 38,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 48,
      "total": 331
     },
     {
@@ -1618,7 +1618,7 @@
    "pos": "DEF",
    "price": 6.2,
    "points": 14,
-   "owned_by": 17.5
+   "owned_by": 17.6
   },
   {
    "name": "Manzambi",
@@ -1634,7 +1634,7 @@
    "pos": "DEF",
    "price": 5.3,
    "points": 13,
-   "owned_by": 18.6
+   "owned_by": 18.7
   },
   {
    "name": "Buend\u00eda",
@@ -1698,7 +1698,7 @@
    "pos": "MID",
    "price": 6.2,
    "points": 9,
-   "owned_by": 13.3
+   "owned_by": 13.4
   },
   {
    "name": "Thomas",
@@ -1762,7 +1762,7 @@
    "pos": "DEF",
    "price": 5.5,
    "points": 8,
-   "owned_by": 2.5
+   "owned_by": 2.6
   },
   {
    "name": "Justin",
@@ -2726,7 +2726,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 80.0,
-   "owned_globally_pct": 63.7,
+   "owned_globally_pct": 63.6,
    "i_own": true
   },
   {
@@ -2771,7 +2771,7 @@
    "pos": "MID",
    "price": 9.7,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 24.5,
+   "owned_globally_pct": 24.4,
    "i_own": false
   },
   {
@@ -2798,7 +2798,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 24.3,
+   "owned_globally_pct": 24.2,
    "i_own": true
   },
   {
@@ -2861,7 +2861,7 @@
    "pos": "DEF",
    "price": 5.3,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 18.6,
+   "owned_globally_pct": 18.7,
    "i_own": true
   },
   {
@@ -2897,7 +2897,7 @@
    "pos": "FWD",
    "price": 9.1,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 21.3,
+   "owned_globally_pct": 21.2,
    "i_own": false
   },
   {
@@ -3158,7 +3158,7 @@
    "pos": "DEF",
    "price": 6.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 17.5,
+   "owned_globally_pct": 17.6,
    "i_own": true
   },
   {
