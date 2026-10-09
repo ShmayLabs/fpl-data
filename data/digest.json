@@ -9,7 +9,7 @@
   "ZERO MINUTES: Jo\u00e3o Pedro (CHE) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-10-09T18:42:47Z",
+ "generated_utc": "2026-10-09T19:05:11Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -169,7 +169,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.3,
-   "owned_by": 19.3,
+   "owned_by": 19.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -586,16 +586,16 @@
     },
     {
      "rank": 10,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 38,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 48,
      "total": 331
     },
     {
      "rank": 10,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 48,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 38,
      "total": 331
     },
     {
@@ -1635,7 +1635,7 @@
    "pos": "DEF",
    "price": 5.3,
    "points": 13,
-   "owned_by": 19.3
+   "owned_by": 19.4
   },
   {
    "name": "Buend\u00eda",
@@ -1683,7 +1683,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 10,
-   "owned_by": 5.9
+   "owned_by": 6.0
   },
   {
    "name": "Willock",
@@ -1715,7 +1715,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 9,
-   "owned_by": 7.0
+   "owned_by": 7.1
   },
   {
    "name": "Pinnock",
@@ -2862,7 +2862,7 @@
    "pos": "DEF",
    "price": 5.3,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 19.3,
+   "owned_globally_pct": 19.4,
    "i_own": true
   },
   {
@@ -2925,7 +2925,7 @@
    "pos": "FWD",
    "price": 6.2,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 19.0,
+   "owned_globally_pct": 19.1,
    "i_own": false
   },
   {
@@ -2988,7 +2988,7 @@
    "pos": "DEF",
    "price": 8.0,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 22.7,
+   "owned_globally_pct": 22.6,
    "i_own": false
   },
   {
@@ -3042,7 +3042,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 7.0,
+   "owned_globally_pct": 7.1,
    "i_own": false
   },
   {
@@ -3528,7 +3528,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.0,
+   "owned_globally_pct": 4.1,
    "i_own": false
   },
   {
@@ -3681,7 +3681,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.9,
+   "owned_globally_pct": 6.0,
    "i_own": false
   },
   {
