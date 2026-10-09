@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-10-09T10:27:05Z",
+ "generated_utc": "2026-10-09T10:49:29Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -168,7 +168,7 @@
    "team": "NEW",
    "pos": "DEF",
    "price": 5.3,
-   "owned_by": 18.5,
+   "owned_by": 18.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -358,7 +358,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 63.8,
+   "owned_by": 63.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -417,7 +417,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 63.8,
+   "owned_by": 63.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -585,16 +585,16 @@
     },
     {
      "rank": 10,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 48,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 38,
      "total": 331
     },
     {
      "rank": 10,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 38,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 48,
      "total": 331
     },
     {
@@ -1634,7 +1634,7 @@
    "pos": "DEF",
    "price": 5.3,
    "points": 13,
-   "owned_by": 18.5
+   "owned_by": 18.6
   },
   {
    "name": "Buend\u00eda",
@@ -2726,7 +2726,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 80.0,
-   "owned_globally_pct": 63.8,
+   "owned_globally_pct": 63.7,
    "i_own": true
   },
   {
@@ -2861,7 +2861,7 @@
    "pos": "DEF",
    "price": 5.3,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 18.5,
+   "owned_globally_pct": 18.6,
    "i_own": true
   },
   {
@@ -3050,7 +3050,7 @@
    "pos": "GK",
    "price": 6.1,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 42.7,
+   "owned_globally_pct": 42.8,
    "i_own": false
   },
   {
@@ -3320,7 +3320,7 @@
    "pos": "FWD",
    "price": 5.6,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.7,
+   "owned_globally_pct": 2.6,
    "i_own": false
   },
   {
@@ -3437,7 +3437,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 7.3,
+   "owned_globally_pct": 7.2,
    "i_own": false
   },
   {
