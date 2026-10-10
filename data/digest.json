@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Haaland (MCI) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Belloumi (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-10T16:43:50Z",
+ "generated_utc": "2026-10-10T17:06:12Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -246,7 +246,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 10,
+   "gw_minutes": 31,
    "form": "1.7",
    "total_points": 26,
    "fixture_state": "in_progress",
@@ -314,7 +314,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 66.8,
+   "owned_by": 66.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -415,8 +415,8 @@
      "rank": 1,
      "team": "I\u2019m a Baleba",
      "player": "Tom Healey",
-     "gw": 56,
-     "total": 416
+     "gw": 59,
+     "total": 419
     },
     {
      "rank": 2,
@@ -512,8 +512,8 @@
      "rank": 3,
      "team": "Man (Zambi) On",
      "player": "Liam Brockhurst",
-     "gw": 47,
-     "total": 415
+     "gw": 50,
+     "total": 418
     },
     {
      "rank": 4,
@@ -705,16 +705,16 @@
     },
     {
      "rank": 5,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 46,
-     "total": 374
+     "team": "Norris FC",
+     "player": "Rob Norris",
+     "gw": 54,
+     "total": 377
     },
     {
      "rank": 6,
-     "team": "Norris FC",
-     "player": "Rob Norris",
-     "gw": 51,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 46,
      "total": 374
     },
     {
@@ -749,8 +749,8 @@
      "rank": 11,
      "team": "Prep Big B",
      "player": "Darren Heath",
-     "gw": 37,
-     "total": 333
+     "gw": 40,
+     "total": 336
     },
     {
      "rank": 12,
@@ -1568,7 +1568,7 @@
    "pos": "FWD",
    "price": 7.7,
    "points": 12,
-   "owned_by": 66.8
+   "owned_by": 66.9
   },
   {
    "name": "O'Shea",
@@ -1753,7 +1753,7 @@
    "team": "I\u2019m a Baleba",
    "manager": "Tom Healey",
    "rank": 1,
-   "total": 416,
+   "total": 419,
    "chip": null,
    "squad": [
     "Lammens",
@@ -1824,7 +1824,7 @@
   {
    "team": "Claude Mak\u00e9l\u00e9l\u00e9",
    "manager": "Aidan Whitehouse",
-   "rank": 5,
+   "rank": 6,
    "total": 374,
    "chip": "wildcard",
    "squad": [
@@ -2309,8 +2309,8 @@
   {
    "team": "Norris FC",
    "manager": "Rob Norris",
-   "rank": 6,
-   "total": 374,
+   "rank": 5,
+   "total": 377,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2494,7 +2494,7 @@
    "team": "Prep Big B",
    "manager": "Darren Heath",
    "rank": 11,
-   "total": 333,
+   "total": 336,
    "chip": "bboost",
    "squad": [
     "Lammens",
@@ -2698,7 +2698,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 84.0,
-   "owned_globally_pct": 66.8,
+   "owned_globally_pct": 66.9,
    "i_own": true
   },
   {
@@ -3643,7 +3643,7 @@
    "pos": "DEF",
    "price": 5.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 1.6,
+   "owned_globally_pct": 1.5,
    "i_own": false
   },
   {
