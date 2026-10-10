@@ -9,7 +9,7 @@
   "ZERO MINUTES: Jo\u00e3o Pedro (CHE) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-10-10T05:01:50Z",
+ "generated_utc": "2026-10-10T05:24:08Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -226,7 +226,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 11.9,
-   "owned_by": 37.8,
+   "owned_by": 37.7,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -359,7 +359,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 64.7,
+   "owned_by": 64.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -572,16 +572,16 @@
     },
     {
      "rank": 8,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 65,
+     "team": "Maddcatts",
+     "player": "Craig Cattrall",
+     "gw": 42,
      "total": 336
     },
     {
      "rank": 8,
-     "team": "Maddcatts",
-     "player": "Craig Cattrall",
-     "gw": 42,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 65,
      "total": 336
     },
     {
@@ -1611,7 +1611,7 @@
    "pos": "MID",
    "price": 5.9,
    "points": 14,
-   "owned_by": 34.5
+   "owned_by": 34.6
   },
   {
    "name": "Tarkowski",
@@ -1699,7 +1699,7 @@
    "pos": "MID",
    "price": 6.2,
    "points": 9,
-   "owned_by": 15.1
+   "owned_by": 15.2
   },
   {
    "name": "Thomas",
@@ -2727,7 +2727,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 80.0,
-   "owned_globally_pct": 64.7,
+   "owned_globally_pct": 64.8,
    "i_own": true
   },
   {
@@ -2745,7 +2745,7 @@
    "pos": "MID",
    "price": 11.9,
    "owned_in_league_pct": 52.0,
-   "owned_globally_pct": 37.8,
+   "owned_globally_pct": 37.7,
    "i_own": true
   },
   {
@@ -2781,7 +2781,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 17.7,
+   "owned_globally_pct": 17.6,
    "i_own": false
   },
   {
@@ -2907,7 +2907,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 34.5,
+   "owned_globally_pct": 34.6,
    "i_own": false
   },
   {
@@ -2925,7 +2925,7 @@
    "pos": "FWD",
    "price": 6.2,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 19.1,
+   "owned_globally_pct": 19.2,
    "i_own": false
   },
   {
@@ -3024,7 +3024,7 @@
    "pos": "DEF",
    "price": 4.8,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 8.1,
+   "owned_globally_pct": 8.0,
    "i_own": false
   },
   {
@@ -3051,7 +3051,7 @@
    "pos": "GK",
    "price": 6.1,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 43.4,
+   "owned_globally_pct": 43.5,
    "i_own": false
   },
   {
@@ -3249,7 +3249,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.5,
+   "owned_globally_pct": 4.4,
    "i_own": false
   },
   {
@@ -3627,7 +3627,7 @@
    "pos": "MID",
    "price": 6.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 9.0,
+   "owned_globally_pct": 8.9,
    "i_own": false
   },
   {
