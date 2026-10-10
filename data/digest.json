@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Haaland (MCI) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Belloumi (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-10T18:35:41Z",
+ "generated_utc": "2026-10-10T18:58:03Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -249,7 +249,7 @@
    "gw_minutes": 90,
    "form": "4.0",
    "total_points": 33,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -314,7 +314,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 67.0,
+   "owned_by": 67.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1568,7 +1568,7 @@
    "pos": "FWD",
    "price": 7.7,
    "points": 12,
-   "owned_by": 67.0
+   "owned_by": 67.1
   },
   {
    "name": "O'Shea",
@@ -1608,7 +1608,7 @@
    "pos": "MID",
    "price": 7.8,
    "points": 9,
-   "owned_by": 43.0
+   "owned_by": 43.1
   },
   {
    "name": "McGinn",
@@ -2698,7 +2698,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 84.0,
-   "owned_globally_pct": 67.0,
+   "owned_globally_pct": 67.1,
    "i_own": true
   },
   {
@@ -2716,7 +2716,7 @@
    "pos": "MID",
    "price": 11.9,
    "owned_in_league_pct": 60.0,
-   "owned_globally_pct": 37.1,
+   "owned_globally_pct": 37.0,
    "i_own": false
   },
   {
@@ -2725,7 +2725,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 43.0,
+   "owned_globally_pct": 43.1,
    "i_own": false
   },
   {
@@ -2986,7 +2986,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 7.7,
+   "owned_globally_pct": 7.6,
    "i_own": false
   },
   {
@@ -3490,7 +3490,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.6,
+   "owned_globally_pct": 4.5,
    "i_own": false
   },
   {
