@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Haaland (MCI) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Belloumi (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-10T21:29:17Z",
+ "generated_utc": "2026-10-10T21:51:36Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -333,7 +333,7 @@
    "team": "BHA",
    "pos": "GK",
    "price": 4.5,
-   "owned_by": 21.3,
+   "owned_by": 21.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -594,16 +594,16 @@
     },
     {
      "rank": 15,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 43,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 37,
      "total": 367
     },
     {
      "rank": 15,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 37,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 43,
      "total": 367
     },
     {
@@ -1624,7 +1624,7 @@
    "pos": "GK",
    "price": 4.5,
    "points": 9,
-   "owned_by": 21.3
+   "owned_by": 21.4
   },
   {
    "name": "F.Kad\u0131o\u011flu",
@@ -2788,7 +2788,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 11.9,
+   "owned_globally_pct": 11.8,
    "i_own": false
   },
   {
@@ -2824,7 +2824,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 21.3,
+   "owned_globally_pct": 21.4,
    "i_own": true
   },
   {
