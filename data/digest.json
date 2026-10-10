@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Haaland (MCI) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Belloumi (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-10T17:28:34Z",
+ "generated_utc": "2026-10-10T17:50:57Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -245,8 +245,8 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 1,
-   "gw_minutes": 45,
+   "gw_points": 3,
+   "gw_minutes": 60,
    "form": "1.7",
    "total_points": 26,
    "fixture_state": "in_progress",
@@ -415,8 +415,8 @@
      "rank": 1,
      "team": "I\u2019m a Baleba",
      "player": "Tom Healey",
-     "gw": 59,
-     "total": 419
+     "gw": 58,
+     "total": 418
     },
     {
      "rank": 2,
@@ -512,8 +512,8 @@
      "rank": 3,
      "team": "Man (Zambi) On",
      "player": "Liam Brockhurst",
-     "gw": 50,
-     "total": 418
+     "gw": 48,
+     "total": 416
     },
     {
      "rank": 4,
@@ -622,17 +622,17 @@
     },
     {
      "rank": 19,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 37,
+     "total": 361
+    },
+    {
+     "rank": 20,
      "team": "Static FC",
      "player": "Nathaniel Josephs",
      "gw": 61,
      "total": 360
-    },
-    {
-     "rank": 20,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 34,
-     "total": 358
     },
     {
      "rank": 21,
@@ -650,16 +650,16 @@
     },
     {
      "rank": 23,
-     "team": "Matt's Team",
-     "player": "Matt Lowe",
-     "gw": 40,
+     "team": "WheelshavfallenoffXI",
+     "player": "simon g",
+     "gw": 37,
      "total": 351
     },
     {
      "rank": 23,
-     "team": "WheelshavfallenoffXI",
-     "player": "simon g",
-     "gw": 37,
+     "team": "Matt's Team",
+     "player": "Matt Lowe",
+     "gw": 40,
      "total": 351
     },
     {
@@ -707,8 +707,8 @@
      "rank": 5,
      "team": "Norris FC",
      "player": "Rob Norris",
-     "gw": 54,
-     "total": 377
+     "gw": 52,
+     "total": 375
     },
     {
      "rank": 6,
@@ -749,8 +749,8 @@
      "rank": 11,
      "team": "Prep Big B",
      "player": "Darren Heath",
-     "gw": 40,
-     "total": 336
+     "gw": 38,
+     "total": 334
     },
     {
      "rank": 12,
@@ -770,8 +770,8 @@
      "rank": 14,
      "team": "King Scarles",
      "player": "Tom Horsman",
-     "gw": 27,
-     "total": 302
+     "gw": 30,
+     "total": 305
     },
     {
      "rank": 15,
@@ -1635,12 +1635,28 @@
    "owned_by": 2.0
   },
   {
+   "name": "Lammens",
+   "team": "MUN",
+   "pos": "GK",
+   "price": 4.9,
+   "points": 9,
+   "owned_by": 9.4
+  },
+  {
    "name": "Bruno G.",
    "team": "ARS",
    "pos": "MID",
    "price": 6.7,
    "points": 9,
    "owned_by": 1.9
+  },
+  {
+   "name": "Senesi",
+   "team": "TOT",
+   "pos": "DEF",
+   "price": 5.8,
+   "points": 9,
+   "owned_by": 3.4
   },
   {
    "name": "Yarmoliuk",
@@ -1691,20 +1707,20 @@
    "owned_by": 0.3
   },
   {
+   "name": "Martinez",
+   "team": "MUN",
+   "pos": "DEF",
+   "price": 4.9,
+   "points": 7,
+   "owned_by": 1.3
+  },
+  {
    "name": "Hadjam",
    "team": "BHA",
    "pos": "DEF",
    "price": 4.5,
    "points": 7,
    "owned_by": 0.0
-  },
-  {
-   "name": "Tielemans",
-   "team": "MUN",
-   "pos": "MID",
-   "price": 5.8,
-   "points": 6,
-   "owned_by": 1.4
   },
   {
    "name": "Ajer",
@@ -1715,36 +1731,20 @@
    "owned_by": 3.7
   },
   {
+   "name": "Van Hecke",
+   "team": "TOT",
+   "pos": "DEF",
+   "price": 4.9,
+   "points": 6,
+   "owned_by": 6.2
+  },
+  {
    "name": "Gro\u00df",
    "team": "BHA",
    "pos": "MID",
    "price": 5.9,
    "points": 6,
    "owned_by": 36.4
-  },
-  {
-   "name": "Justin",
-   "team": "LEE",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 6,
-   "owned_by": 1.5
-  },
-  {
-   "name": "White",
-   "team": "ARS",
-   "pos": "DEF",
-   "price": 5.4,
-   "points": 5,
-   "owned_by": 4.4
-  },
-  {
-   "name": "Manzambi",
-   "team": "AVL",
-   "pos": "MID",
-   "price": 5.9,
-   "points": 5,
-   "owned_by": 0.8
   }
  ],
  "rival_count": 25,
@@ -1753,7 +1753,7 @@
    "team": "I\u2019m a Baleba",
    "manager": "Tom Healey",
    "rank": 1,
-   "total": 419,
+   "total": 418,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2310,7 +2310,7 @@
    "team": "Norris FC",
    "manager": "Rob Norris",
    "rank": 5,
-   "total": 377,
+   "total": 375,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2494,7 +2494,7 @@
    "team": "Prep Big B",
    "manager": "Darren Heath",
    "rank": 11,
-   "total": 336,
+   "total": 334,
    "chip": "bboost",
    "squad": [
     "Lammens",
@@ -2605,7 +2605,7 @@
    "team": "King Scarles",
    "manager": "Tom Horsman",
    "rank": 14,
-   "total": 302,
+   "total": 305,
    "chip": null,
    "squad": [
     "Raya",
@@ -2842,7 +2842,7 @@
    "pos": "MID",
    "price": 6.9,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 30.2,
+   "owned_globally_pct": 30.1,
    "i_own": false
   },
   {
@@ -3067,7 +3067,7 @@
    "pos": "DEF",
    "price": 8.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 22.4,
+   "owned_globally_pct": 22.3,
    "i_own": false
   },
   {
