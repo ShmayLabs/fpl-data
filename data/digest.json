@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Haaland (MCI) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Belloumi (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-10T20:22:15Z",
+ "generated_utc": "2026-10-10T20:44:37Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -17,7 +17,7 @@
   "total_points": 381,
   "rank": 1831660,
   "rank_sort": 1863710,
-  "overall_rank": 1608066,
+  "overall_rank": 1608077,
   "percentile_rank": 20,
   "overall_rank_percentage": "15",
   "bank": 8,
@@ -104,18 +104,18 @@
   },
   {
    "event": 6,
-   "points": 0,
-   "total_points": 328,
-   "rank": null,
-   "rank_sort": null,
-   "overall_rank": 2043638,
-   "percentile_rank": null,
-   "overall_rank_percentage": null,
+   "points": 53,
+   "total_points": 381,
+   "rank": 1831660,
+   "rank_sort": 1863710,
+   "overall_rank": 1608077,
+   "percentile_rank": 20,
+   "overall_rank_percentage": "15",
    "bank": 8,
    "value": 999,
    "event_transfers": 0,
    "event_transfers_cost": 0,
-   "points_on_bench": 0
+   "points_on_bench": 12
   }
  ],
  "squad": [
@@ -1616,7 +1616,7 @@
    "pos": "MID",
    "price": 7.8,
    "points": 9,
-   "owned_by": 43.1
+   "owned_by": 43.2
   },
   {
    "name": "Verbruggen",
@@ -2716,7 +2716,7 @@
    "pos": "MID",
    "price": 11.9,
    "owned_in_league_pct": 60.0,
-   "owned_globally_pct": 37.0,
+   "owned_globally_pct": 36.9,
    "i_own": false
   },
   {
@@ -2725,7 +2725,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 43.1,
+   "owned_globally_pct": 43.2,
    "i_own": false
   },
   {
@@ -2887,7 +2887,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 28.8,
+   "owned_globally_pct": 28.9,
    "i_own": false
   },
   {
@@ -3256,7 +3256,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 7.6,
+   "owned_globally_pct": 7.5,
    "i_own": false
   },
   {
