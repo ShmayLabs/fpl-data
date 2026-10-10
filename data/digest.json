@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Haaland (MCI) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Belloumi (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-10T21:51:36Z",
+ "generated_utc": "2026-10-10T22:13:55Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -276,7 +276,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 5.9,
-   "owned_by": 36.6,
+   "owned_by": 36.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -295,7 +295,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.6,
-   "owned_by": 74.5,
+   "owned_by": 74.6,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -1584,7 +1584,7 @@
    "pos": "MID",
    "price": 5.4,
    "points": 10,
-   "owned_by": 2.2
+   "owned_by": 2.3
   },
   {
    "name": "Cunha",
@@ -1744,7 +1744,7 @@
    "pos": "MID",
    "price": 5.9,
    "points": 6,
-   "owned_by": 36.6
+   "owned_by": 36.7
   }
  ],
  "rival_count": 25,
@@ -2689,7 +2689,7 @@
    "pos": "FWD",
    "price": 15.6,
    "owned_in_league_pct": 88.0,
-   "owned_globally_pct": 74.5,
+   "owned_globally_pct": 74.6,
    "i_own": true
   },
   {
@@ -2743,7 +2743,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 36.6,
+   "owned_globally_pct": 36.7,
    "i_own": true
   },
   {
@@ -3193,7 +3193,7 @@
    "pos": "MID",
    "price": 7.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 9.1,
+   "owned_globally_pct": 9.0,
    "i_own": false
   },
   {
