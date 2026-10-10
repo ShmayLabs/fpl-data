@@ -9,7 +9,7 @@
   "ZERO MINUTES: Jo\u00e3o Pedro (CHE) played no part in a FINISHED match despite being available.",
   "ZERO MINUTES: Hughes (CRY) played no part in a FINISHED match despite being available."
  ],
- "generated_utc": "2026-10-10T00:11:53Z",
+ "generated_utc": "2026-10-10T00:34:12Z",
  "next_gw": 6,
  "next_deadline_utc": "2026-10-10T10:00:00Z",
  "gw_finished": true,
@@ -586,16 +586,16 @@
     },
     {
      "rank": 10,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 38,
+     "team": "Ctrl Alt De Ligt",
+     "player": "Ian Cox",
+     "gw": 48,
      "total": 331
     },
     {
      "rank": 10,
-     "team": "Ctrl Alt De Ligt",
-     "player": "Ian Cox",
-     "gw": 48,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 38,
      "total": 331
     },
     {
@@ -1611,7 +1611,7 @@
    "pos": "MID",
    "price": 5.9,
    "points": 14,
-   "owned_by": 34.0
+   "owned_by": 34.1
   },
   {
    "name": "Tarkowski",
@@ -1699,7 +1699,7 @@
    "pos": "MID",
    "price": 6.2,
    "points": 9,
-   "owned_by": 14.8
+   "owned_by": 14.9
   },
   {
    "name": "Thomas",
@@ -2907,7 +2907,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 34.0,
+   "owned_globally_pct": 34.1,
    "i_own": false
   },
   {
@@ -2943,7 +2943,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 8.0,
+   "owned_globally_pct": 7.9,
    "i_own": false
   },
   {
@@ -3204,7 +3204,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 16.3,
+   "owned_globally_pct": 16.4,
    "i_own": false
   },
   {
@@ -3285,7 +3285,7 @@
    "pos": "MID",
    "price": 6.3,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 3.9,
+   "owned_globally_pct": 3.8,
    "i_own": false
   },
   {
