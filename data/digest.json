@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Haaland (MCI) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Belloumi (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-10T19:20:26Z",
+ "generated_utc": "2026-10-10T19:59:53Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -200,7 +200,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.0,
-   "owned_by": 32.0,
+   "owned_by": 32.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -276,7 +276,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 5.9,
-   "owned_by": 36.5,
+   "owned_by": 36.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -390,7 +390,7 @@
    "team": "LEE",
    "pos": "DEF",
    "price": 4.6,
-   "owned_by": 8.3,
+   "owned_by": 8.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -594,16 +594,16 @@
     },
     {
      "rank": 15,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 43,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 37,
      "total": 367
     },
     {
      "rank": 15,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 37,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 43,
      "total": 367
     },
     {
@@ -1560,7 +1560,7 @@
    "pos": "DEF",
    "price": 5.0,
    "points": 15,
-   "owned_by": 32.0
+   "owned_by": 32.1
   },
   {
    "name": "Jo\u00e3o Pedro",
@@ -1664,7 +1664,7 @@
    "pos": "MID",
    "price": 9.7,
    "points": 8,
-   "owned_by": 24.4
+   "owned_by": 24.5
   },
   {
    "name": "Mbeumo",
@@ -1744,7 +1744,7 @@
    "pos": "MID",
    "price": 5.9,
    "points": 6,
-   "owned_by": 36.5
+   "owned_by": 36.6
   }
  ],
  "rival_count": 25,
@@ -2743,7 +2743,7 @@
    "pos": "MID",
    "price": 5.9,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 36.5,
+   "owned_globally_pct": 36.6,
    "i_own": true
   },
   {
@@ -2752,7 +2752,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 32.0,
+   "owned_globally_pct": 32.1,
    "i_own": true
   },
   {
@@ -2806,7 +2806,7 @@
    "pos": "MID",
    "price": 9.7,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 24.4,
+   "owned_globally_pct": 24.5,
    "i_own": false
   },
   {
@@ -2941,7 +2941,7 @@
    "pos": "FWD",
    "price": 9.1,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 16.3,
+   "owned_globally_pct": 16.2,
    "i_own": false
   },
   {
@@ -2968,7 +2968,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 8.3,
+   "owned_globally_pct": 8.4,
    "i_own": true
   },
   {
