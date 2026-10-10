@@ -16,7 +16,7 @@
   "NOT YET PLAYED: Belloumi (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Bogle (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-10T11:06:39Z",
+ "generated_utc": "2026-10-10T11:29:29Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -583,15 +583,15 @@
     },
     {
      "rank": 12,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
      "gw": 0,
      "total": 330
     },
     {
      "rank": 12,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
      "gw": 0,
      "total": 330
     },
@@ -2741,7 +2741,7 @@
    "pos": "FWD",
    "price": 9.1,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 16.9,
+   "owned_globally_pct": 16.8,
    "i_own": false
   },
   {
@@ -2957,7 +2957,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 3.6,
+   "owned_globally_pct": 3.5,
    "i_own": false
   },
   {
@@ -3029,7 +3029,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 7.4,
+   "owned_globally_pct": 7.3,
    "i_own": false
   },
   {
@@ -3182,7 +3182,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 3.5,
+   "owned_globally_pct": 3.6,
    "i_own": false
   },
   {
