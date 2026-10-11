@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-11T20:15:31Z",
+ "generated_utc": "2026-10-11T20:37:58Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -196,7 +196,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.0,
-   "owned_by": 33.4,
+   "owned_by": 33.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1556,7 +1556,7 @@
    "pos": "DEF",
    "price": 5.0,
    "points": 15,
-   "owned_by": 33.4
+   "owned_by": 33.5
   },
   {
    "name": "Dewsbury-Hall",
@@ -2748,7 +2748,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 33.4,
+   "owned_globally_pct": 33.5,
    "i_own": true
   },
   {
