@@ -4,7 +4,7 @@
   "NOT YET PLAYED: Haaland (MCI) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Belloumi (HUL) shows 0 minutes but his match is in_progress -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-11T13:21:38Z",
+ "generated_utc": "2026-10-11T13:44:05Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -130,7 +130,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 18,
+   "gw_minutes": 39,
    "form": "3.0",
    "total_points": 35,
    "fixture_state": "in_progress",
@@ -149,9 +149,9 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 18,
-   "form": "7.7",
-   "total_points": 44,
+   "gw_minutes": 39,
+   "form": "8.3",
+   "total_points": 46,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -198,7 +198,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.0,
-   "owned_by": 32.6,
+   "owned_by": 32.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -448,8 +448,8 @@
      "rank": 6,
      "team": "Tics Champs By Xmas",
      "player": "Kieron Murphy",
-     "gw": 54,
-     "total": 357
+     "gw": 56,
+     "total": 359
     },
     {
      "rank": 7,
@@ -517,15 +517,15 @@
      "rank": 4,
      "team": "Paul's Team",
      "player": "Paul Larkin",
-     "gw": 66,
-     "total": 412
+     "gw": 67,
+     "total": 413
     },
     {
      "rank": 5,
      "team": "HMH Ath",
      "player": "Craig Hughes",
-     "gw": 49,
-     "total": 409
+     "gw": 51,
+     "total": 411
     },
     {
      "rank": 6,
@@ -573,8 +573,8 @@
      "rank": 12,
      "team": "Maddcatts",
      "player": "Craig Cattrall",
-     "gw": 39,
-     "total": 375
+     "gw": 40,
+     "total": 376
     },
     {
      "rank": 13,
@@ -594,8 +594,8 @@
      "rank": 15,
      "team": "Enter Team Name",
      "player": "Andy Grundy",
-     "gw": 40,
-     "total": 370
+     "gw": 41,
+     "total": 371
     },
     {
      "rank": 16,
@@ -657,8 +657,8 @@
      "rank": 24,
      "team": "WheelshavfallenoffXI",
      "player": "simon g",
-     "gw": 38,
-     "total": 352
+     "gw": 39,
+     "total": 353
     },
     {
      "rank": 25,
@@ -691,8 +691,8 @@
      "rank": 3,
      "team": "Tramontozpor",
      "player": "Kwadwo David",
-     "gw": 60,
-     "total": 386
+     "gw": 61,
+     "total": 387
     },
     {
      "rank": 4,
@@ -733,8 +733,8 @@
      "rank": 9,
      "team": "JTindall Solo Album",
      "player": "Niall Ballinger",
-     "gw": 45,
-     "total": 355
+     "gw": 46,
+     "total": 356
     },
     {
      "rank": 10,
@@ -1558,7 +1558,7 @@
    "pos": "DEF",
    "price": 5.0,
    "points": 15,
-   "owned_by": 32.6
+   "owned_by": 32.7
   },
   {
    "name": "Jo\u00e3o Pedro",
@@ -1649,6 +1649,14 @@
    "owned_by": 1.9
   },
   {
+   "name": "Ndoye",
+   "team": "NFO",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 9,
+   "owned_by": 0.6
+  },
+  {
    "name": "Yarmoliuk",
    "team": "BRE",
    "pos": "MID",
@@ -1735,14 +1743,6 @@
    "price": 4.5,
    "points": 6,
    "owned_by": 3.7
-  },
-  {
-   "name": "Gro\u00df",
-   "team": "BHA",
-   "pos": "MID",
-   "price": 6.0,
-   "points": 6,
-   "owned_by": 37.0
   }
  ],
  "rival_count": 25,
@@ -1924,7 +1924,7 @@
    "team": "Tics Champs By Xmas",
    "manager": "Kieron Murphy",
    "rank": 6,
-   "total": 357,
+   "total": 359,
    "chip": null,
    "squad": [
     "Kelleher",
@@ -2229,7 +2229,7 @@
    "team": "Tramontozpor",
    "manager": "Kwadwo David",
    "rank": 3,
-   "total": 386,
+   "total": 387,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2418,7 +2418,7 @@
    "team": "JTindall Solo Album",
    "manager": "Niall Ballinger",
    "rank": 9,
-   "total": 355,
+   "total": 356,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2750,7 +2750,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 32.6,
+   "owned_globally_pct": 32.7,
    "i_own": true
   },
   {
@@ -2813,7 +2813,7 @@
    "pos": "DEF",
    "price": 5.8,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 27.6,
+   "owned_globally_pct": 27.7,
    "i_own": false
   },
   {
@@ -2939,7 +2939,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 16.0,
+   "owned_globally_pct": 15.9,
    "i_own": false
   },
   {
