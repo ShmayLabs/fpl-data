@@ -2,25 +2,25 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-11T18:45:50Z",
+ "generated_utc": "2026-10-11T19:08:18Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
  "squad_from_gw": 6,
  "entry_history": {
   "event": 6,
-  "points": 53,
-  "total_points": 381,
-  "rank": 1831660,
-  "rank_sort": 1863710,
-  "overall_rank": 1608077,
-  "percentile_rank": 20,
-  "overall_rank_percentage": "15",
+  "points": 70,
+  "total_points": 398,
+  "rank": 1620071,
+  "rank_sort": 1654606,
+  "overall_rank": 1543813,
+  "percentile_rank": 15,
+  "overall_rank_percentage": "14",
   "bank": 8,
   "value": 999,
   "event_transfers": 0,
   "event_transfers_cost": 0,
-  "points_on_bench": 12
+  "points_on_bench": 18
  },
  "season_history": [
   {
@@ -386,7 +386,7 @@
    "team": "LEE",
    "pos": "DEF",
    "price": 4.6,
-   "owned_by": 8.5,
+   "owned_by": 8.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -506,16 +506,16 @@
     },
     {
      "rank": 3,
-     "team": "Kash FC",
-     "player": "Prakash Shan",
-     "gw": 80,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 64,
      "total": 432
     },
     {
      "rank": 3,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 64,
+     "team": "Kash FC",
+     "player": "Prakash Shan",
+     "gw": 80,
      "total": 432
     },
     {
@@ -527,16 +527,16 @@
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 83,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 73,
      "total": 419
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 73,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 83,
      "total": 419
     },
     {
@@ -625,16 +625,16 @@
     },
     {
      "rank": 20,
-     "team": "WheelshavfallenoffXI",
-     "player": "simon g",
-     "gw": 57,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 49,
      "total": 371
     },
     {
      "rank": 20,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 49,
+     "team": "WheelshavfallenoffXI",
+     "player": "simon g",
+     "gw": 57,
      "total": 371
     },
     {
@@ -1604,7 +1604,7 @@
    "pos": "MID",
    "price": 7.8,
    "points": 10,
-   "owned_by": 29.4
+   "owned_by": 29.5
   },
   {
    "name": "Cunha",
@@ -2883,7 +2883,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 29.4,
+   "owned_globally_pct": 29.5,
    "i_own": false
   },
   {
@@ -2964,7 +2964,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 8.5,
+   "owned_globally_pct": 8.6,
    "i_own": true
   },
   {
@@ -3063,7 +3063,7 @@
    "pos": "DEF",
    "price": 7.9,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 22.2,
+   "owned_globally_pct": 22.1,
    "i_own": false
   },
   {
@@ -3216,7 +3216,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 7.1,
+   "owned_globally_pct": 7.0,
    "i_own": false
   },
   {
@@ -3261,7 +3261,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 15.5,
+   "owned_globally_pct": 15.4,
    "i_own": false
   },
   {
