@@ -6,7 +6,7 @@
   "NOT YET PLAYED: Haaland (MCI) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Belloumi (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-10T23:51:57Z",
+ "generated_utc": "2026-10-11T00:14:24Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -573,16 +573,16 @@
     },
     {
      "rank": 12,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 52,
+     "team": "Maddcatts",
+     "player": "Craig Cattrall",
+     "gw": 37,
      "total": 373
     },
     {
      "rank": 12,
-     "team": "Maddcatts",
-     "player": "Craig Cattrall",
-     "gw": 37,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 52,
      "total": 373
     },
     {
@@ -594,16 +594,16 @@
     },
     {
      "rank": 15,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 43,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 37,
      "total": 367
     },
     {
      "rank": 15,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 37,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 43,
      "total": 367
     },
     {
@@ -2716,7 +2716,7 @@
    "pos": "MID",
    "price": 11.9,
    "owned_in_league_pct": 60.0,
-   "owned_globally_pct": 36.9,
+   "owned_globally_pct": 36.8,
    "i_own": false
   },
   {
