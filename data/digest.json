@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-11T15:58:33Z",
+ "generated_utc": "2026-10-11T16:20:57Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -215,7 +215,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 17.1,
+   "owned_by": 17.0,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -299,7 +299,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 23,
+   "gw_minutes": 45,
    "form": "5.3",
    "total_points": 40,
    "fixture_state": "in_progress",
@@ -611,9 +611,9 @@
     },
     {
      "rank": 18,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 44,
+     "team": "Bribery Finary",
+     "player": "Andy Livingstone",
+     "gw": 36,
      "total": 366
     },
     {
@@ -625,9 +625,9 @@
     },
     {
      "rank": 18,
-     "team": "Bribery Finary",
-     "player": "Andy Livingstone",
-     "gw": 36,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 44,
      "total": 366
     },
     {
@@ -750,17 +750,17 @@
     },
     {
      "rank": 12,
+     "team": "RebellTeam",
+     "player": "Santi Rebella",
+     "gw": 31,
+     "total": 336
+    },
+    {
+     "rank": 13,
      "team": "Millennium Falcons",
      "player": "Jack Richardson",
      "gw": 45,
      "total": 335
-    },
-    {
-     "rank": 13,
-     "team": "RebellTeam",
-     "player": "Santi Rebella",
-     "gw": 28,
-     "total": 333
     },
     {
      "rank": 14,
@@ -773,8 +773,8 @@
      "rank": 15,
      "team": "Jimbledon FC",
      "player": "James Martin",
-     "gw": 46,
-     "total": 305
+     "gw": 44,
+     "total": 303
     }
    ]
   }
@@ -2523,46 +2523,10 @@
    ]
   },
   {
-   "team": "Millennium Falcons",
-   "manager": "Jack Richardson",
-   "rank": 12,
-   "total": 335,
-   "chip": null,
-   "squad": [
-    "Pickford",
-    "Diop",
-    "De Cuyper",
-    "Davis",
-    "Gabriel",
-    "B.Fernandes",
-    "Gro\u00df",
-    "Mbeumo",
-    "Ndiaye",
-    "Haaland",
-    "Kostoulas",
-    "Dubravka",
-    "Belloumi",
-    "Ajayi",
-    "Jo\u00e3o Pedro"
-   ],
-   "captain": "Gro\u00df",
-   "differentials_vs_me": [
-    "Pickford",
-    "Diop",
-    "Gabriel",
-    "B.Fernandes",
-    "Kostoulas",
-    "Ndiaye",
-    "Davis",
-    "Dubravka",
-    "Ajayi"
-   ]
-  },
-  {
    "team": "RebellTeam",
    "manager": "Santi Rebella",
-   "rank": 13,
-   "total": 333,
+   "rank": 12,
+   "total": 336,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2595,6 +2559,42 @@
     "Senesi",
     "Calvert-Lewin",
     "Isak"
+   ]
+  },
+  {
+   "team": "Millennium Falcons",
+   "manager": "Jack Richardson",
+   "rank": 13,
+   "total": 335,
+   "chip": null,
+   "squad": [
+    "Pickford",
+    "Diop",
+    "De Cuyper",
+    "Davis",
+    "Gabriel",
+    "B.Fernandes",
+    "Gro\u00df",
+    "Mbeumo",
+    "Ndiaye",
+    "Haaland",
+    "Kostoulas",
+    "Dubravka",
+    "Belloumi",
+    "Ajayi",
+    "Jo\u00e3o Pedro"
+   ],
+   "captain": "Gro\u00df",
+   "differentials_vs_me": [
+    "Pickford",
+    "Diop",
+    "Gabriel",
+    "B.Fernandes",
+    "Kostoulas",
+    "Ndiaye",
+    "Davis",
+    "Dubravka",
+    "Ajayi"
    ]
   },
   {
@@ -2641,7 +2641,7 @@
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 15,
-   "total": 305,
+   "total": 303,
    "chip": null,
    "squad": [
     "Kelleher",
@@ -2811,7 +2811,7 @@
    "pos": "DEF",
    "price": 5.8,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 27.7,
+   "owned_globally_pct": 27.6,
    "i_own": false
   },
   {
@@ -2847,7 +2847,7 @@
    "pos": "MID",
    "price": 4.5,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 5.1,
+   "owned_globally_pct": 5.0,
    "i_own": false
   },
   {
@@ -2901,7 +2901,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 17.1,
+   "owned_globally_pct": 17.0,
    "i_own": true
   },
   {
@@ -2910,7 +2910,7 @@
    "pos": "DEF",
    "price": 5.3,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 20.8,
+   "owned_globally_pct": 20.9,
    "i_own": false
   },
   {
@@ -3571,15 +3571,6 @@
    "i_own": false
   },
   {
-   "name": "Davis",
-   "team": "IPS",
-   "pos": "DEF",
-   "price": 4.0,
-   "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 7.7,
-   "i_own": false
-  },
-  {
    "name": "Araujo",
    "team": "LIV",
    "pos": "DEF",
@@ -3613,6 +3604,15 @@
    "price": 6.9,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 3.8,
+   "i_own": false
+  },
+  {
+   "name": "Davis",
+   "team": "IPS",
+   "pos": "DEF",
+   "price": 4.0,
+   "owned_in_league_pct": 4.0,
+   "owned_globally_pct": 7.7,
    "i_own": false
   },
   {
