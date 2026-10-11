@@ -1,9 +1,8 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [
-  "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
-  "NOT YET PLAYED: Haaland (MCI) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
+  "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-11T15:13:44Z",
+ "generated_utc": "2026-10-11T15:36:09Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -299,12 +298,12 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 0,
-   "gw_minutes": 0,
+   "gw_points": 1,
+   "gw_minutes": 2,
    "form": "5.0",
    "total_points": 39,
    "fixture_state": "not_kicked_off",
-   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+   "zero_minutes_means": null
   },
   {
    "name": "Jo\u00e3o Pedro",
@@ -1597,7 +1596,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 10,
-   "owned_by": 6.1
+   "owned_by": 6.2
   },
   {
    "name": "Ouattara",
@@ -3280,7 +3279,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 15.9,
+   "owned_globally_pct": 15.8,
    "i_own": false
   },
   {
@@ -3649,7 +3648,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 6.1,
+   "owned_globally_pct": 6.2,
    "i_own": false
   },
   {
