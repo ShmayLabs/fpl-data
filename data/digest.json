@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-11T19:08:18Z",
+ "generated_utc": "2026-10-11T19:30:45Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -100,18 +100,18 @@
   },
   {
    "event": 6,
-   "points": 53,
-   "total_points": 381,
-   "rank": 1831660,
-   "rank_sort": 1863710,
-   "overall_rank": 1608077,
-   "percentile_rank": 20,
-   "overall_rank_percentage": "15",
+   "points": 70,
+   "total_points": 398,
+   "rank": 1620071,
+   "rank_sort": 1654606,
+   "overall_rank": 1543822,
+   "percentile_rank": 15,
+   "overall_rank_percentage": "14",
    "bank": 8,
    "value": 999,
    "event_transfers": 0,
    "event_transfers_cost": 0,
-   "points_on_bench": 12
+   "points_on_bench": 18
   }
  ],
  "squad": [
@@ -196,7 +196,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.0,
-   "owned_by": 33.3,
+   "owned_by": 33.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -291,7 +291,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.6,
-   "owned_by": 74.7,
+   "owned_by": 74.8,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -367,7 +367,7 @@
    "team": "HUL",
    "pos": "MID",
    "price": 5.1,
-   "owned_by": 6.4,
+   "owned_by": 6.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -625,16 +625,16 @@
     },
     {
      "rank": 20,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 49,
+     "team": "WheelshavfallenoffXI",
+     "player": "simon g",
+     "gw": 57,
      "total": 371
     },
     {
      "rank": 20,
-     "team": "WheelshavfallenoffXI",
-     "player": "simon g",
-     "gw": 57,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 49,
      "total": 371
     },
     {
@@ -1556,7 +1556,7 @@
    "pos": "DEF",
    "price": 5.0,
    "points": 15,
-   "owned_by": 33.3
+   "owned_by": 33.4
   },
   {
    "name": "Dewsbury-Hall",
@@ -2685,7 +2685,7 @@
    "pos": "FWD",
    "price": 15.6,
    "owned_in_league_pct": 88.0,
-   "owned_globally_pct": 74.7,
+   "owned_globally_pct": 74.8,
    "i_own": true
   },
   {
@@ -2748,7 +2748,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 33.3,
+   "owned_globally_pct": 33.4,
    "i_own": true
   },
   {
@@ -2937,7 +2937,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 15.6,
+   "owned_globally_pct": 15.5,
    "i_own": false
   },
   {
@@ -3009,7 +3009,7 @@
    "pos": "MID",
    "price": 4.5,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 3.9,
+   "owned_globally_pct": 3.8,
    "i_own": false
   },
   {
@@ -3099,7 +3099,7 @@
    "pos": "MID",
    "price": 5.1,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 6.4,
+   "owned_globally_pct": 6.5,
    "i_own": true
   },
   {
