@@ -1,19 +1,19 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-12T21:57:54Z",
+ "generated_utc": "2026-10-12T22:20:25Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
  "squad_from_gw": 6,
  "entry_history": {
   "event": 6,
-  "points": 70,
-  "total_points": 398,
-  "rank": 1620071,
-  "rank_sort": 1654606,
-  "overall_rank": 1543822,
+  "points": 74,
+  "total_points": 402,
+  "rank": 1110317,
+  "rank_sort": 1137965,
+  "overall_rank": 1379054,
   "percentile_rank": 15,
-  "overall_rank_percentage": "14",
+  "overall_rank_percentage": "12",
   "bank": 8,
   "value": 999,
   "event_transfers": 0,
@@ -1706,7 +1706,7 @@
    "pos": "MID",
    "price": 9.7,
    "points": 8,
-   "owned_by": 25.0
+   "owned_by": 25.1
   },
   {
    "name": "Lerma",
@@ -2818,7 +2818,7 @@
    "pos": "MID",
    "price": 9.7,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 25.0,
+   "owned_globally_pct": 25.1,
    "i_own": false
   },
   {
@@ -2854,7 +2854,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 15.8,
+   "owned_globally_pct": 15.7,
    "i_own": false
   },
   {
