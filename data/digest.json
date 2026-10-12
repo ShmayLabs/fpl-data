@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-12T09:24:32Z",
+ "generated_utc": "2026-10-12T09:46:56Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -506,16 +506,16 @@
     },
     {
      "rank": 3,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 64,
+     "team": "Kash FC",
+     "player": "Prakash Shan",
+     "gw": 80,
      "total": 432
     },
     {
      "rank": 3,
-     "team": "Kash FC",
-     "player": "Prakash Shan",
-     "gw": 80,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 64,
      "total": 432
     },
     {
