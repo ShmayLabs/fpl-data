@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-12T00:06:26Z",
+ "generated_utc": "2026-10-12T00:28:49Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -527,16 +527,16 @@
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 73,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 83,
      "total": 419
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 83,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 73,
      "total": 419
     },
     {
@@ -3252,7 +3252,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 15.4,
+   "owned_globally_pct": 15.3,
    "i_own": false
   },
   {
@@ -3288,7 +3288,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.4,
+   "owned_globally_pct": 5.3,
    "i_own": false
   },
   {
