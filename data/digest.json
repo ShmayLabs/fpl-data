@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-12T12:46:17Z",
+ "generated_utc": "2026-10-12T13:08:41Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -310,7 +310,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 68.6,
+   "owned_by": 68.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -506,16 +506,16 @@
     },
     {
      "rank": 3,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 64,
+     "team": "Kash FC",
+     "player": "Prakash Shan",
+     "gw": 80,
      "total": 432
     },
     {
      "rank": 3,
-     "team": "Kash FC",
-     "player": "Prakash Shan",
-     "gw": 80,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 64,
      "total": 432
     },
     {
@@ -527,16 +527,16 @@
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 73,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 83,
      "total": 419
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 83,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 73,
      "total": 419
     },
     {
@@ -1572,7 +1572,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 68.6
+   "owned_by": 68.7
   },
   {
    "name": "Doku",
@@ -2694,7 +2694,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.0,
-   "owned_globally_pct": 68.6,
+   "owned_globally_pct": 68.7,
    "i_own": true
   },
   {
@@ -3162,7 +3162,7 @@
    "pos": "MID",
    "price": 7.1,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 8.3,
+   "owned_globally_pct": 8.2,
    "i_own": false
   },
   {
@@ -3657,7 +3657,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 0.8,
+   "owned_globally_pct": 0.7,
    "i_own": false
   },
   {
