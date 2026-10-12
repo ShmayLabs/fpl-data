@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-12T10:31:47Z",
+ "generated_utc": "2026-10-12T10:54:13Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -196,7 +196,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.1,
-   "owned_by": 33.9,
+   "owned_by": 34.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -272,7 +272,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.0,
-   "owned_by": 38.1,
+   "owned_by": 38.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -506,16 +506,16 @@
     },
     {
      "rank": 3,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 64,
+     "team": "Kash FC",
+     "player": "Prakash Shan",
+     "gw": 80,
      "total": 432
     },
     {
      "rank": 3,
-     "team": "Kash FC",
-     "player": "Prakash Shan",
-     "gw": 80,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 64,
      "total": 432
     },
     {
@@ -1556,7 +1556,7 @@
    "pos": "DEF",
    "price": 5.1,
    "points": 15,
-   "owned_by": 33.9
+   "owned_by": 34.0
   },
   {
    "name": "Dewsbury-Hall",
@@ -2739,7 +2739,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 38.1,
+   "owned_globally_pct": 38.2,
    "i_own": true
   },
   {
@@ -2748,7 +2748,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 33.9,
+   "owned_globally_pct": 34.0,
    "i_own": true
   },
   {
