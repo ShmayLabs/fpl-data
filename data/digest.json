@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-13T18:39:45Z",
+ "generated_utc": "2026-10-13T19:02:11Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -327,7 +327,7 @@
    "team": "BHA",
    "pos": "GK",
    "price": 4.5,
-   "owned_by": 21.8,
+   "owned_by": 21.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1650,7 +1650,7 @@
    "pos": "GK",
    "price": 4.5,
    "points": 9,
-   "owned_by": 21.8
+   "owned_by": 21.9
   },
   {
    "name": "F.Kad\u0131o\u011flu",
@@ -2800,7 +2800,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 21.8,
+   "owned_globally_pct": 21.9,
    "i_own": true
   },
   {
@@ -2908,7 +2908,7 @@
    "pos": "DEF",
    "price": 5.3,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 20.8,
+   "owned_globally_pct": 20.7,
    "i_own": false
   },
   {
