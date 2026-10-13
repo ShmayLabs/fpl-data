@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-13T03:30:45Z",
+ "generated_utc": "2026-10-13T03:53:06Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -194,7 +194,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.1,
-   "owned_by": 34.5,
+   "owned_by": 34.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -308,7 +308,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 69.0,
+   "owned_by": 69.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1554,7 +1554,7 @@
    "pos": "DEF",
    "price": 5.1,
    "points": 15,
-   "owned_by": 34.5
+   "owned_by": 34.6
   },
   {
    "name": "Dewsbury-Hall",
@@ -1570,7 +1570,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 69.0
+   "owned_by": 69.1
   },
   {
    "name": "Doku",
@@ -2692,7 +2692,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.0,
-   "owned_globally_pct": 69.0,
+   "owned_globally_pct": 69.1,
    "i_own": true
   },
   {
@@ -2746,7 +2746,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 34.5,
+   "owned_globally_pct": 34.6,
    "i_own": true
   },
   {
