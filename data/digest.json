@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-13T17:54:55Z",
+ "generated_utc": "2026-10-13T18:17:20Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -365,7 +365,7 @@
    "team": "HUL",
    "pos": "MID",
    "price": 5.2,
-   "owned_by": 7.1,
+   "owned_by": 7.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -525,16 +525,16 @@
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 85,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 75,
      "total": 421
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 75,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 85,
      "total": 421
     },
     {
@@ -3097,7 +3097,7 @@
    "pos": "MID",
    "price": 5.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 7.1,
+   "owned_globally_pct": 7.2,
    "i_own": true
   },
   {
