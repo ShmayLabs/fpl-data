@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-13T13:01:22Z",
+ "generated_utc": "2026-10-13T13:23:47Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": false,
@@ -184,7 +184,7 @@
    "news": "",
    "gw_points": 4,
    "gw_minutes": 90,
-   "form": "4.3",
+   "form": "6.5",
    "total_points": 28,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -203,7 +203,7 @@
    "news": "",
    "gw_points": 15,
    "gw_minutes": 67,
-   "form": "10.7",
+   "form": "10.5",
    "total_points": 53,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -279,7 +279,7 @@
    "news": "",
    "gw_points": 6,
    "gw_minutes": 90,
-   "form": "12.3",
+   "form": "10.0",
    "total_points": 53,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -336,7 +336,7 @@
    "news": "",
    "gw_points": 9,
    "gw_minutes": 90,
-   "form": "7.7",
+   "form": "7.5",
    "total_points": 32,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -525,16 +525,16 @@
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 85,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 75,
      "total": 421
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 75,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 85,
      "total": 421
     },
     {
