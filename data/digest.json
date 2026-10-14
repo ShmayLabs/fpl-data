@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-14T10:48:28Z",
+ "generated_utc": "2026-10-14T11:10:49Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -194,7 +194,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.1,
-   "owned_by": 35.3,
+   "owned_by": 35.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -365,7 +365,7 @@
    "team": "HUL",
    "pos": "MID",
    "price": 5.2,
-   "owned_by": 7.2,
+   "owned_by": 7.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -384,7 +384,7 @@
    "team": "LEE",
    "pos": "DEF",
    "price": 4.7,
-   "owned_by": 8.9,
+   "owned_by": 9.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1554,7 +1554,7 @@
    "pos": "DEF",
    "price": 5.1,
    "points": 15,
-   "owned_by": 35.3
+   "owned_by": 35.4
   },
   {
    "name": "Dewsbury-Hall",
@@ -2746,7 +2746,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 35.3,
+   "owned_globally_pct": 35.4,
    "i_own": true
   },
   {
@@ -2962,7 +2962,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 8.9,
+   "owned_globally_pct": 9.0,
    "i_own": true
   },
   {
@@ -3097,7 +3097,7 @@
    "pos": "MID",
    "price": 5.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 7.2,
+   "owned_globally_pct": 7.3,
    "i_own": true
   },
   {
