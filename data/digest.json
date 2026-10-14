@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-14T18:52:54Z",
+ "generated_utc": "2026-10-14T19:15:13Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -393,7 +393,7 @@
    "news": "",
    "gw_points": 1,
    "gw_minutes": 85,
-   "form": "7.0",
+   "form": "3.0",
    "total_points": 43,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -2935,7 +2935,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 14.3,
+   "owned_globally_pct": 14.2,
    "i_own": false
   },
   {
