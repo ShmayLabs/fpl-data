@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-14T21:06:51Z",
+ "generated_utc": "2026-10-14T21:29:11Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -1602,7 +1602,7 @@
    "pos": "MID",
    "price": 5.4,
    "points": 10,
-   "owned_by": 2.5
+   "owned_by": 2.6
   },
   {
    "name": "Cherki",
@@ -1610,7 +1610,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 10,
-   "owned_by": 32.0
+   "owned_by": 32.1
   },
   {
    "name": "Cunha",
@@ -2881,7 +2881,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 32.0,
+   "owned_globally_pct": 32.1,
    "i_own": false
   },
   {
@@ -3601,7 +3601,7 @@
    "pos": "MID",
    "price": 6.9,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 3.8,
+   "owned_globally_pct": 3.9,
    "i_own": false
   },
   {
