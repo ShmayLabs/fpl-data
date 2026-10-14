@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-14T22:58:24Z",
+ "generated_utc": "2026-10-14T23:20:43Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -3401,7 +3401,7 @@
    "name": "Pedro Porro",
    "team": "TOT",
    "pos": "DEF",
-   "price": 5.4,
+   "price": 5.3,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 5.7,
    "i_own": false
@@ -3590,7 +3590,7 @@
    "name": "Senesi",
    "team": "TOT",
    "pos": "DEF",
-   "price": 5.8,
+   "price": 5.7,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 3.3,
    "i_own": false
