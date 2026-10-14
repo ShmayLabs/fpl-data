@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-14T22:13:45Z",
+ "generated_utc": "2026-10-14T22:36:04Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -308,7 +308,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 69.8,
+   "owned_by": 69.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -525,16 +525,16 @@
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 75,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 85,
      "total": 421
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 85,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 75,
      "total": 421
     },
     {
@@ -1570,7 +1570,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 69.8
+   "owned_by": 69.9
   },
   {
    "name": "Doku",
@@ -2692,7 +2692,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.0,
-   "owned_globally_pct": 69.8,
+   "owned_globally_pct": 69.9,
    "i_own": true
   },
   {
