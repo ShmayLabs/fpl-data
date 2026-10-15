@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-15T17:03:55Z",
+ "generated_utc": "2026-10-15T17:26:20Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -156,7 +156,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 5.9,
-   "owned_by": 52.4,
+   "owned_by": 52.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -699,16 +699,16 @@
     },
     {
      "rank": 5,
-     "team": "Tramontozpor",
-     "player": "Kwadwo David",
-     "gw": 66,
+     "team": "Norris FC",
+     "player": "Rob Norris",
+     "gw": 69,
      "total": 392
     },
     {
      "rank": 5,
-     "team": "Norris FC",
-     "player": "Rob Norris",
-     "gw": 69,
+     "team": "Tramontozpor",
+     "player": "Kwadwo David",
+     "gw": 66,
      "total": 392
     },
     {
@@ -1634,7 +1634,7 @@
    "pos": "DEF",
    "price": 5.9,
    "points": 9,
-   "owned_by": 52.4
+   "owned_by": 52.5
   },
   {
    "name": "Rogers",
@@ -2261,6 +2261,43 @@
    ]
   },
   {
+   "team": "Norris FC",
+   "manager": "Rob Norris",
+   "rank": 5,
+   "total": 392,
+   "chip": null,
+   "squad": [
+    "Lammens",
+    "Diop",
+    "Calafiori",
+    "Konsa",
+    "Gro\u00df",
+    "Palmer",
+    "Semenyo",
+    "Rogers",
+    "Wissa",
+    "Haaland",
+    "Jo\u00e3o Pedro",
+    "Dubravka",
+    "Anderson",
+    "Ajer",
+    "Thomas"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Anderson",
+    "Diop",
+    "Rogers",
+    "Semenyo",
+    "Wissa",
+    "Dubravka",
+    "Ajer",
+    "Palmer",
+    "Lammens",
+    "Konsa"
+   ]
+  },
+  {
    "team": "Tramontozpor",
    "manager": "Kwadwo David",
    "rank": 5,
@@ -2298,43 +2335,6 @@
     "Semenyo",
     "Dovin",
     "Mitchell"
-   ]
-  },
-  {
-   "team": "Norris FC",
-   "manager": "Rob Norris",
-   "rank": 5,
-   "total": 392,
-   "chip": null,
-   "squad": [
-    "Lammens",
-    "Diop",
-    "Calafiori",
-    "Konsa",
-    "Gro\u00df",
-    "Palmer",
-    "Semenyo",
-    "Rogers",
-    "Wissa",
-    "Haaland",
-    "Jo\u00e3o Pedro",
-    "Dubravka",
-    "Anderson",
-    "Ajer",
-    "Thomas"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Anderson",
-    "Diop",
-    "Rogers",
-    "Semenyo",
-    "Wissa",
-    "Dubravka",
-    "Ajer",
-    "Palmer",
-    "Lammens",
-    "Konsa"
    ]
   },
   {
@@ -2701,7 +2701,7 @@
    "pos": "DEF",
    "price": 5.9,
    "owned_in_league_pct": 64.0,
-   "owned_globally_pct": 52.4,
+   "owned_globally_pct": 52.5,
    "i_own": true
   },
   {
@@ -2917,7 +2917,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 8.7,
+   "owned_globally_pct": 8.8,
    "i_own": false
   },
   {
@@ -3245,21 +3245,21 @@
    "i_own": false
   },
   {
-   "name": "Gibbs-White",
-   "team": "NFO",
-   "pos": "MID",
-   "price": 8.0,
-   "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 14.6,
-   "i_own": false
-  },
-  {
    "name": "Anderson",
    "team": "MCI",
    "pos": "MID",
    "price": 6.3,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 3.9,
+   "i_own": false
+  },
+  {
+   "name": "Gibbs-White",
+   "team": "NFO",
+   "pos": "MID",
+   "price": 8.0,
+   "owned_in_league_pct": 8.0,
+   "owned_globally_pct": 14.6,
    "i_own": false
   },
   {
@@ -3502,7 +3502,7 @@
    "pos": "FWD",
    "price": 4.9,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 0.6,
+   "owned_globally_pct": 0.7,
    "i_own": false
   },
   {
