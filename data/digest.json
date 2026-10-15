@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-15T15:56:43Z",
+ "generated_utc": "2026-10-15T16:19:07Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -1610,7 +1610,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 10,
-   "owned_by": 32.4
+   "owned_by": 32.5
   },
   {
    "name": "Cunha",
@@ -1642,7 +1642,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 9,
-   "owned_by": 45.2
+   "owned_by": 45.3
   },
   {
    "name": "Verbruggen",
@@ -2719,7 +2719,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 45.2,
+   "owned_globally_pct": 45.3,
    "i_own": false
   },
   {
@@ -2881,7 +2881,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 32.4,
+   "owned_globally_pct": 32.5,
    "i_own": false
   },
   {
@@ -3061,7 +3061,7 @@
    "pos": "DEF",
    "price": 7.9,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 21.8,
+   "owned_globally_pct": 21.7,
    "i_own": false
   },
   {
