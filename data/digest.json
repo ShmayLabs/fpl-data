@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-15T18:34:58Z",
+ "generated_utc": "2026-10-15T18:57:19Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -1666,7 +1666,7 @@
    "pos": "FWD",
    "price": 6.6,
    "points": 9,
-   "owned_by": 2.9
+   "owned_by": 3.0
   },
   {
    "name": "Yeremy",
@@ -3169,7 +3169,7 @@
    "pos": "MID",
    "price": 7.1,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 7.5,
+   "owned_globally_pct": 7.4,
    "i_own": false
   },
   {
@@ -3268,7 +3268,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 14.9,
+   "owned_globally_pct": 14.8,
    "i_own": false
   },
   {
@@ -3511,7 +3511,7 @@
    "pos": "FWD",
    "price": 6.6,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.9,
+   "owned_globally_pct": 3.0,
    "i_own": false
   },
   {
