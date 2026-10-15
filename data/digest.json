@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-15T19:19:40Z",
+ "generated_utc": "2026-10-15T19:42:01Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -525,16 +525,16 @@
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 75,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 85,
      "total": 421
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 85,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 75,
      "total": 421
     },
     {
@@ -1562,7 +1562,7 @@
    "pos": "MID",
    "price": 6.6,
    "points": 13,
-   "owned_by": 5.8
+   "owned_by": 5.9
   },
   {
    "name": "Jo\u00e3o Pedro",
@@ -2935,7 +2935,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 13.9,
+   "owned_globally_pct": 13.8,
    "i_own": false
   },
   {
