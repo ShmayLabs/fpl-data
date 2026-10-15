@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-15T14:49:25Z",
+ "generated_utc": "2026-10-15T15:11:51Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -2710,7 +2710,7 @@
    "pos": "MID",
    "price": 11.9,
    "owned_in_league_pct": 60.0,
-   "owned_globally_pct": 34.2,
+   "owned_globally_pct": 34.1,
    "i_own": false
   },
   {
@@ -3133,7 +3133,7 @@
    "pos": "FWD",
    "price": 4.4,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 5.0,
+   "owned_globally_pct": 5.1,
    "i_own": false
   },
   {
