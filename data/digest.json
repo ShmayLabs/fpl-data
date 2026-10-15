@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-15T19:42:01Z",
+ "generated_utc": "2026-10-15T20:04:23Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -232,7 +232,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.9,
-   "owned_by": 19.9,
+   "owned_by": 19.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -525,16 +525,16 @@
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 85,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 75,
      "total": 421
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 75,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 85,
      "total": 421
     },
     {
@@ -1738,7 +1738,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 8,
-   "owned_by": 19.9
+   "owned_by": 19.8
   }
  ],
  "rival_count": 25,
@@ -2791,7 +2791,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 19.9,
+   "owned_globally_pct": 19.8,
    "i_own": true
   },
   {
@@ -3259,7 +3259,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 14.6,
+   "owned_globally_pct": 14.5,
    "i_own": false
   },
   {
