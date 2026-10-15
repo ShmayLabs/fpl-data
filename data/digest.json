@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-15T21:11:27Z",
+ "generated_utc": "2026-10-15T21:33:47Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -194,7 +194,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.1,
-   "owned_by": 36.1,
+   "owned_by": 36.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1554,7 +1554,7 @@
    "pos": "DEF",
    "price": 5.1,
    "points": 15,
-   "owned_by": 36.1
+   "owned_by": 36.2
   },
   {
    "name": "Dewsbury-Hall",
@@ -1642,7 +1642,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 9,
-   "owned_by": 45.3
+   "owned_by": 45.4
   },
   {
    "name": "Verbruggen",
@@ -2719,7 +2719,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 45.3,
+   "owned_globally_pct": 45.4,
    "i_own": false
   },
   {
@@ -2746,7 +2746,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 36.1,
+   "owned_globally_pct": 36.2,
    "i_own": true
   },
   {
@@ -3214,7 +3214,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 6.8,
+   "owned_globally_pct": 6.7,
    "i_own": false
   },
   {
