@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-15T04:01:32Z",
+ "generated_utc": "2026-10-15T04:23:56Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -327,7 +327,7 @@
    "team": "BHA",
    "pos": "GK",
    "price": 4.6,
-   "owned_by": 21.9,
+   "owned_by": 22.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -525,16 +525,16 @@
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 85,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 75,
      "total": 421
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 75,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 85,
      "total": 421
     },
     {
@@ -1650,7 +1650,7 @@
    "pos": "GK",
    "price": 4.6,
    "points": 9,
-   "owned_by": 21.9
+   "owned_by": 22.0
   },
   {
    "name": "F.Kad\u0131o\u011flu",
@@ -2800,7 +2800,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 21.9,
+   "owned_globally_pct": 22.0,
    "i_own": true
   },
   {
