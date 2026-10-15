@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-15T14:04:35Z",
+ "generated_utc": "2026-10-15T14:27:01Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -251,7 +251,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 6.8,
-   "owned_by": 19.7,
+   "owned_by": 19.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -289,7 +289,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.6,
-   "owned_by": 75.3,
+   "owned_by": 75.4,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -525,16 +525,16 @@
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 75,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 85,
      "total": 421
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 85,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 75,
      "total": 421
     },
     {
@@ -2683,7 +2683,7 @@
    "pos": "FWD",
    "price": 15.6,
    "owned_in_league_pct": 88.0,
-   "owned_globally_pct": 75.3,
+   "owned_globally_pct": 75.4,
    "i_own": true
   },
   {
@@ -2809,7 +2809,7 @@
    "pos": "MID",
    "price": 6.8,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 19.7,
+   "owned_globally_pct": 19.6,
    "i_own": true
   },
   {
