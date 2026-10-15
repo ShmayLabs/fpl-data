@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-15T21:56:08Z",
+ "generated_utc": "2026-10-15T22:08:26Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -308,7 +308,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 70.2,
+   "owned_by": 70.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1570,7 +1570,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 70.2
+   "owned_by": 70.3
   },
   {
    "name": "Doku",
@@ -2692,7 +2692,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.0,
-   "owned_globally_pct": 70.2,
+   "owned_globally_pct": 70.3,
    "i_own": true
   },
   {
