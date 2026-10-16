@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-16T09:15:24Z",
+ "generated_utc": "2026-10-16T09:37:46Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -1610,7 +1610,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 10,
-   "owned_by": 33.1
+   "owned_by": 33.2
   },
   {
    "name": "Cunha",
@@ -2881,7 +2881,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 33.1,
+   "owned_globally_pct": 33.2,
    "i_own": false
   },
   {
