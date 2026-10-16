@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "PRICE FALL: Mbeumo dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-16T23:27:41Z",
+ "generated_utc": "2026-10-16T23:50:02Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -196,7 +196,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 38.3,
+   "owned_by": 38.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -534,16 +534,16 @@
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 75,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 81,
      "total": 421
     },
     {
      "rank": 6,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 81,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 75,
      "total": 421
     },
     {
@@ -1556,7 +1556,7 @@
    "pos": "DEF",
    "price": 5.2,
    "points": 15,
-   "owned_by": 38.3
+   "owned_by": 38.4
   },
   {
    "name": "Dewsbury-Hall",
@@ -2748,7 +2748,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 38.3,
+   "owned_globally_pct": 38.4,
    "i_own": true
   },
   {
@@ -2757,7 +2757,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 17.3,
+   "owned_globally_pct": 17.4,
    "i_own": false
   },
   {
@@ -2937,7 +2937,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 12.7,
+   "owned_globally_pct": 12.6,
    "i_own": false
   },
   {
@@ -3117,7 +3117,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 3.0,
+   "owned_globally_pct": 2.9,
    "i_own": false
   },
   {
