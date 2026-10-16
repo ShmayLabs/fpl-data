@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-16T07:45:54Z",
+ "generated_utc": "2026-10-16T08:08:16Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -118,7 +118,7 @@
    "team": "HUL",
    "pos": "GK",
    "price": 4.7,
-   "owned_by": 13.6,
+   "owned_by": 13.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -194,7 +194,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.1,
-   "owned_by": 36.4,
+   "owned_by": 36.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1554,7 +1554,7 @@
    "pos": "DEF",
    "price": 5.1,
    "points": 15,
-   "owned_by": 36.4
+   "owned_by": 36.5
   },
   {
    "name": "Dewsbury-Hall",
@@ -1610,7 +1610,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 10,
-   "owned_by": 33.0
+   "owned_by": 33.1
   },
   {
    "name": "Cunha",
@@ -2746,7 +2746,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 36.4,
+   "owned_globally_pct": 36.5,
    "i_own": true
   },
   {
@@ -2881,7 +2881,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 33.0,
+   "owned_globally_pct": 33.1,
    "i_own": false
   },
   {
@@ -2998,7 +2998,7 @@
    "pos": "GK",
    "price": 4.7,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 13.6,
+   "owned_globally_pct": 13.7,
    "i_own": true
   },
   {
@@ -3187,7 +3187,7 @@
    "pos": "DEF",
    "price": 4.3,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 6.6,
+   "owned_globally_pct": 6.5,
    "i_own": false
   },
   {
