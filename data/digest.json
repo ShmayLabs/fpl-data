@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-16T15:19:29Z",
+ "generated_utc": "2026-10-16T15:41:55Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -532,16 +532,16 @@
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 75,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 81,
      "total": 421
     },
     {
      "rank": 6,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 81,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 75,
      "total": 421
     },
     {
@@ -2827,7 +2827,7 @@
    "pos": "DEF",
    "price": 5.8,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 28.4,
+   "owned_globally_pct": 28.5,
    "i_own": false
   },
   {
@@ -2836,7 +2836,7 @@
    "pos": "MID",
    "price": 6.9,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 25.8,
+   "owned_globally_pct": 25.7,
    "i_own": false
   },
   {
@@ -3412,7 +3412,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 1.0,
+   "owned_globally_pct": 0.9,
    "i_own": false
   },
   {
