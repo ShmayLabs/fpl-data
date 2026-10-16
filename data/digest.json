@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-16T17:42:20Z",
+ "generated_utc": "2026-10-16T18:04:42Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -118,7 +118,7 @@
    "team": "HUL",
    "pos": "GK",
    "price": 4.7,
-   "owned_by": 13.7,
+   "owned_by": 13.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -194,7 +194,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.1,
-   "owned_by": 37.5,
+   "owned_by": 37.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -213,7 +213,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 16.7,
+   "owned_by": 16.8,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -251,7 +251,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 6.8,
-   "owned_by": 19.4,
+   "owned_by": 19.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -270,7 +270,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.0,
-   "owned_by": 41.6,
+   "owned_by": 41.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -532,16 +532,16 @@
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 75,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 81,
      "total": 421
     },
     {
      "rank": 6,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 81,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 75,
      "total": 421
     },
     {
@@ -1554,7 +1554,7 @@
    "pos": "DEF",
    "price": 5.1,
    "points": 15,
-   "owned_by": 37.5
+   "owned_by": 37.6
   },
   {
    "name": "Dewsbury-Hall",
@@ -1666,7 +1666,7 @@
    "pos": "FWD",
    "price": 6.6,
    "points": 9,
-   "owned_by": 3.4
+   "owned_by": 3.5
   },
   {
    "name": "Yeremy",
@@ -2737,7 +2737,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 41.6,
+   "owned_globally_pct": 41.7,
    "i_own": true
   },
   {
@@ -2746,7 +2746,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 37.5,
+   "owned_globally_pct": 37.6,
    "i_own": true
   },
   {
@@ -2809,7 +2809,7 @@
    "pos": "MID",
    "price": 6.8,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 19.4,
+   "owned_globally_pct": 19.3,
    "i_own": true
   },
   {
@@ -2899,7 +2899,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 16.7,
+   "owned_globally_pct": 16.8,
    "i_own": true
   },
   {
@@ -2998,7 +2998,7 @@
    "pos": "GK",
    "price": 4.7,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 13.7,
+   "owned_globally_pct": 13.8,
    "i_own": true
   },
   {
@@ -3403,7 +3403,7 @@
    "pos": "DEF",
    "price": 5.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.5,
+   "owned_globally_pct": 5.4,
    "i_own": false
   },
   {
@@ -3511,7 +3511,7 @@
    "pos": "FWD",
    "price": 6.6,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 3.4,
+   "owned_globally_pct": 3.5,
    "i_own": false
   },
   {
