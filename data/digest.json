@@ -14,7 +14,7 @@
   "NOT YET PLAYED: Belloumi (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Bogle (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-17T12:13:56Z",
+ "generated_utc": "2026-10-17T12:36:15Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -174,7 +174,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 0,
-   "gw_minutes": 38,
+   "gw_minutes": 45,
    "form": "5.7",
    "total_points": 46,
    "fixture_state": "in_progress",
@@ -345,7 +345,7 @@
    "chance_next": 100,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 38,
+   "gw_minutes": 45,
    "form": "4.3",
    "total_points": 46,
    "fixture_state": "in_progress",
@@ -487,8 +487,8 @@
      "rank": 8,
      "team": "Tics Champs By Xmas",
      "player": "Kieron Murphy",
-     "gw": 5,
-     "total": 369
+     "gw": 4,
+     "total": 368
     },
     {
      "rank": 9,
@@ -540,15 +540,15 @@
     },
     {
      "rank": 4,
-     "team": "Kash FC",
-     "player": "Prakash Shan",
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
      "gw": 2,
      "total": 434
     },
     {
      "rank": 4,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
+     "team": "Kash FC",
+     "player": "Prakash Shan",
      "gw": 2,
      "total": 434
     },
@@ -603,15 +603,15 @@
     },
     {
      "rank": 13,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
      "gw": 1,
      "total": 390
     },
     {
      "rank": 13,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
      "gw": 1,
      "total": 390
     },
@@ -640,8 +640,8 @@
      "rank": 18,
      "team": "Static FC",
      "player": "Nathaniel Josephs",
-     "gw": 3,
-     "total": 380
+     "gw": 4,
+     "total": 381
     },
     {
      "rank": 19,
@@ -744,8 +744,8 @@
      "rank": 7,
      "team": "Static FC",
      "player": "Nathaniel Josephs",
-     "gw": 3,
-     "total": 380
+     "gw": 4,
+     "total": 381
     },
     {
      "rank": 8,
@@ -1578,14 +1578,6 @@
    "owned_by": 4.6
   },
   {
-   "name": "Caicedo",
-   "team": "CHE",
-   "pos": "MID",
-   "price": 5.3,
-   "points": 3,
-   "owned_by": 1.0
-  },
-  {
    "name": "Lacroix",
    "team": "CHE",
    "pos": "DEF",
@@ -1594,20 +1586,20 @@
    "owned_by": 6.3
   },
   {
-   "name": "Grealish",
-   "team": "EVE",
-   "pos": "MID",
-   "price": 6.5,
-   "points": 3,
-   "owned_by": 0.5
-  },
-  {
    "name": "Henderson",
    "team": "CHE",
    "pos": "MID",
    "price": 4.9,
-   "points": 1,
+   "points": 2,
    "owned_by": 0.8
+  },
+  {
+   "name": "Grealish",
+   "team": "EVE",
+   "pos": "MID",
+   "price": 6.5,
+   "points": 2,
+   "owned_by": 0.5
   },
   {
    "name": "Hato",
@@ -1632,6 +1624,14 @@
    "price": 9.7,
    "points": 1,
    "owned_by": 26.1
+  },
+  {
+   "name": "Caicedo",
+   "team": "CHE",
+   "pos": "MID",
+   "price": 5.3,
+   "points": 1,
+   "owned_by": 1.0
   },
   {
    "name": "Jo\u00e3o Pedro",
@@ -1956,7 +1956,7 @@
    "team": "Tics Champs By Xmas",
    "manager": "Kieron Murphy",
    "rank": 8,
-   "total": 369,
+   "total": 368,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -2294,7 +2294,7 @@
    "team": "Static FC",
    "manager": "Nathaniel Josephs",
    "rank": 7,
-   "total": 380,
+   "total": 381,
    "chip": null,
    "squad": [
     "Verbruggen",
