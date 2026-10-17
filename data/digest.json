@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "PRICE FALL: Mbeumo dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-17T00:12:22Z",
+ "generated_utc": "2026-10-17T00:34:43Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -177,7 +177,7 @@
    "team": "COV",
    "pos": "DEF",
    "price": 4.0,
-   "owned_by": 9.0,
+   "owned_by": 9.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -272,7 +272,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 42.5,
+   "owned_by": 42.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -310,7 +310,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 71.5,
+   "owned_by": 71.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -527,13 +527,6 @@
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 75,
-     "total": 421
-    },
-    {
-     "rank": 6,
      "team": "Not too Xabi",
      "player": "Niall Walsh",
      "gw": 81,
@@ -544,6 +537,13 @@
      "team": "Expected Toulouse",
      "player": "Joe McClelland",
      "gw": 85,
+     "total": 421
+    },
+    {
+     "rank": 6,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 75,
      "total": 421
     },
     {
@@ -701,16 +701,16 @@
     },
     {
      "rank": 5,
-     "team": "Tramontozpor",
-     "player": "Kwadwo David",
-     "gw": 66,
+     "team": "Norris FC",
+     "player": "Rob Norris",
+     "gw": 69,
      "total": 392
     },
     {
      "rank": 5,
-     "team": "Norris FC",
-     "player": "Rob Norris",
-     "gw": 69,
+     "team": "Tramontozpor",
+     "player": "Kwadwo David",
+     "gw": 66,
      "total": 392
     },
     {
@@ -1572,7 +1572,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 71.5
+   "owned_by": 71.6
   },
   {
    "name": "Doku",
@@ -1612,7 +1612,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 10,
-   "owned_by": 35.2
+   "owned_by": 35.3
   },
   {
    "name": "Cunha",
@@ -2263,6 +2263,43 @@
    ]
   },
   {
+   "team": "Norris FC",
+   "manager": "Rob Norris",
+   "rank": 5,
+   "total": 392,
+   "chip": null,
+   "squad": [
+    "Lammens",
+    "Diop",
+    "Calafiori",
+    "Konsa",
+    "Gro\u00df",
+    "Palmer",
+    "Semenyo",
+    "Rogers",
+    "Wissa",
+    "Haaland",
+    "Jo\u00e3o Pedro",
+    "Dubravka",
+    "Anderson",
+    "Ajer",
+    "Thomas"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Anderson",
+    "Diop",
+    "Rogers",
+    "Semenyo",
+    "Wissa",
+    "Dubravka",
+    "Ajer",
+    "Palmer",
+    "Lammens",
+    "Konsa"
+   ]
+  },
+  {
    "team": "Tramontozpor",
    "manager": "Kwadwo David",
    "rank": 5,
@@ -2300,43 +2337,6 @@
     "Semenyo",
     "Dovin",
     "Mitchell"
-   ]
-  },
-  {
-   "team": "Norris FC",
-   "manager": "Rob Norris",
-   "rank": 5,
-   "total": 392,
-   "chip": null,
-   "squad": [
-    "Lammens",
-    "Diop",
-    "Calafiori",
-    "Konsa",
-    "Gro\u00df",
-    "Palmer",
-    "Semenyo",
-    "Rogers",
-    "Wissa",
-    "Haaland",
-    "Jo\u00e3o Pedro",
-    "Dubravka",
-    "Anderson",
-    "Ajer",
-    "Thomas"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Anderson",
-    "Diop",
-    "Rogers",
-    "Semenyo",
-    "Wissa",
-    "Dubravka",
-    "Ajer",
-    "Palmer",
-    "Lammens",
-    "Konsa"
    ]
   },
   {
@@ -2694,7 +2694,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.0,
-   "owned_globally_pct": 71.5,
+   "owned_globally_pct": 71.6,
    "i_own": true
   },
   {
@@ -2739,7 +2739,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 42.5,
+   "owned_globally_pct": 42.6,
    "i_own": true
   },
   {
@@ -2865,7 +2865,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 9.0,
+   "owned_globally_pct": 9.1,
    "i_own": true
   },
   {
@@ -2874,7 +2874,7 @@
    "pos": "FWD",
    "price": 6.2,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 16.4,
+   "owned_globally_pct": 16.3,
    "i_own": false
   },
   {
@@ -2883,7 +2883,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 35.2,
+   "owned_globally_pct": 35.3,
    "i_own": false
   },
   {
@@ -3247,15 +3247,6 @@
    "i_own": false
   },
   {
-   "name": "Gibbs-White",
-   "team": "NFO",
-   "pos": "MID",
-   "price": 8.0,
-   "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 13.4,
-   "i_own": false
-  },
-  {
    "name": "Anderson",
    "team": "MCI",
    "pos": "MID",
@@ -3265,12 +3256,21 @@
    "i_own": false
   },
   {
+   "name": "Gibbs-White",
+   "team": "NFO",
+   "pos": "MID",
+   "price": 8.0,
+   "owned_in_league_pct": 8.0,
+   "owned_globally_pct": 13.4,
+   "i_own": false
+  },
+  {
    "name": "Schade",
    "team": "BRE",
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 14.1,
+   "owned_globally_pct": 14.0,
    "i_own": false
   },
   {
