@@ -14,7 +14,7 @@
   "NOT YET PLAYED: Belloumi (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Bogle (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-17T13:36:28Z",
+ "generated_utc": "2026-10-17T13:58:46Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -177,7 +177,7 @@
    "gw_minutes": 90,
    "form": "5.7",
    "total_points": 46,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -223,7 +223,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 39.7,
+   "owned_by": 39.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -348,7 +348,7 @@
    "gw_minutes": 90,
    "form": "4.7",
    "total_points": 47,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -1730,6 +1730,14 @@
    "owned_by": 0.2
   },
   {
+   "name": "Quenda",
+   "team": "CHE",
+   "pos": "MID",
+   "price": 5.3,
+   "points": 1,
+   "owned_by": 0.0
+  },
+  {
    "name": "Johnson",
    "team": "EVE",
    "pos": "MID",
@@ -1760,14 +1768,6 @@
    "price": 5.5,
    "points": 1,
    "owned_by": 0.6
-  },
-  {
-   "name": "Armstrong",
-   "team": "EVE",
-   "pos": "MID",
-   "price": 5.0,
-   "points": 1,
-   "owned_by": 0.3
   }
  ],
  "rival_count": 25,
@@ -2743,7 +2743,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 44.0,
-   "owned_globally_pct": 39.7,
+   "owned_globally_pct": 39.8,
    "i_own": true
   },
   {
