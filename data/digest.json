@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "PRICE FALL: Mbeumo dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-17T09:10:32Z",
+ "generated_utc": "2026-10-17T09:32:52Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -196,7 +196,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 39.5,
+   "owned_by": 39.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -272,7 +272,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 43.7,
+   "owned_by": 43.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -291,7 +291,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.7,
-   "owned_by": 76.3,
+   "owned_by": 76.4,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -527,16 +527,16 @@
     },
     {
      "rank": 6,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 81,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 85,
      "total": 421
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 85,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 81,
      "total": 421
     },
     {
@@ -1556,7 +1556,7 @@
    "pos": "DEF",
    "price": 5.2,
    "points": 15,
-   "owned_by": 39.5
+   "owned_by": 39.6
   },
   {
    "name": "Dewsbury-Hall",
@@ -1612,7 +1612,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 10,
-   "owned_by": 36.6
+   "owned_by": 36.7
   },
   {
    "name": "Cunha",
@@ -1660,7 +1660,7 @@
    "pos": "DEF",
    "price": 4.4,
    "points": 9,
-   "owned_by": 1.6
+   "owned_by": 1.7
   },
   {
    "name": "N.Jackson",
@@ -2685,7 +2685,7 @@
    "pos": "FWD",
    "price": 15.7,
    "owned_in_league_pct": 88.0,
-   "owned_globally_pct": 76.3,
+   "owned_globally_pct": 76.4,
    "i_own": true
   },
   {
@@ -2712,7 +2712,7 @@
    "pos": "MID",
    "price": 11.8,
    "owned_in_league_pct": 60.0,
-   "owned_globally_pct": 31.2,
+   "owned_globally_pct": 31.1,
    "i_own": false
   },
   {
@@ -2739,7 +2739,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 43.7,
+   "owned_globally_pct": 43.8,
    "i_own": true
   },
   {
@@ -2748,7 +2748,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 39.5,
+   "owned_globally_pct": 39.6,
    "i_own": true
   },
   {
@@ -2829,7 +2829,7 @@
    "pos": "DEF",
    "price": 5.8,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 28.9,
+   "owned_globally_pct": 29.0,
    "i_own": false
   },
   {
@@ -2838,7 +2838,7 @@
    "pos": "MID",
    "price": 6.8,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 22.3,
+   "owned_globally_pct": 22.1,
    "i_own": false
   },
   {
@@ -2874,7 +2874,7 @@
    "pos": "FWD",
    "price": 6.2,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 15.8,
+   "owned_globally_pct": 15.7,
    "i_own": false
   },
   {
@@ -2883,7 +2883,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 36.6,
+   "owned_globally_pct": 36.7,
    "i_own": false
   },
   {
@@ -2937,7 +2937,7 @@
    "pos": "FWD",
    "price": 9.0,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 12.1,
+   "owned_globally_pct": 12.0,
    "i_own": false
   },
   {
@@ -3126,7 +3126,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.1,
+   "owned_globally_pct": 4.2,
    "i_own": false
   },
   {
@@ -3243,7 +3243,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 7.2,
+   "owned_globally_pct": 7.1,
    "i_own": false
   },
   {
@@ -3261,7 +3261,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 12.5,
+   "owned_globally_pct": 12.4,
    "i_own": false
   },
   {
@@ -3270,7 +3270,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 13.7,
+   "owned_globally_pct": 13.6,
    "i_own": false
   },
   {
