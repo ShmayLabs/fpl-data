@@ -10,7 +10,7 @@
   "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Bogle (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-17T20:01:27Z",
+ "generated_utc": "2026-10-17T20:23:56Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -21,7 +21,7 @@
   "total_points": 446,
   "rank": 962304,
   "rank_sort": 985863,
-  "overall_rank": 994433,
+  "overall_rank": 994435,
   "percentile_rank": 10,
   "overall_rank_percentage": "9",
   "bank": 8,
@@ -123,18 +123,18 @@
   },
   {
    "event": 7,
-   "points": 0,
-   "total_points": 402,
-   "rank": null,
-   "rank_sort": null,
-   "overall_rank": 1476208,
-   "percentile_rank": null,
-   "overall_rank_percentage": null,
+   "points": 44,
+   "total_points": 446,
+   "rank": 962304,
+   "rank_sort": 985863,
+   "overall_rank": 994433,
+   "percentile_rank": 10,
+   "overall_rank_percentage": "9",
    "bank": 8,
    "value": 1007,
    "event_transfers": 0,
    "event_transfers_cost": 0,
-   "points_on_bench": 0
+   "points_on_bench": 4
   }
  ],
  "squad": [
@@ -295,7 +295,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 44.1,
+   "owned_by": 44.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -648,16 +648,16 @@
     },
     {
      "rank": 20,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 17,
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
+     "gw": 45,
      "total": 410
     },
     {
      "rank": 20,
-     "team": "Boundary Park Blues",
-     "player": "Ben McNamara",
-     "gw": 45,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 17,
      "total": 410
     },
     {
@@ -2730,7 +2730,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 52.0,
-   "owned_globally_pct": 44.1,
+   "owned_globally_pct": 44.2,
    "i_own": true
   },
   {
@@ -3171,7 +3171,7 @@
    "pos": "GK",
    "price": 5.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 7.7,
+   "owned_globally_pct": 7.8,
    "i_own": false
   },
   {
