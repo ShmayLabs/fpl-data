@@ -10,7 +10,7 @@
   "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Bogle (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-17T22:57:12Z",
+ "generated_utc": "2026-10-17T23:19:41Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -180,7 +180,7 @@
    "name": "Calafiori",
    "team": "ARS",
    "pos": "DEF",
-   "price": 5.9,
+   "price": 6.0,
    "owned_by": 53.3,
    "is_captain": false,
    "is_vice": false,
@@ -1585,9 +1585,9 @@
    "name": "Manzambi",
    "team": "AVL",
    "pos": "MID",
-   "price": 5.9,
+   "price": 6.0,
    "points": 11,
-   "owned_by": 2.3
+   "owned_by": 2.4
   },
   {
    "name": "Hato",
@@ -1610,7 +1610,7 @@
    "team": "AVL",
    "pos": "DEF",
    "price": 4.5,
-   "points": 10,
+   "points": 9,
    "owned_by": 0.3
   },
   {
@@ -1619,7 +1619,7 @@
    "pos": "MID",
    "price": 5.5,
    "points": 9,
-   "owned_by": 1.5
+   "owned_by": 1.6
   },
   {
    "name": "Munoz",
@@ -1686,6 +1686,14 @@
    "owned_by": 1.9
   },
   {
+   "name": "Mings",
+   "team": "AVL",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 7,
+   "owned_by": 0.4
+  },
+  {
    "name": "Acheampong",
    "team": "CHE",
    "pos": "DEF",
@@ -1697,7 +1705,7 @@
    "name": "Robinson",
    "team": "FUL",
    "pos": "DEF",
-   "price": 4.5,
+   "price": 4.4,
    "points": 7,
    "owned_by": 1.3
   },
@@ -1708,14 +1716,6 @@
    "price": 5.3,
    "points": 7,
    "owned_by": 0.2
-  },
-  {
-   "name": "Mings",
-   "team": "AVL",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 6,
-   "owned_by": 0.4
   },
   {
    "name": "Colwill",
@@ -2710,7 +2710,7 @@
    "name": "Calafiori",
    "team": "ARS",
    "pos": "DEF",
-   "price": 5.9,
+   "price": 6.0,
    "owned_in_league_pct": 60.0,
    "owned_globally_pct": 53.3,
    "i_own": true
@@ -2791,7 +2791,7 @@
    "name": "Cherki",
    "team": "MCI",
    "pos": "MID",
-   "price": 7.9,
+   "price": 8.0,
    "owned_in_league_pct": 32.0,
    "owned_globally_pct": 37.0,
    "i_own": false
@@ -2863,7 +2863,7 @@
    "name": "Diop",
    "team": "IPS",
    "pos": "DEF",
-   "price": 4.0,
+   "price": 3.9,
    "owned_in_league_pct": 24.0,
    "owned_globally_pct": 11.1,
    "i_own": false
@@ -3000,7 +3000,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 1.5,
+   "owned_globally_pct": 1.6,
    "i_own": false
   },
   {
@@ -3574,9 +3574,9 @@
    "name": "Manzambi",
    "team": "AVL",
    "pos": "MID",
-   "price": 5.9,
+   "price": 6.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.3,
+   "owned_globally_pct": 2.4,
    "i_own": false
   },
   {
