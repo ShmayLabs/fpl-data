@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "PRICE FALL: Mbeumo dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-17T01:19:23Z",
+ "generated_utc": "2026-10-17T01:41:43Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -534,16 +534,16 @@
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 85,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 75,
      "total": 421
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 75,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 85,
      "total": 421
     },
     {
@@ -1644,7 +1644,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 9,
-   "owned_by": 46.4
+   "owned_by": 46.5
   },
   {
    "name": "Verbruggen",
@@ -2721,7 +2721,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 46.4,
+   "owned_globally_pct": 46.5,
    "i_own": false
   },
   {
@@ -3486,7 +3486,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.9,
+   "owned_globally_pct": 5.0,
    "i_own": false
   },
   {
@@ -3495,7 +3495,7 @@
    "pos": "DEF",
    "price": 4.4,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.3,
+   "owned_globally_pct": 4.2,
    "i_own": false
   },
   {
