@@ -10,7 +10,7 @@
   "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Bogle (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-17T14:43:24Z",
+ "generated_utc": "2026-10-17T15:05:44Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -151,7 +151,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 39,
+   "gw_minutes": 45,
    "form": "3.0",
    "total_points": 37,
    "fixture_state": "in_progress",
@@ -322,7 +322,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 8,
-   "gw_minutes": 37,
+   "gw_minutes": 45,
    "form": "6.7",
    "total_points": 53,
    "fixture_state": "in_progress",
@@ -379,7 +379,7 @@
    "chance_next": 100,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 37,
+   "gw_minutes": 45,
    "form": "1.7",
    "total_points": 29,
    "fixture_state": "in_progress",
@@ -398,7 +398,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 39,
+   "gw_minutes": 45,
    "form": "3.7",
    "total_points": 38,
    "fixture_state": "in_progress",
@@ -462,8 +462,8 @@
      "rank": 5,
      "team": "Tics Champs By Xmas",
      "player": "Kieron Murphy",
-     "gw": 32,
-     "total": 396
+     "gw": 37,
+     "total": 401
     },
     {
      "rank": 6,
@@ -538,8 +538,8 @@
      "rank": 4,
      "team": "Man (Zambi) On",
      "player": "Liam Brockhurst",
-     "gw": 26,
-     "total": 460
+     "gw": 24,
+     "total": 458
     },
     {
      "rank": 5,
@@ -655,31 +655,31 @@
     },
     {
      "rank": 21,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 21,
+     "total": 398
+    },
+    {
+     "rank": 22,
      "team": "Andoni Here We Go-la",
      "player": "Alex O'Leary",
      "gw": 21,
      "total": 395
     },
     {
-     "rank": 21,
+     "rank": 22,
      "team": "Boundary Park Blues",
      "player": "Ben McNamara",
      "gw": 30,
      "total": 395
     },
     {
-     "rank": 23,
+     "rank": 24,
      "team": "WheelshavfallenoffXI",
      "player": "simon g",
      "gw": 21,
      "total": 394
-    },
-    {
-     "rank": 24,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 16,
-     "total": 393
     },
     {
      "rank": 25,
@@ -745,20 +745,20 @@
     },
     {
      "rank": 8,
+     "team": "Static FC",
+     "player": "Nathaniel Josephs",
+     "gw": 21,
+     "total": 398
+    },
+    {
+     "rank": 8,
      "team": "Tramontozpor",
      "player": "Kwadwo David",
      "gw": 6,
      "total": 398
     },
     {
-     "rank": 9,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 16,
-     "total": 393
-    },
-    {
-     "rank": 9,
+     "rank": 10,
      "team": "JTindall Solo Album",
      "player": "Niall Ballinger",
      "gw": 19,
@@ -768,8 +768,8 @@
      "rank": 11,
      "team": "Prep Big B",
      "player": "Darren Heath",
-     "gw": 24,
-     "total": 381
+     "gw": 29,
+     "total": 386
     },
     {
      "rank": 12,
@@ -1582,6 +1582,14 @@
    "owned_by": 0.6
   },
   {
+   "name": "Lewis-Potter",
+   "team": "BRE",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 9,
+   "owned_by": 1.5
+  },
+  {
    "name": "Iwobi",
    "team": "FUL",
    "pos": "MID",
@@ -1620,6 +1628,14 @@
    "price": 6.8,
    "points": 7,
    "owned_by": 1.5
+  },
+  {
+   "name": "Thiago",
+   "team": "BRE",
+   "pos": "FWD",
+   "price": 7.8,
+   "points": 6,
+   "owned_by": 8.9
   },
   {
    "name": "Colwill",
@@ -1662,44 +1678,12 @@
    "owned_by": 0.2
   },
   {
-   "name": "Virgil",
-   "team": "LIV",
-   "pos": "DEF",
-   "price": 6.5,
-   "points": 4,
-   "owned_by": 15.5
-  },
-  {
    "name": "Doku",
    "team": "MCI",
    "pos": "MID",
    "price": 7.4,
    "points": 4,
    "owned_by": 1.8
-  },
-  {
-   "name": "Lewis-Potter",
-   "team": "BRE",
-   "pos": "MID",
-   "price": 5.5,
-   "points": 3,
-   "owned_by": 1.5
-  },
-  {
-   "name": "Ajer",
-   "team": "BRE",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 3,
-   "owned_by": 3.8
-  },
-  {
-   "name": "Kayode",
-   "team": "BRE",
-   "pos": "DEF",
-   "price": 4.6,
-   "points": 3,
-   "owned_by": 7.2
   },
   {
    "name": "Henderson",
@@ -1734,6 +1718,14 @@
    "owned_by": 47.2
   },
   {
+   "name": "Kayode",
+   "team": "BRE",
+   "pos": "DEF",
+   "price": 4.6,
+   "points": 2,
+   "owned_by": 7.2
+  },
+  {
    "name": "Palmer",
    "team": "CHE",
    "pos": "MID",
@@ -1764,6 +1756,14 @@
    "price": 6.6,
    "points": 2,
    "owned_by": 6.1
+  },
+  {
+   "name": "Grealish",
+   "team": "EVE",
+   "pos": "MID",
+   "price": 6.5,
+   "points": 2,
+   "owned_by": 0.5
   }
  ],
  "rival_count": 25,
@@ -1905,7 +1905,7 @@
    "team": "Tics Champs By Xmas",
    "manager": "Kieron Murphy",
    "rank": 5,
-   "total": 396,
+   "total": 401,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -2385,6 +2385,41 @@
    ]
   },
   {
+   "team": "Static FC",
+   "manager": "Nathaniel Josephs",
+   "rank": 8,
+   "total": 398,
+   "chip": null,
+   "squad": [
+    "Verbruggen",
+    "De Cuyper",
+    "Calafiori",
+    "Konsa",
+    "Henderson",
+    "B.Fernandes",
+    "Mbeumo",
+    "\u00d8degaard",
+    "Thiago",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Leno",
+    "Egan",
+    "Slater",
+    "Maitland-Niles"
+   ],
+   "captain": "Jo\u00e3o Pedro",
+   "differentials_vs_me": [
+    "Slater",
+    "Henderson",
+    "Maitland-Niles",
+    "B.Fernandes",
+    "Thiago",
+    "Egan",
+    "Leno",
+    "Konsa"
+   ]
+  },
+  {
    "team": "Tramontozpor",
    "manager": "Kwadwo David",
    "rank": 8,
@@ -2425,44 +2460,9 @@
    ]
   },
   {
-   "team": "Static FC",
-   "manager": "Nathaniel Josephs",
-   "rank": 9,
-   "total": 393,
-   "chip": null,
-   "squad": [
-    "Verbruggen",
-    "De Cuyper",
-    "Calafiori",
-    "Konsa",
-    "Henderson",
-    "B.Fernandes",
-    "Mbeumo",
-    "\u00d8degaard",
-    "Thiago",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Leno",
-    "Egan",
-    "Slater",
-    "Maitland-Niles"
-   ],
-   "captain": "Jo\u00e3o Pedro",
-   "differentials_vs_me": [
-    "Slater",
-    "Henderson",
-    "Maitland-Niles",
-    "B.Fernandes",
-    "Thiago",
-    "Egan",
-    "Leno",
-    "Konsa"
-   ]
-  },
-  {
    "team": "JTindall Solo Album",
    "manager": "Niall Ballinger",
-   "rank": 9,
+   "rank": 10,
    "total": 393,
    "chip": null,
    "squad": [
@@ -2500,7 +2500,7 @@
    "team": "Prep Big B",
    "manager": "Darren Heath",
    "rank": 11,
-   "total": 381,
+   "total": 386,
    "chip": null,
    "squad": [
     "Lammens",
@@ -3162,7 +3162,7 @@
    "pos": "GK",
    "price": 5.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 7.7,
+   "owned_globally_pct": 7.8,
    "i_own": false
   },
   {
@@ -3238,6 +3238,15 @@
    "i_own": false
   },
   {
+   "name": "Maitland-Niles",
+   "team": "EVE",
+   "pos": "DEF",
+   "price": 4.5,
+   "owned_in_league_pct": 8.0,
+   "owned_globally_pct": 1.5,
+   "i_own": false
+  },
+  {
    "name": "Gibbs-White",
    "team": "NFO",
    "pos": "MID",
@@ -3262,15 +3271,6 @@
    "price": 5.4,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 4.3,
-   "i_own": false
-  },
-  {
-   "name": "Maitland-Niles",
-   "team": "EVE",
-   "pos": "DEF",
-   "price": 4.5,
-   "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 1.5,
    "i_own": false
   },
   {
@@ -3562,24 +3562,6 @@
    "i_own": false
   },
   {
-   "name": "Simms",
-   "team": "COV",
-   "pos": "FWD",
-   "price": 4.9,
-   "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 0.7,
-   "i_own": false
-  },
-  {
-   "name": "Dovin",
-   "team": "COV",
-   "pos": "GK",
-   "price": 4.0,
-   "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 0.9,
-   "i_own": false
-  },
-  {
    "name": "Henderson",
    "team": "CHE",
    "pos": "MID",
@@ -3595,6 +3577,24 @@
    "price": 7.8,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 8.9,
+   "i_own": false
+  },
+  {
+   "name": "Simms",
+   "team": "COV",
+   "pos": "FWD",
+   "price": 4.9,
+   "owned_in_league_pct": 4.0,
+   "owned_globally_pct": 0.7,
+   "i_own": false
+  },
+  {
+   "name": "Dovin",
+   "team": "COV",
+   "pos": "GK",
+   "price": 4.0,
+   "owned_in_league_pct": 4.0,
+   "owned_globally_pct": 0.9,
    "i_own": false
   },
   {
