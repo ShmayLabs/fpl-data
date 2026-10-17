@@ -16,7 +16,7 @@
   "NOT YET PLAYED: Belloumi (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Bogle (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-17T10:44:39Z",
+ "generated_utc": "2026-10-17T11:06:59Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -542,15 +542,15 @@
     },
     {
      "rank": 4,
-     "team": "Kash FC",
-     "player": "Prakash Shan",
+     "team": "HMH Ath",
+     "player": "Craig Hughes",
      "gw": 0,
      "total": 432
     },
     {
      "rank": 4,
-     "team": "HMH Ath",
-     "player": "Craig Hughes",
+     "team": "Kash FC",
+     "player": "Prakash Shan",
      "gw": 0,
      "total": 432
     },
@@ -563,15 +563,15 @@
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
      "gw": 0,
      "total": 421
     },
     {
      "rank": 6,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
      "gw": 0,
      "total": 421
     },
@@ -605,15 +605,15 @@
     },
     {
      "rank": 13,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
      "gw": 0,
      "total": 389
     },
     {
      "rank": 13,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
      "gw": 0,
      "total": 389
     },
@@ -2526,7 +2526,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 52.0,
-   "owned_globally_pct": 47.2,
+   "owned_globally_pct": 47.3,
    "i_own": false
   },
   {
@@ -2553,7 +2553,7 @@
    "pos": "MID",
    "price": 11.8,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 30.8,
+   "owned_globally_pct": 30.7,
    "i_own": false
   },
   {
