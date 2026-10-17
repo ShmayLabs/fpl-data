@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "PRICE FALL: Mbeumo dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-17T02:48:44Z",
+ "generated_utc": "2026-10-17T03:11:05Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -310,7 +310,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 71.6,
+   "owned_by": 71.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -527,6 +527,13 @@
     },
     {
      "rank": 6,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 85,
+     "total": 421
+    },
+    {
+     "rank": 6,
      "team": "Paul's Team",
      "player": "Paul Larkin",
      "gw": 75,
@@ -537,13 +544,6 @@
      "team": "Not too Xabi",
      "player": "Niall Walsh",
      "gw": 81,
-     "total": 421
-    },
-    {
-     "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 85,
      "total": 421
     },
     {
@@ -1572,7 +1572,7 @@
    "pos": "FWD",
    "price": 7.8,
    "points": 12,
-   "owned_by": 71.6
+   "owned_by": 71.7
   },
   {
    "name": "Doku",
@@ -2694,7 +2694,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 84.0,
-   "owned_globally_pct": 71.6,
+   "owned_globally_pct": 71.7,
    "i_own": true
   },
   {
@@ -3018,7 +3018,7 @@
    "pos": "DEF",
    "price": 6.5,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 15.6,
+   "owned_globally_pct": 15.5,
    "i_own": false
   },
   {
@@ -3252,7 +3252,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 13.3,
+   "owned_globally_pct": 13.2,
    "i_own": false
   },
   {
@@ -3594,7 +3594,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 3.3,
+   "owned_globally_pct": 3.2,
    "i_own": false
   },
   {
