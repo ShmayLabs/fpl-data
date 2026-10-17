@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "PRICE FALL: Mbeumo dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-17T04:48:36Z",
+ "generated_utc": "2026-10-17T05:10:55Z",
  "next_gw": 7,
  "next_deadline_utc": "2026-10-17T10:00:00Z",
  "gw_finished": true,
@@ -527,9 +527,9 @@
     },
     {
      "rank": 6,
-     "team": "Paul's Team",
-     "player": "Paul Larkin",
-     "gw": 75,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 85,
      "total": 421
     },
     {
@@ -541,9 +541,9 @@
     },
     {
      "rank": 6,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 85,
+     "team": "Paul's Team",
+     "player": "Paul Larkin",
+     "gw": 75,
      "total": 421
     },
     {
@@ -1644,7 +1644,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 9,
-   "owned_by": 46.5
+   "owned_by": 46.6
   },
   {
    "name": "Verbruggen",
@@ -1668,7 +1668,7 @@
    "pos": "FWD",
    "price": 6.6,
    "points": 9,
-   "owned_by": 3.7
+   "owned_by": 3.8
   },
   {
    "name": "Yeremy",
@@ -2712,7 +2712,7 @@
    "pos": "MID",
    "price": 11.8,
    "owned_in_league_pct": 60.0,
-   "owned_globally_pct": 31.9,
+   "owned_globally_pct": 31.8,
    "i_own": false
   },
   {
@@ -2721,7 +2721,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 46.5,
+   "owned_globally_pct": 46.6,
    "i_own": false
   },
   {
@@ -2829,7 +2829,7 @@
    "pos": "DEF",
    "price": 5.8,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 28.7,
+   "owned_globally_pct": 28.8,
    "i_own": false
   },
   {
@@ -3252,7 +3252,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 13.2,
+   "owned_globally_pct": 13.1,
    "i_own": false
   },
   {
@@ -3270,7 +3270,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 14.0,
+   "owned_globally_pct": 13.9,
    "i_own": false
   },
   {
@@ -3477,7 +3477,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.6,
+   "owned_globally_pct": 4.7,
    "i_own": false
   },
   {
@@ -3513,7 +3513,7 @@
    "pos": "FWD",
    "price": 6.6,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 3.7,
+   "owned_globally_pct": 3.8,
    "i_own": false
   },
   {
