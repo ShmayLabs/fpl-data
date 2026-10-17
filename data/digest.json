@@ -10,25 +10,25 @@
   "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Bogle (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-17T19:38:57Z",
+ "generated_utc": "2026-10-17T20:01:27Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
  "squad_from_gw": 7,
  "entry_history": {
   "event": 7,
-  "points": 0,
-  "total_points": 402,
-  "rank": null,
-  "rank_sort": null,
-  "overall_rank": 1476208,
-  "percentile_rank": null,
-  "overall_rank_percentage": null,
+  "points": 44,
+  "total_points": 446,
+  "rank": 962304,
+  "rank_sort": 985863,
+  "overall_rank": 994433,
+  "percentile_rank": 10,
+  "overall_rank_percentage": "9",
   "bank": 8,
   "value": 1007,
   "event_transfers": 0,
   "event_transfers_cost": 0,
-  "points_on_bench": 0
+  "points_on_bench": 4
  },
  "season_history": [
   {
@@ -3171,7 +3171,7 @@
    "pos": "GK",
    "price": 5.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 7.8,
+   "owned_globally_pct": 7.7,
    "i_own": false
   },
   {
