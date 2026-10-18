@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-18T17:28:52Z",
+ "generated_utc": "2026-10-18T17:51:17Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -184,7 +184,7 @@
    "gw_minutes": 90,
    "form": "5.3",
    "total_points": 44,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -241,7 +241,7 @@
    "gw_minutes": 90,
    "form": "2.3",
    "total_points": 37,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -279,7 +279,7 @@
    "gw_minutes": 90,
    "form": "2.0",
    "total_points": 33,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -287,7 +287,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 44.5,
+   "owned_by": 44.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -454,8 +454,8 @@
      "rank": 5,
      "team": "T_R",
      "player": "Tom Roberts",
-     "gw": 62,
-     "total": 436
+     "gw": 63,
+     "total": 437
     },
     {
      "rank": 6,
@@ -468,8 +468,8 @@
      "rank": 7,
      "team": "Class of 94",
      "player": "Dan Healey",
-     "gw": 55,
-     "total": 427
+     "gw": 56,
+     "total": 428
     },
     {
      "rank": 8,
@@ -482,8 +482,8 @@
      "rank": 9,
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
-     "gw": 64,
-     "total": 398
+     "gw": 63,
+     "total": 397
     },
     {
      "rank": 10,
@@ -558,8 +558,8 @@
      "rank": 8,
      "team": "L&K 11",
      "player": "Lee Gorman",
-     "gw": 79,
-     "total": 489
+     "gw": 80,
+     "total": 490
     },
     {
      "rank": 9,
@@ -579,15 +579,15 @@
      "rank": 11,
      "team": "Blind Faith",
      "player": "Janied Inayat",
-     "gw": 82,
-     "total": 471
+     "gw": 83,
+     "total": 472
     },
     {
      "rank": 12,
      "team": "Matt's Team",
      "player": "Matt Lowe",
-     "gw": 89,
-     "total": 467
+     "gw": 90,
+     "total": 468
     },
     {
      "rank": 13,
@@ -607,8 +607,8 @@
      "rank": 15,
      "team": "ChickenTikka Mangala",
      "player": "James Davies",
-     "gw": 68,
-     "total": 454
+     "gw": 69,
+     "total": 455
     },
     {
      "rank": 16,
@@ -711,8 +711,8 @@
      "rank": 4,
      "team": "beef cherki",
      "player": "Samuel Dennis",
-     "gw": 90,
-     "total": 466
+     "gw": 91,
+     "total": 467
     },
     {
      "rank": 5,
@@ -781,15 +781,15 @@
      "rank": 14,
      "team": "RebellTeam",
      "player": "Santi Rebella",
-     "gw": 49,
-     "total": 397
+     "gw": 48,
+     "total": 396
     },
     {
      "rank": 15,
      "team": "Jimbledon FC",
      "player": "James Martin",
-     "gw": 52,
-     "total": 365
+     "gw": 51,
+     "total": 364
     }
    ]
   }
@@ -1646,6 +1646,14 @@
    "owned_by": 8.1
   },
   {
+   "name": "Raya",
+   "team": "ARS",
+   "pos": "GK",
+   "price": 6.1,
+   "points": 9,
+   "owned_by": 43.9
+  },
+  {
    "name": "Konsa",
    "team": "ARS",
    "pos": "DEF",
@@ -1702,28 +1710,12 @@
    "owned_by": 1.5
   },
   {
-   "name": "Raya",
-   "team": "ARS",
-   "pos": "GK",
-   "price": 6.1,
-   "points": 8,
-   "owned_by": 43.9
-  },
-  {
    "name": "Gabriel",
    "team": "ARS",
    "pos": "DEF",
    "price": 7.9,
    "points": 8,
    "owned_by": 21.1
-  },
-  {
-   "name": "Rice",
-   "team": "ARS",
-   "pos": "MID",
-   "price": 7.3,
-   "points": 8,
-   "owned_by": 10.9
   },
   {
    "name": "Martinez",
@@ -1756,6 +1748,14 @@
    "price": 4.5,
    "points": 8,
    "owned_by": 1.1
+  },
+  {
+   "name": "Castagne",
+   "team": "FUL",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 8,
+   "owned_by": 1.2
   }
  ],
  "rival_count": 25,
@@ -1897,7 +1897,7 @@
    "team": "T_R",
    "manager": "Tom Roberts",
    "rank": 5,
-   "total": 436,
+   "total": 437,
    "chip": null,
    "squad": [
     "Raya",
@@ -1973,7 +1973,7 @@
    "team": "Class of 94",
    "manager": "Dan Healey",
    "rank": 7,
-   "total": 427,
+   "total": 428,
    "chip": "wildcard",
    "squad": [
     "Raya",
@@ -2047,7 +2047,7 @@
    "team": "The Goal Hangers",
    "manager": "Nik Barlow",
    "rank": 9,
-   "total": 398,
+   "total": 397,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2233,7 +2233,7 @@
    "team": "beef cherki",
    "manager": "Samuel Dennis",
    "rank": 4,
-   "total": 466,
+   "total": 467,
    "chip": "3xc",
    "squad": [
     "Raya",
@@ -2603,7 +2603,7 @@
    "team": "RebellTeam",
    "manager": "Santi Rebella",
    "rank": 14,
-   "total": 397,
+   "total": 396,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2642,7 +2642,7 @@
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 15,
-   "total": 365,
+   "total": 364,
    "chip": null,
    "squad": [
     "Kelleher",
@@ -2722,7 +2722,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 52.0,
-   "owned_globally_pct": 44.5,
+   "owned_globally_pct": 44.6,
    "i_own": true
   },
   {
@@ -2740,7 +2740,7 @@
    "pos": "MID",
    "price": 11.8,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 30.3,
+   "owned_globally_pct": 30.2,
    "i_own": false
   },
   {
@@ -3010,7 +3010,7 @@
    "pos": "FWD",
    "price": 6.2,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 14.9,
+   "owned_globally_pct": 14.8,
    "i_own": false
   },
   {
@@ -3091,7 +3091,7 @@
    "pos": "MID",
    "price": 6.8,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 20.7,
+   "owned_globally_pct": 20.6,
    "i_own": false
   },
   {
