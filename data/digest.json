@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-18T19:31:48Z",
+ "generated_utc": "2026-10-18T19:54:20Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -542,16 +542,16 @@
     },
     {
      "rank": 6,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 58,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 71,
      "total": 492
     },
     {
      "rank": 6,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 71,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 58,
      "total": 492
     },
     {
@@ -1595,7 +1595,7 @@
    "pos": "FWD",
    "price": 5.7,
    "points": 12,
-   "owned_by": 9.3
+   "owned_by": 9.4
   },
   {
    "name": "Manzambi",
@@ -1627,7 +1627,7 @@
    "pos": "MID",
    "price": 5.4,
    "points": 11,
-   "owned_by": 0.9
+   "owned_by": 1.0
   },
   {
    "name": "Vuskovic",
@@ -2848,7 +2848,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 9.3,
+   "owned_globally_pct": 9.4,
    "i_own": false
   },
   {
@@ -3091,7 +3091,7 @@
    "pos": "MID",
    "price": 6.8,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 20.5,
+   "owned_globally_pct": 20.4,
    "i_own": false
   },
   {
@@ -3577,7 +3577,7 @@
    "pos": "MID",
    "price": 4.9,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 0.9,
+   "owned_globally_pct": 1.0,
    "i_own": false
   },
   {
