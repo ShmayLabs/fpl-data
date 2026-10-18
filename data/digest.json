@@ -2,25 +2,25 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-18T18:46:36Z",
+ "generated_utc": "2026-10-18T19:09:11Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
  "squad_from_gw": 7,
  "entry_history": {
   "event": 7,
-  "points": 44,
-  "total_points": 446,
-  "rank": 962304,
-  "rank_sort": 985863,
-  "overall_rank": 994435,
+  "points": 75,
+  "total_points": 477,
+  "rank": 817646,
+  "rank_sort": 837074,
+  "overall_rank": 1010902,
   "percentile_rank": 10,
   "overall_rank_percentage": "9",
   "bank": 8,
   "value": 1007,
   "event_transfers": 0,
   "event_transfers_cost": 0,
-  "points_on_bench": 4
+  "points_on_bench": 12
  },
  "season_history": [
   {
@@ -211,7 +211,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 40.3,
+   "owned_by": 40.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -287,7 +287,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 44.6,
+   "owned_by": 44.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -334,7 +334,7 @@
    "news": "",
    "gw_points": 2,
    "gw_minutes": 90,
-   "form": "4.7",
+   "form": "7.0",
    "total_points": 47,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -1603,7 +1603,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 11,
-   "owned_by": 2.5
+   "owned_by": 2.6
   },
   {
    "name": "Boscagli",
@@ -1683,7 +1683,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 9,
-   "owned_by": 22.8
+   "owned_by": 22.9
   },
   {
    "name": "Munoz",
@@ -2722,7 +2722,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 52.0,
-   "owned_globally_pct": 44.6,
+   "owned_globally_pct": 44.7,
    "i_own": true
   },
   {
@@ -2731,7 +2731,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 44.0,
-   "owned_globally_pct": 40.3,
+   "owned_globally_pct": 40.4,
    "i_own": true
   },
   {
@@ -2776,7 +2776,7 @@
    "pos": "DEF",
    "price": 5.8,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 28.7,
+   "owned_globally_pct": 28.6,
    "i_own": false
   },
   {
@@ -2830,7 +2830,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 22.8,
+   "owned_globally_pct": 22.9,
    "i_own": false
   },
   {
@@ -3010,7 +3010,7 @@
    "pos": "FWD",
    "price": 6.2,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 14.8,
+   "owned_globally_pct": 14.7,
    "i_own": false
   },
   {
@@ -3559,7 +3559,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.5,
+   "owned_globally_pct": 2.6,
    "i_own": false
   },
   {
