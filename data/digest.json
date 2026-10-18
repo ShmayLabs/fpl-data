@@ -5,7 +5,7 @@
   "NOT YET PLAYED: Saka (ARS) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: \u00d8degaard (ARS) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-18T13:49:48Z",
+ "generated_utc": "2026-10-18T14:12:08Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -222,7 +222,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 45,
+   "gw_minutes": 47,
    "form": "7.3",
    "total_points": 54,
    "fixture_state": "in_progress",
@@ -260,7 +260,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 9,
-   "gw_minutes": 45,
+   "gw_minutes": 46,
    "form": "6.3",
    "total_points": 42,
    "fixture_state": "in_progress",
@@ -290,7 +290,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 44.3,
+   "owned_by": 44.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -298,7 +298,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 3,
-   "gw_minutes": 45,
+   "gw_minutes": 47,
    "form": "7.7",
    "total_points": 56,
    "fixture_state": "in_progress",
@@ -355,7 +355,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 45,
+   "gw_minutes": 47,
    "form": "5.3",
    "total_points": 33,
    "fixture_state": "in_progress",
@@ -412,7 +412,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 45,
+   "gw_minutes": 46,
    "form": "2.3",
    "total_points": 44,
    "fixture_state": "in_progress",
@@ -478,8 +478,8 @@
      "rank": 8,
      "team": "net six and chill",
      "player": "william batterbury",
-     "gw": 25,
-     "total": 398
+     "gw": 26,
+     "total": 399
     },
     {
      "rank": 9,
@@ -499,8 +499,8 @@
      "rank": 11,
      "team": "Wunited",
      "player": "Luke Woodward",
-     "gw": 42,
-     "total": 359
+     "gw": 43,
+     "total": 360
     }
    ]
   },
@@ -728,8 +728,8 @@
      "rank": 6,
      "team": "Norris FC",
      "player": "Rob Norris",
-     "gw": 39,
-     "total": 431
+     "gw": 40,
+     "total": 432
     },
     {
      "rank": 7,
@@ -763,8 +763,8 @@
      "rank": 11,
      "team": "Prep Big B",
      "player": "Darren Heath",
-     "gw": 45,
-     "total": 402
+     "gw": 46,
+     "total": 403
     },
     {
      "rank": 12,
@@ -1590,7 +1590,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 11,
-   "owned_by": 0.6
+   "owned_by": 0.7
   },
   {
    "name": "Iwobi",
@@ -1614,7 +1614,7 @@
    "pos": "MID",
    "price": 6.1,
    "points": 9,
-   "owned_by": 7.8
+   "owned_by": 7.9
   },
   {
    "name": "Lewis-Potter",
@@ -2012,7 +2012,7 @@
    "team": "net six and chill",
    "manager": "william batterbury",
    "rank": 8,
-   "total": 398,
+   "total": 399,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -2126,7 +2126,7 @@
    "team": "Wunited",
    "manager": "Luke Woodward",
    "rank": 11,
-   "total": 359,
+   "total": 360,
    "chip": null,
    "squad": [
     "Roefs",
@@ -2309,7 +2309,7 @@
    "team": "Norris FC",
    "manager": "Rob Norris",
    "rank": 6,
-   "total": 431,
+   "total": 432,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2495,7 +2495,7 @@
    "team": "Prep Big B",
    "manager": "Darren Heath",
    "rank": 11,
-   "total": 402,
+   "total": 403,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2725,7 +2725,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 52.0,
-   "owned_globally_pct": 44.3,
+   "owned_globally_pct": 44.4,
    "i_own": true
   },
   {
@@ -2950,7 +2950,7 @@
    "pos": "MID",
    "price": 8.3,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 14.4,
+   "owned_globally_pct": 14.3,
    "i_own": false
   },
   {
@@ -3013,7 +3013,7 @@
    "pos": "FWD",
    "price": 6.2,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 15.2,
+   "owned_globally_pct": 15.1,
    "i_own": false
   },
   {
@@ -3130,7 +3130,7 @@
    "pos": "DEF",
    "price": 4.8,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 6.9,
+   "owned_globally_pct": 6.8,
    "i_own": false
   },
   {
@@ -3238,7 +3238,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 12.1,
+   "owned_globally_pct": 12.0,
    "i_own": false
   },
   {
@@ -3544,7 +3544,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 7.8,
+   "owned_globally_pct": 7.9,
    "i_own": false
   },
   {
