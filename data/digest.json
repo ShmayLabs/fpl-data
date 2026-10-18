@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-18T19:54:20Z",
+ "generated_utc": "2026-10-18T20:16:54Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -1606,14 +1606,6 @@
    "owned_by": 2.6
   },
   {
-   "name": "Boscagli",
-   "team": "BHA",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 11,
-   "owned_by": 0.4
-  },
-  {
    "name": "Hato",
    "team": "CHE",
    "pos": "DEF",
@@ -1644,6 +1636,14 @@
    "price": 6.1,
    "points": 10,
    "owned_by": 8.3
+  },
+  {
+   "name": "Boscagli",
+   "team": "BHA",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 10,
+   "owned_by": 0.4
   },
   {
    "name": "Raya",
@@ -2713,7 +2713,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 52.0,
-   "owned_globally_pct": 47.5,
+   "owned_globally_pct": 47.6,
    "i_own": false
   },
   {
@@ -2740,7 +2740,7 @@
    "pos": "MID",
    "price": 11.8,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 30.1,
+   "owned_globally_pct": 30.0,
    "i_own": false
   },
   {
@@ -3145,7 +3145,7 @@
    "pos": "DEF",
    "price": 4.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 3.9,
+   "owned_globally_pct": 4.0,
    "i_own": false
   },
   {
@@ -3433,7 +3433,7 @@
    "pos": "FWD",
    "price": 7.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 6.4,
+   "owned_globally_pct": 6.3,
    "i_own": false
   },
   {
