@@ -10,7 +10,7 @@
   "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Bogle (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-18T00:04:34Z",
+ "generated_utc": "2026-10-18T00:26:59Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -314,7 +314,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.7,
-   "owned_by": 76.4,
+   "owned_by": 76.5,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -648,16 +648,16 @@
     },
     {
      "rank": 20,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 17,
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
+     "gw": 45,
      "total": 410
     },
     {
      "rank": 20,
-     "team": "Boundary Park Blues",
-     "player": "Ben McNamara",
-     "gw": 45,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 17,
      "total": 410
     },
     {
@@ -1579,7 +1579,7 @@
    "pos": "FWD",
    "price": 15.7,
    "points": 13,
-   "owned_by": 76.4
+   "owned_by": 76.5
   },
   {
    "name": "Manzambi",
@@ -2703,7 +2703,7 @@
    "pos": "FWD",
    "price": 15.7,
    "owned_in_league_pct": 84.0,
-   "owned_globally_pct": 76.4,
+   "owned_globally_pct": 76.5,
    "i_own": true
   },
   {
@@ -3153,7 +3153,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 18.0,
+   "owned_globally_pct": 17.9,
    "i_own": false
   },
   {
