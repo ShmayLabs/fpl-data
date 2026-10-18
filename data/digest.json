@@ -2,15 +2,15 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Calafiori (ARS) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
-  "NOT YET PLAYED: De Cuyper (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: De Cuyper (BHA) shows 0 minutes but his match is in_progress -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Saka (ARS) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
-  "NOT YET PLAYED: Mbeumo (MUN) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: Mbeumo (MUN) shows 0 minutes but his match is in_progress -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: \u00d8degaard (ARS) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
-  "NOT YET PLAYED: Gro\u00df (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
-  "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
-  "NOT YET PLAYED: Bogle (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
+  "NOT YET PLAYED: Gro\u00df (BHA) shows 0 minutes but his match is in_progress -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is in_progress -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: Bogle (LEE) shows 0 minutes but his match is in_progress -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-18T12:42:51Z",
+ "generated_utc": "2026-10-18T13:05:09Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -230,7 +230,7 @@
    "gw_minutes": 0,
    "form": "7.0",
    "total_points": 53,
-   "fixture_state": "not_kicked_off",
+   "fixture_state": "in_progress",
    "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
@@ -268,7 +268,7 @@
    "gw_minutes": 0,
    "form": "3.3",
    "total_points": 33,
-   "fixture_state": "not_kicked_off",
+   "fixture_state": "in_progress",
    "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
@@ -306,7 +306,7 @@
    "gw_minutes": 0,
    "form": "6.7",
    "total_points": 53,
-   "fixture_state": "not_kicked_off",
+   "fixture_state": "in_progress",
    "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
@@ -363,7 +363,7 @@
    "gw_minutes": 0,
    "form": "5.0",
    "total_points": 32,
-   "fixture_state": "not_kicked_off",
+   "fixture_state": "in_progress",
    "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
@@ -420,7 +420,7 @@
    "gw_minutes": 0,
    "form": "2.0",
    "total_points": 43,
-   "fixture_state": "not_kicked_off",
+   "fixture_state": "in_progress",
    "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   }
  ],
