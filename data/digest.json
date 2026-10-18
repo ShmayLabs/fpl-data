@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-18T22:49:14Z",
+ "generated_utc": "2026-10-18T23:00:13Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -211,7 +211,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 40.4,
+   "owned_by": 40.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -2731,7 +2731,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 44.0,
-   "owned_globally_pct": 40.4,
+   "owned_globally_pct": 40.5,
    "i_own": true
   },
   {
@@ -2947,7 +2947,7 @@
    "pos": "MID",
    "price": 8.3,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 14.1,
+   "owned_globally_pct": 14.0,
    "i_own": false
   },
   {
