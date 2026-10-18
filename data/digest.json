@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-18T22:26:48Z",
+ "generated_utc": "2026-10-18T22:49:14Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -542,16 +542,16 @@
     },
     {
      "rank": 6,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 58,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 71,
      "total": 492
     },
     {
      "rank": 6,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 71,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 58,
      "total": 492
     },
     {
@@ -2740,7 +2740,7 @@
    "pos": "MID",
    "price": 11.8,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 30.0,
+   "owned_globally_pct": 29.9,
    "i_own": false
   },
   {
@@ -3217,7 +3217,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 11.8,
+   "owned_globally_pct": 11.7,
    "i_own": false
   },
   {
