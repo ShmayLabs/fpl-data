@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-19T10:38:14Z",
+ "generated_utc": "2026-10-19T11:00:39Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -249,7 +249,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.8,
-   "owned_by": 19.9,
+   "owned_by": 20.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -2794,7 +2794,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 19.9,
+   "owned_globally_pct": 20.0,
    "i_own": true
   },
   {
@@ -3388,7 +3388,7 @@
    "pos": "DEF",
    "price": 4.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.8,
+   "owned_globally_pct": 5.7,
    "i_own": false
   },
   {
