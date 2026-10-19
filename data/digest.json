@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
  ],
- "generated_utc": "2026-10-19T22:29:52Z",
+ "generated_utc": "2026-10-19T22:52:16Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -13,7 +13,7 @@
   "total_points": 480,
   "rank": 594093,
   "rank_sort": 608454,
-  "overall_rank": 934194,
+  "overall_rank": 934201,
   "percentile_rank": 10,
   "overall_rank_percentage": "8",
   "bank": 8,
@@ -115,13 +115,13 @@
   },
   {
    "event": 7,
-   "points": 75,
-   "total_points": 477,
-   "rank": 817646,
-   "rank_sort": 837074,
-   "overall_rank": 1010905,
+   "points": 78,
+   "total_points": 480,
+   "rank": 594093,
+   "rank_sort": 608454,
+   "overall_rank": 934201,
    "percentile_rank": 10,
-   "overall_rank_percentage": "9",
+   "overall_rank_percentage": "8",
    "bank": 8,
    "value": 1007,
    "event_transfers": 0,
@@ -173,7 +173,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 53.6,
+   "owned_by": 53.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -562,16 +562,16 @@
     },
     {
      "rank": 6,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 58,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 71,
      "total": 492
     },
     {
      "rank": 6,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 71,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 58,
      "total": 492
     },
     {
@@ -2724,7 +2724,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 60.0,
-   "owned_globally_pct": 53.6,
+   "owned_globally_pct": 53.7,
    "i_own": true
   },
   {
