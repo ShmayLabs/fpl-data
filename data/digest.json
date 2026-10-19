@@ -1,8 +1,9 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [
-  "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
+  "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
  ],
- "generated_utc": "2026-10-19T11:45:30Z",
+ "generated_utc": "2026-10-19T15:31:08Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -144,7 +145,7 @@
    "news": "",
    "gw_points": 3,
    "gw_minutes": 90,
-   "form": "3.7",
+   "form": "2.5",
    "total_points": 39,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -163,7 +164,7 @@
    "news": "",
    "gw_points": 0,
    "gw_minutes": 90,
-   "form": "5.7",
+   "form": "1.5",
    "total_points": 46,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -173,7 +174,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 53.5,
+   "owned_by": 53.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -182,7 +183,7 @@
    "news": "",
    "gw_points": 6,
    "gw_minutes": 90,
-   "form": "5.3",
+   "form": "7.5",
    "total_points": 44,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -192,7 +193,7 @@
    "team": "COV",
    "pos": "DEF",
    "price": 4.0,
-   "owned_by": 9.2,
+   "owned_by": 9.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -211,7 +212,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 40.6,
+   "owned_by": 40.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -220,7 +221,7 @@
    "news": "",
    "gw_points": 6,
    "gw_minutes": 90,
-   "form": "9.0",
+   "form": "10.5",
    "total_points": 59,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -239,7 +240,7 @@
    "news": "",
    "gw_points": 3,
    "gw_minutes": 90,
-   "form": "2.3",
+   "form": "2.5",
    "total_points": 37,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -287,7 +288,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 44.9,
+   "owned_by": 45.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -296,7 +297,7 @@
    "news": "",
    "gw_points": 5,
    "gw_minutes": 70,
-   "form": "8.3",
+   "form": "5.5",
    "total_points": 58,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -310,9 +311,9 @@
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
-   "status": "a",
-   "chance_next": null,
-   "news": "",
+   "status": "d",
+   "chance_next": 75,
+   "news": "Unspecified injury - 75% chance of playing",
    "gw_points": 13,
    "gw_minutes": 90,
    "form": "8.3",
@@ -353,7 +354,7 @@
    "news": "",
    "gw_points": 6,
    "gw_minutes": 90,
-   "form": "7.0",
+   "form": "7.5",
    "total_points": 38,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -416,7 +417,27 @@
    "zero_minutes_means": null
   }
  ],
- "flagged_players": [],
+ "flagged_players": [
+  {
+   "name": "Haaland",
+   "team": "MCI",
+   "pos": "FWD",
+   "price": 15.7,
+   "owned_by": 76.8,
+   "is_captain": true,
+   "is_vice": false,
+   "on_bench": false,
+   "status": "d",
+   "chance_next": 75,
+   "news": "Unspecified injury - 75% chance of playing",
+   "gw_points": 13,
+   "gw_minutes": 90,
+   "form": "8.3",
+   "total_points": 58,
+   "fixture_state": "played",
+   "zero_minutes_means": null
+  }
+ ],
  "mini_leagues": [
   {
    "id": "799195",
@@ -1563,7 +1584,7 @@
    "pos": "MID",
    "price": 6.5,
    "points": 15,
-   "owned_by": 2.1
+   "owned_by": 2.2
   },
   {
    "name": "Ayari",
@@ -1595,7 +1616,7 @@
    "pos": "FWD",
    "price": 5.7,
    "points": 12,
-   "owned_by": 9.5
+   "owned_by": 9.6
   },
   {
    "name": "Manzambi",
@@ -1603,7 +1624,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 11,
-   "owned_by": 2.6
+   "owned_by": 2.7
   },
   {
    "name": "Hato",
@@ -1635,7 +1656,7 @@
    "pos": "MID",
    "price": 6.2,
    "points": 10,
-   "owned_by": 8.6
+   "owned_by": 8.7
   },
   {
    "name": "Boscagli",
@@ -1651,7 +1672,7 @@
    "pos": "GK",
    "price": 6.1,
    "points": 9,
-   "owned_by": 44.0
+   "owned_by": 44.1
   },
   {
    "name": "Rice",
@@ -1747,7 +1768,7 @@
    "pos": "MID",
    "price": 5.0,
    "points": 8,
-   "owned_by": 3.7
+   "owned_by": 3.8
   },
   {
    "name": "Bassey",
@@ -2704,7 +2725,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 60.0,
-   "owned_globally_pct": 53.5,
+   "owned_globally_pct": 53.6,
    "i_own": true
   },
   {
@@ -2722,7 +2743,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 52.0,
-   "owned_globally_pct": 44.9,
+   "owned_globally_pct": 45.0,
    "i_own": true
   },
   {
@@ -2731,7 +2752,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 44.0,
-   "owned_globally_pct": 40.6,
+   "owned_globally_pct": 40.7,
    "i_own": true
   },
   {
@@ -2740,7 +2761,7 @@
    "pos": "MID",
    "price": 11.8,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 29.7,
+   "owned_globally_pct": 29.6,
    "i_own": false
   },
   {
@@ -2785,7 +2806,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 37.2,
+   "owned_globally_pct": 37.4,
    "i_own": false
   },
   {
@@ -2848,7 +2869,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 9.5,
+   "owned_globally_pct": 9.6,
    "i_own": false
   },
   {
@@ -2893,7 +2914,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 9.2,
+   "owned_globally_pct": 9.3,
    "i_own": true
   },
   {
@@ -2920,7 +2941,7 @@
    "pos": "GK",
    "price": 6.1,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 44.0,
+   "owned_globally_pct": 44.1,
    "i_own": false
   },
   {
@@ -2947,7 +2968,7 @@
    "pos": "MID",
    "price": 8.3,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 13.9,
+   "owned_globally_pct": 13.5,
    "i_own": false
   },
   {
@@ -3091,7 +3112,7 @@
    "pos": "MID",
    "price": 6.8,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 20.0,
+   "owned_globally_pct": 19.9,
    "i_own": false
   },
   {
@@ -3136,7 +3157,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 5.4,
+   "owned_globally_pct": 5.5,
    "i_own": false
   },
   {
@@ -3208,7 +3229,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 13.8,
+   "owned_globally_pct": 13.9,
    "i_own": false
   },
   {
@@ -3532,7 +3553,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 8.6,
+   "owned_globally_pct": 8.7,
    "i_own": false
   },
   {
@@ -3559,7 +3580,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.6,
+   "owned_globally_pct": 2.7,
    "i_own": false
   },
   {
