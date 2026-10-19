@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-18T23:45:01Z",
+ "generated_utc": "2026-10-19T00:07:26Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -401,7 +401,7 @@
    "team": "LEE",
    "pos": "DEF",
    "price": 4.7,
-   "owned_by": 9.8,
+   "owned_by": 9.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1699,7 +1699,7 @@
    "pos": "MID",
    "price": 6.5,
    "points": 9,
-   "owned_by": 0.9
+   "owned_by": 1.0
   },
   {
    "name": "Isak",
@@ -2875,7 +2875,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 9.8,
+   "owned_globally_pct": 9.9,
    "i_own": true
   },
   {
