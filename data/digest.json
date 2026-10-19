@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
  ],
- "generated_utc": "2026-10-19T21:00:23Z",
+ "generated_utc": "2026-10-19T21:22:45Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -203,7 +203,7 @@
    "gw_minutes": 90,
    "form": "3.5",
    "total_points": 31,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -562,16 +562,16 @@
     },
     {
      "rank": 6,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 71,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 58,
      "total": 492
     },
     {
      "rank": 6,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 58,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 71,
      "total": 492
     },
     {
@@ -646,16 +646,16 @@
     },
     {
      "rank": 18,
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 77,
+     "total": 449
+    },
+    {
+     "rank": 19,
      "team": "Maddcatts",
      "player": "Craig Cattrall",
      "gw": 60,
-     "total": 446
-    },
-    {
-     "rank": 18,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 74,
      "total": 446
     },
     {
@@ -759,8 +759,8 @@
      "rank": 8,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 74,
-     "total": 446
+     "gw": 77,
+     "total": 449
     },
     {
      "rank": 9,
@@ -1647,7 +1647,7 @@
    "pos": "DEF",
    "price": 5.1,
    "points": 11,
-   "owned_by": 5.4
+   "owned_by": 5.5
   },
   {
    "name": "Tavernier",
@@ -2400,7 +2400,7 @@
    "team": "Bruno Dos Tres",
    "manager": "David Taylor",
    "rank": 8,
-   "total": 446,
+   "total": 449,
    "chip": "3xc",
    "squad": [
     "Verbruggen",
@@ -2967,7 +2967,7 @@
    "pos": "MID",
    "price": 8.3,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 13.2,
+   "owned_globally_pct": 13.1,
    "i_own": false
   },
   {
@@ -3111,7 +3111,7 @@
    "pos": "MID",
    "price": 6.8,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 19.8,
+   "owned_globally_pct": 19.7,
    "i_own": false
   },
   {
@@ -3192,7 +3192,7 @@
    "pos": "GK",
    "price": 5.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 5.8,
+   "owned_globally_pct": 5.9,
    "i_own": false
   },
   {
@@ -3561,7 +3561,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.4,
+   "owned_globally_pct": 5.5,
    "i_own": false
   },
   {
