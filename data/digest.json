@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-19T05:13:31Z",
+ "generated_utc": "2026-10-19T07:38:52Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -287,7 +287,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.1,
-   "owned_by": 44.8,
+   "owned_by": 44.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -306,7 +306,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.7,
-   "owned_by": 76.7,
+   "owned_by": 76.8,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -325,7 +325,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.9,
-   "owned_by": 72.5,
+   "owned_by": 72.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1563,7 +1563,7 @@
    "pos": "MID",
    "price": 6.5,
    "points": 15,
-   "owned_by": 2.0
+   "owned_by": 2.1
   },
   {
    "name": "Ayari",
@@ -1579,7 +1579,7 @@
    "pos": "FWD",
    "price": 15.7,
    "points": 13,
-   "owned_by": 76.7
+   "owned_by": 76.8
   },
   {
    "name": "Evanilson",
@@ -1587,7 +1587,7 @@
    "pos": "FWD",
    "price": 6.1,
    "points": 12,
-   "owned_by": 4.1
+   "owned_by": 4.2
   },
   {
    "name": "Kostoulas",
@@ -1595,7 +1595,7 @@
    "pos": "FWD",
    "price": 5.7,
    "points": 12,
-   "owned_by": 9.4
+   "owned_by": 9.5
   },
   {
    "name": "Manzambi",
@@ -1683,7 +1683,7 @@
    "pos": "MID",
    "price": 5.5,
    "points": 9,
-   "owned_by": 1.6
+   "owned_by": 1.7
   },
   {
    "name": "Calvert-Lewin",
@@ -1707,7 +1707,7 @@
    "pos": "FWD",
    "price": 9.0,
    "points": 9,
-   "owned_by": 12.6
+   "owned_by": 12.7
   },
   {
    "name": "Foden",
@@ -1731,7 +1731,7 @@
    "pos": "GK",
    "price": 5.0,
    "points": 8,
-   "owned_by": 4.4
+   "owned_by": 4.3
   },
   {
    "name": "Cash",
@@ -2686,7 +2686,7 @@
    "pos": "FWD",
    "price": 7.9,
    "owned_in_league_pct": 96.0,
-   "owned_globally_pct": 72.5,
+   "owned_globally_pct": 72.6,
    "i_own": true
   },
   {
@@ -2695,7 +2695,7 @@
    "pos": "FWD",
    "price": 15.7,
    "owned_in_league_pct": 84.0,
-   "owned_globally_pct": 76.7,
+   "owned_globally_pct": 76.8,
    "i_own": true
   },
   {
@@ -2722,7 +2722,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 52.0,
-   "owned_globally_pct": 44.8,
+   "owned_globally_pct": 44.9,
    "i_own": true
   },
   {
@@ -2740,7 +2740,7 @@
    "pos": "MID",
    "price": 11.8,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 29.9,
+   "owned_globally_pct": 29.8,
    "i_own": false
   },
   {
@@ -2776,7 +2776,7 @@
    "pos": "DEF",
    "price": 5.8,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 28.6,
+   "owned_globally_pct": 28.5,
    "i_own": false
   },
   {
@@ -2848,7 +2848,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 9.4,
+   "owned_globally_pct": 9.5,
    "i_own": false
   },
   {
@@ -2992,7 +2992,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 1.6,
+   "owned_globally_pct": 1.7,
    "i_own": false
   },
   {
@@ -3100,7 +3100,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.0,
+   "owned_globally_pct": 4.1,
    "i_own": false
   },
   {
@@ -3136,7 +3136,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 5.5,
+   "owned_globally_pct": 5.4,
    "i_own": false
   },
   {
@@ -3352,7 +3352,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.1,
+   "owned_globally_pct": 4.2,
    "i_own": false
   },
   {
