@@ -3,7 +3,7 @@
   "NOT YET PLAYED: Thomas (COV) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
  ],
- "generated_utc": "2026-10-19T17:00:28Z",
+ "generated_utc": "2026-10-19T17:22:48Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -250,7 +250,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.8,
-   "owned_by": 20.0,
+   "owned_by": 20.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -2815,7 +2815,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 20.0,
+   "owned_globally_pct": 20.1,
    "i_own": true
   },
   {
