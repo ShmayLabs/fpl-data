@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
  ],
- "generated_utc": "2026-10-19T23:14:37Z",
+ "generated_utc": "2026-10-19T23:36:57Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -2805,7 +2805,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 37.5,
+   "owned_globally_pct": 37.6,
    "i_own": false
   },
   {
