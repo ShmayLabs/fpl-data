@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
  ],
- "generated_utc": "2026-10-20T06:59:30Z",
+ "generated_utc": "2026-10-20T07:22:00Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -447,117 +447,6 @@
    "id": "861373",
    "name": "Co-op DT&D Championship",
    "table": []
-  },
-  {
-   "id": "1263138",
-   "name": "#football-laughs",
-   "table": [
-    {
-     "rank": 1,
-     "team": "Gangsters Allardyce",
-     "player": "Jordan White",
-     "gw": 46,
-     "total": 499
-    },
-    {
-     "rank": 2,
-     "team": "Tzolis and Gromit",
-     "player": "Alex Midmore",
-     "gw": 69,
-     "total": 480
-    },
-    {
-     "rank": 3,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 78,
-     "total": 480
-    },
-    {
-     "rank": 4,
-     "team": "beef cherki",
-     "player": "Samuel Dennis",
-     "gw": 91,
-     "total": 467
-    },
-    {
-     "rank": 5,
-     "team": "Accringtonali FC",
-     "player": "Kyle Broadhurst",
-     "gw": 59,
-     "total": 461
-    },
-    {
-     "rank": 6,
-     "team": "JTindall Solo Album",
-     "player": "Niall Ballinger",
-     "gw": 79,
-     "total": 453
-    },
-    {
-     "rank": 7,
-     "team": "Norris FC",
-     "player": "Rob Norris",
-     "gw": 60,
-     "total": 452
-    },
-    {
-     "rank": 8,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 77,
-     "total": 449
-    },
-    {
-     "rank": 9,
-     "team": "Static FC",
-     "player": "Nathaniel Josephs",
-     "gw": 63,
-     "total": 440
-    },
-    {
-     "rank": 10,
-     "team": "Tramontozpor",
-     "player": "Kwadwo David",
-     "gw": 34,
-     "total": 426
-    },
-    {
-     "rank": 11,
-     "team": "Prep Big B",
-     "player": "Darren Heath",
-     "gw": 55,
-     "total": 412
-    },
-    {
-     "rank": 12,
-     "team": "King Scarles",
-     "player": "Tom Horsman",
-     "gw": 75,
-     "total": 403
-    },
-    {
-     "rank": 13,
-     "team": "RebellTeam",
-     "player": "Santi Rebella",
-     "gw": 50,
-     "total": 398
-    },
-    {
-     "rank": 14,
-     "team": "Millennium Falcons",
-     "player": "Jack Richardson",
-     "gw": 58,
-     "total": 398
-    },
-    {
-     "rank": 15,
-     "team": "Jimbledon FC",
-     "player": "James Martin",
-     "gw": 53,
-     "total": 366
-    }
-   ]
   }
  ],
  "fixtures_next_6": {
@@ -2531,7 +2420,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 6.7,
-   "owned_globally_pct": 4.8,
+   "owned_globally_pct": 4.9,
    "i_own": false
   },
   {
