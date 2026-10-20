@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
  ],
- "generated_utc": "2026-10-20T04:01:46Z",
+ "generated_utc": "2026-10-20T04:24:12Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -287,7 +287,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 45.1,
+   "owned_by": 45.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1711,7 +1711,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 9,
-   "owned_by": 23.1
+   "owned_by": 23.2
   },
   {
    "name": "Munoz",
@@ -2742,7 +2742,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 52.0,
-   "owned_globally_pct": 45.1,
+   "owned_globally_pct": 45.2,
    "i_own": true
   },
   {
@@ -2850,7 +2850,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 23.1,
+   "owned_globally_pct": 23.2,
    "i_own": false
   },
   {
