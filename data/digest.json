@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-20T21:56:25Z",
+ "generated_utc": "2026-10-20T22:18:45Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -617,16 +617,16 @@
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 69,
      "total": 453
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 69,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
      "total": 453
     },
     {
@@ -1657,7 +1657,7 @@
    "pos": "MID",
    "price": 7.3,
    "points": 9,
-   "owned_by": 11.1
+   "owned_by": 11.2
   },
   {
    "name": "Konsa",
@@ -2954,7 +2954,7 @@
    "pos": "MID",
    "price": 7.3,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 11.1,
+   "owned_globally_pct": 11.2,
    "i_own": false
   },
   {
@@ -3008,7 +3008,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 14.1,
+   "owned_globally_pct": 14.0,
    "i_own": false
   },
   {
