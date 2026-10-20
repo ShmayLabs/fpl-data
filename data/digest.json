@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
  ],
- "generated_utc": "2026-10-20T01:24:45Z",
+ "generated_utc": "2026-10-20T01:47:14Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -1615,7 +1615,7 @@
    "pos": "FWD",
    "price": 5.7,
    "points": 12,
-   "owned_by": 9.6
+   "owned_by": 9.7
   },
   {
    "name": "Manzambi",
@@ -2868,7 +2868,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 9.6,
+   "owned_globally_pct": 9.7,
    "i_own": false
   },
   {
