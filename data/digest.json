@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
  ],
- "generated_utc": "2026-10-20T09:59:15Z",
+ "generated_utc": "2026-10-20T11:22:08Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -11,11 +11,11 @@
   "event": 7,
   "points": 78,
   "total_points": 480,
-  "rank": 594093,
-  "rank_sort": 608454,
-  "overall_rank": 934201,
+  "rank": 773639,
+  "rank_sort": 792545,
+  "overall_rank": 997400,
   "percentile_rank": 10,
-  "overall_rank_percentage": "8",
+  "overall_rank_percentage": "9",
   "bank": 8,
   "value": 1007,
   "event_transfers": 0,
@@ -117,11 +117,11 @@
    "event": 7,
    "points": 78,
    "total_points": 480,
-   "rank": 594093,
-   "rank_sort": 608454,
-   "overall_rank": 934201,
+   "rank": 773639,
+   "rank_sort": 792545,
+   "overall_rank": 997400,
    "percentile_rank": 10,
-   "overall_rank_percentage": "8",
+   "overall_rank_percentage": "9",
    "bank": 8,
    "value": 1007,
    "event_transfers": 0,
@@ -474,7 +474,7 @@
      "rank": 5,
      "team": "T_R",
      "player": "Tom Roberts",
-     "gw": 63,
+     "gw": 64,
      "total": 437
     },
     {
@@ -502,7 +502,7 @@
      "rank": 9,
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
-     "gw": 65,
+     "gw": 66,
      "total": 399
     },
     {
@@ -557,7 +557,7 @@
      "rank": 5,
      "team": "Kash FC",
      "player": "Prakash Shan",
-     "gw": 62,
+     "gw": 65,
      "total": 494
     },
     {
@@ -578,7 +578,7 @@
      "rank": 8,
      "team": "L&K 11",
      "player": "Lee Gorman",
-     "gw": 80,
+     "gw": 83,
      "total": 490
     },
     {
@@ -641,28 +641,28 @@
      "rank": 17,
      "team": "Enter Team Name",
      "player": "Andy Grundy",
-     "gw": 65,
+     "gw": 69,
      "total": 449
     },
     {
      "rank": 18,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 77,
+     "gw": 80,
      "total": 449
     },
     {
      "rank": 19,
      "team": "Maddcatts",
      "player": "Craig Cattrall",
-     "gw": 60,
+     "gw": 69,
      "total": 446
     },
     {
      "rank": 20,
      "team": "Bertie Magoo AFC",
      "player": "Dominic Malone",
-     "gw": 66,
+     "gw": 69,
      "total": 443
     },
     {
@@ -697,7 +697,7 @@
      "rank": 25,
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
-     "gw": 66,
+     "gw": 68,
      "total": 430
     }
    ]
@@ -731,21 +731,21 @@
      "rank": 4,
      "team": "beef cherki",
      "player": "Samuel Dennis",
-     "gw": 91,
+     "gw": 95,
      "total": 467
     },
     {
      "rank": 5,
      "team": "Accringtonali FC",
      "player": "Kyle Broadhurst",
-     "gw": 59,
+     "gw": 60,
      "total": 461
     },
     {
      "rank": 6,
      "team": "JTindall Solo Album",
      "player": "Niall Ballinger",
-     "gw": 79,
+     "gw": 82,
      "total": 453
     },
     {
@@ -759,7 +759,7 @@
      "rank": 8,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 77,
+     "gw": 80,
      "total": 449
     },
     {
@@ -780,7 +780,7 @@
      "rank": 11,
      "team": "Prep Big B",
      "player": "Darren Heath",
-     "gw": 55,
+     "gw": 64,
      "total": 412
     },
     {
@@ -794,7 +794,7 @@
      "rank": 13,
      "team": "RebellTeam",
      "player": "Santi Rebella",
-     "gw": 50,
+     "gw": 59,
      "total": 398
     },
     {
@@ -1607,7 +1607,7 @@
    "pos": "FWD",
    "price": 6.1,
    "points": 12,
-   "owned_by": 4.3
+   "owned_by": 4.4
   },
   {
    "name": "Kostoulas",
@@ -1922,17 +1922,17 @@
    "squad": [
     "Raya",
     "Virgil",
-    "Calafiori",
     "De Cuyper",
+    "Calafiori",
     "Diop",
+    "van Ewijk",
     "Hughes",
     "Gro\u00df",
     "B.Fernandes",
-    "Cherki",
     "Jo\u00e3o Pedro",
     "Haaland",
     "Dubravka",
-    "van Ewijk",
+    "Cherki",
     "Kusi-Asare",
     "Szoboszlai"
    ],
@@ -1942,8 +1942,8 @@
     "Diop",
     "Virgil",
     "B.Fernandes",
-    "Cherki",
     "van Ewijk",
+    "Cherki",
     "Dubravka",
     "Kusi-Asare",
     "Szoboszlai",
@@ -2073,18 +2073,18 @@
     "Verbruggen",
     "N.Williams",
     "Konsa",
-    "Shaw",
-    "Mbeumo",
+    "Thiaw",
     "Semenyo",
     "Rice",
     "Wilson",
-    "Jo\u00e3o Pedro",
+    "Mbeumo",
     "Gy\u00f6keres",
     "Haaland",
+    "Jo\u00e3o Pedro",
     "Dubravka",
     "Pedro Porro",
     "Gravenberch",
-    "Thiaw"
+    "Shaw"
    ],
    "captain": "Haaland",
    "differentials_vs_me": [
@@ -2186,17 +2186,17 @@
    "squad": [
     "Verbruggen",
     "De Cuyper",
-    "Bogle",
     "Gvardiol",
-    "Gro\u00df",
+    "Bogle",
+    "Davis",
     "Palmer",
     "\u00d8degaard",
-    "Cherki",
-    "N.Jackson",
+    "Gro\u00df",
     "Haaland",
     "Jo\u00e3o Pedro",
+    "N.Jackson",
     "Trafford",
-    "Davis",
+    "Cherki",
     "Muharemovi\u0107",
     "McGinn"
    ],
@@ -2257,18 +2257,18 @@
    "chip": "3xc",
    "squad": [
     "Raya",
-    "De Cuyper",
-    "Calafiori",
     "Ajayi",
+    "Calafiori",
+    "De Cuyper",
+    "Egan",
     "Saka",
     "Rogers",
-    "Cherki",
     "Tavernier",
-    "Haaland",
     "Jo\u00e3o Pedro",
+    "Haaland",
     "Kostoulas",
     "Dubravka",
-    "Egan",
+    "Cherki",
     "Kayode",
     "Schade"
    ],
@@ -2294,18 +2294,18 @@
    "chip": null,
    "squad": [
     "Tzolakis",
-    "De Cuyper",
     "Gvardiol",
     "Vuskovic",
+    "De Cuyper",
+    "Kayode",
     "Saka",
     "Rogers",
-    "Cherki",
     "Gro\u00df",
-    "Haaland",
     "Wissa",
     "Jo\u00e3o Pedro",
+    "Haaland",
     "Dubravka",
-    "Kayode",
+    "Cherki",
     "Egan",
     "Slater"
    ],
@@ -2314,11 +2314,11 @@
     "Slater",
     "Gvardiol",
     "Rogers",
-    "Vuskovic",
     "Cherki",
     "Wissa",
     "Dubravka",
     "Egan",
+    "Vuskovic",
     "Kayode"
    ]
   },
@@ -2330,19 +2330,19 @@
    "chip": null,
    "squad": [
     "Verbruggen",
+    "Egan",
     "Konsa",
     "Calafiori",
-    "Egan",
-    "Cherki",
+    "Diop",
+    "Gro\u00df",
     "B.Fernandes",
     "Manzambi",
-    "Gro\u00df",
-    "Jo\u00e3o Pedro",
-    "Haaland",
     "Calvert-Lewin",
+    "Haaland",
+    "Jo\u00e3o Pedro",
     "Dubravka",
     "Gibbs-White",
-    "Diop",
+    "Cherki",
     "Targett"
    ],
    "captain": "Haaland",
@@ -2407,15 +2407,15 @@
     "Calafiori",
     "Hall",
     "Konsa",
-    "Saka",
-    "Cherki",
-    "Palmer",
-    "King",
-    "Solanke",
-    "Haaland",
-    "Jo\u00e3o Pedro",
-    "Steele",
     "N.Williams",
+    "King",
+    "Palmer",
+    "Saka",
+    "Solanke",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Steele",
+    "Cherki",
     "Egan",
     "Slater"
    ],
@@ -2425,8 +2425,8 @@
     "Slater",
     "King",
     "Solanke",
-    "Cherki",
     "Steele",
+    "Cherki",
     "N.Williams",
     "Egan",
     "Palmer",
@@ -2518,16 +2518,16 @@
     "Lammens",
     "Calafiori",
     "Tarkowski",
-    "Hall",
     "Mitchell",
+    "Hall",
     "Rogers",
-    "Cherki",
     "Lewis-Potter",
     "\u00d8degaard",
+    "Calvert-Lewin",
     "Haaland",
     "Jo\u00e3o Pedro",
     "Steele",
-    "Calvert-Lewin",
+    "Cherki",
     "Hughes",
     "Thomas"
    ],
@@ -2536,8 +2536,8 @@
     "Hall",
     "Rogers",
     "Mitchell",
-    "Steele",
     "Cherki",
+    "Steele",
     "Hughes",
     "Lewis-Potter",
     "Calvert-Lewin",
@@ -2591,19 +2591,19 @@
    "chip": null,
    "squad": [
     "Verbruggen",
-    "Tarkowski",
     "Virgil",
     "Araujo",
-    "Cherki",
+    "Tarkowski",
     "Rice",
     "Rogers",
-    "Anderson",
     "Enzo",
+    "Anderson",
+    "Calvert-Lewin",
     "Jo\u00e3o Pedro",
     "Kostoulas",
     "Pickford",
     "Hincapie",
-    "Calvert-Lewin",
+    "Cherki",
     "Senesi"
    ],
    "captain": "Kostoulas",
@@ -2922,7 +2922,7 @@
    "pos": "DEF",
    "price": 5.3,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 20.5,
+   "owned_globally_pct": 20.4,
    "i_own": false
   },
   {
@@ -3228,7 +3228,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 13.9,
+   "owned_globally_pct": 14.0,
    "i_own": false
   },
   {
@@ -3372,7 +3372,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.3,
+   "owned_globally_pct": 4.4,
    "i_own": false
   },
   {
@@ -3678,7 +3678,7 @@
    "pos": "DEF",
    "price": 6.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 9.3,
+   "owned_globally_pct": 9.2,
    "i_own": false
   },
   {
