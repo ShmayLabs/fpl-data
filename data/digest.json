@@ -1,8 +1,6 @@
 {
- "SQUAD_ALERTS_READ_THIS_FIRST": [
-  "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
- ],
- "generated_utc": "2026-10-20T18:16:40Z",
+ "SQUAD_ALERTS_READ_THIS_FIRST": [],
+ "generated_utc": "2026-10-20T18:39:05Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -310,9 +308,9 @@
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
-   "status": "d",
-   "chance_next": 75,
-   "news": "Unspecified injury - 75% chance of playing",
+   "status": "a",
+   "chance_next": 100,
+   "news": "",
    "gw_points": 13,
    "gw_minutes": 90,
    "form": "9.5",
@@ -416,27 +414,7 @@
    "zero_minutes_means": null
   }
  ],
- "flagged_players": [
-  {
-   "name": "Haaland",
-   "team": "MCI",
-   "pos": "FWD",
-   "price": 15.7,
-   "owned_by": 76.7,
-   "is_captain": true,
-   "is_vice": false,
-   "on_bench": false,
-   "status": "d",
-   "chance_next": 75,
-   "news": "Unspecified injury - 75% chance of playing",
-   "gw_points": 13,
-   "gw_minutes": 90,
-   "form": "9.5",
-   "total_points": 58,
-   "fixture_state": "played",
-   "zero_minutes_means": null
-  }
- ],
+ "flagged_players": [],
  "mini_leagues": [
   {
    "id": "799195",
@@ -569,16 +547,16 @@
     },
     {
      "rank": 7,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 58,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 71,
      "total": 492
     },
     {
      "rank": 7,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 71,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 58,
      "total": 492
     },
     {
@@ -2760,7 +2738,7 @@
    "pos": "MID",
    "price": 11.8,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 29.3,
+   "owned_globally_pct": 29.2,
    "i_own": false
   },
   {
