@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
  ],
- "generated_utc": "2026-10-20T12:06:57Z",
+ "generated_utc": "2026-10-20T12:29:20Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -325,7 +325,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.9,
-   "owned_by": 72.7,
+   "owned_by": 72.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -475,7 +475,7 @@
      "team": "T_R",
      "player": "Tom Roberts",
      "gw": 64,
-     "total": 437
+     "total": 438
     },
     {
      "rank": 6,
@@ -503,7 +503,7 @@
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
      "gw": 66,
-     "total": 399
+     "total": 400
     },
     {
      "rank": 10,
@@ -558,28 +558,28 @@
      "team": "Kash FC",
      "player": "Prakash Shan",
      "gw": 65,
-     "total": 494
+     "total": 497
     },
     {
      "rank": 6,
+     "team": "L&K 11",
+     "player": "Lee Gorman",
+     "gw": 83,
+     "total": 493
+    },
+    {
+     "rank": 7,
      "team": "Not too Xabi",
      "player": "Niall Walsh",
      "gw": 71,
      "total": 492
     },
     {
-     "rank": 6,
+     "rank": 7,
      "team": "Man (Zambi) On",
      "player": "Liam Brockhurst",
      "gw": 58,
      "total": 492
-    },
-    {
-     "rank": 8,
-     "team": "L&K 11",
-     "player": "Lee Gorman",
-     "gw": 83,
-     "total": 490
     },
     {
      "rank": 9,
@@ -632,38 +632,38 @@
     },
     {
      "rank": 16,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
-     "total": 453
+     "team": "Maddcatts",
+     "player": "Craig Cattrall",
+     "gw": 69,
+     "total": 455
     },
     {
      "rank": 17,
      "team": "Enter Team Name",
      "player": "Andy Grundy",
      "gw": 69,
-     "total": 449
+     "total": 453
     },
     {
-     "rank": 18,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 80,
-     "total": 449
+     "rank": 17,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
+     "total": 453
     },
     {
      "rank": 19,
-     "team": "Maddcatts",
-     "player": "Craig Cattrall",
-     "gw": 69,
-     "total": 446
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 80,
+     "total": 452
     },
     {
      "rank": 20,
      "team": "Bertie Magoo AFC",
      "player": "Dominic Malone",
      "gw": 69,
-     "total": 443
+     "total": 446
     },
     {
      "rank": 21,
@@ -688,17 +688,17 @@
     },
     {
      "rank": 24,
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
+     "gw": 40,
+     "total": 433
+    },
+    {
+     "rank": 25,
      "team": "Andoni Here We Go-la",
      "player": "Alex O'Leary",
      "gw": 58,
      "total": 432
-    },
-    {
-     "rank": 25,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 68,
-     "total": 430
     }
    ]
   },
@@ -1917,7 +1917,7 @@
    "team": "T_R",
    "manager": "Tom Roberts",
    "rank": 5,
-   "total": 437,
+   "total": 438,
    "chip": null,
    "squad": [
     "Raya",
@@ -2067,7 +2067,7 @@
    "team": "The Goal Hangers",
    "manager": "Nik Barlow",
    "rank": 9,
-   "total": 399,
+   "total": 400,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2706,7 +2706,7 @@
    "pos": "FWD",
    "price": 7.9,
    "owned_in_league_pct": 96.0,
-   "owned_globally_pct": 72.7,
+   "owned_globally_pct": 72.8,
    "i_own": true
   },
   {
@@ -2733,7 +2733,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 52.0,
-   "owned_globally_pct": 47.9,
+   "owned_globally_pct": 48.0,
    "i_own": false
   },
   {
@@ -3390,7 +3390,7 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 3.0,
+   "owned_globally_pct": 2.9,
    "i_own": false
   },
   {
