@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
  ],
- "generated_utc": "2026-10-20T09:36:50Z",
+ "generated_utc": "2026-10-20T09:59:15Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -1655,7 +1655,7 @@
    "pos": "MID",
    "price": 6.2,
    "points": 10,
-   "owned_by": 9.0
+   "owned_by": 9.1
   },
   {
    "name": "Boscagli",
@@ -2805,7 +2805,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 37.6,
+   "owned_globally_pct": 37.7,
    "i_own": false
   },
   {
@@ -2967,7 +2967,7 @@
    "pos": "MID",
    "price": 8.3,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 12.8,
+   "owned_globally_pct": 12.7,
    "i_own": false
   },
   {
@@ -3552,7 +3552,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 9.0,
+   "owned_globally_pct": 9.1,
    "i_own": false
   },
   {
