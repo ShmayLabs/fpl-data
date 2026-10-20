@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
  ],
- "generated_utc": "2026-10-20T12:29:20Z",
+ "generated_utc": "2026-10-20T12:51:44Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -732,21 +732,28 @@
      "team": "beef cherki",
      "player": "Samuel Dennis",
      "gw": 95,
-     "total": 467
+     "total": 471
     },
     {
      "rank": 5,
      "team": "Accringtonali FC",
      "player": "Kyle Broadhurst",
      "gw": 60,
-     "total": 461
+     "total": 462
     },
     {
      "rank": 6,
      "team": "JTindall Solo Album",
      "player": "Niall Ballinger",
      "gw": 82,
-     "total": 453
+     "total": 456
+    },
+    {
+     "rank": 7,
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 80,
+     "total": 452
     },
     {
      "rank": 7,
@@ -754,13 +761,6 @@
      "player": "Rob Norris",
      "gw": 60,
      "total": 452
-    },
-    {
-     "rank": 8,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 80,
-     "total": 449
     },
     {
      "rank": 9,
@@ -781,21 +781,21 @@
      "team": "Prep Big B",
      "player": "Darren Heath",
      "gw": 64,
-     "total": 412
+     "total": 421
     },
     {
      "rank": 12,
+     "team": "RebellTeam",
+     "player": "Santi Rebella",
+     "gw": 59,
+     "total": 407
+    },
+    {
+     "rank": 13,
      "team": "King Scarles",
      "player": "Tom Horsman",
      "gw": 75,
      "total": 403
-    },
-    {
-     "rank": 13,
-     "team": "RebellTeam",
-     "player": "Santi Rebella",
-     "gw": 59,
-     "total": 398
     },
     {
      "rank": 14,
@@ -1583,7 +1583,7 @@
    "pos": "MID",
    "price": 6.5,
    "points": 15,
-   "owned_by": 2.3
+   "owned_by": 2.4
   },
   {
    "name": "Ayari",
@@ -1647,7 +1647,7 @@
    "pos": "DEF",
    "price": 5.1,
    "points": 11,
-   "owned_by": 5.5
+   "owned_by": 5.6
   },
   {
    "name": "Tavernier",
@@ -2253,7 +2253,7 @@
    "team": "beef cherki",
    "manager": "Samuel Dennis",
    "rank": 4,
-   "total": 467,
+   "total": 471,
    "chip": "3xc",
    "squad": [
     "Raya",
@@ -2290,7 +2290,7 @@
    "team": "Accringtonali FC",
    "manager": "Kyle Broadhurst",
    "rank": 5,
-   "total": 461,
+   "total": 462,
    "chip": null,
    "squad": [
     "Tzolakis",
@@ -2326,7 +2326,7 @@
    "team": "JTindall Solo Album",
    "manager": "Niall Ballinger",
    "rank": 6,
-   "total": 453,
+   "total": 456,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2356,6 +2356,43 @@
     "Egan",
     "Manzambi",
     "Calvert-Lewin",
+    "Konsa"
+   ]
+  },
+  {
+   "team": "Bruno Dos Tres",
+   "manager": "David Taylor",
+   "rank": 7,
+   "total": 452,
+   "chip": "3xc",
+   "squad": [
+    "Verbruggen",
+    "Calafiori",
+    "Hall",
+    "Konsa",
+    "N.Williams",
+    "King",
+    "Palmer",
+    "Saka",
+    "Solanke",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Steele",
+    "Cherki",
+    "Egan",
+    "Slater"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Hall",
+    "Slater",
+    "King",
+    "Solanke",
+    "Steele",
+    "Cherki",
+    "N.Williams",
+    "Egan",
+    "Palmer",
     "Konsa"
    ]
   },
@@ -2393,43 +2430,6 @@
     "Ajer",
     "Palmer",
     "Lammens",
-    "Konsa"
-   ]
-  },
-  {
-   "team": "Bruno Dos Tres",
-   "manager": "David Taylor",
-   "rank": 8,
-   "total": 449,
-   "chip": "3xc",
-   "squad": [
-    "Verbruggen",
-    "Calafiori",
-    "Hall",
-    "Konsa",
-    "N.Williams",
-    "King",
-    "Palmer",
-    "Saka",
-    "Solanke",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Steele",
-    "Cherki",
-    "Egan",
-    "Slater"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Hall",
-    "Slater",
-    "King",
-    "Solanke",
-    "Steele",
-    "Cherki",
-    "N.Williams",
-    "Egan",
-    "Palmer",
     "Konsa"
    ]
   },
@@ -2512,7 +2512,7 @@
    "team": "Prep Big B",
    "manager": "Darren Heath",
    "rank": 11,
-   "total": 412,
+   "total": 421,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2545,9 +2545,48 @@
    ]
   },
   {
+   "team": "RebellTeam",
+   "manager": "Santi Rebella",
+   "rank": 12,
+   "total": 407,
+   "chip": null,
+   "squad": [
+    "Verbruggen",
+    "Virgil",
+    "Araujo",
+    "Tarkowski",
+    "Rice",
+    "Rogers",
+    "Enzo",
+    "Anderson",
+    "Calvert-Lewin",
+    "Jo\u00e3o Pedro",
+    "Kostoulas",
+    "Pickford",
+    "Hincapie",
+    "Cherki",
+    "Senesi"
+   ],
+   "captain": "Kostoulas",
+   "differentials_vs_me": [
+    "Anderson",
+    "Pickford",
+    "Araujo",
+    "Virgil",
+    "Rogers",
+    "Hincapie",
+    "Kostoulas",
+    "Rice",
+    "Cherki",
+    "Senesi",
+    "Calvert-Lewin",
+    "Enzo"
+   ]
+  },
+  {
    "team": "King Scarles",
    "manager": "Tom Horsman",
-   "rank": 12,
+   "rank": 13,
    "total": 403,
    "chip": "wildcard",
    "squad": [
@@ -2581,45 +2620,6 @@
     "Szoboszlai",
     "Lammens",
     "Schade"
-   ]
-  },
-  {
-   "team": "RebellTeam",
-   "manager": "Santi Rebella",
-   "rank": 13,
-   "total": 398,
-   "chip": null,
-   "squad": [
-    "Verbruggen",
-    "Virgil",
-    "Araujo",
-    "Tarkowski",
-    "Rice",
-    "Rogers",
-    "Enzo",
-    "Anderson",
-    "Calvert-Lewin",
-    "Jo\u00e3o Pedro",
-    "Kostoulas",
-    "Pickford",
-    "Hincapie",
-    "Cherki",
-    "Senesi"
-   ],
-   "captain": "Kostoulas",
-   "differentials_vs_me": [
-    "Anderson",
-    "Pickford",
-    "Araujo",
-    "Virgil",
-    "Rogers",
-    "Hincapie",
-    "Kostoulas",
-    "Rice",
-    "Cherki",
-    "Senesi",
-    "Calvert-Lewin",
-    "Enzo"
    ]
   },
   {
@@ -2796,7 +2796,7 @@
    "pos": "DEF",
    "price": 5.8,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 28.4,
+   "owned_globally_pct": 28.3,
    "i_own": false
   },
   {
@@ -2967,7 +2967,7 @@
    "pos": "MID",
    "price": 8.3,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 12.7,
+   "owned_globally_pct": 12.6,
    "i_own": false
   },
   {
@@ -3030,7 +3030,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 14.2,
+   "owned_globally_pct": 14.1,
    "i_own": false
   },
   {
@@ -3241,21 +3241,21 @@
    "i_own": false
   },
   {
-   "name": "Anderson",
-   "team": "MCI",
-   "pos": "MID",
-   "price": 6.3,
-   "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 3.9,
-   "i_own": false
-  },
-  {
    "name": "Steele",
    "team": "BHA",
    "pos": "GK",
    "price": 4.0,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 3.8,
+   "i_own": false
+  },
+  {
+   "name": "Anderson",
+   "team": "MCI",
+   "pos": "MID",
+   "price": 6.3,
+   "owned_in_league_pct": 8.0,
+   "owned_globally_pct": 3.9,
    "i_own": false
   },
   {
@@ -3561,7 +3561,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.5,
+   "owned_globally_pct": 5.6,
    "i_own": false
   },
   {
