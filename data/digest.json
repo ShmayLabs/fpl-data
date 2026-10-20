@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-20T18:39:05Z",
+ "generated_utc": "2026-10-20T19:01:30Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -547,16 +547,16 @@
     },
     {
      "rank": 7,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 71,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 58,
      "total": 492
     },
     {
      "rank": 7,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 58,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 71,
      "total": 492
     },
     {
@@ -617,16 +617,16 @@
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 69,
      "total": 453
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 69,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
      "total": 453
     },
     {
@@ -728,16 +728,16 @@
     },
     {
      "rank": 7,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 80,
+     "team": "Norris FC",
+     "player": "Rob Norris",
+     "gw": 60,
      "total": 452
     },
     {
      "rank": 7,
-     "team": "Norris FC",
-     "player": "Rob Norris",
-     "gw": 60,
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 80,
      "total": 452
     },
     {
@@ -1649,7 +1649,7 @@
    "pos": "GK",
    "price": 6.1,
    "points": 9,
-   "owned_by": 44.2
+   "owned_by": 44.3
   },
   {
    "name": "Rice",
@@ -2338,43 +2338,6 @@
    ]
   },
   {
-   "team": "Bruno Dos Tres",
-   "manager": "David Taylor",
-   "rank": 7,
-   "total": 452,
-   "chip": "3xc",
-   "squad": [
-    "Verbruggen",
-    "Calafiori",
-    "Hall",
-    "Konsa",
-    "N.Williams",
-    "King",
-    "Palmer",
-    "Saka",
-    "Solanke",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Steele",
-    "Cherki",
-    "Egan",
-    "Slater"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Hall",
-    "Slater",
-    "King",
-    "Solanke",
-    "Steele",
-    "Cherki",
-    "N.Williams",
-    "Egan",
-    "Palmer",
-    "Konsa"
-   ]
-  },
-  {
    "team": "Norris FC",
    "manager": "Rob Norris",
    "rank": 7,
@@ -2408,6 +2371,43 @@
     "Ajer",
     "Palmer",
     "Lammens",
+    "Konsa"
+   ]
+  },
+  {
+   "team": "Bruno Dos Tres",
+   "manager": "David Taylor",
+   "rank": 7,
+   "total": 452,
+   "chip": "3xc",
+   "squad": [
+    "Verbruggen",
+    "Calafiori",
+    "Hall",
+    "Konsa",
+    "N.Williams",
+    "King",
+    "Palmer",
+    "Saka",
+    "Solanke",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Steele",
+    "Cherki",
+    "Egan",
+    "Slater"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Hall",
+    "Slater",
+    "King",
+    "Solanke",
+    "Steele",
+    "Cherki",
+    "N.Williams",
+    "Egan",
+    "Palmer",
     "Konsa"
    ]
   },
@@ -2747,7 +2747,7 @@
    "pos": "GK",
    "price": 4.0,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 16.6,
+   "owned_globally_pct": 16.5,
    "i_own": false
   },
   {
@@ -2783,7 +2783,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 37.7,
+   "owned_globally_pct": 37.8,
    "i_own": false
   },
   {
@@ -2918,7 +2918,7 @@
    "pos": "GK",
    "price": 6.1,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 44.2,
+   "owned_globally_pct": 44.3,
    "i_own": false
   },
   {
@@ -2945,7 +2945,7 @@
    "pos": "MID",
    "price": 8.3,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 12.5,
+   "owned_globally_pct": 12.4,
    "i_own": false
   },
   {
@@ -3026,7 +3026,7 @@
    "pos": "MID",
    "price": 5.6,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 4.8,
+   "owned_globally_pct": 4.7,
    "i_own": false
   },
   {
@@ -3219,21 +3219,21 @@
    "i_own": false
   },
   {
-   "name": "Steele",
-   "team": "BHA",
-   "pos": "GK",
-   "price": 4.0,
-   "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 3.8,
-   "i_own": false
-  },
-  {
    "name": "Anderson",
    "team": "MCI",
    "pos": "MID",
    "price": 6.3,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 3.9,
+   "i_own": false
+  },
+  {
+   "name": "Steele",
+   "team": "BHA",
+   "pos": "GK",
+   "price": 4.0,
+   "owned_in_league_pct": 8.0,
+   "owned_globally_pct": 3.8,
    "i_own": false
   },
   {
