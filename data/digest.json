@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Haaland (MCI) -- Unspecified injury - 75% chance of playing (75% chance)."
  ],
- "generated_utc": "2026-10-20T04:24:12Z",
+ "generated_utc": "2026-10-20T05:52:56Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": false,
@@ -562,16 +562,16 @@
     },
     {
      "rank": 6,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 71,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 58,
      "total": 492
     },
     {
      "rank": 6,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 58,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 71,
      "total": 492
     },
     {
@@ -1671,7 +1671,7 @@
    "pos": "GK",
    "price": 6.1,
    "points": 9,
-   "owned_by": 44.1
+   "owned_by": 44.2
   },
   {
    "name": "Rice",
@@ -1767,7 +1767,7 @@
    "pos": "GK",
    "price": 5.0,
    "points": 8,
-   "owned_by": 4.3
+   "owned_by": 4.2
   },
   {
    "name": "Cash",
@@ -2940,7 +2940,7 @@
    "pos": "GK",
    "price": 6.1,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 44.1,
+   "owned_globally_pct": 44.2,
    "i_own": false
   },
   {
@@ -3453,7 +3453,7 @@
    "pos": "FWD",
    "price": 7.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 6.3,
+   "owned_globally_pct": 6.2,
    "i_own": false
   },
   {
