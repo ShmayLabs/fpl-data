@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-20T22:41:04Z",
+ "generated_utc": "2026-10-20T23:03:24Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -3078,7 +3078,7 @@
    "name": "Hughes",
    "team": "CRY",
    "pos": "MID",
-   "price": 4.4,
+   "price": 4.3,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 6.1,
    "i_own": false
@@ -3096,7 +3096,7 @@
    "name": "Jacquet",
    "team": "LIV",
    "pos": "DEF",
-   "price": 5.0,
+   "price": 5.1,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 4.1,
    "i_own": false
@@ -3411,7 +3411,7 @@
    "name": "Gy\u00f6keres",
    "team": "ARS",
    "pos": "FWD",
-   "price": 7.1,
+   "price": 7.0,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 3.2,
    "i_own": false
