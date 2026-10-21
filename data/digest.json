@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-21T10:23:19Z",
+ "generated_utc": "2026-10-21T10:45:41Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -617,16 +617,16 @@
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 69,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
      "total": 453
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 69,
      "total": 453
     },
     {
@@ -1753,7 +1753,7 @@
    "pos": "DEF",
    "price": 4.4,
    "points": 8,
-   "owned_by": 4.2
+   "owned_by": 4.1
   }
  ],
  "rival_count": 25,
