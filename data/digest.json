@@ -1,8 +1,8 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [
-  "FLAGGED: Saka (ARS) -- Thigh injury - 75% chance of playing (75% chance)."
+  "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-21T21:56:08Z",
+ "generated_utc": "2026-10-21T22:18:32Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -235,8 +235,8 @@
    "is_vice": true,
    "on_bench": false,
    "status": "d",
-   "chance_next": 75,
-   "news": "Thigh injury - 75% chance of playing",
+   "chance_next": 50,
+   "news": "Thigh injury - 50% chance of playing",
    "gw_points": 3,
    "gw_minutes": 90,
    "form": "2.5",
@@ -427,8 +427,8 @@
    "is_vice": true,
    "on_bench": false,
    "status": "d",
-   "chance_next": 75,
-   "news": "Thigh injury - 75% chance of playing",
+   "chance_next": 50,
+   "news": "Thigh injury - 50% chance of playing",
    "gw_points": 3,
    "gw_minutes": 90,
    "form": "2.5",
@@ -639,16 +639,16 @@
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 69,
      "total": 453
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 69,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
      "total": 453
     },
     {
