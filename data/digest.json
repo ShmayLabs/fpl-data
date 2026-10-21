@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-21T20:03:54Z",
+ "generated_utc": "2026-10-21T20:26:22Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -617,16 +617,16 @@
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 69,
      "total": 453
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 69,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
      "total": 453
     },
     {
@@ -1713,7 +1713,7 @@
    "pos": "MID",
    "price": 6.8,
    "points": 9,
-   "owned_by": 1.8
+   "owned_by": 1.9
   },
   {
    "name": "Marmoush",
@@ -3080,7 +3080,7 @@
    "pos": "MID",
    "price": 4.3,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 6.1,
+   "owned_globally_pct": 6.2,
    "i_own": false
   },
   {
@@ -3386,7 +3386,7 @@
    "pos": "DEF",
    "price": 4.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.6,
+   "owned_globally_pct": 5.5,
    "i_own": false
   },
   {
@@ -3566,7 +3566,7 @@
    "pos": "FWD",
    "price": 5.8,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 1.6,
+   "owned_globally_pct": 1.5,
    "i_own": false
   },
   {
