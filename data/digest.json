@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-21T23:03:22Z",
+ "generated_utc": "2026-10-21T23:25:46Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -639,16 +639,16 @@
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 69,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
      "total": 453
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 69,
      "total": 453
     },
     {
@@ -1711,7 +1711,7 @@
    "pos": "FWD",
    "price": 6.1,
    "points": 9,
-   "owned_by": 23.4
+   "owned_by": 23.5
   },
   {
    "name": "Munoz",
@@ -2850,7 +2850,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 23.4,
+   "owned_globally_pct": 23.5,
    "i_own": false
   },
   {
