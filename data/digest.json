@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-21T23:25:46Z",
+ "generated_utc": "2026-10-21T23:48:10Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -230,7 +230,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 16.5,
+   "owned_by": 16.4,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -422,7 +422,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 16.5,
+   "owned_by": 16.4,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -1591,7 +1591,7 @@
    "pos": "MID",
    "price": 5.4,
    "points": 13,
-   "owned_by": 0.5
+   "owned_by": 0.6
   },
   {
    "name": "Haaland",
@@ -2823,7 +2823,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 16.5,
+   "owned_globally_pct": 16.4,
    "i_own": true
   },
   {
