@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-21T04:23:36Z",
+ "generated_utc": "2026-10-21T04:45:59Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -547,16 +547,16 @@
     },
     {
      "rank": 7,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 71,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 58,
      "total": 492
     },
     {
      "rank": 7,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 58,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 71,
      "total": 492
     },
     {
@@ -1625,7 +1625,7 @@
    "pos": "DEF",
    "price": 5.1,
    "points": 11,
-   "owned_by": 5.6
+   "owned_by": 5.7
   },
   {
    "name": "Tavernier",
@@ -3539,7 +3539,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.6,
+   "owned_globally_pct": 5.7,
    "i_own": false
   },
   {
