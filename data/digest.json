@@ -1,6 +1,6 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-21T19:13:54Z",
+ "generated_utc": "2026-10-21T20:03:54Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -228,7 +228,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 16.7,
+   "owned_by": 16.6,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -285,7 +285,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 45.4,
+   "owned_by": 45.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -617,16 +617,16 @@
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 69,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
      "total": 453
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 69,
      "total": 453
     },
     {
@@ -2720,7 +2720,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 52.0,
-   "owned_globally_pct": 45.4,
+   "owned_globally_pct": 45.5,
    "i_own": true
   },
   {
@@ -2738,7 +2738,7 @@
    "pos": "MID",
    "price": 11.8,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 29.0,
+   "owned_globally_pct": 28.9,
    "i_own": false
   },
   {
@@ -2765,7 +2765,7 @@
    "pos": "MID",
    "price": 9.7,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 26.4,
+   "owned_globally_pct": 26.5,
    "i_own": false
   },
   {
@@ -2801,7 +2801,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 16.7,
+   "owned_globally_pct": 16.6,
    "i_own": true
   },
   {
@@ -2945,7 +2945,7 @@
    "pos": "MID",
    "price": 8.3,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 12.0,
+   "owned_globally_pct": 11.9,
    "i_own": false
   },
   {
@@ -3656,7 +3656,7 @@
    "pos": "DEF",
    "price": 6.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 9.2,
+   "owned_globally_pct": 9.1,
    "i_own": false
   },
   {
