@@ -1,6 +1,8 @@
 {
- "SQUAD_ALERTS_READ_THIS_FIRST": [],
- "generated_utc": "2026-10-21T20:26:22Z",
+ "SQUAD_ALERTS_READ_THIS_FIRST": [
+  "FLAGGED: Saka (ARS) -- Thigh injury - 75% chance of playing (75% chance)."
+ ],
+ "generated_utc": "2026-10-21T20:48:49Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -232,9 +234,9 @@
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
-   "status": "a",
-   "chance_next": null,
-   "news": "",
+   "status": "d",
+   "chance_next": 75,
+   "news": "Thigh injury - 75% chance of playing",
    "gw_points": 3,
    "gw_minutes": 90,
    "form": "2.5",
@@ -414,7 +416,27 @@
    "zero_minutes_means": null
   }
  ],
- "flagged_players": [],
+ "flagged_players": [
+  {
+   "name": "Saka",
+   "team": "ARS",
+   "pos": "MID",
+   "price": 9.6,
+   "owned_by": 16.6,
+   "is_captain": false,
+   "is_vice": true,
+   "on_bench": false,
+   "status": "d",
+   "chance_next": 75,
+   "news": "Thigh injury - 75% chance of playing",
+   "gw_points": 3,
+   "gw_minutes": 90,
+   "form": "2.5",
+   "total_points": 37,
+   "fixture_state": "played",
+   "zero_minutes_means": null
+  }
+ ],
  "mini_leagues": [
   {
    "id": "799195",
@@ -2783,7 +2805,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 37.9,
+   "owned_globally_pct": 38.0,
    "i_own": false
   },
   {
