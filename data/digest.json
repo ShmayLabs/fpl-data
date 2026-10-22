@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-22T00:01:01Z",
+ "generated_utc": "2026-10-22T00:23:23Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -173,7 +173,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 53.9,
+   "owned_by": 54.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1615,7 +1615,7 @@
    "pos": "FWD",
    "price": 5.7,
    "points": 12,
-   "owned_by": 9.8
+   "owned_by": 9.9
   },
   {
    "name": "Manzambi",
@@ -2724,7 +2724,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 60.0,
-   "owned_globally_pct": 53.9,
+   "owned_globally_pct": 54.0,
    "i_own": true
   },
   {
@@ -2868,7 +2868,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 9.8,
+   "owned_globally_pct": 9.9,
    "i_own": false
   },
   {
