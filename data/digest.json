@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-22T18:07:33Z",
+ "generated_utc": "2026-10-22T18:29:53Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -135,7 +135,7 @@
    "team": "HUL",
    "pos": "GK",
    "price": 4.7,
-   "owned_by": 14.0,
+   "owned_by": 14.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -211,7 +211,7 @@
    "team": "BHA",
    "pos": "DEF",
    "price": 5.3,
-   "owned_by": 41.3,
+   "owned_by": 41.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -230,7 +230,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 15.5,
+   "owned_by": 15.4,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -422,7 +422,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 15.5,
+   "owned_by": 15.4,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -639,16 +639,16 @@
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 69,
      "total": 453
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 69,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
      "total": 453
     },
     {
@@ -750,16 +750,16 @@
     },
     {
      "rank": 7,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 80,
+     "team": "Norris FC",
+     "player": "Rob Norris",
+     "gw": 60,
      "total": 452
     },
     {
      "rank": 7,
-     "team": "Norris FC",
-     "player": "Rob Norris",
-     "gw": 60,
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 80,
      "total": 452
     },
     {
@@ -1647,7 +1647,7 @@
    "pos": "DEF",
    "price": 5.1,
    "points": 11,
-   "owned_by": 5.8
+   "owned_by": 5.9
   },
   {
    "name": "Tavernier",
@@ -2360,43 +2360,6 @@
    ]
   },
   {
-   "team": "Bruno Dos Tres",
-   "manager": "David Taylor",
-   "rank": 7,
-   "total": 452,
-   "chip": "3xc",
-   "squad": [
-    "Verbruggen",
-    "Calafiori",
-    "Hall",
-    "Konsa",
-    "N.Williams",
-    "King",
-    "Palmer",
-    "Saka",
-    "Solanke",
-    "Jo\u00e3o Pedro",
-    "Haaland",
-    "Steele",
-    "Cherki",
-    "Egan",
-    "Slater"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Hall",
-    "Slater",
-    "King",
-    "Solanke",
-    "Steele",
-    "Cherki",
-    "N.Williams",
-    "Egan",
-    "Palmer",
-    "Konsa"
-   ]
-  },
-  {
    "team": "Norris FC",
    "manager": "Rob Norris",
    "rank": 7,
@@ -2430,6 +2393,43 @@
     "Ajer",
     "Palmer",
     "Lammens",
+    "Konsa"
+   ]
+  },
+  {
+   "team": "Bruno Dos Tres",
+   "manager": "David Taylor",
+   "rank": 7,
+   "total": 452,
+   "chip": "3xc",
+   "squad": [
+    "Verbruggen",
+    "Calafiori",
+    "Hall",
+    "Konsa",
+    "N.Williams",
+    "King",
+    "Palmer",
+    "Saka",
+    "Solanke",
+    "Jo\u00e3o Pedro",
+    "Haaland",
+    "Steele",
+    "Cherki",
+    "Egan",
+    "Slater"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Hall",
+    "Slater",
+    "King",
+    "Solanke",
+    "Steele",
+    "Cherki",
+    "N.Williams",
+    "Egan",
+    "Palmer",
     "Konsa"
    ]
   },
@@ -2751,7 +2751,7 @@
    "pos": "DEF",
    "price": 5.3,
    "owned_in_league_pct": 44.0,
-   "owned_globally_pct": 41.3,
+   "owned_globally_pct": 41.4,
    "i_own": true
   },
   {
@@ -2760,7 +2760,7 @@
    "pos": "MID",
    "price": 11.8,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 28.5,
+   "owned_globally_pct": 28.4,
    "i_own": false
   },
   {
@@ -2823,7 +2823,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 15.5,
+   "owned_globally_pct": 15.4,
    "i_own": true
   },
   {
@@ -2931,7 +2931,7 @@
    "pos": "GK",
    "price": 4.7,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 14.0,
+   "owned_globally_pct": 14.1,
    "i_own": true
   },
   {
@@ -3030,7 +3030,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 13.7,
+   "owned_globally_pct": 13.6,
    "i_own": false
   },
   {
@@ -3241,21 +3241,21 @@
    "i_own": false
   },
   {
-   "name": "Steele",
-   "team": "BHA",
-   "pos": "GK",
-   "price": 4.0,
-   "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 3.8,
-   "i_own": false
-  },
-  {
    "name": "Anderson",
    "team": "MCI",
    "pos": "MID",
    "price": 6.3,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 3.9,
+   "i_own": false
+  },
+  {
+   "name": "Steele",
+   "team": "BHA",
+   "pos": "GK",
+   "price": 4.0,
+   "owned_in_league_pct": 8.0,
+   "owned_globally_pct": 3.8,
    "i_own": false
   },
   {
@@ -3561,7 +3561,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.8,
+   "owned_globally_pct": 5.9,
    "i_own": false
   },
   {
