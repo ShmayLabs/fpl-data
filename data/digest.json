@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-22T17:22:55Z",
+ "generated_utc": "2026-10-22T17:45:13Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -230,7 +230,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 15.6,
+   "owned_by": 15.5,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -422,7 +422,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 15.6,
+   "owned_by": 15.5,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -639,16 +639,16 @@
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 69,
      "total": 453
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 69,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
      "total": 453
     },
     {
@@ -1655,7 +1655,7 @@
    "pos": "MID",
    "price": 6.2,
    "points": 10,
-   "owned_by": 10.0
+   "owned_by": 10.1
   },
   {
    "name": "Boscagli",
@@ -2823,7 +2823,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 15.6,
+   "owned_globally_pct": 15.5,
    "i_own": true
   },
   {
@@ -3138,7 +3138,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 17.8,
+   "owned_globally_pct": 17.7,
    "i_own": false
   },
   {
@@ -3408,7 +3408,7 @@
    "pos": "DEF",
    "price": 4.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.5,
+   "owned_globally_pct": 5.4,
    "i_own": false
   },
   {
@@ -3453,7 +3453,7 @@
    "pos": "FWD",
    "price": 7.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 6.2,
+   "owned_globally_pct": 6.1,
    "i_own": false
   },
   {
@@ -3552,7 +3552,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 10.0,
+   "owned_globally_pct": 10.1,
    "i_own": false
   },
   {
