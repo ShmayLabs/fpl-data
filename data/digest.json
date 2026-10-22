@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-22T14:07:31Z",
+ "generated_utc": "2026-10-22T15:09:02Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -230,7 +230,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 15.8,
+   "owned_by": 15.7,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -249,7 +249,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.8,
-   "owned_by": 20.6,
+   "owned_by": 20.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -422,7 +422,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 15.8,
+   "owned_by": 15.7,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -569,16 +569,16 @@
     },
     {
      "rank": 7,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 71,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 58,
      "total": 492
     },
     {
      "rank": 7,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 58,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 71,
      "total": 492
     },
     {
@@ -1679,7 +1679,7 @@
    "pos": "MID",
    "price": 7.3,
    "points": 9,
-   "owned_by": 11.3
+   "owned_by": 11.4
   },
   {
    "name": "Konsa",
@@ -1687,7 +1687,7 @@
    "pos": "DEF",
    "price": 4.6,
    "points": 9,
-   "owned_by": 17.9
+   "owned_by": 18.0
   },
   {
    "name": "Lindel\u00f6f",
@@ -1695,7 +1695,7 @@
    "pos": "DEF",
    "price": 4.5,
    "points": 9,
-   "owned_by": 0.3
+   "owned_by": 0.4
   },
   {
    "name": "Lewis-Potter",
@@ -2778,7 +2778,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 17.9,
+   "owned_globally_pct": 18.0,
    "i_own": false
   },
   {
@@ -2805,7 +2805,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 38.1,
+   "owned_globally_pct": 38.2,
    "i_own": false
   },
   {
@@ -2814,7 +2814,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 20.6,
+   "owned_globally_pct": 20.7,
    "i_own": true
   },
   {
@@ -2823,7 +2823,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 15.8,
+   "owned_globally_pct": 15.7,
    "i_own": true
   },
   {
@@ -2967,7 +2967,7 @@
    "pos": "MID",
    "price": 8.3,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 11.6,
+   "owned_globally_pct": 11.5,
    "i_own": false
   },
   {
@@ -2976,7 +2976,7 @@
    "pos": "MID",
    "price": 7.3,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 11.3,
+   "owned_globally_pct": 11.4,
    "i_own": false
   },
   {
@@ -3111,7 +3111,7 @@
    "pos": "MID",
    "price": 6.8,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 18.7,
+   "owned_globally_pct": 18.6,
    "i_own": false
   },
   {
@@ -3228,7 +3228,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 14.1,
+   "owned_globally_pct": 14.2,
    "i_own": false
   },
   {
