@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-22T13:00:21Z",
+ "generated_utc": "2026-10-22T13:22:45Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -639,16 +639,16 @@
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 69,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
      "total": 453
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 69,
      "total": 453
     },
     {
@@ -1639,7 +1639,7 @@
    "pos": "MID",
    "price": 5.4,
    "points": 11,
-   "owned_by": 1.1
+   "owned_by": 1.2
   },
   {
    "name": "Vuskovic",
@@ -1655,7 +1655,7 @@
    "pos": "MID",
    "price": 6.2,
    "points": 10,
-   "owned_by": 9.8
+   "owned_by": 9.9
   },
   {
    "name": "Boscagli",
@@ -2904,7 +2904,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 15.3,
+   "owned_globally_pct": 15.2,
    "i_own": false
   },
   {
@@ -3552,7 +3552,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 9.8,
+   "owned_globally_pct": 9.9,
    "i_own": false
   },
   {
