@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-22T02:59:59Z",
+ "generated_utc": "2026-10-22T03:22:20Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -306,7 +306,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.7,
-   "owned_by": 76.8,
+   "owned_by": 76.9,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -569,16 +569,16 @@
     },
     {
      "rank": 7,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 71,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 58,
      "total": 492
     },
     {
      "rank": 7,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 58,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 71,
      "total": 492
     },
     {
@@ -639,16 +639,16 @@
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 69,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
      "total": 453
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 69,
      "total": 453
     },
     {
@@ -1599,7 +1599,7 @@
    "pos": "FWD",
    "price": 15.7,
    "points": 13,
-   "owned_by": 76.8
+   "owned_by": 76.9
   },
   {
    "name": "Evanilson",
@@ -2715,7 +2715,7 @@
    "pos": "FWD",
    "price": 15.7,
    "owned_in_league_pct": 84.0,
-   "owned_globally_pct": 76.8,
+   "owned_globally_pct": 76.9,
    "i_own": true
   },
   {
