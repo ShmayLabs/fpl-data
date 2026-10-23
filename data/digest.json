@@ -15,7 +15,7 @@
   "NOT YET PLAYED: \u00d8degaard (ARS) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-23T21:19:58Z",
+ "generated_utc": "2026-10-23T21:42:22Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -334,7 +334,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.7,
-   "owned_by": 77.4,
+   "owned_by": 77.5,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -2705,7 +2705,7 @@
    "pos": "FWD",
    "price": 15.7,
    "owned_in_league_pct": 88.0,
-   "owned_globally_pct": 77.4,
+   "owned_globally_pct": 77.5,
    "i_own": true
   },
   {
