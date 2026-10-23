@@ -15,7 +15,7 @@
   "NOT YET PLAYED: \u00d8degaard (ARS) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-23T21:42:22Z",
+ "generated_utc": "2026-10-23T22:04:45Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -315,7 +315,7 @@
    "team": "BOU",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 13.4,
+   "owned_by": 13.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1711,7 +1711,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 2,
-   "owned_by": 12.4
+   "owned_by": 12.3
   },
   {
    "name": "Ndoye",
@@ -2948,7 +2948,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 13.4,
+   "owned_globally_pct": 13.5,
    "i_own": true
   },
   {
@@ -3569,7 +3569,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 12.4,
+   "owned_globally_pct": 12.3,
    "i_own": false
   },
   {
