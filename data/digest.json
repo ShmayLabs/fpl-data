@@ -15,7 +15,7 @@
   "NOT YET PLAYED: \u00d8degaard (ARS) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-23T20:35:11Z",
+ "generated_utc": "2026-10-23T20:57:34Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -510,8 +510,8 @@
      "rank": 9,
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
-     "gw": 10,
-     "total": 409
+     "gw": 8,
+     "total": 407
     },
     {
      "rank": 10,
@@ -621,8 +621,8 @@
      "rank": 13,
      "team": "ChickenTikka Mangala",
      "player": "James Davies",
-     "gw": 10,
-     "total": 465
+     "gw": 8,
+     "total": 463
     },
     {
      "rank": 14,
@@ -642,8 +642,8 @@
      "rank": 16,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 10,
-     "total": 459
+     "gw": 8,
+     "total": 457
     },
     {
      "rank": 17,
@@ -691,8 +691,8 @@
      "rank": 23,
      "team": "Cruckle FC",
      "player": "Michael Clarkson",
-     "gw": 10,
-     "total": 437
+     "gw": 8,
+     "total": 435
     },
     {
      "rank": 24,
@@ -753,8 +753,8 @@
      "rank": 6,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 10,
-     "total": 459
+     "gw": 8,
+     "total": 457
     },
     {
      "rank": 7,
@@ -1586,20 +1586,20 @@
  },
  "top_scorers_this_gw": [
   {
-   "name": "N.Williams",
-   "team": "NFO",
-   "pos": "DEF",
-   "price": 5.0,
-   "points": 10,
-   "owned_by": 6.2
-  },
-  {
    "name": "Enciso",
    "team": "IPS",
    "pos": "MID",
    "price": 5.5,
    "points": 10,
    "owned_by": 0.7
+  },
+  {
+   "name": "N.Williams",
+   "team": "NFO",
+   "pos": "DEF",
+   "price": 5.0,
+   "points": 8,
+   "owned_by": 6.2
   },
   {
    "name": "Mu\u00f1oz",
@@ -1614,6 +1614,14 @@
    "team": "NFO",
    "pos": "MID",
    "price": 5.5,
+   "points": 5,
+   "owned_by": 0.1
+  },
+  {
+   "name": "Schlager",
+   "team": "NFO",
+   "pos": "MID",
+   "price": 5.0,
    "points": 4,
    "owned_by": 0.1
   },
@@ -1626,20 +1634,20 @@
    "owned_by": 0.1
   },
   {
+   "name": "Walton",
+   "team": "IPS",
+   "pos": "GK",
+   "price": 4.4,
+   "points": 3,
+   "owned_by": 0.5
+  },
+  {
    "name": "Delap",
    "team": "NFO",
    "pos": "FWD",
    "price": 5.5,
    "points": 2,
    "owned_by": 1.9
-  },
-  {
-   "name": "Walton",
-   "team": "IPS",
-   "pos": "GK",
-   "price": 4.4,
-   "points": 2,
-   "owned_by": 0.5
   },
   {
    "name": "O'Shea",
@@ -1714,14 +1722,6 @@
    "owned_by": 0.7
   },
   {
-   "name": "Schlager",
-   "team": "NFO",
-   "pos": "MID",
-   "price": 5.0,
-   "points": 2,
-   "owned_by": 0.1
-  },
-  {
    "name": "Florentino",
    "team": "IPS",
    "pos": "MID",
@@ -1746,6 +1746,14 @@
    "owned_by": 10.9
   },
   {
+   "name": "Matusiwa",
+   "team": "IPS",
+   "pos": "MID",
+   "price": 4.9,
+   "points": 1,
+   "owned_by": 0.0
+  },
+  {
    "name": "Clarke",
    "team": "IPS",
    "pos": "MID",
@@ -1762,28 +1770,20 @@
    "owned_by": 3.6
   },
   {
+   "name": "Akpom",
+   "team": "IPS",
+   "pos": "FWD",
+   "price": 5.0,
+   "points": 1,
+   "owned_by": 1.0
+  },
+  {
    "name": "Murillo",
    "team": "NFO",
    "pos": "DEF",
    "price": 5.5,
    "points": 1,
    "owned_by": 2.2
-  },
-  {
-   "name": "Hudson-Odoi",
-   "team": "NFO",
-   "pos": "MID",
-   "price": 5.7,
-   "points": 1,
-   "owned_by": 0.1
-  },
-  {
-   "name": "Flemming",
-   "team": "IPS",
-   "pos": "FWD",
-   "price": 5.5,
-   "points": 1,
-   "owned_by": 0.1
   }
  ],
  "rival_count": 25,
@@ -2070,7 +2070,7 @@
    "team": "The Goal Hangers",
    "manager": "Nik Barlow",
    "rank": 9,
-   "total": 409,
+   "total": 407,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2326,7 +2326,7 @@
    "team": "Bruno Dos Tres",
    "manager": "David Taylor",
    "rank": 6,
-   "total": 459,
+   "total": 457,
    "chip": null,
    "squad": [
     "Verbruggen",
