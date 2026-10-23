@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-23T04:49:23Z",
+ "generated_utc": "2026-10-23T05:11:41Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -230,7 +230,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 14.6,
+   "owned_by": 14.5,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -268,7 +268,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 6.8,
-   "owned_by": 18.5,
+   "owned_by": 18.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -422,7 +422,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 14.6,
+   "owned_by": 14.5,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -569,16 +569,16 @@
     },
     {
      "rank": 7,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 71,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 58,
      "total": 492
     },
     {
      "rank": 7,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 58,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 71,
      "total": 492
     },
     {
@@ -639,16 +639,16 @@
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 69,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
      "total": 453
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 69,
      "total": 453
     },
     {
@@ -1607,7 +1607,7 @@
    "pos": "FWD",
    "price": 6.1,
    "points": 12,
-   "owned_by": 4.8
+   "owned_by": 4.9
   },
   {
    "name": "Kostoulas",
@@ -1671,7 +1671,7 @@
    "pos": "GK",
    "price": 6.1,
    "points": 9,
-   "owned_by": 44.7
+   "owned_by": 44.8
   },
   {
    "name": "Rice",
@@ -2823,7 +2823,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 14.6,
+   "owned_globally_pct": 14.5,
    "i_own": true
   },
   {
@@ -2859,7 +2859,7 @@
    "pos": "MID",
    "price": 6.8,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 18.5,
+   "owned_globally_pct": 18.4,
    "i_own": true
   },
   {
@@ -2940,7 +2940,7 @@
    "pos": "GK",
    "price": 6.1,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 44.7,
+   "owned_globally_pct": 44.8,
    "i_own": false
   },
   {
@@ -3075,7 +3075,7 @@
    "pos": "GK",
    "price": 4.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.3,
+   "owned_globally_pct": 4.4,
    "i_own": false
   },
   {
@@ -3210,7 +3210,7 @@
    "pos": "DEF",
    "price": 4.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 13.3,
+   "owned_globally_pct": 13.2,
    "i_own": false
   },
   {
@@ -3372,7 +3372,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.8,
+   "owned_globally_pct": 4.9,
    "i_own": false
   },
   {
