@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-23T04:27:05Z",
+ "generated_utc": "2026-10-23T04:49:23Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -249,7 +249,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.9,
-   "owned_by": 20.9,
+   "owned_by": 21.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1735,7 +1735,7 @@
    "pos": "MID",
    "price": 6.8,
    "points": 9,
-   "owned_by": 2.1
+   "owned_by": 2.2
   },
   {
    "name": "Marmoush",
@@ -2814,7 +2814,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 20.9,
+   "owned_globally_pct": 21.0,
    "i_own": true
   },
   {
@@ -3111,7 +3111,7 @@
    "pos": "MID",
    "price": 6.8,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 18.2,
+   "owned_globally_pct": 18.1,
    "i_own": false
   },
   {
@@ -3237,7 +3237,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 11.5,
+   "owned_globally_pct": 11.6,
    "i_own": false
   },
   {
