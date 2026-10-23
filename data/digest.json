@@ -15,7 +15,7 @@
   "NOT YET PLAYED: \u00d8degaard (ARS) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-23T19:27:53Z",
+ "generated_utc": "2026-10-23T19:50:17Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -437,7 +437,7 @@
    "chance_next": 100,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 23,
+   "gw_minutes": 45,
    "form": "1.7",
    "total_points": 31,
    "fixture_state": "in_progress",
@@ -510,8 +510,8 @@
      "rank": 9,
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
-     "gw": 7,
-     "total": 406
+     "gw": 8,
+     "total": 407
     },
     {
      "rank": 10,
@@ -593,8 +593,8 @@
      "rank": 9,
      "team": "Paul's Team",
      "player": "Paul Larkin",
-     "gw": 2,
-     "total": 488
+     "gw": 1,
+     "total": 487
     },
     {
      "rank": 10,
@@ -621,8 +621,8 @@
      "rank": 13,
      "team": "ChickenTikka Mangala",
      "player": "James Davies",
-     "gw": 10,
-     "total": 465
+     "gw": 8,
+     "total": 463
     },
     {
      "rank": 14,
@@ -642,8 +642,8 @@
      "rank": 16,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 10,
-     "total": 459
+     "gw": 8,
+     "total": 457
     },
     {
      "rank": 17,
@@ -691,8 +691,8 @@
      "rank": 23,
      "team": "Cruckle FC",
      "player": "Michael Clarkson",
-     "gw": 10,
-     "total": 437
+     "gw": 8,
+     "total": 435
     },
     {
      "rank": 24,
@@ -753,15 +753,15 @@
      "rank": 6,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 10,
-     "total": 459
+     "gw": 8,
+     "total": 457
     },
     {
      "rank": 7,
      "team": "JTindall Solo Album",
      "player": "Niall Ballinger",
-     "gw": 2,
-     "total": 455
+     "gw": 1,
+     "total": 454
     },
     {
      "rank": 8,
@@ -1586,11 +1586,19 @@
  },
  "top_scorers_this_gw": [
   {
+   "name": "Enciso",
+   "team": "IPS",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 9,
+   "owned_by": 0.7
+  },
+  {
    "name": "N.Williams",
    "team": "NFO",
    "pos": "DEF",
    "price": 5.0,
-   "points": 10,
+   "points": 7,
    "owned_by": 6.2
   },
   {
@@ -1602,12 +1610,12 @@
    "owned_by": 4.7
   },
   {
-   "name": "Gibbs-White",
-   "team": "NFO",
+   "name": "Palacios",
+   "team": "IPS",
    "pos": "MID",
-   "price": 7.9,
+   "price": 5.0,
    "points": 2,
-   "owned_by": 12.4
+   "owned_by": 0.1
   },
   {
    "name": "Delap",
@@ -1706,6 +1714,14 @@
    "owned_by": 0.2
   },
   {
+   "name": "Gibbs-White",
+   "team": "NFO",
+   "pos": "MID",
+   "price": 7.9,
+   "points": 1,
+   "owned_by": 12.4
+  },
+  {
    "name": "Ndoye",
    "team": "NFO",
    "pos": "MID",
@@ -1738,28 +1754,12 @@
    "owned_by": 0.1
   },
   {
-   "name": "Enciso",
-   "team": "IPS",
-   "pos": "MID",
-   "price": 5.5,
-   "points": 1,
-   "owned_by": 0.7
-  },
-  {
    "name": "Ouattara",
    "team": "IPS",
    "pos": "DEF",
    "price": 4.0,
    "points": 1,
    "owned_by": 1.0
-  },
-  {
-   "name": "Palacios",
-   "team": "IPS",
-   "pos": "MID",
-   "price": 5.0,
-   "points": 1,
-   "owned_by": 0.1
   }
  ],
  "rival_count": 25,
@@ -2046,7 +2046,7 @@
    "team": "The Goal Hangers",
    "manager": "Nik Barlow",
    "rank": 9,
-   "total": 406,
+   "total": 407,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2302,7 +2302,7 @@
    "team": "Bruno Dos Tres",
    "manager": "David Taylor",
    "rank": 6,
-   "total": 459,
+   "total": 457,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2339,7 +2339,7 @@
    "team": "JTindall Solo Album",
    "manager": "Niall Ballinger",
    "rank": 7,
-   "total": 455,
+   "total": 454,
    "chip": null,
    "squad": [
     "Verbruggen",
