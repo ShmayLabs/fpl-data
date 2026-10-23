@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-23T10:18:00Z",
+ "generated_utc": "2026-10-23T10:40:18Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -230,7 +230,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 13.9,
+   "owned_by": 13.8,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -422,7 +422,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 13.9,
+   "owned_by": 13.8,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -569,16 +569,16 @@
     },
     {
      "rank": 7,
-     "team": "Not too Xabi",
-     "player": "Niall Walsh",
-     "gw": 71,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 58,
      "total": 492
     },
     {
      "rank": 7,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 58,
+     "team": "Not too Xabi",
+     "player": "Niall Walsh",
+     "gw": 71,
      "total": 492
     },
     {
@@ -639,16 +639,16 @@
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 82,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 69,
      "total": 453
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 69,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 82,
      "total": 453
     },
     {
@@ -1583,7 +1583,7 @@
    "pos": "MID",
    "price": 6.5,
    "points": 15,
-   "owned_by": 3.0
+   "owned_by": 3.1
   },
   {
    "name": "Ayari",
@@ -1639,7 +1639,7 @@
    "pos": "MID",
    "price": 5.4,
    "points": 11,
-   "owned_by": 1.2
+   "owned_by": 1.3
   },
   {
    "name": "Vuskovic",
@@ -1655,7 +1655,7 @@
    "pos": "MID",
    "price": 6.2,
    "points": 10,
-   "owned_by": 11.1
+   "owned_by": 11.2
   },
   {
    "name": "Boscagli",
@@ -1767,7 +1767,7 @@
    "pos": "GK",
    "price": 5.0,
    "points": 8,
-   "owned_by": 4.0
+   "owned_by": 3.9
   },
   {
    "name": "Cash",
@@ -2760,7 +2760,7 @@
    "pos": "MID",
    "price": 11.8,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 27.8,
+   "owned_globally_pct": 27.7,
    "i_own": false
   },
   {
@@ -2787,7 +2787,7 @@
    "pos": "MID",
    "price": 9.8,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 27.4,
+   "owned_globally_pct": 27.5,
    "i_own": false
   },
   {
@@ -2823,7 +2823,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 13.9,
+   "owned_globally_pct": 13.8,
    "i_own": true
   },
   {
@@ -3030,7 +3030,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 13.3,
+   "owned_globally_pct": 13.2,
    "i_own": false
   },
   {
@@ -3408,7 +3408,7 @@
    "pos": "DEF",
    "price": 4.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.3,
+   "owned_globally_pct": 5.2,
    "i_own": false
   },
   {
@@ -3417,7 +3417,7 @@
    "pos": "DEF",
    "price": 5.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.8,
+   "owned_globally_pct": 4.7,
    "i_own": false
   },
   {
@@ -3552,7 +3552,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 11.1,
+   "owned_globally_pct": 11.2,
    "i_own": false
   },
   {
@@ -3606,7 +3606,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 8.8,
+   "owned_globally_pct": 8.7,
    "i_own": false
   },
   {
