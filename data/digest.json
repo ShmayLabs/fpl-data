@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-23T05:11:41Z",
+ "generated_utc": "2026-10-23T05:33:59Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -325,7 +325,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.9,
-   "owned_by": 73.1,
+   "owned_by": 73.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1623,7 +1623,7 @@
    "pos": "MID",
    "price": 6.0,
    "points": 11,
-   "owned_by": 2.8
+   "owned_by": 2.9
   },
   {
    "name": "Hato",
@@ -1655,7 +1655,7 @@
    "pos": "MID",
    "price": 6.2,
    "points": 10,
-   "owned_by": 10.6
+   "owned_by": 10.7
   },
   {
    "name": "Boscagli",
@@ -2706,7 +2706,7 @@
    "pos": "FWD",
    "price": 7.9,
    "owned_in_league_pct": 96.0,
-   "owned_globally_pct": 73.1,
+   "owned_globally_pct": 73.2,
    "i_own": true
   },
   {
@@ -3030,7 +3030,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 13.5,
+   "owned_globally_pct": 13.4,
    "i_own": false
   },
   {
@@ -3273,7 +3273,7 @@
    "pos": "GK",
    "price": 5.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 8.7,
+   "owned_globally_pct": 8.6,
    "i_own": false
   },
   {
@@ -3552,7 +3552,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 10.6,
+   "owned_globally_pct": 10.7,
    "i_own": false
   },
   {
@@ -3579,7 +3579,7 @@
    "pos": "MID",
    "price": 6.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.8,
+   "owned_globally_pct": 2.9,
    "i_own": false
   },
   {
