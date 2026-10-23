@@ -1,9 +1,9 @@
 {
-  "last_successful_pull_utc": "2026-10-23T17:08:16Z",
+  "last_successful_pull_utc": "2026-10-23T17:31:08Z",
   "data_is_stale": false,
-  "pass_started_utc": "2026-10-23T17:05:57Z",
-  "pass_finished_utc": "2026-10-23T17:08:16Z",
-  "pass_number": 7,
+  "pass_started_utc": "2026-10-23T17:28:19Z",
+  "pass_finished_utc": "2026-10-23T17:31:08Z",
+  "pass_number": 8,
   "gameweek_seen": "8",
   "files_ok": [
     "bootstrap.json",
@@ -21,13 +21,18 @@
     "live_gw8.json",
     "live_gw7.json"
   ],
-  "files_failed": [],
+  "files_failed": [
+    {
+      "file": "league_2430021",
+      "error": "HTTP Error 503: Service Unavailable"
+    }
+  ],
   "files_skipped": [
     "picks_gw8.json"
   ],
   "digest": "ok",
   "render": "ok",
-  "healthy": true,
+  "healthy": false,
   "run_url": "https://github.com/ShmayLabs/fpl-data/actions/runs/39973209666",
   "triggered_by": "schedule"
 }
