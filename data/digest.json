@@ -15,7 +15,7 @@
   "NOT YET PLAYED: \u00d8degaard (ARS) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
  ],
- "generated_utc": "2026-10-23T19:50:17Z",
+ "generated_utc": "2026-10-23T20:12:45Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -437,7 +437,7 @@
    "chance_next": 100,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 45,
+   "gw_minutes": 49,
    "form": "1.7",
    "total_points": 31,
    "fixture_state": "in_progress",
@@ -510,8 +510,8 @@
      "rank": 9,
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
-     "gw": 8,
-     "total": 407
+     "gw": 7,
+     "total": 406
     },
     {
      "rank": 10,
@@ -1598,7 +1598,7 @@
    "team": "NFO",
    "pos": "DEF",
    "price": 5.0,
-   "points": 7,
+   "points": 8,
    "owned_by": 6.2
   },
   {
@@ -1610,11 +1610,11 @@
    "owned_by": 4.7
   },
   {
-   "name": "Palacios",
-   "team": "IPS",
+   "name": "McAtee",
+   "team": "NFO",
    "pos": "MID",
-   "price": 5.0,
-   "points": 2,
+   "price": 5.5,
+   "points": 3,
    "owned_by": 0.1
   },
   {
@@ -1730,14 +1730,6 @@
    "owned_by": 0.7
   },
   {
-   "name": "McAtee",
-   "team": "NFO",
-   "pos": "MID",
-   "price": 5.5,
-   "points": 1,
-   "owned_by": 0.1
-  },
-  {
    "name": "Schlager",
    "team": "NFO",
    "pos": "MID",
@@ -1760,6 +1752,14 @@
    "price": 4.0,
    "points": 1,
    "owned_by": 1.0
+  },
+  {
+   "name": "Palacios",
+   "team": "IPS",
+   "pos": "MID",
+   "price": 5.0,
+   "points": 1,
+   "owned_by": 0.1
   }
  ],
  "rival_count": 25,
@@ -2046,7 +2046,7 @@
    "team": "The Goal Hangers",
    "manager": "Nik Barlow",
    "rank": 9,
-   "total": 407,
+   "total": 406,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2726,7 +2726,7 @@
    "pos": "MID",
    "price": 9.8,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 28.5,
+   "owned_globally_pct": 28.6,
    "i_own": false
   },
   {
@@ -2942,7 +2942,7 @@
    "pos": "MID",
    "price": 11.8,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 26.3,
+   "owned_globally_pct": 26.2,
    "i_own": false
   },
   {
@@ -3617,7 +3617,7 @@
    "pos": "MID",
    "price": 6.8,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.6,
+   "owned_globally_pct": 2.7,
    "i_own": false
   },
   {
