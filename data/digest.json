@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-23T02:57:06Z",
+ "generated_utc": "2026-10-23T03:19:29Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -230,7 +230,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 14.7,
+   "owned_by": 14.6,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -422,7 +422,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 9.6,
-   "owned_by": 14.7,
+   "owned_by": 14.6,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -2823,7 +2823,7 @@
    "pos": "MID",
    "price": 9.6,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 14.7,
+   "owned_globally_pct": 14.6,
    "i_own": true
   },
   {
