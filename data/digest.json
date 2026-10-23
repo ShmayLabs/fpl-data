@@ -13,9 +13,10 @@
   "NOT YET PLAYED: Jo\u00e3o Pedro (CHE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: \u00d8degaard (ARS) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
-  "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped."
+  "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-23T22:49:45Z",
+ "generated_utc": "2026-10-23T23:03:15Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -296,7 +297,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 46.3,
+   "owned_by": 46.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -314,7 +315,7 @@
    "name": "Tavernier",
    "team": "BOU",
    "pos": "MID",
-   "price": 6.2,
+   "price": 6.3,
    "owned_by": 13.5,
    "is_captain": false,
    "is_vice": false,
@@ -428,7 +429,7 @@
    "name": "Emersonn",
    "team": "IPS",
    "pos": "FWD",
-   "price": 5.6,
+   "price": 5.5,
    "owned_by": 3.6,
    "is_captain": false,
    "is_vice": false,
@@ -1765,7 +1766,7 @@
    "name": "Emersonn",
    "team": "IPS",
    "pos": "FWD",
-   "price": 5.6,
+   "price": 5.5,
    "points": 1,
    "owned_by": 3.6
   },
@@ -2732,7 +2733,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 56.0,
-   "owned_globally_pct": 46.3,
+   "owned_globally_pct": 46.4,
    "i_own": true
   },
   {
@@ -2811,7 +2812,7 @@
    "name": "Kostoulas",
    "team": "BHA",
    "pos": "FWD",
-   "price": 5.7,
+   "price": 5.8,
    "owned_in_league_pct": 28.0,
    "owned_globally_pct": 10.4,
    "i_own": false
@@ -2874,7 +2875,7 @@
    "name": "Kinsky",
    "team": "TOT",
    "pos": "GK",
-   "price": 4.5,
+   "price": 4.4,
    "owned_in_league_pct": 20.0,
    "owned_globally_pct": 14.6,
    "i_own": false
@@ -2919,7 +2920,7 @@
    "name": "Raya",
    "team": "ARS",
    "pos": "GK",
-   "price": 6.1,
+   "price": 6.2,
    "owned_in_league_pct": 16.0,
    "owned_globally_pct": 45.4,
    "i_own": false
@@ -2946,7 +2947,7 @@
    "name": "Tavernier",
    "team": "BOU",
    "pos": "MID",
-   "price": 6.2,
+   "price": 6.3,
    "owned_in_league_pct": 12.0,
    "owned_globally_pct": 13.5,
    "i_own": true
@@ -2964,7 +2965,7 @@
    "name": "B.Fernandes",
    "team": "MUN",
    "pos": "MID",
-   "price": 11.8,
+   "price": 11.7,
    "owned_in_league_pct": 12.0,
    "owned_globally_pct": 26.2,
    "i_own": false
@@ -3126,7 +3127,7 @@
    "name": "Semenyo",
    "team": "MCI",
    "pos": "MID",
-   "price": 8.3,
+   "price": 8.2,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 8.8,
    "i_own": false
@@ -3243,7 +3244,7 @@
    "name": "Emersonn",
    "team": "IPS",
    "pos": "FWD",
-   "price": 5.6,
+   "price": 5.5,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 3.6,
    "i_own": true
@@ -3315,7 +3316,7 @@
    "name": "Robertson",
    "team": "TOT",
    "pos": "DEF",
-   "price": 4.4,
+   "price": 4.3,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 2.1,
    "i_own": false
@@ -3333,7 +3334,7 @@
    "name": "Evanilson",
    "team": "BOU",
    "pos": "FWD",
-   "price": 6.1,
+   "price": 6.2,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 5.9,
    "i_own": false
@@ -3378,7 +3379,7 @@
    "name": "Shaw",
    "team": "MUN",
    "pos": "DEF",
-   "price": 4.3,
+   "price": 4.2,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 4.8,
    "i_own": false
@@ -3450,7 +3451,7 @@
    "name": "Saka",
    "team": "ARS",
    "pos": "MID",
-   "price": 9.6,
+   "price": 9.5,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 10.3,
    "i_own": false
@@ -3549,7 +3550,7 @@
    "name": "Neto",
    "team": "CHE",
    "pos": "MID",
-   "price": 6.5,
+   "price": 6.6,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 3.5,
    "i_own": false
