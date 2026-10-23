@@ -2,7 +2,7 @@
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Saka (ARS) -- Thigh injury - 50% chance of playing (50% chance)."
  ],
- "generated_utc": "2026-10-23T02:12:18Z",
+ "generated_utc": "2026-10-23T02:34:42Z",
  "next_gw": 8,
  "next_deadline_utc": "2026-10-23T17:30:00Z",
  "gw_finished": true,
@@ -154,7 +154,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.2,
-   "owned_by": 18.3,
+   "owned_by": 18.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -2994,7 +2994,7 @@
    "pos": "DEF",
    "price": 6.2,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 18.3,
+   "owned_globally_pct": 18.2,
    "i_own": true
   },
   {
