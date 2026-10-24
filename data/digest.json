@@ -16,7 +16,7 @@
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-24T02:24:39Z",
+ "generated_utc": "2026-10-24T02:47:00Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -278,7 +278,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.9,
-   "owned_by": 21.8,
+   "owned_by": 21.9,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -2787,7 +2787,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 21.8,
+   "owned_globally_pct": 21.9,
    "i_own": true
   },
   {
