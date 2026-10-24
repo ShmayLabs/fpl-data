@@ -15,7 +15,7 @@
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-24T13:31:15Z",
+ "generated_utc": "2026-10-24T13:57:35Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -239,7 +239,7 @@
    "team": "LEE",
    "pos": "DEF",
    "price": 4.7,
-   "owned_by": 10.8,
+   "owned_by": 10.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -315,7 +315,7 @@
    "team": "BOU",
    "pos": "MID",
    "price": 6.3,
-   "owned_by": 13.7,
+   "owned_by": 13.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -345,7 +345,7 @@
    "gw_minutes": 90,
    "form": "9.0",
    "total_points": 66,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -703,9 +703,9 @@
     },
     {
      "rank": 25,
-     "team": "How I met your mata",
-     "player": "Paul Gittins",
-     "gw": 30,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 18,
      "total": 450
     }
    ]
@@ -1591,7 +1591,7 @@
    "pos": "FWD",
    "price": 6.6,
    "points": 13,
-   "owned_by": 4.5
+   "owned_by": 4.7
   },
   {
    "name": "Enciso",
@@ -2795,7 +2795,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 10.8,
+   "owned_globally_pct": 10.9,
    "i_own": true
   },
   {
@@ -2840,7 +2840,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 22.6,
+   "owned_globally_pct": 22.5,
    "i_own": false
   },
   {
@@ -2939,7 +2939,7 @@
    "pos": "GK",
    "price": 4.9,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 8.4,
+   "owned_globally_pct": 8.3,
    "i_own": false
   },
   {
@@ -2948,7 +2948,7 @@
    "pos": "MID",
    "price": 6.3,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 13.7,
+   "owned_globally_pct": 13.8,
    "i_own": true
   },
   {
@@ -3515,7 +3515,7 @@
    "pos": "FWD",
    "price": 6.6,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.5,
+   "owned_globally_pct": 4.7,
    "i_own": false
   },
   {
@@ -3542,7 +3542,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 6.2,
+   "owned_globally_pct": 6.3,
    "i_own": false
   },
   {
