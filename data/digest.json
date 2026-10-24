@@ -1,6 +1,7 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "NOT YET PLAYED: Tzolakis (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "FLAGGED: Thomas (COV) -- Unspecified injury - 75% chance of playing (75% chance).",
   "NOT YET PLAYED: De Cuyper (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Bogle (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "NOT YET PLAYED: Mbeumo (MUN) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
@@ -10,7 +11,7 @@
   "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-24T16:56:25Z",
+ "generated_utc": "2026-10-24T17:18:46Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -200,9 +201,9 @@
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
-   "status": "a",
-   "chance_next": null,
-   "news": "",
+   "status": "d",
+   "chance_next": 75,
+   "news": "Unspecified injury - 75% chance of playing",
    "gw_points": 1,
    "gw_minutes": 59,
    "form": "2.7",
@@ -253,15 +254,15 @@
    "team": "CHE",
    "pos": "MID",
    "price": 8.0,
-   "owned_by": 49.8,
+   "owned_by": 49.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 3,
-   "gw_minutes": 20,
+   "gw_points": 1,
+   "gw_minutes": 44,
    "form": "4.0",
    "total_points": 41,
    "fixture_state": "in_progress",
@@ -440,6 +441,25 @@
   }
  ],
  "flagged_players": [
+  {
+   "name": "Thomas",
+   "team": "COV",
+   "pos": "DEF",
+   "price": 4.0,
+   "owned_by": 9.8,
+   "is_captain": false,
+   "is_vice": false,
+   "on_bench": false,
+   "status": "d",
+   "chance_next": 75,
+   "news": "Unspecified injury - 75% chance of playing",
+   "gw_points": 1,
+   "gw_minutes": 59,
+   "form": "2.7",
+   "total_points": 32,
+   "fixture_state": "played",
+   "zero_minutes_means": null
+  },
   {
    "name": "Jo\u00e3o Pedro",
    "team": "CHE",
@@ -1785,12 +1805,12 @@
    "owned_by": 0.3
   },
   {
-   "name": "Kinsky",
+   "name": "Robertson",
    "team": "TOT",
-   "pos": "GK",
-   "price": 4.4,
+   "pos": "DEF",
+   "price": 4.3,
    "points": 4,
-   "owned_by": 14.6
+   "owned_by": 2.1
   },
   {
    "name": "Schlager",
@@ -2729,7 +2749,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 68.0,
-   "owned_globally_pct": 49.8,
+   "owned_globally_pct": 49.9,
    "i_own": true
   },
   {
@@ -3494,7 +3514,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 9.9,
+   "owned_globally_pct": 9.8,
    "i_own": false
   },
   {
