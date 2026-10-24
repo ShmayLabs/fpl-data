@@ -12,7 +12,7 @@
   "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-24T21:44:57Z",
+ "generated_utc": "2026-10-24T22:07:24Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -23,7 +23,7 @@
   "total_points": 499,
   "rank": 8534113,
   "rank_sort": 8550773,
-  "overall_rank": 1506044,
+  "overall_rank": 1506046,
   "percentile_rank": 80,
   "overall_rank_percentage": "14",
   "bank": 13,
@@ -1654,7 +1654,7 @@
    "pos": "DEF",
    "price": 4.6,
    "points": 15,
-   "owned_by": 19.0
+   "owned_by": 19.1
   },
   {
    "name": "N.Jackson",
@@ -2814,7 +2814,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 19.0,
+   "owned_globally_pct": 19.1,
    "i_own": false
   },
   {
@@ -2958,7 +2958,7 @@
    "pos": "MID",
    "price": 7.3,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 12.2,
+   "owned_globally_pct": 12.3,
    "i_own": false
   },
   {
@@ -3651,7 +3651,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 12.3,
+   "owned_globally_pct": 12.2,
    "i_own": false
   },
   {
