@@ -12,7 +12,7 @@
   "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-24T21:22:32Z",
+ "generated_utc": "2026-10-24T21:44:57Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -1662,7 +1662,7 @@
    "pos": "FWD",
    "price": 6.6,
    "points": 13,
-   "owned_by": 5.7
+   "owned_by": 5.8
   },
   {
    "name": "Bobb",
@@ -1790,7 +1790,7 @@
    "pos": "MID",
    "price": 5.4,
    "points": 6,
-   "owned_by": 2.8
+   "owned_by": 2.9
   },
   {
    "name": "Hato",
@@ -3057,7 +3057,7 @@
    "pos": "FWD",
    "price": 6.1,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 12.4,
+   "owned_globally_pct": 12.3,
    "i_own": false
   },
   {
@@ -3570,7 +3570,7 @@
    "pos": "FWD",
    "price": 6.6,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.7,
+   "owned_globally_pct": 5.8,
    "i_own": false
   },
   {
@@ -3579,7 +3579,7 @@
    "pos": "MID",
    "price": 5.4,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.8,
+   "owned_globally_pct": 2.9,
    "i_own": false
   },
   {
