@@ -12,7 +12,7 @@
   "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-24T22:29:50Z",
+ "generated_utc": "2026-10-24T22:52:12Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -549,16 +549,16 @@
     },
     {
      "rank": 7,
-     "team": "net six and chill",
-     "player": "william batterbury",
-     "gw": 25,
+     "team": "The Goal Hangers",
+     "player": "Nik Barlow",
+     "gw": 47,
      "total": 447
     },
     {
      "rank": 7,
-     "team": "The Goal Hangers",
-     "player": "Nik Barlow",
-     "gw": 47,
+     "team": "net six and chill",
+     "player": "william batterbury",
+     "gw": 25,
      "total": 447
     },
     {
@@ -2049,43 +2049,6 @@
    ]
   },
   {
-   "team": "net six and chill",
-   "manager": "william batterbury",
-   "rank": 7,
-   "total": 447,
-   "chip": null,
-   "squad": [
-    "Kinsky",
-    "Maguire",
-    "Gvardiol",
-    "Calafiori",
-    "B.Fernandes",
-    "E.Le F\u00e9e",
-    "Rogers",
-    "Ndiaye",
-    "Haaland",
-    "Jo\u00e3o Pedro",
-    "Calvert-Lewin",
-    "Lammens",
-    "O'Shea",
-    "Ajer",
-    "Gro\u00df"
-   ],
-   "captain": "B.Fernandes",
-   "differentials_vs_me": [
-    "Maguire",
-    "Gvardiol",
-    "B.Fernandes",
-    "Ndiaye",
-    "Kinsky",
-    "O'Shea",
-    "Ajer",
-    "Calvert-Lewin",
-    "Lammens",
-    "E.Le F\u00e9e"
-   ]
-  },
-  {
    "team": "The Goal Hangers",
    "manager": "Nik Barlow",
    "rank": 7,
@@ -2121,6 +2084,43 @@
     "Gy\u00f6keres",
     "Thiaw",
     "Konsa"
+   ]
+  },
+  {
+   "team": "net six and chill",
+   "manager": "william batterbury",
+   "rank": 7,
+   "total": 447,
+   "chip": null,
+   "squad": [
+    "Kinsky",
+    "Maguire",
+    "Gvardiol",
+    "Calafiori",
+    "B.Fernandes",
+    "E.Le F\u00e9e",
+    "Rogers",
+    "Ndiaye",
+    "Haaland",
+    "Jo\u00e3o Pedro",
+    "Calvert-Lewin",
+    "Lammens",
+    "O'Shea",
+    "Ajer",
+    "Gro\u00df"
+   ],
+   "captain": "B.Fernandes",
+   "differentials_vs_me": [
+    "Maguire",
+    "Gvardiol",
+    "B.Fernandes",
+    "Ndiaye",
+    "Kinsky",
+    "O'Shea",
+    "Ajer",
+    "Calvert-Lewin",
+    "Lammens",
+    "E.Le F\u00e9e"
    ]
   },
   {
@@ -3151,6 +3151,24 @@
    "i_own": false
   },
   {
+   "name": "Semenyo",
+   "team": "MCI",
+   "pos": "MID",
+   "price": 8.2,
+   "owned_in_league_pct": 8.0,
+   "owned_globally_pct": 8.4,
+   "i_own": false
+  },
+  {
+   "name": "N.Williams",
+   "team": "NFO",
+   "pos": "DEF",
+   "price": 5.0,
+   "owned_in_league_pct": 8.0,
+   "owned_globally_pct": 6.2,
+   "i_own": false
+  },
+  {
    "name": "Maguire",
    "team": "MUN",
    "pos": "DEF",
@@ -3175,24 +3193,6 @@
    "price": 4.5,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 4.2,
-   "i_own": false
-  },
-  {
-   "name": "Semenyo",
-   "team": "MCI",
-   "pos": "MID",
-   "price": 8.2,
-   "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 8.4,
-   "i_own": false
-  },
-  {
-   "name": "N.Williams",
-   "team": "NFO",
-   "pos": "DEF",
-   "price": 5.0,
-   "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 6.2,
    "i_own": false
   },
   {
@@ -3376,24 +3376,6 @@
    "i_own": false
   },
   {
-   "name": "O'Shea",
-   "team": "IPS",
-   "pos": "DEF",
-   "price": 4.0,
-   "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.9,
-   "i_own": false
-  },
-  {
-   "name": "E.Le F\u00e9e",
-   "team": "SUN",
-   "pos": "MID",
-   "price": 5.7,
-   "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.9,
-   "i_own": false
-  },
-  {
    "name": "Wilson",
    "team": "LEE",
    "pos": "MID",
@@ -3445,6 +3427,24 @@
    "price": 5.0,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 1.8,
+   "i_own": false
+  },
+  {
+   "name": "O'Shea",
+   "team": "IPS",
+   "pos": "DEF",
+   "price": 4.0,
+   "owned_in_league_pct": 4.0,
+   "owned_globally_pct": 2.9,
+   "i_own": false
+  },
+  {
+   "name": "E.Le F\u00e9e",
+   "team": "SUN",
+   "pos": "MID",
+   "price": 5.7,
+   "owned_in_league_pct": 4.0,
+   "owned_globally_pct": 2.9,
    "i_own": false
   },
   {
@@ -3633,7 +3633,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 6.3,
+   "owned_globally_pct": 6.4,
    "i_own": false
   },
   {
