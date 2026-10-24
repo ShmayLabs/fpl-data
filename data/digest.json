@@ -12,7 +12,7 @@
   "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-24T20:37:42Z",
+ "generated_utc": "2026-10-24T21:00:07Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -179,7 +179,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 54.6,
+   "owned_by": 54.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -369,7 +369,7 @@
    "team": "BHA",
    "pos": "GK",
    "price": 4.6,
-   "owned_by": 22.7,
+   "owned_by": 22.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -447,7 +447,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 54.6,
+   "owned_by": 54.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1702,7 +1702,7 @@
    "pos": "GK",
    "price": 4.4,
    "points": 9,
-   "owned_by": 14.6
+   "owned_by": 14.7
   },
   {
    "name": "Leno",
@@ -2778,7 +2778,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 64.0,
-   "owned_globally_pct": 54.6,
+   "owned_globally_pct": 54.5,
    "i_own": true
   },
   {
@@ -2832,7 +2832,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 39.2,
+   "owned_globally_pct": 39.1,
    "i_own": false
   },
   {
@@ -2886,7 +2886,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 22.7,
+   "owned_globally_pct": 22.6,
    "i_own": true
   },
   {
@@ -2931,7 +2931,7 @@
    "pos": "GK",
    "price": 4.4,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 14.6,
+   "owned_globally_pct": 14.7,
    "i_own": false
   },
   {
