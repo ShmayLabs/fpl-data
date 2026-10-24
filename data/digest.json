@@ -16,7 +16,7 @@
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-24T01:17:33Z",
+ "generated_utc": "2026-10-24T01:39:55Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -1627,6 +1627,14 @@
    "owned_by": 0.1
   },
   {
+   "name": "Florentino",
+   "team": "IPS",
+   "pos": "MID",
+   "price": 4.8,
+   "points": 4,
+   "owned_by": 0.1
+  },
+  {
    "name": "Palacios",
    "team": "IPS",
    "pos": "MID",
@@ -1721,14 +1729,6 @@
    "price": 5.5,
    "points": 2,
    "owned_by": 0.7
-  },
-  {
-   "name": "Florentino",
-   "team": "IPS",
-   "pos": "MID",
-   "price": 4.8,
-   "points": 2,
-   "owned_by": 0.1
   },
   {
    "name": "Ouattara",
