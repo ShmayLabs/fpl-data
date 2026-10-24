@@ -15,7 +15,7 @@
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-24T13:08:54Z",
+ "generated_utc": "2026-10-24T13:31:15Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -342,7 +342,7 @@
    "chance_next": 100,
    "news": "",
    "gw_points": 8,
-   "gw_minutes": 77,
+   "gw_minutes": 90,
    "form": "9.0",
    "total_points": 66,
    "fixture_state": "in_progress",
@@ -1674,6 +1674,14 @@
    "owned_by": 0.1
   },
   {
+   "name": "Suzuki",
+   "team": "AVL",
+   "pos": "GK",
+   "price": 5.0,
+   "points": 4,
+   "owned_by": 2.1
+  },
+  {
    "name": "Palacios",
    "team": "IPS",
    "pos": "MID",
@@ -1712,14 +1720,6 @@
    "price": 5.3,
    "points": 3,
    "owned_by": 1.2
-  },
-  {
-   "name": "Suzuki",
-   "team": "AVL",
-   "pos": "GK",
-   "price": 5.0,
-   "points": 3,
-   "owned_by": 2.1
   },
   {
    "name": "Pau",
@@ -1775,7 +1775,7 @@
    "pos": "DEF",
    "price": 4.0,
    "points": 2,
-   "owned_by": 2.8
+   "owned_by": 2.9
   },
   {
    "name": "Davis",
@@ -2777,7 +2777,7 @@
    "pos": "MID",
    "price": 8.0,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 39.4,
+   "owned_globally_pct": 39.3,
    "i_own": false
   },
   {
@@ -3056,7 +3056,7 @@
    "pos": "MID",
    "price": 4.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 3.3,
+   "owned_globally_pct": 3.2,
    "i_own": false
   },
   {
@@ -3326,7 +3326,7 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.8,
+   "owned_globally_pct": 2.9,
    "i_own": false
   },
   {
@@ -3479,7 +3479,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 10.1,
+   "owned_globally_pct": 10.0,
    "i_own": false
   },
   {
