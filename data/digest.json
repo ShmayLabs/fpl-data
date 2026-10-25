@@ -5,7 +5,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Unspecified injury - 75% chance of playing (75% chance).",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-25T20:58:43Z",
+ "generated_utc": "2026-10-25T21:21:07Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -305,7 +305,7 @@
    "team": "BOU",
    "pos": "MID",
    "price": 6.3,
-   "owned_by": 15.9,
+   "owned_by": 16.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -730,13 +730,6 @@
     },
     {
      "rank": 22,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 54,
-     "total": 486
-    },
-    {
-     "rank": 22,
      "team": "Grab your Jacquet",
      "player": "Jon Marlow",
      "gw": 53,
@@ -747,6 +740,13 @@
      "team": "Maddcatts",
      "player": "Craig Cattrall",
      "gw": 35,
+     "total": 486
+    },
+    {
+     "rank": 22,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 54,
      "total": 486
     },
     {
@@ -1655,7 +1655,7 @@
    "pos": "FWD",
    "price": 6.7,
    "points": 13,
-   "owned_by": 7.3
+   "owned_by": 7.4
   },
   {
    "name": "Hill",
@@ -1711,7 +1711,7 @@
    "pos": "MID",
    "price": 6.3,
    "points": 10,
-   "owned_by": 15.9
+   "owned_by": 16.0
   },
   {
    "name": "O.Dango",
@@ -2996,7 +2996,7 @@
    "pos": "MID",
    "price": 6.3,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 15.9,
+   "owned_globally_pct": 16.0,
    "i_own": true
   },
   {
@@ -3563,7 +3563,7 @@
    "pos": "FWD",
    "price": 6.7,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 7.3,
+   "owned_globally_pct": 7.4,
    "i_own": false
   },
   {
