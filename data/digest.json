@@ -12,7 +12,7 @@
   "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-25T10:28:35Z",
+ "generated_utc": "2026-10-25T10:50:56Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -3687,7 +3687,7 @@
    "pos": "DEF",
    "price": 4.2,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 13.1,
+   "owned_globally_pct": 13.0,
    "i_own": false
   },
   {
