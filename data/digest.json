@@ -5,7 +5,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Unspecified injury - 75% chance of playing (75% chance).",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-25T21:21:07Z",
+ "generated_utc": "2026-10-25T21:40:16Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -730,6 +730,13 @@
     },
     {
      "rank": 22,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 54,
+     "total": 486
+    },
+    {
+     "rank": 22,
      "team": "Grab your Jacquet",
      "player": "Jon Marlow",
      "gw": 53,
@@ -740,13 +747,6 @@
      "team": "Maddcatts",
      "player": "Craig Cattrall",
      "gw": 35,
-     "total": 486
-    },
-    {
-     "rank": 22,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 54,
      "total": 486
     },
     {
@@ -3014,7 +3014,7 @@
    "pos": "MID",
    "price": 11.7,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 25.3,
+   "owned_globally_pct": 25.2,
    "i_own": false
   },
   {
