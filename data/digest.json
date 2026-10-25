@@ -12,7 +12,7 @@
   "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-25T06:35:08Z",
+ "generated_utc": "2026-10-25T06:57:31Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": false,
@@ -312,7 +312,7 @@
    "team": "BOU",
    "pos": "MID",
    "price": 6.3,
-   "owned_by": 14.3,
+   "owned_by": 14.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1654,7 +1654,7 @@
    "pos": "DEF",
    "price": 4.6,
    "points": 14,
-   "owned_by": 19.1
+   "owned_by": 19.2
   },
   {
    "name": "N.Jackson",
@@ -2814,7 +2814,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 19.1,
+   "owned_globally_pct": 19.2,
    "i_own": false
   },
   {
@@ -3003,7 +3003,7 @@
    "pos": "MID",
    "price": 6.3,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 14.3,
+   "owned_globally_pct": 14.4,
    "i_own": true
   },
   {
