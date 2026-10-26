@@ -5,7 +5,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Unspecified injury - 75% chance of playing (75% chance).",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-26T19:32:17Z",
+ "generated_utc": "2026-10-26T19:54:39Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -674,16 +674,16 @@
     },
     {
      "rank": 14,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 53,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 51,
      "total": 506
     },
     {
      "rank": 14,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 51,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 53,
      "total": 506
     },
     {
@@ -1647,7 +1647,7 @@
    "pos": "DEF",
    "price": 4.7,
    "points": 14,
-   "owned_by": 19.9
+   "owned_by": 20.0
   },
   {
    "name": "N.Jackson",
@@ -1799,7 +1799,7 @@
    "pos": "GK",
    "price": 4.4,
    "points": 9,
-   "owned_by": 14.8
+   "owned_by": 14.9
   },
   {
    "name": "Roefs",
@@ -2807,7 +2807,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 19.9,
+   "owned_globally_pct": 20.0,
    "i_own": false
   },
   {
@@ -2924,7 +2924,7 @@
    "pos": "GK",
    "price": 4.4,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 14.8,
+   "owned_globally_pct": 14.9,
    "i_own": false
   },
   {
@@ -3032,7 +3032,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 17.2,
+   "owned_globally_pct": 17.1,
    "i_own": false
   },
   {
