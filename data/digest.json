@@ -6,7 +6,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-27T21:35:55Z",
+ "generated_utc": "2026-10-27T21:58:21Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -173,7 +173,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 51.9,
+   "owned_by": 51.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -382,7 +382,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.9,
-   "owned_by": 67.2,
+   "owned_by": 67.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -441,7 +441,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 6.0,
-   "owned_by": 51.9,
+   "owned_by": 51.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -479,7 +479,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.9,
-   "owned_by": 67.2,
+   "owned_by": 67.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1656,7 +1656,7 @@
    "pos": "FWD",
    "price": 6.7,
    "points": 13,
-   "owned_by": 10.8
+   "owned_by": 11.0
   },
   {
    "name": "Hill",
@@ -1792,7 +1792,7 @@
    "pos": "FWD",
    "price": 5.8,
    "points": 9,
-   "owned_by": 0.3
+   "owned_by": 0.4
   },
   {
    "name": "Kinsky",
@@ -2745,7 +2745,7 @@
    "pos": "FWD",
    "price": 7.9,
    "owned_in_league_pct": 96.0,
-   "owned_globally_pct": 67.2,
+   "owned_globally_pct": 67.0,
    "i_own": true
   },
   {
@@ -2772,7 +2772,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 64.0,
-   "owned_globally_pct": 51.9,
+   "owned_globally_pct": 51.8,
    "i_own": true
   },
   {
@@ -3051,7 +3051,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 11.5,
+   "owned_globally_pct": 11.4,
    "i_own": false
   },
   {
@@ -3384,7 +3384,7 @@
    "pos": "FWD",
    "price": 6.2,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 8.1,
+   "owned_globally_pct": 8.2,
    "i_own": false
   },
   {
@@ -3528,7 +3528,7 @@
    "pos": "MID",
    "price": 7.2,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 5.1,
+   "owned_globally_pct": 5.0,
    "i_own": false
   },
   {
@@ -3564,7 +3564,7 @@
    "pos": "FWD",
    "price": 6.7,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 10.8,
+   "owned_globally_pct": 11.0,
    "i_own": false
   },
   {
