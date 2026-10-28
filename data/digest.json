@@ -7,7 +7,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-28T19:39:16Z",
+ "generated_utc": "2026-10-28T20:01:40Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -307,7 +307,7 @@
    "team": "BOU",
    "pos": "MID",
    "price": 6.4,
-   "owned_by": 19.5,
+   "owned_by": 19.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1721,7 +1721,7 @@
    "pos": "MID",
    "price": 6.4,
    "points": 10,
-   "owned_by": 19.5
+   "owned_by": 19.6
   },
   {
    "name": "O.Dango",
@@ -1785,7 +1785,7 @@
    "pos": "FWD",
    "price": 9.1,
    "points": 9,
-   "owned_by": 16.9
+   "owned_by": 17.0
   },
   {
    "name": "Osula",
@@ -2998,7 +2998,7 @@
    "pos": "MID",
    "price": 6.4,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 19.5,
+   "owned_globally_pct": 19.6,
    "i_own": true
   },
   {
@@ -3025,7 +3025,7 @@
    "pos": "MID",
    "price": 11.7,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 24.2,
+   "owned_globally_pct": 24.1,
    "i_own": false
   },
   {
@@ -3394,7 +3394,7 @@
    "pos": "FWD",
    "price": 9.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 16.9,
+   "owned_globally_pct": 17.0,
    "i_own": false
   },
   {
