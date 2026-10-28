@@ -7,7 +7,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-28T22:49:32Z",
+ "generated_utc": "2026-10-28T23:11:52Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -676,16 +676,16 @@
     },
     {
      "rank": 14,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 53,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 51,
      "total": 506
     },
     {
      "rank": 14,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 51,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 53,
      "total": 506
     },
     {
@@ -1785,7 +1785,7 @@
    "pos": "FWD",
    "price": 9.1,
    "points": 9,
-   "owned_by": 17.0
+   "owned_by": 17.1
   },
   {
    "name": "Osula",
@@ -3196,7 +3196,7 @@
    "pos": "MID",
    "price": 5.6,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.3,
+   "owned_globally_pct": 4.2,
    "i_own": false
   },
   {
@@ -3394,7 +3394,7 @@
    "pos": "FWD",
    "price": 9.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 17.0,
+   "owned_globally_pct": 17.1,
    "i_own": false
   },
   {
@@ -3655,7 +3655,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 0.9,
+   "owned_globally_pct": 1.0,
    "i_own": false
   },
   {
