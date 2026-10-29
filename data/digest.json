@@ -7,7 +7,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-29T17:05:03Z",
+ "generated_utc": "2026-10-29T17:27:23Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -307,7 +307,7 @@
    "team": "BOU",
    "pos": "MID",
    "price": 6.4,
-   "owned_by": 20.4,
+   "owned_by": 20.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -383,7 +383,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 61.4,
+   "owned_by": 61.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -480,7 +480,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 61.4,
+   "owned_by": 61.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1721,7 +1721,7 @@
    "pos": "MID",
    "price": 6.4,
    "points": 10,
-   "owned_by": 20.4
+   "owned_by": 20.5
   },
   {
    "name": "O.Dango",
@@ -1785,7 +1785,7 @@
    "pos": "FWD",
    "price": 9.1,
    "points": 9,
-   "owned_by": 17.4
+   "owned_by": 17.5
   },
   {
    "name": "Osula",
@@ -1817,7 +1817,7 @@
    "pos": "DEF",
    "price": 3.9,
    "points": 9,
-   "owned_by": 2.4
+   "owned_by": 2.5
   },
   {
    "name": "Leno",
@@ -2746,7 +2746,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 96.0,
-   "owned_globally_pct": 61.4,
+   "owned_globally_pct": 61.3,
    "i_own": true
   },
   {
@@ -2998,7 +2998,7 @@
    "pos": "MID",
    "price": 6.4,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 20.4,
+   "owned_globally_pct": 20.5,
    "i_own": true
   },
   {
@@ -3304,7 +3304,7 @@
    "pos": "FWD",
    "price": 5.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 1.8,
+   "owned_globally_pct": 1.7,
    "i_own": false
   },
   {
@@ -3394,7 +3394,7 @@
    "pos": "FWD",
    "price": 9.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 17.4,
+   "owned_globally_pct": 17.5,
    "i_own": false
   },
   {
@@ -3493,7 +3493,7 @@
    "pos": "DEF",
    "price": 3.9,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.4,
+   "owned_globally_pct": 2.5,
    "i_own": false
   },
   {
