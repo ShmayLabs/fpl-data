@@ -7,7 +7,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-29T03:01:38Z",
+ "generated_utc": "2026-10-29T03:24:01Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -676,16 +676,16 @@
     },
     {
      "rank": 14,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 51,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 53,
      "total": 506
     },
     {
      "rank": 14,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 53,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 51,
      "total": 506
     },
     {
@@ -1649,7 +1649,7 @@
    "pos": "DEF",
    "price": 4.7,
    "points": 14,
-   "owned_by": 20.3
+   "owned_by": 20.4
   },
   {
    "name": "N.Jackson",
@@ -2809,7 +2809,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 40.0,
-   "owned_globally_pct": 20.3,
+   "owned_globally_pct": 20.4,
    "i_own": false
   },
   {
@@ -3520,7 +3520,7 @@
    "pos": "MID",
    "price": 9.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 8.3,
+   "owned_globally_pct": 8.2,
    "i_own": false
   },
   {
