@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-30T08:29:23Z",
+ "generated_utc": "2026-10-30T08:51:46Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -384,7 +384,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 58.9,
+   "owned_by": 58.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -481,7 +481,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 58.9,
+   "owned_by": 58.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -2747,7 +2747,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 96.0,
-   "owned_globally_pct": 58.9,
+   "owned_globally_pct": 58.8,
    "i_own": true
   },
   {
