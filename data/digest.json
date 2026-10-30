@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-30T07:44:37Z",
+ "generated_utc": "2026-10-30T08:07:00Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -365,7 +365,7 @@
    "team": "BHA",
    "pos": "GK",
    "price": 4.6,
-   "owned_by": 22.3,
+   "owned_by": 22.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -384,7 +384,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 59.1,
+   "owned_by": 59.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -481,7 +481,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 59.1,
+   "owned_by": 59.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -677,16 +677,16 @@
     },
     {
      "rank": 14,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 51,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 53,
      "total": 506
     },
     {
      "rank": 14,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 53,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 51,
      "total": 506
     },
     {
@@ -2747,7 +2747,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 96.0,
-   "owned_globally_pct": 59.1,
+   "owned_globally_pct": 59.0,
    "i_own": true
   },
   {
@@ -2855,7 +2855,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 22.3,
+   "owned_globally_pct": 22.2,
    "i_own": true
   },
   {
@@ -3656,7 +3656,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 1.1,
+   "owned_globally_pct": 1.2,
    "i_own": false
   },
   {
