@@ -1,13 +1,14 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [
   "FLAGGED: Calafiori (ARS) -- Hip injury - 75% chance of playing (75% chance).",
+  "PRICE FALL: Calafiori dropped \u00a30.1m this gameweek.",
   "FLAGGED: Thomas (COV) -- Calf injury - 50% chance of playing (50% chance).",
   "PRICE FALL: \u00d8degaard dropped \u00a30.1m this gameweek.",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-29T23:55:48Z",
+ "generated_utc": "2026-10-30T00:18:11Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -173,7 +174,7 @@
    "name": "Calafiori",
    "team": "ARS",
    "pos": "DEF",
-   "price": 6.0,
+   "price": 5.9,
    "owned_by": 50.2,
    "is_captain": false,
    "is_vice": false,
@@ -441,7 +442,7 @@
    "name": "Calafiori",
    "team": "ARS",
    "pos": "DEF",
-   "price": 6.0,
+   "price": 5.9,
    "owned_by": 50.2,
    "is_captain": false,
    "is_vice": false,
@@ -676,16 +677,16 @@
     },
     {
      "rank": 14,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 53,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 51,
      "total": 506
     },
     {
      "rank": 14,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 51,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 53,
      "total": 506
     },
     {
@@ -1713,7 +1714,7 @@
    "pos": "MID",
    "price": 6.3,
    "points": 10,
-   "owned_by": 1.9
+   "owned_by": 2.0
   },
   {
    "name": "Tavernier",
@@ -2771,7 +2772,7 @@
    "name": "Calafiori",
    "team": "ARS",
    "pos": "DEF",
-   "price": 6.0,
+   "price": 5.9,
    "owned_in_league_pct": 64.0,
    "owned_globally_pct": 50.2,
    "i_own": true
@@ -3383,7 +3384,7 @@
    "name": "Evanilson",
    "team": "BOU",
    "pos": "FWD",
-   "price": 6.2,
+   "price": 6.3,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 10.3,
    "i_own": false
@@ -3500,7 +3501,7 @@
    "name": "Havertz",
    "team": "ARS",
    "pos": "FWD",
-   "price": 7.5,
+   "price": 7.4,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 5.6,
    "i_own": false
