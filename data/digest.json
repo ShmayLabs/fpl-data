@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-30T09:14:08Z",
+ "generated_utc": "2026-10-30T09:36:31Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -327,7 +327,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 6.7,
-   "owned_by": 17.3,
+   "owned_by": 17.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -384,7 +384,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 58.7,
+   "owned_by": 58.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -481,7 +481,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 58.7,
+   "owned_by": 58.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1658,7 +1658,7 @@
    "pos": "FWD",
    "price": 6.8,
    "points": 13,
-   "owned_by": 15.9
+   "owned_by": 16.0
   },
   {
    "name": "Hill",
@@ -1666,7 +1666,7 @@
    "pos": "DEF",
    "price": 5.5,
    "points": 11,
-   "owned_by": 1.9
+   "owned_by": 2.0
   },
   {
    "name": "Bobb",
@@ -2747,7 +2747,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 96.0,
-   "owned_globally_pct": 58.7,
+   "owned_globally_pct": 58.6,
    "i_own": true
   },
   {
@@ -2936,7 +2936,7 @@
    "pos": "MID",
    "price": 6.7,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 17.3,
+   "owned_globally_pct": 17.2,
    "i_own": true
   },
   {
@@ -3386,7 +3386,7 @@
    "pos": "FWD",
    "price": 6.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 10.6,
+   "owned_globally_pct": 10.7,
    "i_own": false
   },
   {
@@ -3566,7 +3566,7 @@
    "pos": "FWD",
    "price": 6.8,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 15.9,
+   "owned_globally_pct": 16.0,
    "i_own": false
   },
   {
