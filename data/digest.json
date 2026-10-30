@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-30T04:30:52Z",
+ "generated_utc": "2026-10-30T04:53:18Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -677,16 +677,16 @@
     },
     {
      "rank": 14,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 51,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 53,
      "total": 506
     },
     {
      "rank": 14,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 53,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 51,
      "total": 506
     },
     {
