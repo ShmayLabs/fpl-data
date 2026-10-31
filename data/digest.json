@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-31T00:44:14Z",
+ "generated_utc": "2026-10-31T01:06:32Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -384,7 +384,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 51.0,
+   "owned_by": 50.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -481,7 +481,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 51.0,
+   "owned_by": 50.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -677,16 +677,16 @@
     },
     {
      "rank": 14,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 51,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 53,
      "total": 506
     },
     {
      "rank": 14,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 53,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 51,
      "total": 506
     },
     {
@@ -1658,7 +1658,7 @@
    "pos": "FWD",
    "price": 6.9,
    "points": 13,
-   "owned_by": 20.7
+   "owned_by": 20.8
   },
   {
    "name": "Hill",
@@ -2747,7 +2747,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 96.0,
-   "owned_globally_pct": 51.0,
+   "owned_globally_pct": 50.9,
    "i_own": true
   },
   {
@@ -3053,7 +3053,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 10.6,
+   "owned_globally_pct": 10.5,
    "i_own": false
   },
   {
@@ -3566,7 +3566,7 @@
    "pos": "FWD",
    "price": 6.9,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 20.7,
+   "owned_globally_pct": 20.8,
    "i_own": false
   },
   {
