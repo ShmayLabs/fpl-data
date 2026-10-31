@@ -7,7 +7,7 @@
   "FLAGGED: Thomas (COV) -- Calf injury - 50% chance of playing (50% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-10-31T19:08:22Z",
+ "generated_utc": "2026-10-31T19:30:45Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": false,
@@ -436,7 +436,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 44.9,
+   "owned_by": 44.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -495,7 +495,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 44.9,
+   "owned_by": 44.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -526,8 +526,8 @@
      "rank": 2,
      "team": "Bayer Neverlusen",
      "player": "Jamie Mourant",
-     "gw": 50,
-     "total": 563
+     "gw": 57,
+     "total": 570
     },
     {
      "rank": 3,
@@ -547,8 +547,8 @@
      "rank": 5,
      "team": "Tics Champs By Xmas",
      "player": "Kieron Murphy",
-     "gw": 43,
-     "total": 528
+     "gw": 42,
+     "total": 527
     },
     {
      "rank": 6,
@@ -568,8 +568,8 @@
      "rank": 8,
      "team": "T_R",
      "player": "Tom Roberts",
-     "gw": 20,
-     "total": 496
+     "gw": 21,
+     "total": 497
     },
     {
      "rank": 9,
@@ -623,8 +623,8 @@
      "rank": 4,
      "team": "Not too Xabi",
      "player": "Niall Walsh",
-     "gw": 29,
-     "total": 594
+     "gw": 28,
+     "total": 593
     },
     {
      "rank": 5,
@@ -846,8 +846,8 @@
      "rank": 10,
      "team": "Tramontozpor",
      "player": "Kwadwo David",
-     "gw": 28,
-     "total": 518
+     "gw": 27,
+     "total": 517
     },
     {
      "rank": 11,
@@ -1712,7 +1712,7 @@
    "pos": "FWD",
    "price": 6.3,
    "points": 9,
-   "owned_by": 15.0
+   "owned_by": 15.1
   },
   {
    "name": "Thiago",
@@ -1811,14 +1811,6 @@
    "owned_by": 2.3
   },
   {
-   "name": "Kudus",
-   "team": "TOT",
-   "pos": "MID",
-   "price": 6.5,
-   "points": 8,
-   "owned_by": 1.5
-  },
-  {
    "name": "E.Le F\u00e9e",
    "team": "SUN",
    "pos": "MID",
@@ -1849,6 +1841,14 @@
    "price": 5.5,
    "points": 8,
    "owned_by": 0.9
+  },
+  {
+   "name": "Kelleher",
+   "team": "BRE",
+   "pos": "GK",
+   "price": 5.0,
+   "points": 7,
+   "owned_by": 6.2
   }
  ],
  "rival_count": 25,
@@ -1890,7 +1890,7 @@
    "team": "Bayer Neverlusen",
    "manager": "Jamie Mourant",
    "rank": 2,
-   "total": 563,
+   "total": 570,
    "chip": "freehit",
    "squad": [
     "Kinsky",
@@ -1992,7 +1992,7 @@
    "team": "Tics Champs By Xmas",
    "manager": "Kieron Murphy",
    "rank": 5,
-   "total": 528,
+   "total": 527,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -2105,7 +2105,7 @@
    "team": "T_R",
    "manager": "Tom Roberts",
    "rank": 8,
-   "total": 496,
+   "total": 497,
    "chip": null,
    "squad": [
     "Raya",
@@ -2544,7 +2544,7 @@
    "team": "Tramontozpor",
    "manager": "Kwadwo David",
    "rank": 10,
-   "total": 518,
+   "total": 517,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2834,7 +2834,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 44.9,
+   "owned_globally_pct": 44.8,
    "i_own": true
   },
   {
@@ -2870,7 +2870,7 @@
    "pos": "FWD",
    "price": 6.3,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 15.0,
+   "owned_globally_pct": 15.1,
    "i_own": false
   },
   {
@@ -2960,7 +2960,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 26.6,
+   "owned_globally_pct": 26.5,
    "i_own": false
   },
   {
