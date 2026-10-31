@@ -14,7 +14,7 @@
   "FLAGGED: Thomas (COV) -- Calf injury - 50% chance of playing (50% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-10-31T14:20:56Z",
+ "generated_utc": "2026-10-31T14:43:16Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": false,
@@ -253,18 +253,18 @@
    "team": "CHE",
    "pos": "MID",
    "price": 8.1,
-   "owned_by": 51.0,
+   "owned_by": 51.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 9,
-   "gw_minutes": 87,
+   "gw_points": 8,
+   "gw_minutes": 90,
    "form": "5.0",
    "total_points": 49,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -280,10 +280,10 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 87,
+   "gw_minutes": 90,
    "form": "4.8",
    "total_points": 44,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -310,7 +310,7 @@
    "team": "BOU",
    "pos": "MID",
    "price": 6.5,
-   "owned_by": 25.3,
+   "owned_by": 25.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -405,7 +405,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 5.9,
-   "owned_by": 48.3,
+   "owned_by": 48.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -443,7 +443,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 46.0,
+   "owned_by": 45.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -454,8 +454,8 @@
    "gw_minutes": 0,
    "form": "3.5",
    "total_points": 47,
-   "fixture_state": "in_progress",
-   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   }
  ],
  "flagged_players": [
@@ -464,7 +464,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 5.9,
-   "owned_by": 48.3,
+   "owned_by": 48.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -502,7 +502,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 46.0,
+   "owned_by": 45.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -513,8 +513,8 @@
    "gw_minutes": 0,
    "form": "3.5",
    "total_points": 47,
-   "fixture_state": "in_progress",
-   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+   "fixture_state": "played",
+   "zero_minutes_means": "match finished and he played no part"
   }
  ],
  "mini_leagues": [
@@ -797,22 +797,22 @@
      "rank": 2,
      "team": "Tzolis and Gromit",
      "player": "Alex Midmore",
-     "gw": 9,
-     "total": 536
+     "gw": 8,
+     "total": 535
     },
     {
      "rank": 3,
      "team": "beef cherki",
      "player": "Samuel Dennis",
-     "gw": 17,
-     "total": 534
+     "gw": 16,
+     "total": 533
     },
     {
      "rank": 4,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 10,
-     "total": 533
+     "gw": 9,
+     "total": 532
     },
     {
      "rank": 5,
@@ -825,29 +825,29 @@
      "rank": 6,
      "team": "Norris FC",
      "player": "Rob Norris",
-     "gw": 20,
-     "total": 509
+     "gw": 19,
+     "total": 508
     },
     {
      "rank": 7,
      "team": "Static FC",
      "player": "Nathaniel Josephs",
-     "gw": 10,
-     "total": 507
+     "gw": 9,
+     "total": 506
     },
     {
      "rank": 8,
      "team": "Accringtonali FC",
      "player": "Kyle Broadhurst",
-     "gw": 12,
-     "total": 505
+     "gw": 11,
+     "total": 504
     },
     {
      "rank": 9,
      "team": "JTindall Solo Album",
      "player": "Niall Ballinger",
-     "gw": 9,
-     "total": 503
+     "gw": 8,
+     "total": 502
     },
     {
      "rank": 10,
@@ -860,22 +860,22 @@
      "rank": 11,
      "team": "RebellTeam",
      "player": "Santi Rebella",
-     "gw": 9,
-     "total": 467
+     "gw": 8,
+     "total": 466
     },
     {
      "rank": 12,
      "team": "Prep Big B",
      "player": "Darren Heath",
-     "gw": 12,
-     "total": 467
+     "gw": 11,
+     "total": 466
     },
     {
      "rank": 13,
      "team": "King Scarles",
      "player": "Tom Horsman",
-     "gw": 18,
-     "total": 466
+     "gw": 16,
+     "total": 464
     },
     {
      "rank": 14,
@@ -1666,12 +1666,12 @@
    "owned_by": 0.2
   },
   {
-   "name": "Rogers",
+   "name": "Acheampong",
    "team": "CHE",
-   "pos": "MID",
-   "price": 8.1,
+   "pos": "DEF",
+   "price": 4.5,
    "points": 9,
-   "owned_by": 51.0
+   "owned_by": 0.4
   },
   {
    "name": "Lavia",
@@ -1682,12 +1682,12 @@
    "owned_by": 0.2
   },
   {
-   "name": "Acheampong",
+   "name": "Rogers",
    "team": "CHE",
-   "pos": "DEF",
-   "price": 4.5,
+   "pos": "MID",
+   "price": 8.1,
    "points": 8,
-   "owned_by": 0.4
+   "owned_by": 51.1
   },
   {
    "name": "Palmer",
@@ -1802,6 +1802,22 @@
    "owned_by": 0.8
   },
   {
+   "name": "Gusto",
+   "team": "CHE",
+   "pos": "DEF",
+   "price": 4.8,
+   "points": 1,
+   "owned_by": 0.7
+  },
+  {
+   "name": "Quenda",
+   "team": "CHE",
+   "pos": "MID",
+   "price": 5.2,
+   "points": 1,
+   "owned_by": 0.0
+  },
+  {
    "name": "Dalot",
    "team": "MUN",
    "pos": "DEF",
@@ -1840,22 +1856,6 @@
    "price": 5.4,
    "points": 1,
    "owned_by": 0.0
-  },
-  {
-   "name": "Zirkzee",
-   "team": "MUN",
-   "pos": "FWD",
-   "price": 5.3,
-   "points": 1,
-   "owned_by": 0.4
-  },
-  {
-   "name": "Chavarria",
-   "team": "CHE",
-   "pos": "DEF",
-   "price": 4.9,
-   "points": 1,
-   "owned_by": 0.2
   }
  ],
  "rival_count": 25,
@@ -1897,7 +1897,7 @@
    "team": "Claude Mak\u00e9l\u00e9l\u00e9",
    "manager": "Aidan Whitehouse",
    "rank": 4,
-   "total": 533,
+   "total": 532,
    "chip": null,
    "squad": [
     "Tzolakis",
@@ -2296,7 +2296,7 @@
    "team": "Tzolis and Gromit",
    "manager": "Alex Midmore",
    "rank": 2,
-   "total": 536,
+   "total": 535,
    "chip": null,
    "squad": [
     "Tzolakis",
@@ -2332,7 +2332,7 @@
    "team": "beef cherki",
    "manager": "Samuel Dennis",
    "rank": 3,
-   "total": 534,
+   "total": 533,
    "chip": null,
    "squad": [
     "Raya",
@@ -2406,7 +2406,7 @@
    "team": "Norris FC",
    "manager": "Rob Norris",
    "rank": 6,
-   "total": 509,
+   "total": 508,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2443,7 +2443,7 @@
    "team": "Static FC",
    "manager": "Nathaniel Josephs",
    "rank": 7,
-   "total": 507,
+   "total": 506,
    "chip": null,
    "squad": [
     "Leno",
@@ -2478,7 +2478,7 @@
    "team": "Accringtonali FC",
    "manager": "Kyle Broadhurst",
    "rank": 8,
-   "total": 505,
+   "total": 504,
    "chip": null,
    "squad": [
     "Tzolakis",
@@ -2514,7 +2514,7 @@
    "team": "JTindall Solo Album",
    "manager": "Niall Ballinger",
    "rank": 9,
-   "total": 503,
+   "total": 502,
    "chip": "bboost",
    "squad": [
     "Verbruggen",
@@ -2586,7 +2586,7 @@
    "team": "RebellTeam",
    "manager": "Santi Rebella",
    "rank": 11,
-   "total": 467,
+   "total": 466,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2624,7 +2624,7 @@
    "team": "Prep Big B",
    "manager": "Darren Heath",
    "rank": 12,
-   "total": 467,
+   "total": 466,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2659,7 +2659,7 @@
    "team": "King Scarles",
    "manager": "Tom Horsman",
    "rank": 13,
-   "total": 466,
+   "total": 464,
    "chip": null,
    "squad": [
     "Raya",
@@ -2787,7 +2787,7 @@
    "pos": "MID",
    "price": 8.1,
    "owned_in_league_pct": 68.0,
-   "owned_globally_pct": 51.0,
+   "owned_globally_pct": 51.1,
    "i_own": true
   },
   {
@@ -2796,7 +2796,7 @@
    "pos": "DEF",
    "price": 5.9,
    "owned_in_league_pct": 60.0,
-   "owned_globally_pct": 48.3,
+   "owned_globally_pct": 48.2,
    "i_own": true
   },
   {
@@ -2832,7 +2832,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 25.3,
+   "owned_globally_pct": 25.4,
    "i_own": true
   },
   {
@@ -2841,7 +2841,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 46.0,
+   "owned_globally_pct": 45.8,
    "i_own": true
   },
   {
@@ -3192,7 +3192,7 @@
    "pos": "MID",
    "price": 8.1,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.1,
+   "owned_globally_pct": 4.2,
    "i_own": false
   },
   {
