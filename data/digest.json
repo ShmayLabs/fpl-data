@@ -7,7 +7,7 @@
   "FLAGGED: Thomas (COV) -- Calf injury - 50% chance of playing (50% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-10-31T21:00:32Z",
+ "generated_utc": "2026-10-31T21:23:11Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": false,
@@ -379,7 +379,7 @@
    "team": "BHA",
    "pos": "GK",
    "price": 4.6,
-   "owned_by": 22.5,
+   "owned_by": 22.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -436,7 +436,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 44.6,
+   "owned_by": 44.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -495,7 +495,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 44.6,
+   "owned_by": 44.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -519,8 +519,8 @@
      "rank": 1,
      "team": "Bayer Neverlusen",
      "player": "Jamie Mourant",
-     "gw": 73,
-     "total": 586
+     "gw": 72,
+     "total": 585
     },
     {
      "rank": 2,
@@ -602,15 +602,15 @@
      "rank": 1,
      "team": "Expected Toulouse",
      "player": "Joe McClelland",
-     "gw": 70,
-     "total": 617
+     "gw": 69,
+     "total": 616
     },
     {
      "rank": 2,
      "team": "Not too Xabi",
      "player": "Niall Walsh",
-     "gw": 44,
-     "total": 609
+     "gw": 43,
+     "total": 608
     },
     {
      "rank": 3,
@@ -700,8 +700,8 @@
      "rank": 15,
      "team": "MightyGar",
      "player": "Stephen Lowe",
-     "gw": 41,
-     "total": 547
+     "gw": 40,
+     "total": 546
     },
     {
      "rank": 16,
@@ -1672,7 +1672,7 @@
    "pos": "GK",
    "price": 4.6,
    "points": 11,
-   "owned_by": 22.5
+   "owned_by": 22.6
   },
   {
    "name": "Fofana",
@@ -1712,7 +1712,7 @@
    "pos": "FWD",
    "price": 6.3,
    "points": 9,
-   "owned_by": 15.2
+   "owned_by": 15.3
   },
   {
    "name": "Thiago",
@@ -1800,7 +1800,7 @@
    "pos": "FWD",
    "price": 6.9,
    "points": 8,
-   "owned_by": 23.5
+   "owned_by": 23.6
   },
   {
    "name": "Iroegbunam",
@@ -1857,7 +1857,7 @@
    "team": "Bayer Neverlusen",
    "manager": "Jamie Mourant",
    "rank": 1,
-   "total": 586,
+   "total": 585,
    "chip": "freehit",
    "squad": [
     "Kinsky",
@@ -2807,7 +2807,7 @@
    "pos": "FWD",
    "price": 6.9,
    "owned_in_league_pct": 44.0,
-   "owned_globally_pct": 23.5,
+   "owned_globally_pct": 23.6,
    "i_own": false
   },
   {
@@ -2843,7 +2843,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 44.6,
+   "owned_globally_pct": 44.4,
    "i_own": true
   },
   {
@@ -2879,7 +2879,7 @@
    "pos": "FWD",
    "price": 6.3,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 15.2,
+   "owned_globally_pct": 15.3,
    "i_own": false
   },
   {
@@ -2888,7 +2888,7 @@
    "pos": "GK",
    "price": 4.0,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 15.8,
+   "owned_globally_pct": 15.7,
    "i_own": false
   },
   {
@@ -2915,7 +2915,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 22.5,
+   "owned_globally_pct": 22.6,
    "i_own": true
   },
   {
@@ -3068,7 +3068,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 6.2,
+   "owned_globally_pct": 6.3,
    "i_own": false
   },
   {
@@ -3221,7 +3221,7 @@
    "pos": "MID",
    "price": 11.7,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 22.4,
+   "owned_globally_pct": 22.3,
    "i_own": false
   },
   {
@@ -3266,7 +3266,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 5.9,
+   "owned_globally_pct": 5.8,
    "i_own": false
   },
   {
@@ -3545,7 +3545,7 @@
    "pos": "MID",
    "price": 4.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 3.0,
+   "owned_globally_pct": 2.9,
    "i_own": false
   },
   {
