@@ -7,25 +7,25 @@
   "FLAGGED: Thomas (COV) -- Calf injury - 50% chance of playing (50% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-10-31T23:15:11Z",
+ "generated_utc": "2026-10-31T23:37:42Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": false,
  "squad_from_gw": 9,
  "entry_history": {
   "event": 9,
-  "points": 0,
-  "total_points": 523,
-  "rank": null,
-  "rank_sort": null,
-  "overall_rank": 1156779,
-  "percentile_rank": null,
-  "overall_rank_percentage": null,
+  "points": 30,
+  "total_points": 553,
+  "rank": 5695120,
+  "rank_sort": 5721482,
+  "overall_rank": 1576883,
+  "percentile_rank": 55,
+  "overall_rank_percentage": "14",
   "bank": 12,
   "value": 1013,
   "event_transfers": 1,
   "event_transfers_cost": 0,
-  "points_on_bench": 0
+  "points_on_bench": 11
  },
  "season_history": [
   {
