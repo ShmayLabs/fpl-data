@@ -1,10 +1,10 @@
 {
-  "last_successful_pull_utc": "2026-10-31T09:19:17Z",
+  "last_successful_pull_utc": "2026-10-31T12:06:33Z",
   "data_is_stale": false,
-  "pass_started_utc": "2026-10-31T09:16:55Z",
-  "pass_finished_utc": "2026-10-31T09:19:17Z",
-  "pass_number": 12,
-  "gameweek_seen": "9",
+  "pass_started_utc": "2026-10-31T12:04:08Z",
+  "pass_finished_utc": "2026-10-31T12:06:33Z",
+  "pass_number": 1,
+  "gameweek_seen": "10",
   "files_ok": [
     "bootstrap.json",
     "fixtures.json",
@@ -19,16 +19,17 @@
     "picks_gw6.json",
     "picks_gw7.json",
     "picks_gw8.json",
-    "live_gw9.json",
-    "live_gw8.json"
+    "picks_gw9.json",
+    "live_gw10.json",
+    "live_gw9.json"
   ],
   "files_failed": [],
   "files_skipped": [
-    "picks_gw9.json"
+    "picks_gw10.json"
   ],
   "digest": "ok",
   "render": "ok",
   "healthy": true,
-  "run_url": "https://github.com/ShmayLabs/fpl-data/actions/runs/41171507713",
+  "run_url": "https://github.com/ShmayLabs/fpl-data/actions/runs/41199451466",
   "triggered_by": "schedule"
 }
