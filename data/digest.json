@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-31T07:49:39Z",
+ "generated_utc": "2026-10-31T08:12:03Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -175,7 +175,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 5.9,
-   "owned_by": 47.4,
+   "owned_by": 47.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -251,7 +251,7 @@
    "team": "CHE",
    "pos": "MID",
    "price": 8.1,
-   "owned_by": 50.7,
+   "owned_by": 50.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -308,7 +308,7 @@
    "team": "BOU",
    "pos": "MID",
    "price": 6.5,
-   "owned_by": 25.0,
+   "owned_by": 25.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -384,7 +384,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 48.8,
+   "owned_by": 48.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -443,7 +443,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 5.9,
-   "owned_by": 47.4,
+   "owned_by": 47.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -481,7 +481,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 48.8,
+   "owned_by": 48.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -677,16 +677,16 @@
     },
     {
      "rank": 14,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 53,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 51,
      "total": 506
     },
     {
      "rank": 14,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 51,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 53,
      "total": 506
     },
     {
@@ -1658,7 +1658,7 @@
    "pos": "FWD",
    "price": 6.9,
    "points": 13,
-   "owned_by": 22.1
+   "owned_by": 22.3
   },
   {
    "name": "Hill",
@@ -1682,7 +1682,7 @@
    "pos": "MID",
    "price": 5.6,
    "points": 11,
-   "owned_by": 0.5
+   "owned_by": 0.6
   },
   {
    "name": "Dedi\u0107",
@@ -1722,7 +1722,7 @@
    "pos": "MID",
    "price": 6.5,
    "points": 10,
-   "owned_by": 25.0
+   "owned_by": 25.1
   },
   {
    "name": "O.Dango",
@@ -1786,7 +1786,7 @@
    "pos": "FWD",
    "price": 9.1,
    "points": 9,
-   "owned_by": 19.5
+   "owned_by": 19.6
   },
   {
    "name": "Osula",
@@ -1802,7 +1802,7 @@
    "pos": "GK",
    "price": 4.4,
    "points": 9,
-   "owned_by": 15.4
+   "owned_by": 15.5
   },
   {
    "name": "Roefs",
@@ -2747,7 +2747,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 96.0,
-   "owned_globally_pct": 48.8,
+   "owned_globally_pct": 48.5,
    "i_own": true
   },
   {
@@ -2765,7 +2765,7 @@
    "pos": "MID",
    "price": 8.1,
    "owned_in_league_pct": 68.0,
-   "owned_globally_pct": 50.7,
+   "owned_globally_pct": 50.8,
    "i_own": true
   },
   {
@@ -2774,7 +2774,7 @@
    "pos": "DEF",
    "price": 5.9,
    "owned_in_league_pct": 64.0,
-   "owned_globally_pct": 47.4,
+   "owned_globally_pct": 47.3,
    "i_own": true
   },
   {
@@ -2927,7 +2927,7 @@
    "pos": "GK",
    "price": 4.4,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 15.4,
+   "owned_globally_pct": 15.5,
    "i_own": false
   },
   {
@@ -2999,7 +2999,7 @@
    "pos": "MID",
    "price": 6.5,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 25.0,
+   "owned_globally_pct": 25.1,
    "i_own": true
   },
   {
@@ -3386,7 +3386,7 @@
    "pos": "FWD",
    "price": 6.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 13.7,
+   "owned_globally_pct": 13.8,
    "i_own": false
   },
   {
@@ -3395,7 +3395,7 @@
    "pos": "FWD",
    "price": 9.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 19.5,
+   "owned_globally_pct": 19.6,
    "i_own": false
   },
   {
@@ -3566,7 +3566,7 @@
    "pos": "FWD",
    "price": 6.9,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 22.1,
+   "owned_globally_pct": 22.3,
    "i_own": false
   },
   {
@@ -3611,7 +3611,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 6.6,
+   "owned_globally_pct": 6.7,
    "i_own": false
   },
   {
