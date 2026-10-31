@@ -8,7 +8,7 @@
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek.",
   "PRICE FALL: Emersonn dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-10-30T23:59:37Z",
+ "generated_utc": "2026-10-31T00:21:55Z",
  "next_gw": 9,
  "next_deadline_utc": "2026-10-31T11:00:00Z",
  "gw_finished": true,
@@ -175,7 +175,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 5.9,
-   "owned_by": 48.1,
+   "owned_by": 48.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -250,7 +250,7 @@
    "name": "Rogers",
    "team": "CHE",
    "pos": "MID",
-   "price": 8.0,
+   "price": 8.1,
    "owned_by": 50.7,
    "is_captain": false,
    "is_vice": false,
@@ -289,7 +289,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 45.7,
+   "owned_by": 45.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -307,7 +307,7 @@
    "name": "Tavernier",
    "team": "BOU",
    "pos": "MID",
-   "price": 6.4,
+   "price": 6.5,
    "owned_by": 24.1,
    "is_captain": false,
    "is_vice": false,
@@ -384,7 +384,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 51.2,
+   "owned_by": 51.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -443,7 +443,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 5.9,
-   "owned_by": 48.1,
+   "owned_by": 48.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -481,7 +481,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.8,
-   "owned_by": 51.2,
+   "owned_by": 51.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -677,16 +677,16 @@
     },
     {
      "rank": 14,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 53,
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
+     "gw": 51,
      "total": 506
     },
     {
      "rank": 14,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
-     "gw": 51,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 53,
      "total": 506
     },
     {
@@ -1640,7 +1640,7 @@
    "name": "Gabriel",
    "team": "ARS",
    "pos": "DEF",
-   "price": 7.9,
+   "price": 8.0,
    "points": 17,
    "owned_by": 23.9
   },
@@ -1656,7 +1656,7 @@
    "name": "N.Jackson",
    "team": "AVL",
    "pos": "FWD",
-   "price": 6.8,
+   "price": 6.9,
    "points": 13,
    "owned_by": 20.6
   },
@@ -1720,7 +1720,7 @@
    "name": "Tavernier",
    "team": "BOU",
    "pos": "MID",
-   "price": 6.4,
+   "price": 6.5,
    "points": 10,
    "owned_by": 24.1
   },
@@ -2747,7 +2747,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 96.0,
-   "owned_globally_pct": 51.2,
+   "owned_globally_pct": 51.1,
    "i_own": true
   },
   {
@@ -2763,7 +2763,7 @@
    "name": "Rogers",
    "team": "CHE",
    "pos": "MID",
-   "price": 8.0,
+   "price": 8.1,
    "owned_in_league_pct": 68.0,
    "owned_globally_pct": 50.7,
    "i_own": true
@@ -2774,7 +2774,7 @@
    "pos": "DEF",
    "price": 5.9,
    "owned_in_league_pct": 64.0,
-   "owned_globally_pct": 48.1,
+   "owned_globally_pct": 48.0,
    "i_own": true
   },
   {
@@ -2783,7 +2783,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 56.0,
-   "owned_globally_pct": 45.7,
+   "owned_globally_pct": 45.6,
    "i_own": true
   },
   {
@@ -2997,7 +2997,7 @@
    "name": "Tavernier",
    "team": "BOU",
    "pos": "MID",
-   "price": 6.4,
+   "price": 6.5,
    "owned_in_league_pct": 12.0,
    "owned_globally_pct": 24.1,
    "i_own": true
@@ -3042,7 +3042,7 @@
    "name": "Gabriel",
    "team": "ARS",
    "pos": "DEF",
-   "price": 7.9,
+   "price": 8.0,
    "owned_in_league_pct": 12.0,
    "owned_globally_pct": 23.9,
    "i_own": false
@@ -3303,7 +3303,7 @@
    "name": "Delap",
    "team": "NFO",
    "pos": "FWD",
-   "price": 5.5,
+   "price": 5.4,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 1.7,
    "i_own": false
@@ -3564,7 +3564,7 @@
    "name": "N.Jackson",
    "team": "AVL",
    "pos": "FWD",
-   "price": 6.8,
+   "price": 6.9,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 20.6,
    "i_own": false
