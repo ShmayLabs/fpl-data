@@ -6,7 +6,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-01T17:56:27Z",
+ "generated_utc": "2026-11-01T18:18:51Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": false,
@@ -264,7 +264,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.9,
-   "owned_by": 20.9,
+   "owned_by": 20.8,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -329,9 +329,9 @@
    "chance_next": null,
    "news": "",
    "gw_points": 3,
-   "gw_minutes": 63,
-   "form": "2.0",
-   "total_points": 37,
+   "gw_minutes": 85,
+   "form": "2.5",
+   "total_points": 39,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -405,9 +405,9 @@
    "chance_next": 100,
    "news": "",
    "gw_points": 6,
-   "gw_minutes": 63,
-   "form": "4.2",
-   "total_points": 46,
+   "gw_minutes": 85,
+   "form": "5.5",
+   "total_points": 51,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -513,8 +513,8 @@
      "rank": 3,
      "team": "HaCunha Matata",
      "player": "Oliver Norris",
-     "gw": 57,
-     "total": 568
+     "gw": 58,
+     "total": 569
     },
     {
      "rank": 4,
@@ -555,8 +555,8 @@
      "rank": 9,
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
-     "gw": 35,
-     "total": 493
+     "gw": 36,
+     "total": 494
     },
     {
      "rank": 10,
@@ -582,8 +582,8 @@
      "rank": 1,
      "team": "Not too Xabi",
      "player": "Niall Walsh",
-     "gw": 54,
-     "total": 619
+     "gw": 55,
+     "total": 620
     },
     {
      "rank": 2,
@@ -596,8 +596,8 @@
      "rank": 3,
      "team": "Previously Athletic",
      "player": "Phil Dudson",
-     "gw": 53,
-     "total": 615
+     "gw": 54,
+     "total": 616
     },
     {
      "rank": 4,
@@ -610,22 +610,22 @@
      "rank": 5,
      "team": "Kash FC",
      "player": "Prakash Shan",
-     "gw": 54,
-     "total": 604
+     "gw": 55,
+     "total": 605
     },
     {
      "rank": 6,
      "team": "Paul's Team",
      "player": "Paul Larkin",
-     "gw": 60,
-     "total": 597
+     "gw": 61,
+     "total": 598
     },
     {
      "rank": 7,
      "team": "Matt's Team",
      "player": "Matt Lowe",
-     "gw": 60,
-     "total": 593
+     "gw": 61,
+     "total": 594
     },
     {
      "rank": 8,
@@ -666,36 +666,36 @@
      "rank": 13,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 57,
-     "total": 559
+     "gw": 58,
+     "total": 560
     },
     {
      "rank": 14,
      "team": "Spring Thyme Rovers",
      "player": "Derek Holden",
-     "gw": 37,
-     "total": 557
+     "gw": 38,
+     "total": 558
     },
     {
      "rank": 15,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 50,
+     "total": 556
+    },
+    {
+     "rank": 16,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
      "gw": 33,
      "total": 556
     },
     {
-     "rank": 16,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 49,
-     "total": 555
-    },
-    {
      "rank": 17,
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
-     "gw": 66,
-     "total": 554
+     "gw": 67,
+     "total": 555
     },
     {
      "rank": 18,
@@ -715,8 +715,8 @@
      "rank": 20,
      "team": "Static FC",
      "player": "Nathaniel Josephs",
-     "gw": 47,
-     "total": 544
+     "gw": 48,
+     "total": 545
     },
     {
      "rank": 21,
@@ -729,15 +729,15 @@
      "rank": 22,
      "team": "WheelshavfallenoffXI",
      "player": "simon g",
-     "gw": 47,
-     "total": 541
+     "gw": 48,
+     "total": 542
     },
     {
      "rank": 23,
      "team": "Maddcatts",
      "player": "Craig Cattrall",
-     "gw": 44,
-     "total": 534
+     "gw": 45,
+     "total": 535
     },
     {
      "rank": 24,
@@ -750,8 +750,8 @@
      "rank": 25,
      "team": "Crew Alexander",
      "player": "Alex Brumby",
-     "gw": 41,
-     "total": 528
+     "gw": 42,
+     "total": 529
     }
    ]
   },
@@ -777,8 +777,8 @@
      "rank": 3,
      "team": "JTindall Solo Album",
      "player": "Niall Ballinger",
-     "gw": 73,
-     "total": 567
+     "gw": 74,
+     "total": 568
     },
     {
      "rank": 4,
@@ -791,15 +791,15 @@
      "rank": 5,
      "team": "Norris FC",
      "player": "Rob Norris",
-     "gw": 70,
-     "total": 559
+     "gw": 71,
+     "total": 560
     },
     {
      "rank": 5,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 57,
-     "total": 559
+     "gw": 58,
+     "total": 560
     },
     {
      "rank": 7,
@@ -812,15 +812,15 @@
      "rank": 8,
      "team": "Static FC",
      "player": "Nathaniel Josephs",
-     "gw": 47,
-     "total": 544
+     "gw": 48,
+     "total": 545
     },
     {
      "rank": 9,
      "team": "Tramontozpor",
      "player": "Kwadwo David",
-     "gw": 49,
-     "total": 539
+     "gw": 50,
+     "total": 540
     },
     {
      "rank": 10,
@@ -833,8 +833,8 @@
      "rank": 11,
      "team": "RebellTeam",
      "player": "Santi Rebella",
-     "gw": 45,
-     "total": 503
+     "gw": 47,
+     "total": 505
     },
     {
      "rank": 12,
@@ -861,8 +861,8 @@
      "rank": 15,
      "team": "Jimbledon FC",
      "player": "James Martin",
-     "gw": 26,
-     "total": 436
+     "gw": 25,
+     "total": 435
     }
    ]
   }
@@ -1687,6 +1687,14 @@
    "owned_by": 5.5
   },
   {
+   "name": "Konsa",
+   "team": "ARS",
+   "pos": "DEF",
+   "price": 4.7,
+   "points": 9,
+   "owned_by": 22.0
+  },
+  {
    "name": "Rogers",
    "team": "CHE",
    "pos": "MID",
@@ -1757,14 +1765,6 @@
    "price": 7.4,
    "points": 8,
    "owned_by": 11.8
-  },
-  {
-   "name": "Konsa",
-   "team": "ARS",
-   "pos": "DEF",
-   "price": 4.7,
-   "points": 8,
-   "owned_by": 22.0
   },
   {
    "name": "Adli",
@@ -1910,7 +1910,7 @@
    "team": "HaCunha Matata",
    "manager": "Oliver Norris",
    "rank": 3,
-   "total": 568,
+   "total": 569,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -2122,7 +2122,7 @@
    "team": "The Goal Hangers",
    "manager": "Nik Barlow",
    "rank": 9,
-   "total": 493,
+   "total": 494,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2305,7 +2305,7 @@
    "team": "JTindall Solo Album",
    "manager": "Niall Ballinger",
    "rank": 3,
-   "total": 567,
+   "total": 568,
    "chip": "bboost",
    "squad": [
     "Verbruggen",
@@ -2378,7 +2378,7 @@
    "team": "Norris FC",
    "manager": "Rob Norris",
    "rank": 5,
-   "total": 559,
+   "total": 560,
    "chip": null,
    "squad": [
     "Lammens",
@@ -2415,7 +2415,7 @@
    "team": "Bruno Dos Tres",
    "manager": "David Taylor",
    "rank": 5,
-   "total": 559,
+   "total": 560,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2453,7 +2453,7 @@
    "team": "Static FC",
    "manager": "Nathaniel Josephs",
    "rank": 8,
-   "total": 544,
+   "total": 545,
    "chip": null,
    "squad": [
     "Leno",
@@ -2488,7 +2488,7 @@
    "team": "Tramontozpor",
    "manager": "Kwadwo David",
    "rank": 9,
-   "total": 539,
+   "total": 540,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2559,7 +2559,7 @@
    "team": "RebellTeam",
    "manager": "Santi Rebella",
    "rank": 11,
-   "total": 503,
+   "total": 505,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2707,7 +2707,7 @@
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 15,
-   "total": 436,
+   "total": 435,
    "chip": null,
    "squad": [
     "Kelleher",
@@ -2841,7 +2841,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 20.9,
+   "owned_globally_pct": 20.8,
    "i_own": true
   },
   {
@@ -2940,7 +2940,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 26.4,
+   "owned_globally_pct": 26.3,
    "i_own": false
   },
   {
@@ -3066,7 +3066,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 16.4,
+   "owned_globally_pct": 16.3,
    "i_own": false
   },
   {
