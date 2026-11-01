@@ -8,7 +8,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-01T09:34:18Z",
+ "generated_utc": "2026-11-01T09:56:39Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": false,
@@ -304,7 +304,7 @@
    "team": "BOU",
    "pos": "MID",
    "price": 6.6,
-   "owned_by": 26.1,
+   "owned_by": 26.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -380,7 +380,7 @@
    "team": "BHA",
    "pos": "GK",
    "price": 4.6,
-   "owned_by": 22.6,
+   "owned_by": 22.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -399,7 +399,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 5.9,
-   "owned_by": 47.9,
+   "owned_by": 47.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -458,7 +458,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 5.9,
-   "owned_by": 47.9,
+   "owned_by": 47.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1673,7 +1673,7 @@
    "pos": "GK",
    "price": 4.6,
    "points": 11,
-   "owned_by": 22.6
+   "owned_by": 22.7
   },
   {
    "name": "Fofana",
@@ -2790,7 +2790,7 @@
    "pos": "DEF",
    "price": 5.9,
    "owned_in_league_pct": 60.0,
-   "owned_globally_pct": 47.9,
+   "owned_globally_pct": 47.8,
    "i_own": true
   },
   {
@@ -2826,7 +2826,7 @@
    "pos": "MID",
    "price": 6.6,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 26.1,
+   "owned_globally_pct": 26.2,
    "i_own": true
   },
   {
@@ -2916,7 +2916,7 @@
    "pos": "GK",
    "price": 4.6,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 22.6,
+   "owned_globally_pct": 22.7,
    "i_own": true
   },
   {
@@ -3204,7 +3204,7 @@
    "pos": "FWD",
    "price": 9.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 20.8,
+   "owned_globally_pct": 20.9,
    "i_own": false
   },
   {
