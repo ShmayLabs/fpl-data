@@ -8,7 +8,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-01T03:12:11Z",
+ "generated_utc": "2026-11-01T03:34:33Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": false,
@@ -817,16 +817,16 @@
     },
     {
      "rank": 6,
-     "team": "Norris FC",
-     "player": "Rob Norris",
-     "gw": 56,
+     "team": "Bruno Dos Tres",
+     "player": "David Taylor",
+     "gw": 43,
      "total": 545
     },
     {
      "rank": 6,
-     "team": "Bruno Dos Tres",
-     "player": "David Taylor",
-     "gw": 43,
+     "team": "Norris FC",
+     "player": "Rob Norris",
+     "gw": 56,
      "total": 545
     },
     {
@@ -2396,43 +2396,6 @@
    ]
   },
   {
-   "team": "Norris FC",
-   "manager": "Rob Norris",
-   "rank": 6,
-   "total": 545,
-   "chip": null,
-   "squad": [
-    "Lammens",
-    "Ajer",
-    "Calafiori",
-    "Konsa",
-    "Anderson",
-    "Palmer",
-    "Doku",
-    "Rogers",
-    "N.Jackson",
-    "Haaland",
-    "Evanilson",
-    "Dubravka",
-    "Gro\u00df",
-    "Thomas",
-    "Diop"
-   ],
-   "captain": "Haaland",
-   "differentials_vs_me": [
-    "Anderson",
-    "Diop",
-    "N.Jackson",
-    "Evanilson",
-    "Doku",
-    "Dubravka",
-    "Ajer",
-    "Palmer",
-    "Lammens",
-    "Konsa"
-   ]
-  },
-  {
    "team": "Bruno Dos Tres",
    "manager": "David Taylor",
    "rank": 6,
@@ -2467,6 +2430,43 @@
     "Manzambi",
     "N.Williams",
     "Palmer",
+    "Konsa"
+   ]
+  },
+  {
+   "team": "Norris FC",
+   "manager": "Rob Norris",
+   "rank": 6,
+   "total": 545,
+   "chip": null,
+   "squad": [
+    "Lammens",
+    "Ajer",
+    "Calafiori",
+    "Konsa",
+    "Anderson",
+    "Palmer",
+    "Doku",
+    "Rogers",
+    "N.Jackson",
+    "Haaland",
+    "Evanilson",
+    "Dubravka",
+    "Gro\u00df",
+    "Thomas",
+    "Diop"
+   ],
+   "captain": "Haaland",
+   "differentials_vs_me": [
+    "Anderson",
+    "Diop",
+    "N.Jackson",
+    "Evanilson",
+    "Doku",
+    "Dubravka",
+    "Ajer",
+    "Palmer",
+    "Lammens",
     "Konsa"
    ]
   },
@@ -3307,21 +3307,21 @@
    "i_own": false
   },
   {
-   "name": "Anderson",
-   "team": "MCI",
-   "pos": "MID",
-   "price": 6.3,
-   "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 3.7,
-   "i_own": false
-  },
-  {
    "name": "Steele",
    "team": "BHA",
    "pos": "GK",
    "price": 4.0,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 3.6,
+   "i_own": false
+  },
+  {
+   "name": "Anderson",
+   "team": "MCI",
+   "pos": "MID",
+   "price": 6.3,
+   "owned_in_league_pct": 8.0,
+   "owned_globally_pct": 3.7,
    "i_own": false
   },
   {
