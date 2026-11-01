@@ -7,7 +7,7 @@
   "FLAGGED: Thomas (COV) -- Calf injury - 50% chance of playing (50% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-10-31T23:37:42Z",
+ "generated_utc": "2026-11-01T00:00:09Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": false,
@@ -150,18 +150,18 @@
   },
   {
    "event": 9,
-   "points": 0,
-   "total_points": 523,
-   "rank": null,
-   "rank_sort": null,
-   "overall_rank": 1156779,
-   "percentile_rank": null,
-   "overall_rank_percentage": null,
+   "points": 30,
+   "total_points": 553,
+   "rank": 5695120,
+   "rank_sort": 5721482,
+   "overall_rank": 1576883,
+   "percentile_rank": 55,
+   "overall_rank_percentage": "14",
    "bank": 12,
    "value": 1013,
    "event_transfers": 1,
    "event_transfers_cost": 0,
-   "points_on_bench": 0
+   "points_on_bench": 11
   }
  ],
  "squad": [
@@ -246,7 +246,7 @@
    "team": "CHE",
    "pos": "MID",
    "price": 8.1,
-   "owned_by": 51.4,
+   "owned_by": 51.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -398,7 +398,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 5.9,
-   "owned_by": 48.0,
+   "owned_by": 47.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -457,7 +457,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 5.9,
-   "owned_by": 48.0,
+   "owned_by": 47.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1704,7 +1704,7 @@
    "pos": "MID",
    "price": 8.1,
    "points": 9,
-   "owned_by": 51.4
+   "owned_by": 51.5
   },
   {
    "name": "Evanilson",
@@ -1744,7 +1744,7 @@
    "pos": "FWD",
    "price": 6.9,
    "points": 9,
-   "owned_by": 23.8
+   "owned_by": 23.9
   },
   {
    "name": "Rudoni",
@@ -2780,7 +2780,7 @@
    "pos": "MID",
    "price": 8.1,
    "owned_in_league_pct": 68.0,
-   "owned_globally_pct": 51.4,
+   "owned_globally_pct": 51.5,
    "i_own": true
   },
   {
@@ -2789,7 +2789,7 @@
    "pos": "DEF",
    "price": 5.9,
    "owned_in_league_pct": 60.0,
-   "owned_globally_pct": 48.0,
+   "owned_globally_pct": 47.9,
    "i_own": true
   },
   {
@@ -2807,7 +2807,7 @@
    "pos": "FWD",
    "price": 6.9,
    "owned_in_league_pct": 44.0,
-   "owned_globally_pct": 23.8,
+   "owned_globally_pct": 23.9,
    "i_own": false
   },
   {
