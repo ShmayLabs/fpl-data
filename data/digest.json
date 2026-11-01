@@ -6,7 +6,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-01T20:15:35Z",
+ "generated_utc": "2026-11-01T20:38:02Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": false,
@@ -17,7 +17,7 @@
   "total_points": 556,
   "rank": 8255568,
   "rank_sort": 8268121,
-  "overall_rank": 1910623,
+  "overall_rank": 1910630,
   "percentile_rank": 75,
   "overall_rank_percentage": "17",
   "bank": 12,
@@ -149,18 +149,18 @@
   },
   {
    "event": 9,
-   "points": 30,
-   "total_points": 553,
-   "rank": 5695120,
-   "rank_sort": 5721482,
-   "overall_rank": 1576894,
-   "percentile_rank": 55,
-   "overall_rank_percentage": "14",
+   "points": 33,
+   "total_points": 556,
+   "rank": 8255568,
+   "rank_sort": 8268121,
+   "overall_rank": 1910630,
+   "percentile_rank": 75,
+   "overall_rank_percentage": "17",
    "bank": 12,
    "value": 1013,
    "event_transfers": 1,
    "event_transfers_cost": 0,
-   "points_on_bench": 11
+   "points_on_bench": 19
   }
  ],
  "squad": [
@@ -435,7 +435,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 42.5,
+   "owned_by": 42.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -475,7 +475,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 42.5,
+   "owned_by": 42.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1708,7 +1708,7 @@
    "pos": "FWD",
    "price": 6.4,
    "points": 9,
-   "owned_by": 16.4
+   "owned_by": 16.5
   },
   {
    "name": "Thiago",
@@ -2823,7 +2823,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 42.5,
+   "owned_globally_pct": 42.4,
    "i_own": true
   },
   {
@@ -2850,7 +2850,7 @@
    "pos": "FWD",
    "price": 6.4,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 16.4,
+   "owned_globally_pct": 16.5,
    "i_own": false
   },
   {
