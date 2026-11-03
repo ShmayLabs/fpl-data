@@ -4,7 +4,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-03T22:03:56Z",
+ "generated_utc": "2026-11-03T22:26:25Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": true,
@@ -319,7 +319,7 @@
    "team": "ARS",
    "pos": "MID",
    "price": 6.7,
-   "owned_by": 16.6,
+   "owned_by": 16.5,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -1682,7 +1682,7 @@
    "pos": "MID",
    "price": 5.4,
    "points": 10,
-   "owned_by": 1.4
+   "owned_by": 1.5
   },
   {
    "name": "Havertz",
@@ -1738,7 +1738,7 @@
    "pos": "FWD",
    "price": 7.0,
    "points": 9,
-   "owned_by": 26.0
+   "owned_by": 26.1
   },
   {
    "name": "Rudoni",
@@ -2794,7 +2794,7 @@
    "pos": "FWD",
    "price": 7.0,
    "owned_in_league_pct": 44.0,
-   "owned_globally_pct": 26.0,
+   "owned_globally_pct": 26.1,
    "i_own": false
   },
   {
@@ -2956,7 +2956,7 @@
    "pos": "MID",
    "price": 6.7,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 16.6,
+   "owned_globally_pct": 16.5,
    "i_own": true
   },
   {
