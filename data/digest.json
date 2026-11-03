@@ -4,7 +4,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-03T07:06:40Z",
+ "generated_utc": "2026-11-03T07:29:05Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": false,
@@ -433,7 +433,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 40.7,
+   "owned_by": 40.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -473,7 +473,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 40.7,
+   "owned_by": 40.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -690,15 +690,15 @@
     },
     {
      "rank": 17,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
      "gw": 53,
      "total": 559
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
      "gw": 53,
      "total": 559
     },
@@ -2821,7 +2821,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 40.7,
+   "owned_globally_pct": 40.6,
    "i_own": true
   },
   {
@@ -2920,7 +2920,7 @@
    "pos": "DEF",
    "price": 5.3,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 20.1,
+   "owned_globally_pct": 20.0,
    "i_own": false
   },
   {
