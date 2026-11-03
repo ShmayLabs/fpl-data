@@ -4,7 +4,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-03T03:32:34Z",
+ "generated_utc": "2026-11-03T06:21:46Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": false,
@@ -243,7 +243,7 @@
    "team": "CHE",
    "pos": "MID",
    "price": 8.1,
-   "owned_by": 52.2,
+   "owned_by": 52.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -281,7 +281,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.2,
-   "owned_by": 46.8,
+   "owned_by": 46.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -433,7 +433,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 40.8,
+   "owned_by": 40.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -473,7 +473,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 40.8,
+   "owned_by": 40.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -690,15 +690,15 @@
     },
     {
      "rank": 17,
-     "team": "ChickenTikka Mangala",
-     "player": "James Davies",
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
      "gw": 53,
      "total": 559
     },
     {
      "rank": 17,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
+     "team": "ChickenTikka Mangala",
+     "player": "James Davies",
      "gw": 53,
      "total": 559
     },
@@ -1634,7 +1634,7 @@
    "pos": "DEF",
    "price": 5.0,
    "points": 15,
-   "owned_by": 10.9
+   "owned_by": 11.0
   },
   {
    "name": "McBurnie",
@@ -1698,7 +1698,7 @@
    "pos": "MID",
    "price": 8.1,
    "points": 9,
-   "owned_by": 52.2
+   "owned_by": 52.3
   },
   {
    "name": "Evanilson",
@@ -1706,7 +1706,7 @@
    "pos": "FWD",
    "price": 6.4,
    "points": 9,
-   "owned_by": 17.5
+   "owned_by": 17.6
   },
   {
    "name": "Thiago",
@@ -1778,7 +1778,7 @@
    "pos": "MID",
    "price": 7.4,
    "points": 8,
-   "owned_by": 12.2
+   "owned_by": 12.3
   },
   {
    "name": "Adli",
@@ -2758,7 +2758,7 @@
    "pos": "MID",
    "price": 8.1,
    "owned_in_league_pct": 68.0,
-   "owned_globally_pct": 52.2,
+   "owned_globally_pct": 52.3,
    "i_own": true
   },
   {
@@ -2776,7 +2776,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 56.0,
-   "owned_globally_pct": 46.8,
+   "owned_globally_pct": 46.9,
    "i_own": true
   },
   {
@@ -2821,7 +2821,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 40.8,
+   "owned_globally_pct": 40.7,
    "i_own": true
   },
   {
@@ -2848,7 +2848,7 @@
    "pos": "FWD",
    "price": 6.4,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 17.5,
+   "owned_globally_pct": 17.6,
    "i_own": false
   },
   {
@@ -2938,7 +2938,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 26.1,
+   "owned_globally_pct": 26.0,
    "i_own": false
   },
   {
@@ -2974,7 +2974,7 @@
    "pos": "MID",
    "price": 7.4,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 12.2,
+   "owned_globally_pct": 12.3,
    "i_own": false
   },
   {
@@ -3217,7 +3217,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 5.6,
+   "owned_globally_pct": 5.5,
    "i_own": false
   },
   {
@@ -3307,7 +3307,7 @@
    "pos": "GK",
    "price": 5.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 8.4,
+   "owned_globally_pct": 8.5,
    "i_own": false
   },
   {
@@ -3352,7 +3352,7 @@
    "pos": "DEF",
    "price": 5.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 10.9,
+   "owned_globally_pct": 11.0,
    "i_own": false
   },
   {
@@ -3631,7 +3631,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 10.0,
+   "owned_globally_pct": 9.9,
    "i_own": false
   },
   {
@@ -3703,7 +3703,7 @@
    "pos": "MID",
    "price": 5.4,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.9,
+   "owned_globally_pct": 2.8,
    "i_own": false
   },
   {
