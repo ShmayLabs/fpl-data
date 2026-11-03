@@ -4,7 +4,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-03T09:21:17Z",
+ "generated_utc": "2026-11-03T09:43:44Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": false,
@@ -1666,7 +1666,7 @@
    "pos": "DEF",
    "price": 4.7,
    "points": 10,
-   "owned_by": 22.8
+   "owned_by": 22.9
   },
   {
    "name": "Van den Berg",
@@ -2812,7 +2812,7 @@
    "pos": "DEF",
    "price": 4.7,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 22.8,
+   "owned_globally_pct": 22.9,
    "i_own": false
   },
   {
@@ -3028,7 +3028,7 @@
    "pos": "GK",
    "price": 4.8,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 7.6,
+   "owned_globally_pct": 7.5,
    "i_own": false
   },
   {
