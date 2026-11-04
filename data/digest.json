@@ -4,7 +4,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-04T05:19:09Z",
+ "generated_utc": "2026-11-04T08:56:41Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": true,
@@ -300,7 +300,7 @@
    "team": "BOU",
    "pos": "MID",
    "price": 6.6,
-   "owned_by": 27.7,
+   "owned_by": 27.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -433,7 +433,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 39.8,
+   "owned_by": 39.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -473,7 +473,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 39.8,
+   "owned_by": 39.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -2803,7 +2803,7 @@
    "pos": "MID",
    "price": 6.6,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 27.7,
+   "owned_globally_pct": 27.8,
    "i_own": true
   },
   {
@@ -2821,7 +2821,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 39.8,
+   "owned_globally_pct": 39.7,
    "i_own": true
   },
   {
@@ -3127,7 +3127,7 @@
    "pos": "MID",
    "price": 6.6,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 1.7,
+   "owned_globally_pct": 1.8,
    "i_own": false
   },
   {
@@ -3235,7 +3235,7 @@
    "pos": "MID",
    "price": 8.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 6.2,
+   "owned_globally_pct": 6.1,
    "i_own": false
   },
   {
@@ -3280,7 +3280,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 14.3,
+   "owned_globally_pct": 14.2,
    "i_own": false
   },
   {
