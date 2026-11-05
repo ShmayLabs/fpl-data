@@ -4,7 +4,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-05T15:07:19Z",
+ "generated_utc": "2026-11-05T15:29:41Z",
  "next_gw": 10,
  "next_deadline_utc": "2026-11-06T18:30:00Z",
  "gw_finished": true,
@@ -1690,7 +1690,7 @@
    "pos": "FWD",
    "price": 7.4,
    "points": 9,
-   "owned_by": 5.7
+   "owned_by": 5.8
   },
   {
    "name": "Rogers",
@@ -2929,7 +2929,7 @@
    "pos": "GK",
    "price": 6.2,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 46.7,
+   "owned_globally_pct": 46.8,
    "i_own": false
   },
   {
@@ -3217,7 +3217,7 @@
    "pos": "DEF",
    "price": 4.6,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 5.5,
+   "owned_globally_pct": 5.4,
    "i_own": false
   },
   {
