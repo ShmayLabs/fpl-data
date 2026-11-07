@@ -14,7 +14,7 @@
   "FLAGGED: Thomas (COV) -- Calf injury - 50% chance of playing (50% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-07T01:35:52Z",
+ "generated_utc": "2026-11-07T01:58:17Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": false,
@@ -750,15 +750,15 @@
     },
     {
      "rank": 22,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
+     "team": "WheelshavfallenoffXI",
+     "player": "simon g",
      "gw": 0,
      "total": 545
     },
     {
      "rank": 22,
-     "team": "WheelshavfallenoffXI",
-     "player": "simon g",
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
      "gw": 0,
      "total": 545
     },
@@ -2821,7 +2821,7 @@
    "pos": "FWD",
    "price": 7.0,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 28.4,
+   "owned_globally_pct": 28.5,
    "i_own": false
   },
   {
