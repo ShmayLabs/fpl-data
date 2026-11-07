@@ -9,7 +9,7 @@
   "FLAGGED: Thomas (COV) -- Calf injury - 50% chance of playing (50% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-07T18:32:17Z",
+ "generated_utc": "2026-11-07T18:54:43Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": false,
@@ -282,7 +282,7 @@
    "team": "CHE",
    "pos": "MID",
    "price": 8.2,
-   "owned_by": 53.8,
+   "owned_by": 53.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -366,7 +366,7 @@
    "chance_next": 100,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 45,
+   "gw_minutes": 59,
    "form": "6.0",
    "total_points": 69,
    "fixture_state": "in_progress",
@@ -552,15 +552,15 @@
      "rank": 6,
      "team": "Class of 94",
      "player": "Dan Healey",
-     "gw": 13,
-     "total": 547
+     "gw": 20,
+     "total": 554
     },
     {
      "rank": 7,
      "team": "T_R",
      "player": "Tom Roberts",
-     "gw": 18,
-     "total": 530
+     "gw": 25,
+     "total": 537
     },
     {
      "rank": 8,
@@ -580,8 +580,8 @@
      "rank": 10,
      "team": "Wunited",
      "player": "Luke Woodward",
-     "gw": 17,
-     "total": 485
+     "gw": 24,
+     "total": 492
     },
     {
      "rank": 11,
@@ -626,23 +626,23 @@
     },
     {
      "rank": 5,
+     "team": "Kash FC",
+     "player": "Prakash Shan",
+     "gw": 23,
+     "total": 629
+    },
+    {
+     "rank": 6,
      "team": "Matt's Team",
      "player": "Matt Lowe",
      "gw": 27,
      "total": 623
     },
     {
-     "rank": 6,
+     "rank": 7,
      "team": "Man (Zambi) On",
      "player": "Liam Brockhurst",
      "gw": 27,
-     "total": 622
-    },
-    {
-     "rank": 7,
-     "team": "Kash FC",
-     "player": "Prakash Shan",
-     "gw": 16,
      "total": 622
     },
     {
@@ -654,30 +654,30 @@
     },
     {
      "rank": 9,
+     "team": "Gangsters Allardyce",
+     "player": "Jordan White",
+     "gw": 27,
+     "total": 616
+    },
+    {
+     "rank": 10,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
      "gw": 44,
      "total": 615
     },
     {
-     "rank": 10,
-     "team": "Gangsters Allardyce",
-     "player": "Jordan White",
-     "gw": 20,
-     "total": 609
-    },
-    {
      "rank": 11,
-     "team": "Blind Faith",
-     "player": "Janied Inayat",
-     "gw": 19,
-     "total": 607
+     "team": "L&K 11",
+     "player": "Lee Gorman",
+     "gw": 22,
+     "total": 612
     },
     {
      "rank": 12,
-     "team": "L&K 11",
-     "player": "Lee Gorman",
-     "gw": 15,
+     "team": "Blind Faith",
+     "player": "Janied Inayat",
+     "gw": 17,
      "total": 605
     },
     {
@@ -717,24 +717,24 @@
     },
     {
      "rank": 18,
+     "team": "MightyGar",
+     "player": "Stephen Lowe",
+     "gw": 23,
+     "total": 582
+    },
+    {
+     "rank": 19,
      "team": "Spring Thyme Rovers",
      "player": "Derek Holden",
      "gw": 18,
      "total": 581
     },
     {
-     "rank": 19,
+     "rank": 20,
      "team": "Static FC",
      "player": "Nathaniel Josephs",
      "gw": 34,
      "total": 580
-    },
-    {
-     "rank": 20,
-     "team": "MightyGar",
-     "player": "Stephen Lowe",
-     "gw": 16,
-     "total": 575
     },
     {
      "rank": 21,
@@ -759,17 +759,17 @@
     },
     {
      "rank": 24,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
-     "gw": 14,
-     "total": 559
+     "team": "Cruckle FC",
+     "player": "Michael Clarkson",
+     "gw": 38,
+     "total": 563
     },
     {
      "rank": 25,
-     "team": "Cruckle FC",
-     "player": "Michael Clarkson",
+     "team": "Boundary Park Blues",
+     "player": "Ben McNamara",
      "gw": 31,
-     "total": 556
+     "total": 559
     }
    ]
   },
@@ -779,24 +779,24 @@
    "table": [
     {
      "rank": 1,
+     "team": "Gangsters Allardyce",
+     "player": "Jordan White",
+     "gw": 27,
+     "total": 616
+    },
+    {
+     "rank": 2,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
      "gw": 44,
      "total": 615
     },
     {
-     "rank": 2,
-     "team": "Gangsters Allardyce",
-     "player": "Jordan White",
-     "gw": 20,
-     "total": 609
-    },
-    {
      "rank": 3,
      "team": "Tzolis and Gromit",
      "player": "Alex Midmore",
-     "gw": 38,
-     "total": 602
+     "gw": 45,
+     "total": 609
     },
     {
      "rank": 4,
@@ -816,8 +816,8 @@
      "rank": 6,
      "team": "beef cherki",
      "player": "Samuel Dennis",
-     "gw": 19,
-     "total": 589
+     "gw": 26,
+     "total": 596
     },
     {
      "rank": 7,
@@ -844,15 +844,15 @@
      "rank": 10,
      "team": "Accringtonali FC",
      "player": "Kyle Broadhurst",
-     "gw": 9,
-     "total": 545
+     "gw": 16,
+     "total": 552
     },
     {
      "rank": 11,
      "team": "RebellTeam",
      "player": "Santi Rebella",
-     "gw": 16,
-     "total": 530
+     "gw": 23,
+     "total": 537
     },
     {
      "rank": 12,
@@ -879,8 +879,8 @@
      "rank": 15,
      "team": "Jimbledon FC",
      "player": "James Martin",
-     "gw": 6,
-     "total": 450
+     "gw": 7,
+     "total": 451
     }
    ]
   }
@@ -1689,28 +1689,12 @@
    "owned_by": 0.1
   },
   {
-   "name": "Jair Cunha",
-   "team": "NFO",
-   "pos": "DEF",
-   "price": 4.4,
-   "points": 10,
-   "owned_by": 0.2
-  },
-  {
    "name": "Dewsbury-Hall",
    "team": "EVE",
    "pos": "MID",
    "price": 6.6,
    "points": 9,
    "owned_by": 6.8
-  },
-  {
-   "name": "Justin",
-   "team": "LEE",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 9,
-   "owned_by": 2.4
   },
   {
    "name": "Gabriel",
@@ -1737,12 +1721,36 @@
    "owned_by": 23.5
   },
   {
+   "name": "Delap",
+   "team": "NFO",
+   "pos": "FWD",
+   "price": 5.3,
+   "points": 8,
+   "owned_by": 1.4
+  },
+  {
    "name": "Mykolenko",
    "team": "EVE",
    "pos": "DEF",
    "price": 4.6,
    "points": 8,
    "owned_by": 2.5
+  },
+  {
+   "name": "Cherki",
+   "team": "MCI",
+   "pos": "MID",
+   "price": 7.9,
+   "points": 8,
+   "owned_by": 33.2
+  },
+  {
+   "name": "Jair Cunha",
+   "team": "NFO",
+   "pos": "DEF",
+   "price": 4.4,
+   "points": 8,
+   "owned_by": 0.2
   },
   {
    "name": "Elvedi",
@@ -1759,14 +1767,6 @@
    "price": 5.5,
    "points": 8,
    "owned_by": 0.0
-  },
-  {
-   "name": "Delap",
-   "team": "NFO",
-   "pos": "FWD",
-   "price": 5.3,
-   "points": 7,
-   "owned_by": 1.4
   },
   {
    "name": "Castagne",
@@ -1791,6 +1791,14 @@
    "price": 4.8,
    "points": 7,
    "owned_by": 11.0
+  },
+  {
+   "name": "Justin",
+   "team": "LEE",
+   "pos": "DEF",
+   "price": 4.5,
+   "points": 7,
+   "owned_by": 2.4
   },
   {
    "name": "Raya",
@@ -1839,14 +1847,6 @@
    "price": 4.0,
    "points": 5,
    "owned_by": 0.6
-  },
-  {
-   "name": "Okafor",
-   "team": "LEE",
-   "pos": "MID",
-   "price": 5.7,
-   "points": 5,
-   "owned_by": 0.3
   }
  ],
  "rival_count": 25,
@@ -1854,7 +1854,7 @@
   {
    "team": "Claude Mak\u00e9l\u00e9l\u00e9",
    "manager": "Aidan Whitehouse",
-   "rank": 1,
+   "rank": 2,
    "total": 615,
    "chip": null,
    "squad": [
@@ -2027,7 +2027,7 @@
    "team": "Class of 94",
    "manager": "Dan Healey",
    "rank": 6,
-   "total": 547,
+   "total": 554,
    "chip": null,
    "squad": [
     "Raya",
@@ -2064,7 +2064,7 @@
    "team": "T_R",
    "manager": "Tom Roberts",
    "rank": 7,
-   "total": 530,
+   "total": 537,
    "chip": null,
    "squad": [
     "Raya",
@@ -2176,7 +2176,7 @@
    "team": "Wunited",
    "manager": "Luke Woodward",
    "rank": 10,
-   "total": 485,
+   "total": 492,
    "chip": null,
    "squad": [
     "Roefs",
@@ -2248,8 +2248,8 @@
   {
    "team": "Gangsters Allardyce",
    "manager": "Jordan White",
-   "rank": 2,
-   "total": 609,
+   "rank": 1,
+   "total": 616,
    "chip": null,
    "squad": [
     "Trafford",
@@ -2285,7 +2285,7 @@
    "team": "Tzolis and Gromit",
    "manager": "Alex Midmore",
    "rank": 3,
-   "total": 602,
+   "total": 609,
    "chip": null,
    "squad": [
     "Tzolakis",
@@ -2393,7 +2393,7 @@
    "team": "beef cherki",
    "manager": "Samuel Dennis",
    "rank": 6,
-   "total": 589,
+   "total": 596,
    "chip": null,
    "squad": [
     "Raya",
@@ -2539,7 +2539,7 @@
    "team": "Accringtonali FC",
    "manager": "Kyle Broadhurst",
    "rank": 10,
-   "total": 545,
+   "total": 552,
    "chip": null,
    "squad": [
     "Tzolakis",
@@ -2576,7 +2576,7 @@
    "team": "RebellTeam",
    "manager": "Santi Rebella",
    "rank": 11,
-   "total": 530,
+   "total": 537,
    "chip": null,
    "squad": [
     "Pickford",
@@ -2727,7 +2727,7 @@
    "team": "Jimbledon FC",
    "manager": "James Martin",
    "rank": 15,
-   "total": 450,
+   "total": 451,
    "chip": null,
    "squad": [
     "Kelleher",
@@ -2780,7 +2780,7 @@
    "pos": "MID",
    "price": 8.2,
    "owned_in_league_pct": 68.0,
-   "owned_globally_pct": 53.8,
+   "owned_globally_pct": 53.9,
    "i_own": true
   },
   {
@@ -2906,7 +2906,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 25.2,
+   "owned_globally_pct": 25.1,
    "i_own": false
   },
   {
@@ -3086,7 +3086,7 @@
    "pos": "DEF",
    "price": 6.0,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 15.4,
+   "owned_globally_pct": 15.3,
    "i_own": false
   },
   {
