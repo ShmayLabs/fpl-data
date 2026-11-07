@@ -14,7 +14,7 @@
   "FLAGGED: Thomas (COV) -- Calf injury - 50% chance of playing (50% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-07T01:58:17Z",
+ "generated_utc": "2026-11-07T02:20:40Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": false,
@@ -268,7 +268,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 5.9,
-   "owned_by": 48.5,
+   "owned_by": 48.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -2794,7 +2794,7 @@
    "pos": "DEF",
    "price": 5.9,
    "owned_in_league_pct": 64.0,
-   "owned_globally_pct": 48.5,
+   "owned_globally_pct": 48.6,
    "i_own": true
   },
   {
