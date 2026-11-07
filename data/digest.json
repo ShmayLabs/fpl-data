@@ -14,7 +14,7 @@
   "FLAGGED: Thomas (COV) -- Calf injury - 50% chance of playing (50% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-07T00:06:30Z",
+ "generated_utc": "2026-11-07T00:28:52Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": false,
@@ -176,7 +176,7 @@
    "total_points": 589,
    "rank": 204858,
    "rank_sort": 224378,
-   "overall_rank": 892040,
+   "overall_rank": 892046,
    "percentile_rank": 5,
    "overall_rank_percentage": "8",
    "bank": 12,
@@ -458,7 +458,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 34.5,
+   "owned_by": 34.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -498,7 +498,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.7,
-   "owned_by": 34.5,
+   "owned_by": 34.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -750,15 +750,15 @@
     },
     {
      "rank": 22,
-     "team": "WheelshavfallenoffXI",
-     "player": "simon g",
+     "team": "Grab your Jacquet",
+     "player": "Jon Marlow",
      "gw": 0,
      "total": 545
     },
     {
      "rank": 22,
-     "team": "Grab your Jacquet",
-     "player": "Jon Marlow",
+     "team": "WheelshavfallenoffXI",
+     "player": "simon g",
      "gw": 0,
      "total": 545
     },
@@ -2938,7 +2938,7 @@
    "pos": "FWD",
    "price": 7.7,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 34.5,
+   "owned_globally_pct": 34.4,
    "i_own": true
   },
   {
