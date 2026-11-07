@@ -9,25 +9,25 @@
   "FLAGGED: Thomas (COV) -- Calf injury - 50% chance of playing (50% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-07T20:48:00Z",
+ "generated_utc": "2026-11-07T21:10:28Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": false,
  "squad_from_gw": 10,
  "entry_history": {
   "event": 10,
-  "points": 18,
-  "total_points": 589,
-  "rank": 204858,
-  "rank_sort": 224378,
-  "overall_rank": 892046,
+  "points": 46,
+  "total_points": 617,
+  "rank": 342863,
+  "rank_sort": 351547,
+  "overall_rank": 815643,
   "percentile_rank": 5,
-  "overall_rank_percentage": "8",
+  "overall_rank_percentage": "7",
   "bank": 12,
   "value": 1015,
   "event_transfers": 0,
   "event_transfers_cost": 0,
-  "points_on_bench": 0
+  "points_on_bench": 6
  },
  "season_history": [
   {
@@ -415,7 +415,7 @@
    "team": "BHA",
    "pos": "MID",
    "price": 6.3,
-   "owned_by": 47.3,
+   "owned_by": 47.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -2798,7 +2798,7 @@
    "pos": "MID",
    "price": 6.3,
    "owned_in_league_pct": 56.0,
-   "owned_globally_pct": 47.3,
+   "owned_globally_pct": 47.4,
    "i_own": true
   },
   {
