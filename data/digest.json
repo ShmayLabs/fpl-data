@@ -3,7 +3,7 @@
   "FLAGGED: Thomas (COV) -- Calf injury - 50% chance of playing (50% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-08T19:31:44Z",
+ "generated_utc": "2026-11-08T19:54:11Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": false,
@@ -371,7 +371,7 @@
    "team": "EVE",
    "pos": "FWD",
    "price": 5.7,
-   "owned_by": 10.1,
+   "owned_by": 10.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -704,16 +704,16 @@
     },
     {
      "rank": 17,
-     "team": "Spring Thyme Rovers",
-     "player": "Derek Holden",
-     "gw": 55,
+     "team": "Enter Team Name",
+     "player": "Andy Grundy",
+     "gw": 85,
      "total": 618
     },
     {
      "rank": 17,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 85,
+     "team": "Spring Thyme Rovers",
+     "player": "Derek Holden",
+     "gw": 55,
      "total": 618
     },
     {
@@ -1656,7 +1656,7 @@
    "pos": "FWD",
    "price": 5.7,
    "points": 16,
-   "owned_by": 10.1
+   "owned_by": 10.2
   },
   {
    "name": "Delap",
@@ -1696,7 +1696,7 @@
    "pos": "FWD",
    "price": 7.1,
    "points": 11,
-   "owned_by": 29.6
+   "owned_by": 29.7
   },
   {
    "name": "E.Le F\u00e9e",
@@ -2810,7 +2810,7 @@
    "pos": "FWD",
    "price": 7.1,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 29.6,
+   "owned_globally_pct": 29.7,
    "i_own": false
   },
   {
@@ -2900,7 +2900,7 @@
    "pos": "DEF",
    "price": 5.7,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 23.9,
+   "owned_globally_pct": 23.8,
    "i_own": false
   },
   {
@@ -3350,7 +3350,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 10.1,
+   "owned_globally_pct": 10.2,
    "i_own": true
   },
   {
