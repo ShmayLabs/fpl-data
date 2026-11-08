@@ -3,7 +3,7 @@
   "FLAGGED: Thomas (COV) -- Calf injury - 50% chance of playing (50% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-08T23:16:18Z",
+ "generated_utc": "2026-11-08T23:37:27Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": false,
@@ -794,16 +794,16 @@
     },
     {
      "rank": 4,
-     "team": "Tramontozpor",
-     "player": "Kwadwo David",
-     "gw": 84,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 65,
      "total": 636
     },
     {
      "rank": 4,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 65,
+     "team": "Tramontozpor",
+     "player": "Kwadwo David",
+     "gw": 84,
      "total": 636
     },
     {
@@ -1768,7 +1768,7 @@
    "pos": "FWD",
    "price": 6.5,
    "points": 9,
-   "owned_by": 22.9
+   "owned_by": 23.0
   },
   {
    "name": "Gomez",
@@ -2819,7 +2819,7 @@
    "pos": "FWD",
    "price": 6.5,
    "owned_in_league_pct": 44.0,
-   "owned_globally_pct": 22.9,
+   "owned_globally_pct": 23.0,
    "i_own": false
   },
   {
@@ -3017,7 +3017,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 18.5,
+   "owned_globally_pct": 18.4,
    "i_own": false
   },
   {
@@ -3125,7 +3125,7 @@
    "pos": "MID",
    "price": 6.1,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 6.8,
+   "owned_globally_pct": 6.7,
    "i_own": false
   },
   {
@@ -3260,7 +3260,7 @@
    "pos": "MID",
    "price": 6.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 8.4,
+   "owned_globally_pct": 8.5,
    "i_own": false
   },
   {
@@ -3458,7 +3458,7 @@
    "pos": "MID",
    "price": 5.8,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 0.9,
+   "owned_globally_pct": 0.8,
    "i_own": false
   },
   {
@@ -3620,7 +3620,7 @@
    "pos": "FWD",
    "price": 7.8,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 8.6,
+   "owned_globally_pct": 8.5,
    "i_own": false
   },
   {
