@@ -4,7 +4,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-09T20:03:10Z",
+ "generated_utc": "2026-11-10T00:07:22Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": true,
@@ -296,7 +296,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.9,
-   "owned_by": 19.3,
+   "owned_by": 19.2,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -315,7 +315,7 @@
    "team": "BOU",
    "pos": "MID",
    "price": 6.7,
-   "owned_by": 31.1,
+   "owned_by": 31.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -448,7 +448,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.6,
-   "owned_by": 32.3,
+   "owned_by": 32.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -488,7 +488,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.6,
-   "owned_by": 32.3,
+   "owned_by": 32.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1697,7 +1697,7 @@
    "pos": "FWD",
    "price": 7.1,
    "points": 11,
-   "owned_by": 30.5
+   "owned_by": 30.6
   },
   {
    "name": "Dorgu",
@@ -1769,7 +1769,7 @@
    "pos": "FWD",
    "price": 6.5,
    "points": 9,
-   "owned_by": 23.3
+   "owned_by": 23.4
   },
   {
    "name": "Gomez",
@@ -1809,7 +1809,7 @@
    "pos": "MID",
    "price": 7.9,
    "points": 9,
-   "owned_by": 33.4
+   "owned_by": 33.5
   },
   {
    "name": "Jair Cunha",
@@ -2811,7 +2811,7 @@
    "pos": "FWD",
    "price": 7.1,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 30.5,
+   "owned_globally_pct": 30.6,
    "i_own": false
   },
   {
@@ -2820,7 +2820,7 @@
    "pos": "FWD",
    "price": 6.5,
    "owned_in_league_pct": 44.0,
-   "owned_globally_pct": 23.3,
+   "owned_globally_pct": 23.4,
    "i_own": false
   },
   {
@@ -2838,7 +2838,7 @@
    "pos": "MID",
    "price": 6.7,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 31.1,
+   "owned_globally_pct": 31.2,
    "i_own": true
   },
   {
@@ -2856,7 +2856,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 33.4,
+   "owned_globally_pct": 33.5,
    "i_own": false
   },
   {
@@ -2865,7 +2865,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 32.0,
-   "owned_globally_pct": 19.3,
+   "owned_globally_pct": 19.2,
    "i_own": true
   },
   {
@@ -2901,7 +2901,7 @@
    "pos": "DEF",
    "price": 5.6,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 23.2,
+   "owned_globally_pct": 23.1,
    "i_own": false
   },
   {
@@ -2928,7 +2928,7 @@
    "pos": "FWD",
    "price": 7.6,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 32.3,
+   "owned_globally_pct": 32.2,
    "i_own": true
   },
   {
@@ -3313,7 +3313,7 @@
    "name": "Anderson",
    "team": "MCI",
    "pos": "MID",
-   "price": 6.3,
+   "price": 6.2,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 3.6,
    "i_own": false
@@ -3430,7 +3430,7 @@
    "name": "Wilson",
    "team": "LEE",
    "pos": "MID",
-   "price": 6.2,
+   "price": 6.1,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 1.1,
    "i_own": false
@@ -3585,7 +3585,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 14.3,
+   "owned_globally_pct": 14.4,
    "i_own": false
   },
   {
