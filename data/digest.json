@@ -4,7 +4,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-11T12:32:31Z",
+ "generated_utc": "2026-11-11T12:54:51Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": true,
@@ -448,7 +448,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.6,
-   "owned_by": 32.0,
+   "owned_by": 31.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -488,7 +488,7 @@
    "team": "CHE",
    "pos": "FWD",
    "price": 7.6,
-   "owned_by": 32.0,
+   "owned_by": 31.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -795,16 +795,16 @@
     },
     {
      "rank": 4,
-     "team": "Tramontozpor",
-     "player": "Kwadwo David",
-     "gw": 84,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 65,
      "total": 636
     },
     {
      "rank": 4,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 65,
+     "team": "Tramontozpor",
+     "player": "Kwadwo David",
+     "gw": 84,
      "total": 636
     },
     {
@@ -2928,7 +2928,7 @@
    "pos": "FWD",
    "price": 7.6,
    "owned_in_league_pct": 24.0,
-   "owned_globally_pct": 32.0,
+   "owned_globally_pct": 31.9,
    "i_own": true
   },
   {
