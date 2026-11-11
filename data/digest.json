@@ -4,7 +4,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-11T22:18:25Z",
+ "generated_utc": "2026-11-11T22:40:45Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": true,
@@ -649,16 +649,16 @@
     },
     {
      "rank": 9,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 60,
+     "team": "L&K 11",
+     "player": "Lee Gorman",
+     "gw": 65,
      "total": 655
     },
     {
      "rank": 9,
-     "team": "L&K 11",
-     "player": "Lee Gorman",
-     "gw": 65,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 60,
      "total": 655
     },
     {
@@ -795,16 +795,16 @@
     },
     {
      "rank": 4,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 65,
+     "team": "Tramontozpor",
+     "player": "Kwadwo David",
+     "gw": 84,
      "total": 636
     },
     {
      "rank": 4,
-     "team": "Tramontozpor",
-     "player": "Kwadwo David",
-     "gw": 84,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 65,
      "total": 636
     },
     {
