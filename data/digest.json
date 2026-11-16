@@ -4,7 +4,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-16T21:00:39Z",
+ "generated_utc": "2026-11-16T21:22:57Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": true,
@@ -1697,7 +1697,7 @@
    "pos": "FWD",
    "price": 7.1,
    "points": 11,
-   "owned_by": 31.5
+   "owned_by": 31.6
   },
   {
    "name": "Dorgu",
@@ -1769,7 +1769,7 @@
    "pos": "FWD",
    "price": 6.5,
    "points": 9,
-   "owned_by": 24.0
+   "owned_by": 24.1
   },
   {
    "name": "Gomez",
@@ -2811,7 +2811,7 @@
    "pos": "FWD",
    "price": 7.1,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 31.5,
+   "owned_globally_pct": 31.6,
    "i_own": false
   },
   {
@@ -2820,7 +2820,7 @@
    "pos": "FWD",
    "price": 6.5,
    "owned_in_league_pct": 44.0,
-   "owned_globally_pct": 24.0,
+   "owned_globally_pct": 24.1,
    "i_own": false
   },
   {
