@@ -4,7 +4,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-17T13:02:39Z",
+ "generated_utc": "2026-11-17T13:25:00Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": true,
@@ -191,7 +191,7 @@
    "news": "",
    "gw_points": 6,
    "gw_minutes": 90,
-   "form": "6.2",
+   "form": "6.3",
    "total_points": 57,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -229,7 +229,7 @@
    "news": "",
    "gw_points": 6,
    "gw_minutes": 81,
-   "form": "5.5",
+   "form": "5.3",
    "total_points": 75,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -248,7 +248,7 @@
    "news": "",
    "gw_points": 7,
    "gw_minutes": 90,
-   "form": "3.8",
+   "form": "4.3",
    "total_points": 58,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -305,7 +305,7 @@
    "news": "",
    "gw_points": 2,
    "gw_minutes": 82,
-   "form": "3.2",
+   "form": "1.7",
    "total_points": 46,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -324,7 +324,7 @@
    "news": "",
    "gw_points": 3,
    "gw_minutes": 90,
-   "form": "6.5",
+   "form": "5.3",
    "total_points": 58,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -419,7 +419,7 @@
    "news": "",
    "gw_points": 10,
    "gw_minutes": 90,
-   "form": "4.2",
+   "form": "4.0",
    "total_points": 70,
    "fixture_state": "played",
    "zero_minutes_means": null
@@ -795,16 +795,16 @@
     },
     {
      "rank": 4,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 65,
+     "team": "Tramontozpor",
+     "player": "Kwadwo David",
+     "gw": 84,
      "total": 636
     },
     {
      "rank": 4,
-     "team": "Tramontozpor",
-     "player": "Kwadwo David",
-     "gw": 84,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 65,
      "total": 636
     },
     {
@@ -1697,7 +1697,7 @@
    "pos": "FWD",
    "price": 7.1,
    "points": 11,
-   "owned_by": 31.6
+   "owned_by": 31.7
   },
   {
    "name": "Dorgu",
@@ -2811,7 +2811,7 @@
    "pos": "FWD",
    "price": 7.1,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 31.6,
+   "owned_globally_pct": 31.7,
    "i_own": false
   },
   {
