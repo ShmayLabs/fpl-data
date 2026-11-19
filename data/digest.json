@@ -4,7 +4,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-19T23:35:11Z",
+ "generated_utc": "2026-11-19T23:57:33Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": true,
@@ -372,7 +372,7 @@
    "team": "EVE",
    "pos": "FWD",
    "price": 5.7,
-   "owned_by": 11.0,
+   "owned_by": 11.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -795,16 +795,16 @@
     },
     {
      "rank": 4,
-     "team": "Tramontozpor",
-     "player": "Kwadwo David",
-     "gw": 84,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 65,
      "total": 636
     },
     {
      "rank": 4,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 65,
+     "team": "Tramontozpor",
+     "player": "Kwadwo David",
+     "gw": 84,
      "total": 636
     },
     {
@@ -1657,7 +1657,7 @@
    "pos": "FWD",
    "price": 5.7,
    "points": 16,
-   "owned_by": 11.0
+   "owned_by": 11.1
   },
   {
    "name": "Delap",
@@ -3324,7 +3324,7 @@
    "pos": "DEF",
    "price": 5.4,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.2,
+   "owned_globally_pct": 4.1,
    "i_own": false
   },
   {
@@ -3351,7 +3351,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 11.0,
+   "owned_globally_pct": 11.1,
    "i_own": true
   },
   {
@@ -3576,7 +3576,7 @@
    "pos": "MID",
    "price": 6.6,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.1,
+   "owned_globally_pct": 2.2,
    "i_own": false
   },
   {
