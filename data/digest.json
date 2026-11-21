@@ -15,7 +15,7 @@
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-21T13:24:00Z",
+ "generated_utc": "2026-11-21T13:46:24Z",
  "next_gw": 12,
  "next_deadline_utc": "2026-11-27T18:30:00Z",
  "gw_finished": false,
@@ -387,7 +387,7 @@
    "chance_next": 100,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 45,
+   "gw_minutes": 55,
    "form": "3.2",
    "total_points": 71,
    "fixture_state": "in_progress",
@@ -770,8 +770,8 @@
      "rank": 25,
      "team": "Crew Alexander",
      "player": "Alex Brumby",
-     "gw": 4,
-     "total": 598
+     "gw": 3,
+     "total": 597
     }
    ]
   },
@@ -853,8 +853,8 @@
      "rank": 11,
      "team": "RebellTeam",
      "player": "Santi Rebella",
-     "gw": 2,
-     "total": 567
+     "gw": 3,
+     "total": 568
     },
     {
      "rank": 12,
@@ -867,8 +867,8 @@
      "rank": 13,
      "team": "King Scarles",
      "player": "Tom Horsman",
-     "gw": 3,
-     "total": 548
+     "gw": 2,
+     "total": 547
     },
     {
      "rank": 14,
@@ -1663,23 +1663,15 @@
    "team": "FUL",
    "pos": "MID",
    "price": 5.5,
-   "points": 6,
+   "points": 5,
    "owned_by": 0.5
-  },
-  {
-   "name": "Foden",
-   "team": "MCI",
-   "pos": "MID",
-   "price": 6.8,
-   "points": 2,
-   "owned_by": 2.1
   },
   {
    "name": "Anderson",
    "team": "MCI",
    "pos": "MID",
    "price": 6.2,
-   "points": 2,
+   "points": 3,
    "owned_by": 3.5
   },
   {
@@ -1769,6 +1761,14 @@
    "price": 5.3,
    "points": 1,
    "owned_by": 1.2
+  },
+  {
+   "name": "Foden",
+   "team": "MCI",
+   "pos": "MID",
+   "price": 6.8,
+   "points": 1,
+   "owned_by": 2.1
   },
   {
    "name": "Doku",
@@ -2542,7 +2542,7 @@
    "team": "RebellTeam",
    "manager": "Santi Rebella",
    "rank": 11,
-   "total": 567,
+   "total": 568,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2619,7 +2619,7 @@
    "team": "King Scarles",
    "manager": "Tom Horsman",
    "rank": 13,
-   "total": 548,
+   "total": 547,
    "chip": null,
    "squad": [
     "Raya",
@@ -2829,7 +2829,7 @@
    "pos": "MID",
    "price": 7.9,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 33.7,
+   "owned_globally_pct": 33.6,
    "i_own": false
   },
   {
