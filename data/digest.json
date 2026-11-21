@@ -8,20 +8,20 @@
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-21T21:03:07Z",
+ "generated_utc": "2026-11-21T21:25:34Z",
  "next_gw": 12,
  "next_deadline_utc": "2026-11-27T18:30:00Z",
  "gw_finished": false,
  "squad_from_gw": 11,
  "entry_history": {
   "event": 11,
-  "points": 0,
-  "total_points": 636,
-  "rank": null,
-  "rank_sort": null,
-  "overall_rank": 1290678,
-  "percentile_rank": null,
-  "overall_rank_percentage": null,
+  "points": 36,
+  "total_points": 672,
+  "rank": 786406,
+  "rank_sort": 795550,
+  "overall_rank": 1015477,
+  "percentile_rank": 10,
+  "overall_rank_percentage": "9",
   "bank": 5,
   "value": 1016,
   "event_transfers": 2,
@@ -621,16 +621,16 @@
     },
     {
      "rank": 5,
-     "team": "Expected Toulouse",
-     "player": "Joe McClelland",
-     "gw": 31,
+     "team": "Kash FC",
+     "player": "Prakash Shan",
+     "gw": 21,
      "total": 689
     },
     {
      "rank": 5,
-     "team": "Kash FC",
-     "player": "Prakash Shan",
-     "gw": 21,
+     "team": "Expected Toulouse",
+     "player": "Joe McClelland",
+     "gw": 31,
      "total": 689
     },
     {
@@ -2924,7 +2924,7 @@
    "pos": "GK",
    "price": 6.3,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 47.7,
+   "owned_globally_pct": 47.6,
    "i_own": false
   },
   {
@@ -3707,7 +3707,7 @@
    "pos": "MID",
    "price": 5.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.3,
+   "owned_globally_pct": 2.2,
    "i_own": false
   },
   {
