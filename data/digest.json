@@ -5,7 +5,7 @@
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
   "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
  ],
- "generated_utc": "2026-11-21T01:20:49Z",
+ "generated_utc": "2026-11-21T01:43:11Z",
  "next_gw": 11,
  "next_deadline_utc": "2026-11-21T11:00:00Z",
  "gw_finished": true,
@@ -796,16 +796,16 @@
     },
     {
      "rank": 4,
-     "team": "Tramontozpor",
-     "player": "Kwadwo David",
-     "gw": 84,
+     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
+     "player": "Aidan Whitehouse",
+     "gw": 65,
      "total": 636
     },
     {
      "rank": 4,
-     "team": "Claude Mak\u00e9l\u00e9l\u00e9",
-     "player": "Aidan Whitehouse",
-     "gw": 65,
+     "team": "Tramontozpor",
+     "player": "Kwadwo David",
+     "gw": 84,
      "total": 636
     },
     {
@@ -1698,7 +1698,7 @@
    "pos": "FWD",
    "price": 7.2,
    "points": 11,
-   "owned_by": 34.3
+   "owned_by": 34.4
   },
   {
    "name": "Dorgu",
@@ -1770,7 +1770,7 @@
    "pos": "FWD",
    "price": 6.5,
    "points": 9,
-   "owned_by": 25.3
+   "owned_by": 25.4
   },
   {
    "name": "Gomez",
@@ -1778,7 +1778,7 @@
    "pos": "MID",
    "price": 5.1,
    "points": 9,
-   "owned_by": 4.5
+   "owned_by": 4.6
   },
   {
    "name": "Dewsbury-Hall",
@@ -2812,7 +2812,7 @@
    "pos": "FWD",
    "price": 7.2,
    "owned_in_league_pct": 48.0,
-   "owned_globally_pct": 34.3,
+   "owned_globally_pct": 34.4,
    "i_own": false
   },
   {
@@ -2821,7 +2821,7 @@
    "pos": "FWD",
    "price": 6.5,
    "owned_in_league_pct": 44.0,
-   "owned_globally_pct": 25.3,
+   "owned_globally_pct": 25.4,
    "i_own": false
   },
   {
