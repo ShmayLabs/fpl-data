@@ -1,29 +1,40 @@
 {
  "SQUAD_ALERTS_READ_THIS_FIRST": [
-  "PRICE FALL: Mbeumo dropped \u00a30.1m this gameweek.",
-  "FLAGGED: Thomas (COV) -- Calf injury - 75% chance of playing (75% chance).",
-  "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance).",
-  "PRICE FALL: Jo\u00e3o Pedro dropped \u00a30.1m this gameweek."
+  "NOT YET PLAYED: Verbruggen (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: Van Hecke (TOT) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: De Cuyper (BHA) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: Bogle (LEE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: Calafiori (ARS) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: Rogers (CHE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: E.Le F\u00e9e (SUN) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: Tavernier (BOU) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: \u00d8degaard (ARS) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: Haaland (MCI) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: Barry (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: Tzolakis (HUL) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: Mbeumo (MUN) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
+  "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-21T11:31:52Z",
- "next_gw": 11,
- "next_deadline_utc": "2026-11-21T11:00:00Z",
- "gw_finished": true,
- "squad_from_gw": 10,
+ "generated_utc": "2026-11-21T11:54:22Z",
+ "next_gw": 12,
+ "next_deadline_utc": "2026-11-27T18:30:00Z",
+ "gw_finished": false,
+ "squad_from_gw": 11,
  "entry_history": {
-  "event": 10,
-  "points": 65,
+  "event": 11,
+  "points": 0,
   "total_points": 636,
-  "rank": 2324072,
-  "rank_sort": 2363344,
+  "rank": null,
+  "rank_sort": null,
   "overall_rank": 1290678,
-  "percentile_rank": 25,
-  "overall_rank_percentage": "12",
-  "bank": 12,
-  "value": 1015,
-  "event_transfers": 0,
+  "percentile_rank": null,
+  "overall_rank_percentage": null,
+  "bank": 5,
+  "value": 1016,
+  "event_transfers": 2,
   "event_transfers_cost": 0,
-  "points_on_bench": 16
+  "points_on_bench": 0
  },
  "season_history": [
   {
@@ -175,6 +186,21 @@
    "event_transfers": 0,
    "event_transfers_cost": 0,
    "points_on_bench": 16
+  },
+  {
+   "event": 11,
+   "points": 0,
+   "total_points": 636,
+   "rank": null,
+   "rank_sort": null,
+   "overall_rank": 1290678,
+   "percentile_rank": null,
+   "overall_rank_percentage": null,
+   "bank": 5,
+   "value": 1016,
+   "event_transfers": 2,
+   "event_transfers_cost": 0,
+   "points_on_bench": 0
   }
  ],
  "squad": [
@@ -190,31 +216,31 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 6,
-   "gw_minutes": 90,
-   "form": "6.3",
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "4.8",
    "total_points": 57,
-   "fixture_state": "played",
-   "zero_minutes_means": null
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
-   "name": "Tarkowski",
-   "team": "EVE",
+   "name": "Van Hecke",
+   "team": "TOT",
    "pos": "DEF",
-   "price": 6.2,
-   "owned_by": 18.8,
+   "price": 5.1,
+   "owned_by": 18.3,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
    "status": "a",
-   "chance_next": null,
+   "chance_next": 100,
    "news": "",
-   "gw_points": 2,
-   "gw_minutes": 90,
-   "form": "3.3",
-   "total_points": 56,
-   "fixture_state": "played",
-   "zero_minutes_means": null
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "6.5",
+   "total_points": 57,
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
    "name": "De Cuyper",
@@ -228,12 +254,12 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 6,
-   "gw_minutes": 81,
-   "form": "5.3",
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "4.0",
    "total_points": 75,
-   "fixture_state": "played",
-   "zero_minutes_means": null
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
    "name": "Bogle",
@@ -247,12 +273,12 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 7,
-   "gw_minutes": 90,
-   "form": "4.3",
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "3.2",
    "total_points": 58,
-   "fixture_state": "played",
-   "zero_minutes_means": null
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
    "name": "Calafiori",
@@ -266,69 +292,69 @@
    "status": "a",
    "chance_next": 100,
    "news": "",
-   "gw_points": 6,
-   "gw_minutes": 68,
-   "form": "4.3",
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "3.2",
    "total_points": 57,
-   "fixture_state": "played",
-   "zero_minutes_means": null
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
    "name": "Rogers",
    "team": "CHE",
    "pos": "MID",
    "price": 8.2,
-   "owned_by": 54.5,
-   "is_captain": false,
-   "is_vice": false,
-   "on_bench": false,
-   "status": "a",
-   "chance_next": null,
-   "news": "",
-   "gw_points": 2,
-   "gw_minutes": 90,
-   "form": "4.0",
-   "total_points": 52,
-   "fixture_state": "played",
-   "zero_minutes_means": null
-  },
-  {
-   "name": "Mbeumo",
-   "team": "MUN",
-   "pos": "MID",
-   "price": 7.8,
-   "owned_by": 17.9,
+   "owned_by": 54.6,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 2,
-   "gw_minutes": 82,
-   "form": "1.7",
-   "total_points": 46,
-   "fixture_state": "played",
-   "zero_minutes_means": null
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "3.0",
+   "total_points": 52,
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
-   "name": "Tavernier",
-   "team": "BOU",
+   "name": "E.Le F\u00e9e",
+   "team": "SUN",
    "pos": "MID",
-   "price": 6.7,
-   "owned_by": 32.5,
+   "price": 5.7,
+   "owned_by": 3.1,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 3,
-   "gw_minutes": 90,
-   "form": "5.3",
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "5.5",
+   "total_points": 46,
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
+  },
+  {
+   "name": "Tavernier",
+   "team": "BOU",
+   "pos": "MID",
+   "price": 6.7,
+   "owned_by": 32.6,
+   "is_captain": false,
+   "is_vice": false,
+   "on_bench": false,
+   "status": "a",
+   "chance_next": null,
+   "news": "",
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "4.0",
    "total_points": 58,
-   "fixture_state": "played",
-   "zero_minutes_means": null
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
    "name": "\u00d8degaard",
@@ -342,12 +368,12 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 11,
-   "gw_minutes": 90,
-   "form": "5.7",
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "4.2",
    "total_points": 50,
-   "fixture_state": "played",
-   "zero_minutes_means": null
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
    "name": "Haaland",
@@ -361,12 +387,12 @@
    "status": "a",
    "chance_next": 100,
    "news": "",
-   "gw_points": 2,
-   "gw_minutes": 90,
-   "form": "4.0",
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "3.0",
    "total_points": 70,
-   "fixture_state": "played",
-   "zero_minutes_means": null
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
    "name": "Barry",
@@ -380,12 +406,12 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 16,
-   "gw_minutes": 90,
-   "form": "9.0",
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "6.8",
    "total_points": 55,
-   "fixture_state": "played",
-   "zero_minutes_means": null
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
    "name": "Tzolakis",
@@ -399,57 +425,57 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 6,
-   "gw_minutes": 90,
-   "form": "3.3",
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "2.5",
    "total_points": 49,
-   "fixture_state": "played",
-   "zero_minutes_means": null
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
-   "name": "Gro\u00df",
-   "team": "BHA",
+   "name": "Mbeumo",
+   "team": "MUN",
    "pos": "MID",
-   "price": 6.3,
-   "owned_by": 49.4,
+   "price": 7.8,
+   "owned_by": 17.9,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 10,
-   "gw_minutes": 90,
-   "form": "4.0",
-   "total_points": 70,
-   "fixture_state": "played",
-   "zero_minutes_means": null
+   "gw_points": 0,
+   "gw_minutes": 0,
+   "form": "1.2",
+   "total_points": 46,
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
-   "name": "Thomas",
-   "team": "COV",
+   "name": "Tarkowski",
+   "team": "EVE",
    "pos": "DEF",
-   "price": 4.0,
-   "owned_by": 6.9,
+   "price": 6.2,
+   "owned_by": 18.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
-   "status": "d",
-   "chance_next": 75,
-   "news": "Calf injury - 75% chance of playing",
+   "status": "a",
+   "chance_next": null,
+   "news": "",
    "gw_points": 0,
    "gw_minutes": 0,
-   "form": "0.3",
-   "total_points": 32,
-   "fixture_state": "played",
-   "zero_minutes_means": "match finished and he played no part"
+   "form": "2.5",
+   "total_points": 56,
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   },
   {
    "name": "Jo\u00e3o Pedro",
    "team": "CHE",
    "pos": "FWD",
    "price": 7.6,
-   "owned_by": 28.7,
+   "owned_by": 28.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -460,36 +486,17 @@
    "gw_minutes": 0,
    "form": "0.0",
    "total_points": 47,
-   "fixture_state": "played",
-   "zero_minutes_means": "match finished and he played no part"
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   }
  ],
  "flagged_players": [
   {
-   "name": "Thomas",
-   "team": "COV",
-   "pos": "DEF",
-   "price": 4.0,
-   "owned_by": 6.9,
-   "is_captain": false,
-   "is_vice": false,
-   "on_bench": true,
-   "status": "d",
-   "chance_next": 75,
-   "news": "Calf injury - 75% chance of playing",
-   "gw_points": 0,
-   "gw_minutes": 0,
-   "form": "0.3",
-   "total_points": 32,
-   "fixture_state": "played",
-   "zero_minutes_means": "match finished and he played no part"
-  },
-  {
    "name": "Jo\u00e3o Pedro",
    "team": "CHE",
    "pos": "FWD",
    "price": 7.6,
-   "owned_by": 28.7,
+   "owned_by": 28.6,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -500,8 +507,8 @@
    "gw_minutes": 0,
    "form": "0.0",
    "total_points": 47,
-   "fixture_state": "played",
-   "zero_minutes_means": "match finished and he played no part"
+   "fixture_state": "not_kicked_off",
+   "zero_minutes_means": "MATCH NOT FINISHED -- a zero here does NOT mean he was dropped"
   }
  ],
  "mini_leagues": [
@@ -513,77 +520,77 @@
      "rank": 1,
      "team": "I\u2019m a Baleba",
      "player": "Tom Healey",
-     "gw": 51,
+     "gw": 0,
      "total": 642
     },
     {
      "rank": 2,
      "team": "Bayer Neverlusen",
      "player": "Jamie Mourant",
-     "gw": 50,
+     "gw": 0,
      "total": 639
     },
     {
      "rank": 3,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 65,
+     "gw": 0,
      "total": 636
     },
     {
      "rank": 4,
      "team": "HaCunha Matata",
      "player": "Oliver Norris",
-     "gw": 59,
+     "gw": 0,
      "total": 631
     },
     {
      "rank": 5,
      "team": "Class of 94",
      "player": "Dan Healey",
-     "gw": 78,
+     "gw": 0,
      "total": 612
     },
     {
      "rank": 6,
      "team": "Tics Champs By Xmas",
      "player": "Kieron Murphy",
-     "gw": 53,
+     "gw": 0,
      "total": 598
     },
     {
      "rank": 7,
      "team": "T_R",
      "player": "Tom Roberts",
-     "gw": 60,
+     "gw": 0,
      "total": 572
     },
     {
      "rank": 8,
      "team": "net six and chill",
      "player": "william batterbury",
-     "gw": 48,
+     "gw": 0,
      "total": 554
     },
     {
      "rank": 9,
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
-     "gw": 34,
+     "gw": 0,
      "total": 531
     },
     {
      "rank": 10,
      "team": "Wunited",
      "player": "Luke Woodward",
-     "gw": 53,
+     "gw": 0,
      "total": 521
     },
     {
      "rank": 11,
      "team": "hitmeinthesaka",
      "player": "Liam Fearnley",
-     "gw": 59,
+     "gw": 0,
      "total": 507
     }
    ]
@@ -596,175 +603,175 @@
      "rank": 1,
      "team": "HMH Ath",
      "player": "Craig Hughes",
-     "gw": 75,
+     "gw": 0,
      "total": 687
     },
     {
      "rank": 2,
      "team": "Not too Xabi",
      "player": "Niall Walsh",
-     "gw": 61,
+     "gw": 0,
      "total": 684
     },
     {
      "rank": 3,
      "team": "Previously Athletic",
      "player": "Phil Dudson",
-     "gw": 56,
+     "gw": 0,
      "total": 682
     },
     {
      "rank": 4,
      "team": "Kash FC",
      "player": "Prakash Shan",
-     "gw": 62,
+     "gw": 0,
      "total": 668
     },
     {
      "rank": 5,
      "team": "Expected Toulouse",
      "player": "Joe McClelland",
-     "gw": 38,
+     "gw": 0,
      "total": 658
     },
     {
      "rank": 6,
      "team": "Matt's Team",
      "player": "Matt Lowe",
-     "gw": 61,
+     "gw": 0,
      "total": 657
     },
     {
      "rank": 7,
      "team": "Paul's Team",
      "player": "Paul Larkin",
-     "gw": 55,
+     "gw": 0,
      "total": 656
     },
     {
      "rank": 8,
      "team": "Gangsters Allardyce",
      "player": "Jordan White",
-     "gw": 66,
-     "total": 655
-    },
-    {
-     "rank": 9,
-     "team": "Man (Zambi) On",
-     "player": "Liam Brockhurst",
-     "gw": 60,
+     "gw": 0,
      "total": 655
     },
     {
      "rank": 9,
      "team": "L&K 11",
      "player": "Lee Gorman",
-     "gw": 65,
+     "gw": 0,
+     "total": 655
+    },
+    {
+     "rank": 10,
+     "team": "Man (Zambi) On",
+     "player": "Liam Brockhurst",
+     "gw": 0,
      "total": 655
     },
     {
      "rank": 11,
      "team": "Blind Faith",
      "player": "Janied Inayat",
-     "gw": 63,
+     "gw": 0,
      "total": 651
     },
     {
      "rank": 12,
      "team": "How I met your mata",
      "player": "Paul Gittins",
-     "gw": 70,
+     "gw": 0,
      "total": 643
     },
     {
      "rank": 13,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 65,
+     "gw": 0,
      "total": 636
     },
     {
      "rank": 14,
      "team": "ChickenTikka Mangala",
      "player": "James Davies",
-     "gw": 68,
+     "gw": 0,
      "total": 628
     },
     {
      "rank": 15,
      "team": "MightyGar",
      "player": "Stephen Lowe",
-     "gw": 68,
+     "gw": 0,
      "total": 627
     },
     {
      "rank": 16,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 64,
+     "gw": 0,
      "total": 623
     },
     {
      "rank": 17,
      "team": "Spring Thyme Rovers",
      "player": "Derek Holden",
-     "gw": 55,
+     "gw": 0,
      "total": 618
     },
     {
      "rank": 18,
      "team": "Enter Team Name",
      "player": "Andy Grundy",
-     "gw": 83,
+     "gw": 0,
      "total": 616
     },
     {
      "rank": 19,
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
-     "gw": 54,
+     "gw": 0,
      "total": 616
     },
     {
      "rank": 20,
      "team": "Grab your Jacquet",
      "player": "Jon Marlow",
-     "gw": 70,
+     "gw": 0,
      "total": 615
     },
     {
      "rank": 21,
      "team": "Boundary Park Blues",
      "player": "Ben McNamara",
-     "gw": 82,
+     "gw": 0,
      "total": 610
     },
     {
      "rank": 22,
      "team": "Ctrl Alt De Ligt",
      "player": "Ian Cox",
-     "gw": 56,
+     "gw": 0,
      "total": 607
     },
     {
      "rank": 23,
      "team": "WheelshavfallenoffXI",
      "player": "simon g",
-     "gw": 54,
+     "gw": 0,
      "total": 599
     },
     {
      "rank": 24,
      "team": "Maddcatts",
      "player": "Craig Cattrall",
-     "gw": 59,
+     "gw": 0,
      "total": 597
     },
     {
      "rank": 25,
      "team": "Crew Alexander",
      "player": "Alex Brumby",
-     "gw": 60,
+     "gw": 0,
      "total": 594
     }
    ]
@@ -777,309 +784,113 @@
      "rank": 1,
      "team": "Gangsters Allardyce",
      "player": "Jordan White",
-     "gw": 66,
+     "gw": 0,
      "total": 655
     },
     {
      "rank": 2,
      "team": "JTindall Solo Album",
      "player": "Niall Ballinger",
-     "gw": 79,
+     "gw": 0,
      "total": 644
     },
     {
      "rank": 3,
      "team": "Tzolis and Gromit",
      "player": "Alex Midmore",
-     "gw": 73,
+     "gw": 0,
      "total": 637
     },
     {
      "rank": 4,
      "team": "Tramontozpor",
      "player": "Kwadwo David",
-     "gw": 84,
+     "gw": 0,
      "total": 636
     },
     {
-     "rank": 4,
+     "rank": 5,
      "team": "Claude Mak\u00e9l\u00e9l\u00e9",
      "player": "Aidan Whitehouse",
-     "gw": 65,
+     "gw": 0,
      "total": 636
     },
     {
      "rank": 6,
      "team": "beef cherki",
      "player": "Samuel Dennis",
-     "gw": 55,
+     "gw": 0,
      "total": 625
     },
     {
      "rank": 7,
      "team": "Bruno Dos Tres",
      "player": "David Taylor",
-     "gw": 64,
+     "gw": 0,
      "total": 623
     },
     {
      "rank": 8,
      "team": "Norris FC",
      "player": "Rob Norris",
-     "gw": 57,
+     "gw": 0,
      "total": 618
     },
     {
      "rank": 9,
      "team": "Accringtonali FC",
      "player": "Kyle Broadhurst",
-     "gw": 69,
+     "gw": 0,
      "total": 605
     },
     {
      "rank": 10,
      "team": "Static FC",
      "player": "Nathaniel Josephs",
-     "gw": 46,
+     "gw": 0,
      "total": 592
     },
     {
      "rank": 11,
      "team": "RebellTeam",
      "player": "Santi Rebella",
-     "gw": 51,
+     "gw": 0,
      "total": 565
     },
     {
      "rank": 12,
      "team": "Millennium Falcons",
      "player": "Jack Richardson",
-     "gw": 63,
+     "gw": 0,
      "total": 564
     },
     {
      "rank": 13,
      "team": "King Scarles",
      "player": "Tom Horsman",
-     "gw": 43,
+     "gw": 0,
      "total": 545
     },
     {
      "rank": 14,
      "team": "Prep Big B",
      "player": "Darren Heath",
-     "gw": 37,
+     "gw": 0,
      "total": 543
     },
     {
      "rank": 15,
      "team": "Jimbledon FC",
      "player": "James Martin",
-     "gw": 24,
+     "gw": 0,
      "total": 468
     }
    ]
   }
  ],
  "fixtures_next_6": {
-  "MCI": [
-   {
-    "gw": 11,
-    "opp": "FUL",
-    "ha": "H",
-    "difficulty": 2
-   },
-   {
-    "gw": 12,
-    "opp": "ARS",
-    "ha": "A",
-    "difficulty": 5
-   },
-   {
-    "gw": 13,
-    "opp": "LEE",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 14,
-    "opp": "BRE",
-    "ha": "A",
-    "difficulty": 4
-   },
-   {
-    "gw": 15,
-    "opp": "CHE",
-    "ha": "H",
-    "difficulty": 4
-   },
-   {
-    "gw": 16,
-    "opp": "HUL",
-    "ha": "H",
-    "difficulty": 2
-   }
-  ],
-  "FUL": [
-   {
-    "gw": 11,
-    "opp": "MCI",
-    "ha": "A",
-    "difficulty": 5
-   },
-   {
-    "gw": 12,
-    "opp": "BOU",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 13,
-    "opp": "TOT",
-    "ha": "A",
-    "difficulty": 3
-   },
-   {
-    "gw": 14,
-    "opp": "EVE",
-    "ha": "A",
-    "difficulty": 3
-   },
-   {
-    "gw": 15,
-    "opp": "BRE",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 16,
-    "opp": "LEE",
-    "ha": "A",
-    "difficulty": 3
-   }
-  ],
-  "AVL": [
-   {
-    "gw": 11,
-    "opp": "SUN",
-    "ha": "H",
-    "difficulty": 2
-   },
-   {
-    "gw": 12,
-    "opp": "IPS",
-    "ha": "A",
-    "difficulty": 2
-   },
-   {
-    "gw": 13,
-    "opp": "EVE",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 14,
-    "opp": "CRY",
-    "ha": "H",
-    "difficulty": 2
-   },
-   {
-    "gw": 15,
-    "opp": "COV",
-    "ha": "A",
-    "difficulty": 2
-   },
-   {
-    "gw": 16,
-    "opp": "CHE",
-    "ha": "A",
-    "difficulty": 4
-   }
-  ],
-  "SUN": [
-   {
-    "gw": 11,
-    "opp": "AVL",
-    "ha": "A",
-    "difficulty": 3
-   },
-   {
-    "gw": 12,
-    "opp": "TOT",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 13,
-    "opp": "LIV",
-    "ha": "A",
-    "difficulty": 4
-   },
-   {
-    "gw": 14,
-    "opp": "NEW",
-    "ha": "A",
-    "difficulty": 3
-   },
-   {
-    "gw": 15,
-    "opp": "NFO",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 16,
-    "opp": "CRY",
-    "ha": "H",
-    "difficulty": 2
-   }
-  ],
-  "BOU": [
-   {
-    "gw": 11,
-    "opp": "NFO",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 12,
-    "opp": "FUL",
-    "ha": "A",
-    "difficulty": 3
-   },
-   {
-    "gw": 13,
-    "opp": "BHA",
-    "ha": "H",
-    "difficulty": 4
-   },
-   {
-    "gw": 14,
-    "opp": "HUL",
-    "ha": "H",
-    "difficulty": 2
-   },
-   {
-    "gw": 15,
-    "opp": "ARS",
-    "ha": "A",
-    "difficulty": 5
-   },
-   {
-    "gw": 16,
-    "opp": "COV",
-    "ha": "H",
-    "difficulty": 2
-   }
-  ],
   "NFO": [
    {
-    "gw": 11,
-    "opp": "BOU",
-    "ha": "A",
-    "difficulty": 4
-   },
-   {
     "gw": 12,
     "opp": "CHE",
     "ha": "H",
@@ -1107,17 +918,17 @@
     "gw": 16,
     "opp": "EVE",
     "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 17,
+    "opp": "MUN",
+    "ha": "A",
     "difficulty": 3
    }
   ],
   "CHE": [
    {
-    "gw": 11,
-    "opp": "LEE",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
     "gw": 12,
     "opp": "NFO",
     "ha": "A",
@@ -1146,16 +957,16 @@
     "opp": "AVL",
     "ha": "H",
     "difficulty": 3
+   },
+   {
+    "gw": 17,
+    "opp": "COV",
+    "ha": "A",
+    "difficulty": 2
    }
   ],
   "LEE": [
    {
-    "gw": 11,
-    "opp": "CHE",
-    "ha": "A",
-    "difficulty": 4
-   },
-   {
     "gw": 12,
     "opp": "COV",
     "ha": "H",
@@ -1184,16 +995,16 @@
     "opp": "FUL",
     "ha": "H",
     "difficulty": 2
+   },
+   {
+    "gw": 17,
+    "opp": "AVL",
+    "ha": "A",
+    "difficulty": 3
    }
   ],
   "COV": [
    {
-    "gw": 11,
-    "opp": "CRY",
-    "ha": "H",
-    "difficulty": 2
-   },
-   {
     "gw": 12,
     "opp": "LEE",
     "ha": "A",
@@ -1222,320 +1033,16 @@
     "opp": "BOU",
     "ha": "A",
     "difficulty": 4
-   }
-  ],
-  "CRY": [
-   {
-    "gw": 11,
-    "opp": "COV",
-    "ha": "A",
-    "difficulty": 2
    },
    {
-    "gw": 12,
-    "opp": "HUL",
-    "ha": "H",
-    "difficulty": 2
-   },
-   {
-    "gw": 13,
+    "gw": 17,
     "opp": "CHE",
-    "ha": "A",
-    "difficulty": 4
-   },
-   {
-    "gw": 14,
-    "opp": "AVL",
-    "ha": "A",
-    "difficulty": 3
-   },
-   {
-    "gw": 15,
-    "opp": "MUN",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 16,
-    "opp": "SUN",
-    "ha": "A",
-    "difficulty": 3
-   }
-  ],
-  "TOT": [
-   {
-    "gw": 11,
-    "opp": "IPS",
-    "ha": "H",
-    "difficulty": 2
-   },
-   {
-    "gw": 12,
-    "opp": "SUN",
-    "ha": "A",
-    "difficulty": 3
-   },
-   {
-    "gw": 13,
-    "opp": "FUL",
-    "ha": "H",
-    "difficulty": 2
-   },
-   {
-    "gw": 14,
-    "opp": "ARS",
     "ha": "H",
     "difficulty": 4
-   },
-   {
-    "gw": 15,
-    "opp": "HUL",
-    "ha": "A",
-    "difficulty": 2
-   },
-   {
-    "gw": 16,
-    "opp": "LIV",
-    "ha": "A",
-    "difficulty": 4
-   }
-  ],
-  "IPS": [
-   {
-    "gw": 11,
-    "opp": "TOT",
-    "ha": "A",
-    "difficulty": 3
-   },
-   {
-    "gw": 12,
-    "opp": "AVL",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 13,
-    "opp": "COV",
-    "ha": "A",
-    "difficulty": 2
-   },
-   {
-    "gw": 14,
-    "opp": "LEE",
-    "ha": "A",
-    "difficulty": 3
-   },
-   {
-    "gw": 15,
-    "opp": "NEW",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 16,
-    "opp": "BHA",
-    "ha": "A",
-    "difficulty": 4
-   }
-  ],
-  "NEW": [
-   {
-    "gw": 11,
-    "opp": "ARS",
-    "ha": "H",
-    "difficulty": 4
-   },
-   {
-    "gw": 12,
-    "opp": "BHA",
-    "ha": "A",
-    "difficulty": 4
-   },
-   {
-    "gw": 13,
-    "opp": "MUN",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 14,
-    "opp": "SUN",
-    "ha": "H",
-    "difficulty": 2
-   },
-   {
-    "gw": 15,
-    "opp": "IPS",
-    "ha": "A",
-    "difficulty": 2
-   },
-   {
-    "gw": 16,
-    "opp": "BRE",
-    "ha": "A",
-    "difficulty": 4
-   }
-  ],
-  "ARS": [
-   {
-    "gw": 11,
-    "opp": "NEW",
-    "ha": "A",
-    "difficulty": 3
-   },
-   {
-    "gw": 12,
-    "opp": "MCI",
-    "ha": "H",
-    "difficulty": 4
-   },
-   {
-    "gw": 13,
-    "opp": "BRE",
-    "ha": "A",
-    "difficulty": 4
-   },
-   {
-    "gw": 14,
-    "opp": "TOT",
-    "ha": "A",
-    "difficulty": 3
-   },
-   {
-    "gw": 15,
-    "opp": "BOU",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 16,
-    "opp": "MUN",
-    "ha": "H",
-    "difficulty": 3
-   }
-  ],
-  "HUL": [
-   {
-    "gw": 11,
-    "opp": "BHA",
-    "ha": "H",
-    "difficulty": 4
-   },
-   {
-    "gw": 12,
-    "opp": "CRY",
-    "ha": "A",
-    "difficulty": 2
-   },
-   {
-    "gw": 13,
-    "opp": "NFO",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 14,
-    "opp": "BOU",
-    "ha": "A",
-    "difficulty": 4
-   },
-   {
-    "gw": 15,
-    "opp": "TOT",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 16,
-    "opp": "MCI",
-    "ha": "A",
-    "difficulty": 5
-   }
-  ],
-  "BHA": [
-   {
-    "gw": 11,
-    "opp": "HUL",
-    "ha": "A",
-    "difficulty": 2
-   },
-   {
-    "gw": 12,
-    "opp": "NEW",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 13,
-    "opp": "BOU",
-    "ha": "A",
-    "difficulty": 4
-   },
-   {
-    "gw": 14,
-    "opp": "NFO",
-    "ha": "A",
-    "difficulty": 2
-   },
-   {
-    "gw": 15,
-    "opp": "EVE",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 16,
-    "opp": "IPS",
-    "ha": "H",
-    "difficulty": 2
-   }
-  ],
-  "LIV": [
-   {
-    "gw": 11,
-    "opp": "MUN",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 12,
-    "opp": "EVE",
-    "ha": "A",
-    "difficulty": 3
-   },
-   {
-    "gw": 13,
-    "opp": "SUN",
-    "ha": "H",
-    "difficulty": 2
-   },
-   {
-    "gw": 14,
-    "opp": "CHE",
-    "ha": "A",
-    "difficulty": 4
-   },
-   {
-    "gw": 15,
-    "opp": "LEE",
-    "ha": "H",
-    "difficulty": 3
-   },
-   {
-    "gw": 16,
-    "opp": "TOT",
-    "ha": "H",
-    "difficulty": 3
    }
   ],
   "MUN": [
    {
-    "gw": 11,
-    "opp": "LIV",
-    "ha": "A",
-    "difficulty": 4
-   },
-   {
     "gw": 12,
     "opp": "BRE",
     "ha": "H",
@@ -1564,15 +1071,15 @@
     "opp": "ARS",
     "ha": "A",
     "difficulty": 5
+   },
+   {
+    "gw": 17,
+    "opp": "NFO",
+    "ha": "H",
+    "difficulty": 3
    }
   ],
   "BRE": [
-   {
-    "gw": 11,
-    "opp": "EVE",
-    "ha": "H",
-    "difficulty": 3
-   },
    {
     "gw": 12,
     "opp": "MUN",
@@ -1600,18 +1107,94 @@
    {
     "gw": 16,
     "opp": "NEW",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 17,
+    "opp": "IPS",
+    "ha": "A",
+    "difficulty": 2
+   }
+  ],
+  "IPS": [
+   {
+    "gw": 12,
+    "opp": "AVL",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 13,
+    "opp": "COV",
+    "ha": "A",
+    "difficulty": 2
+   },
+   {
+    "gw": 14,
+    "opp": "LEE",
+    "ha": "A",
+    "difficulty": 3
+   },
+   {
+    "gw": 15,
+    "opp": "NEW",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 16,
+    "opp": "BHA",
+    "ha": "A",
+    "difficulty": 4
+   },
+   {
+    "gw": 17,
+    "opp": "BRE",
+    "ha": "H",
+    "difficulty": 3
+   }
+  ],
+  "AVL": [
+   {
+    "gw": 12,
+    "opp": "IPS",
+    "ha": "A",
+    "difficulty": 2
+   },
+   {
+    "gw": 13,
+    "opp": "EVE",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 14,
+    "opp": "CRY",
+    "ha": "H",
+    "difficulty": 2
+   },
+   {
+    "gw": 15,
+    "opp": "COV",
+    "ha": "A",
+    "difficulty": 2
+   },
+   {
+    "gw": 16,
+    "opp": "CHE",
+    "ha": "A",
+    "difficulty": 4
+   },
+   {
+    "gw": 17,
+    "opp": "LEE",
     "ha": "H",
     "difficulty": 3
    }
   ],
   "EVE": [
    {
-    "gw": 11,
-    "opp": "BRE",
-    "ha": "A",
-    "difficulty": 4
-   },
-   {
     "gw": 12,
     "opp": "LIV",
     "ha": "H",
@@ -1640,211 +1223,434 @@
     "opp": "NFO",
     "ha": "A",
     "difficulty": 2
+   },
+   {
+    "gw": 17,
+    "opp": "SUN",
+    "ha": "H",
+    "difficulty": 2
+   }
+  ],
+  "LIV": [
+   {
+    "gw": 12,
+    "opp": "EVE",
+    "ha": "A",
+    "difficulty": 3
+   },
+   {
+    "gw": 13,
+    "opp": "SUN",
+    "ha": "H",
+    "difficulty": 2
+   },
+   {
+    "gw": 14,
+    "opp": "CHE",
+    "ha": "A",
+    "difficulty": 4
+   },
+   {
+    "gw": 15,
+    "opp": "LEE",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 16,
+    "opp": "TOT",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 17,
+    "opp": "HUL",
+    "ha": "A",
+    "difficulty": 2
+   }
+  ],
+  "BHA": [
+   {
+    "gw": 12,
+    "opp": "NEW",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 13,
+    "opp": "BOU",
+    "ha": "A",
+    "difficulty": 4
+   },
+   {
+    "gw": 14,
+    "opp": "NFO",
+    "ha": "A",
+    "difficulty": 2
+   },
+   {
+    "gw": 15,
+    "opp": "EVE",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 16,
+    "opp": "IPS",
+    "ha": "H",
+    "difficulty": 2
+   },
+   {
+    "gw": 17,
+    "opp": "FUL",
+    "ha": "A",
+    "difficulty": 3
+   }
+  ],
+  "NEW": [
+   {
+    "gw": 12,
+    "opp": "BHA",
+    "ha": "A",
+    "difficulty": 4
+   },
+   {
+    "gw": 13,
+    "opp": "MUN",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 14,
+    "opp": "SUN",
+    "ha": "H",
+    "difficulty": 2
+   },
+   {
+    "gw": 15,
+    "opp": "IPS",
+    "ha": "A",
+    "difficulty": 2
+   },
+   {
+    "gw": 16,
+    "opp": "BRE",
+    "ha": "A",
+    "difficulty": 4
+   },
+   {
+    "gw": 17,
+    "opp": "MCI",
+    "ha": "H",
+    "difficulty": 4
+   }
+  ],
+  "CRY": [
+   {
+    "gw": 12,
+    "opp": "HUL",
+    "ha": "H",
+    "difficulty": 2
+   },
+   {
+    "gw": 13,
+    "opp": "CHE",
+    "ha": "A",
+    "difficulty": 4
+   },
+   {
+    "gw": 14,
+    "opp": "AVL",
+    "ha": "A",
+    "difficulty": 3
+   },
+   {
+    "gw": 15,
+    "opp": "MUN",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 16,
+    "opp": "SUN",
+    "ha": "A",
+    "difficulty": 3
+   },
+   {
+    "gw": 17,
+    "opp": "ARS",
+    "ha": "H",
+    "difficulty": 4
+   }
+  ],
+  "HUL": [
+   {
+    "gw": 12,
+    "opp": "CRY",
+    "ha": "A",
+    "difficulty": 2
+   },
+   {
+    "gw": 13,
+    "opp": "NFO",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 14,
+    "opp": "BOU",
+    "ha": "A",
+    "difficulty": 4
+   },
+   {
+    "gw": 15,
+    "opp": "TOT",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 16,
+    "opp": "MCI",
+    "ha": "A",
+    "difficulty": 5
+   },
+   {
+    "gw": 17,
+    "opp": "LIV",
+    "ha": "H",
+    "difficulty": 4
+   }
+  ],
+  "FUL": [
+   {
+    "gw": 12,
+    "opp": "BOU",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 13,
+    "opp": "TOT",
+    "ha": "A",
+    "difficulty": 3
+   },
+   {
+    "gw": 14,
+    "opp": "EVE",
+    "ha": "A",
+    "difficulty": 3
+   },
+   {
+    "gw": 15,
+    "opp": "BRE",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 16,
+    "opp": "LEE",
+    "ha": "A",
+    "difficulty": 3
+   },
+   {
+    "gw": 17,
+    "opp": "BHA",
+    "ha": "H",
+    "difficulty": 4
+   }
+  ],
+  "BOU": [
+   {
+    "gw": 12,
+    "opp": "FUL",
+    "ha": "A",
+    "difficulty": 3
+   },
+   {
+    "gw": 13,
+    "opp": "BHA",
+    "ha": "H",
+    "difficulty": 4
+   },
+   {
+    "gw": 14,
+    "opp": "HUL",
+    "ha": "H",
+    "difficulty": 2
+   },
+   {
+    "gw": 15,
+    "opp": "ARS",
+    "ha": "A",
+    "difficulty": 5
+   },
+   {
+    "gw": 16,
+    "opp": "COV",
+    "ha": "H",
+    "difficulty": 2
+   },
+   {
+    "gw": 17,
+    "opp": "TOT",
+    "ha": "A",
+    "difficulty": 3
+   }
+  ],
+  "SUN": [
+   {
+    "gw": 12,
+    "opp": "TOT",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 13,
+    "opp": "LIV",
+    "ha": "A",
+    "difficulty": 4
+   },
+   {
+    "gw": 14,
+    "opp": "NEW",
+    "ha": "A",
+    "difficulty": 3
+   },
+   {
+    "gw": 15,
+    "opp": "NFO",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 16,
+    "opp": "CRY",
+    "ha": "H",
+    "difficulty": 2
+   },
+   {
+    "gw": 17,
+    "opp": "EVE",
+    "ha": "A",
+    "difficulty": 3
+   }
+  ],
+  "TOT": [
+   {
+    "gw": 12,
+    "opp": "SUN",
+    "ha": "A",
+    "difficulty": 3
+   },
+   {
+    "gw": 13,
+    "opp": "FUL",
+    "ha": "H",
+    "difficulty": 2
+   },
+   {
+    "gw": 14,
+    "opp": "ARS",
+    "ha": "H",
+    "difficulty": 4
+   },
+   {
+    "gw": 15,
+    "opp": "HUL",
+    "ha": "A",
+    "difficulty": 2
+   },
+   {
+    "gw": 16,
+    "opp": "LIV",
+    "ha": "A",
+    "difficulty": 4
+   },
+   {
+    "gw": 17,
+    "opp": "BOU",
+    "ha": "H",
+    "difficulty": 3
+   }
+  ],
+  "ARS": [
+   {
+    "gw": 12,
+    "opp": "MCI",
+    "ha": "H",
+    "difficulty": 4
+   },
+   {
+    "gw": 13,
+    "opp": "BRE",
+    "ha": "A",
+    "difficulty": 4
+   },
+   {
+    "gw": 14,
+    "opp": "TOT",
+    "ha": "A",
+    "difficulty": 3
+   },
+   {
+    "gw": 15,
+    "opp": "BOU",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 16,
+    "opp": "MUN",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 17,
+    "opp": "CRY",
+    "ha": "A",
+    "difficulty": 2
+   }
+  ],
+  "MCI": [
+   {
+    "gw": 12,
+    "opp": "ARS",
+    "ha": "A",
+    "difficulty": 5
+   },
+   {
+    "gw": 13,
+    "opp": "LEE",
+    "ha": "H",
+    "difficulty": 3
+   },
+   {
+    "gw": 14,
+    "opp": "BRE",
+    "ha": "A",
+    "difficulty": 4
+   },
+   {
+    "gw": 15,
+    "opp": "CHE",
+    "ha": "H",
+    "difficulty": 4
+   },
+   {
+    "gw": 16,
+    "opp": "HUL",
+    "ha": "H",
+    "difficulty": 2
+   },
+   {
+    "gw": 17,
+    "opp": "NEW",
+    "ha": "A",
+    "difficulty": 3
    }
   ]
  },
- "top_scorers_this_gw": [
-  {
-   "name": "Alysson",
-   "team": "AVL",
-   "pos": "MID",
-   "price": 4.9,
-   "points": 16,
-   "owned_by": 0.6
-  },
-  {
-   "name": "Barry",
-   "team": "EVE",
-   "pos": "FWD",
-   "price": 5.7,
-   "points": 16,
-   "owned_by": 11.6
-  },
-  {
-   "name": "Delap",
-   "team": "NFO",
-   "pos": "FWD",
-   "price": 5.3,
-   "points": 13,
-   "owned_by": 1.8
-  },
-  {
-   "name": "Wirtz",
-   "team": "LIV",
-   "pos": "MID",
-   "price": 7.3,
-   "points": 13,
-   "owned_by": 6.9
-  },
-  {
-   "name": "Vuskovic",
-   "team": "BHA",
-   "pos": "DEF",
-   "price": 5.3,
-   "points": 12,
-   "owned_by": 11.4
-  },
-  {
-   "name": "\u00d8degaard",
-   "team": "ARS",
-   "pos": "MID",
-   "price": 6.7,
-   "points": 11,
-   "owned_by": 16.6
-  },
-  {
-   "name": "N.Jackson",
-   "team": "AVL",
-   "pos": "FWD",
-   "price": 7.2,
-   "points": 11,
-   "owned_by": 35.7
-  },
-  {
-   "name": "Dorgu",
-   "team": "MUN",
-   "pos": "MID",
-   "price": 5.7,
-   "points": 11,
-   "owned_by": 0.3
-  },
-  {
-   "name": "E.Le F\u00e9e",
-   "team": "SUN",
-   "pos": "MID",
-   "price": 5.7,
-   "points": 11,
-   "owned_by": 3.0
-  },
-  {
-   "name": "McGinn",
-   "team": "AVL",
-   "pos": "MID",
-   "price": 5.5,
-   "points": 10,
-   "owned_by": 4.9
-  },
-  {
-   "name": "Gro\u00df",
-   "team": "BHA",
-   "pos": "MID",
-   "price": 6.3,
-   "points": 10,
-   "owned_by": 49.4
-  },
-  {
-   "name": "Muharemovi\u0107",
-   "team": "LEE",
-   "pos": "DEF",
-   "price": 5.1,
-   "points": 10,
-   "owned_by": 6.7
-  },
-  {
-   "name": "Trafford",
-   "team": "LEE",
-   "pos": "GK",
-   "price": 5.0,
-   "points": 10,
-   "owned_by": 6.7
-  },
-  {
-   "name": "B.Fernandes",
-   "team": "MUN",
-   "pos": "MID",
-   "price": 11.6,
-   "points": 10,
-   "owned_by": 19.9
-  },
-  {
-   "name": "J.Murphy",
-   "team": "NEW",
-   "pos": "MID",
-   "price": 5.9,
-   "points": 10,
-   "owned_by": 0.1
-  },
-  {
-   "name": "Evanilson",
-   "team": "BOU",
-   "pos": "FWD",
-   "price": 6.5,
-   "points": 9,
-   "owned_by": 26.0
-  },
-  {
-   "name": "Gomez",
-   "team": "BHA",
-   "pos": "MID",
-   "price": 5.1,
-   "points": 9,
-   "owned_by": 4.7
-  },
-  {
-   "name": "Dewsbury-Hall",
-   "team": "EVE",
-   "pos": "MID",
-   "price": 6.7,
-   "points": 9,
-   "owned_by": 7.2
-  },
-  {
-   "name": "Justin",
-   "team": "LEE",
-   "pos": "DEF",
-   "price": 4.5,
-   "points": 9,
-   "owned_by": 2.5
-  },
-  {
-   "name": "Mac Allister",
-   "team": "LIV",
-   "pos": "MID",
-   "price": 5.4,
-   "points": 9,
-   "owned_by": 1.4
-  },
-  {
-   "name": "Cherki",
-   "team": "MCI",
-   "pos": "MID",
-   "price": 7.9,
-   "points": 9,
-   "owned_by": 33.7
-  },
-  {
-   "name": "Jair Cunha",
-   "team": "NFO",
-   "pos": "DEF",
-   "price": 4.4,
-   "points": 9,
-   "owned_by": 0.2
-  },
-  {
-   "name": "Roefs",
-   "team": "SUN",
-   "pos": "GK",
-   "price": 4.8,
-   "points": 9,
-   "owned_by": 1.9
-  },
-  {
-   "name": "Mukiele",
-   "team": "SUN",
-   "pos": "DEF",
-   "price": 5.3,
-   "points": 9,
-   "owned_by": 1.4
-  },
-  {
-   "name": "Gabriel",
-   "team": "ARS",
-   "pos": "DEF",
-   "price": 8.1,
-   "points": 8,
-   "owned_by": 26.7
-  }
- ],
+ "top_scorers_this_gw": [],
  "rival_count": 25,
  "rival_squads": [
   {
@@ -1878,7 +1684,8 @@
     "Evanilson",
     "Kinsky",
     "van Ewijk",
-    "Palmer"
+    "Palmer",
+    "Gro\u00df"
    ]
   },
   {
@@ -1911,6 +1718,7 @@
     "N.Jackson",
     "Gvardiol",
     "Palmer",
+    "Thomas",
     "Evanilson",
     "Kinsky",
     "Madueke",
@@ -1921,7 +1729,7 @@
   {
    "team": "Claude Mak\u00e9l\u00e9l\u00e9",
    "manager": "Aidan Whitehouse",
-   "rank": 4,
+   "rank": 5,
    "total": 636,
    "chip": null,
    "squad": [
@@ -1942,10 +1750,7 @@
     "Jo\u00e3o Pedro"
    ],
    "captain": "Haaland",
-   "differentials_vs_me": [
-    "Van Hecke",
-    "E.Le F\u00e9e"
-   ]
+   "differentials_vs_me": []
   },
   {
    "team": "HaCunha Matata",
@@ -1980,6 +1785,7 @@
     "Egan",
     "Silva",
     "Palmer",
+    "Gro\u00df",
     "Konsa"
    ]
   },
@@ -2017,7 +1823,8 @@
     "Cherki",
     "Evanilson",
     "Palmer",
-    "Isak"
+    "Isak",
+    "Gro\u00df"
    ]
   },
   {
@@ -2056,6 +1863,7 @@
     "Kelleher",
     "Colwill",
     "Robertson",
+    "Gro\u00df",
     "Konsa"
    ]
   },
@@ -2093,7 +1901,8 @@
     "van Ewijk",
     "Dubravka",
     "Kusi-Asare",
-    "Hughes"
+    "Hughes",
+    "Gro\u00df"
    ]
   },
   {
@@ -2128,9 +1937,9 @@
     "Kinsky",
     "O'Shea",
     "Ajer",
-    "Calvert-Lewin",
     "Lammens",
-    "E.Le F\u00e9e"
+    "Calvert-Lewin",
+    "Gro\u00df"
    ]
   },
   {
@@ -2235,11 +2044,13 @@
     "Raya",
     "N.Jackson",
     "Jacquet",
+    "Thomas",
     "Calvert-Lewin",
+    "Neto",
     "Barcola",
     "Giles",
     "Lecomte",
-    "Neto",
+    "Gro\u00df",
     "Tchaouna"
    ]
   },
@@ -2277,7 +2088,8 @@
     "Evanilson",
     "Davis",
     "Vuskovic",
-    "Palmer"
+    "Palmer",
+    "Gro\u00df"
    ]
   },
   {
@@ -2313,6 +2125,7 @@
     "Manzambi",
     "Silva",
     "Egan",
+    "Gro\u00df",
     "Konsa"
    ]
   },
@@ -2385,6 +2198,7 @@
     "Kostoulas",
     "Dewsbury-Hall",
     "Rice",
+    "Gro\u00df",
     "Konsa"
    ]
   },
@@ -2417,7 +2231,6 @@
     "N.Jackson",
     "Kostoulas",
     "Cherki",
-    "Van Hecke",
     "Dubravka",
     "Kayode",
     "Palmer",
@@ -2452,9 +2265,8 @@
     "Slater",
     "Gabriel",
     "King",
-    "Evanilson",
-    "Van Hecke",
     "Steele",
+    "Evanilson",
     "Manzambi",
     "Egan",
     "Palmer",
@@ -2490,12 +2302,14 @@
     "Anderson",
     "Diop",
     "N.Jackson",
+    "Thomas",
     "Evanilson",
     "Doku",
     "Dubravka",
     "Ajer",
-    "Palmer",
     "Lammens",
+    "Palmer",
+    "Gro\u00df",
     "Konsa"
    ]
   },
@@ -2530,10 +2344,11 @@
     "Vuskovic",
     "Cherki",
     "Dubravka",
+    "Neto",
     "Egan",
     "Kayode",
     "Isak",
-    "Neto"
+    "Gro\u00df"
    ]
   },
   {
@@ -2565,7 +2380,6 @@
     "Maitland-Niles",
     "McGinn",
     "Evanilson",
-    "Van Hecke",
     "Manzambi",
     "Leno",
     "Isak",
@@ -2645,6 +2459,7 @@
     "Evanilson",
     "Vuskovic",
     "Petrovi\u0107",
+    "Gro\u00df",
     "Belloumi"
    ]
   },
@@ -2717,6 +2532,7 @@
     "N.Jackson",
     "Palmer",
     "Mitchell",
+    "Thomas",
     "Steele",
     "Hughes",
     "Lewis-Potter",
@@ -2780,7 +2596,7 @@
    "pos": "MID",
    "price": 8.2,
    "owned_in_league_pct": 68.0,
-   "owned_globally_pct": 54.5,
+   "owned_globally_pct": 54.6,
    "i_own": true
   },
   {
@@ -2798,7 +2614,7 @@
    "pos": "FWD",
    "price": 6.5,
    "owned_in_league_pct": 56.0,
-   "owned_globally_pct": 26.0,
+   "owned_globally_pct": 26.1,
    "i_own": false
   },
   {
@@ -2807,7 +2623,7 @@
    "pos": "FWD",
    "price": 7.2,
    "owned_in_league_pct": 56.0,
-   "owned_globally_pct": 35.7,
+   "owned_globally_pct": 35.9,
    "i_own": false
   },
   {
@@ -2826,7 +2642,7 @@
    "price": 6.3,
    "owned_in_league_pct": 52.0,
    "owned_globally_pct": 49.4,
-   "i_own": true
+   "i_own": false
   },
   {
    "name": "Tavernier",
@@ -2834,7 +2650,7 @@
    "pos": "MID",
    "price": 6.7,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 32.5,
+   "owned_globally_pct": 32.6,
    "i_own": true
   },
   {
@@ -2933,7 +2749,7 @@
    "pos": "FWD",
    "price": 7.6,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 28.7,
+   "owned_globally_pct": 28.6,
    "i_own": true
   },
   {
@@ -2996,8 +2812,8 @@
    "pos": "DEF",
    "price": 4.0,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 6.9,
-   "i_own": true
+   "owned_globally_pct": 6.8,
+   "i_own": false
   },
   {
    "name": "Tarkowski",
@@ -3014,8 +2830,8 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 18.1,
-   "i_own": false
+   "owned_globally_pct": 18.3,
+   "i_own": true
   },
   {
    "name": "Virgil",
@@ -3167,8 +2983,8 @@
    "pos": "MID",
    "price": 5.7,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 3.0,
-   "i_own": false
+   "owned_globally_pct": 3.1,
+   "i_own": true
   },
   {
    "name": "Silva",
@@ -3284,7 +3100,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.9,
+   "owned_globally_pct": 5.0,
    "i_own": false
   },
   {
@@ -3302,7 +3118,7 @@
    "pos": "GK",
    "price": 5.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 8.4,
+   "owned_globally_pct": 8.3,
    "i_own": false
   },
   {
@@ -3590,7 +3406,7 @@
    "pos": "MID",
    "price": 6.6,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.5,
+   "owned_globally_pct": 2.6,
    "i_own": false
   },
   {
