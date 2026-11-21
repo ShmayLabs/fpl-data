@@ -1,15 +1,13 @@
 {
-  "last_successful_pull_utc": "2026-11-21T10:40:55Z",
+  "last_successful_pull_utc": "2026-11-21T11:07:04Z",
   "data_is_stale": false,
-  "pass_started_utc": "2026-11-21T10:38:32Z",
-  "pass_finished_utc": "2026-11-21T10:40:55Z",
-  "pass_number": 4,
+  "pass_started_utc": "2026-11-21T11:00:57Z",
+  "pass_finished_utc": "2026-11-21T11:07:04Z",
+  "pass_number": 5,
   "gameweek_seen": "11",
   "files_ok": [
     "bootstrap.json",
     "fixtures.json",
-    "my_entry.json",
-    "my_history.json",
     "my_transfers.json",
     "picks_gw1.json",
     "picks_gw2.json",
@@ -21,16 +19,46 @@
     "picks_gw8.json",
     "picks_gw9.json",
     "picks_gw10.json",
-    "live_gw11.json",
     "live_gw10.json"
   ],
-  "files_failed": [],
-  "files_skipped": [
-    "picks_gw11.json"
+  "files_failed": [
+    {
+      "file": "my_entry.json",
+      "error": "HTTP 503 after 3 attempts"
+    },
+    {
+      "file": "my_history.json",
+      "error": "HTTP 503 after 3 attempts"
+    },
+    {
+      "file": "picks_gw11.json",
+      "error": "HTTP 503 after 3 attempts"
+    },
+    {
+      "file": "live_gw11.json",
+      "error": "HTTP 503 after 3 attempts"
+    },
+    {
+      "file": "league_1",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "file": "league_317",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "file": "league_861373",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "file": "league_1263138",
+      "error": "HTTP Error 503: Service Unavailable"
+    }
   ],
+  "files_skipped": [],
   "digest": "ok",
   "render": "ok",
-  "healthy": true,
+  "healthy": false,
   "run_url": "https://github.com/ShmayLabs/fpl-data/actions/runs/44889953650",
   "triggered_by": "schedule"
 }
