@@ -4,7 +4,7 @@
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-22T22:47:44Z",
+ "generated_utc": "2026-11-22T23:10:11Z",
  "next_gw": 12,
  "next_deadline_utc": "2026-11-27T18:30:00Z",
  "gw_finished": false,
@@ -15,7 +15,7 @@
   "total_points": 675,
   "rank": 2767262,
   "rank_sort": 2786844,
-  "overall_rank": 1188533,
+  "overall_rank": 1188535,
   "percentile_rank": 25,
   "overall_rank_percentage": "11",
   "bank": 5,
@@ -177,18 +177,18 @@
   },
   {
    "event": 11,
-   "points": 36,
-   "total_points": 672,
-   "rank": 786406,
-   "rank_sort": 795550,
-   "overall_rank": 1015477,
-   "percentile_rank": 10,
-   "overall_rank_percentage": "9",
+   "points": 39,
+   "total_points": 675,
+   "rank": 2767262,
+   "rank_sort": 2786844,
+   "overall_rank": 1188535,
+   "percentile_rank": 25,
+   "overall_rank_percentage": "11",
    "bank": 5,
    "value": 1016,
    "event_transfers": 2,
    "event_transfers_cost": 0,
-   "points_on_bench": 0
+   "points_on_bench": 11
   }
  ],
  "squad": [
@@ -425,7 +425,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.8,
-   "owned_by": 17.8,
+   "owned_by": 17.7,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -2893,7 +2893,7 @@
    "pos": "GK",
    "price": 6.3,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 46.9,
+   "owned_globally_pct": 46.8,
    "i_own": false
   },
   {
@@ -2902,7 +2902,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 17.8,
+   "owned_globally_pct": 17.7,
    "i_own": true
   },
   {
@@ -3028,7 +3028,7 @@
    "pos": "DEF",
    "price": 6.4,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 14.4,
+   "owned_globally_pct": 14.5,
    "i_own": false
   },
   {
@@ -3091,7 +3091,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 16.6,
+   "owned_globally_pct": 16.5,
    "i_own": false
   },
   {
