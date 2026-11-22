@@ -5,7 +5,7 @@
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-22T14:54:35Z",
+ "generated_utc": "2026-11-22T15:16:59Z",
  "next_gw": 12,
  "next_deadline_utc": "2026-11-27T18:30:00Z",
  "gw_finished": false,
@@ -205,10 +205,10 @@
    "status": "a",
    "chance_next": null,
    "news": "",
-   "gw_points": 2,
-   "gw_minutes": 45,
-   "form": "5.5",
-   "total_points": 60,
+   "gw_points": 3,
+   "gw_minutes": 50,
+   "form": "5.2",
+   "total_points": 59,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -244,7 +244,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 45,
+   "gw_minutes": 50,
    "form": "4.2",
    "total_points": 76,
    "fixture_state": "in_progress",
@@ -415,7 +415,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 5,
-   "gw_minutes": 45,
+   "gw_minutes": 50,
    "form": "3.8",
    "total_points": 54,
    "fixture_state": "in_progress",
@@ -523,42 +523,42 @@
      "rank": 3,
      "team": "I\u2019m a Baleba",
      "player": "Tom Healey",
-     "gw": 31,
-     "total": 673
+     "gw": 32,
+     "total": 674
     },
     {
      "rank": 4,
      "team": "HaCunha Matata",
      "player": "Oliver Norris",
-     "gw": 39,
-     "total": 670
+     "gw": 40,
+     "total": 671
     },
     {
      "rank": 5,
      "team": "Class of 94",
      "player": "Dan Healey",
-     "gw": 28,
-     "total": 640
+     "gw": 29,
+     "total": 641
     },
     {
      "rank": 6,
      "team": "Tics Champs By Xmas",
      "player": "Kieron Murphy",
-     "gw": 33,
-     "total": 631
+     "gw": 34,
+     "total": 632
     },
     {
      "rank": 7,
-     "team": "net six and chill",
-     "player": "william batterbury",
-     "gw": 30,
-     "total": 584
+     "team": "T_R",
+     "player": "Tom Roberts",
+     "gw": 13,
+     "total": 585
     },
     {
      "rank": 8,
-     "team": "T_R",
-     "player": "Tom Roberts",
-     "gw": 12,
+     "team": "net six and chill",
+     "player": "william batterbury",
+     "gw": 30,
      "total": 584
     },
     {
@@ -579,8 +579,8 @@
      "rank": 11,
      "team": "hitmeinthesaka",
      "player": "Liam Fearnley",
-     "gw": 32,
-     "total": 539
+     "gw": 33,
+     "total": 540
     }
    ]
   },
@@ -746,8 +746,8 @@
      "rank": 23,
      "team": "Crew Alexander",
      "player": "Alex Brumby",
-     "gw": 35,
-     "total": 629
+     "gw": 36,
+     "total": 630
     },
     {
      "rank": 24,
@@ -829,8 +829,8 @@
      "rank": 9,
      "team": "Accringtonali FC",
      "player": "Kyle Broadhurst",
-     "gw": 23,
-     "total": 628
+     "gw": 24,
+     "total": 629
     },
     {
      "rank": 10,
@@ -1911,7 +1911,7 @@
    "team": "I\u2019m a Baleba",
    "manager": "Tom Healey",
    "rank": 3,
-   "total": 673,
+   "total": 674,
    "chip": null,
    "squad": [
     "Raya",
@@ -1946,7 +1946,7 @@
    "team": "HaCunha Matata",
    "manager": "Oliver Norris",
    "rank": 4,
-   "total": 670,
+   "total": 671,
    "chip": null,
    "squad": [
     "Kinsky",
@@ -1983,7 +1983,7 @@
    "team": "Class of 94",
    "manager": "Dan Healey",
    "rank": 5,
-   "total": 640,
+   "total": 641,
    "chip": null,
    "squad": [
     "Raya",
@@ -2021,7 +2021,7 @@
    "team": "Tics Champs By Xmas",
    "manager": "Kieron Murphy",
    "rank": 6,
-   "total": 631,
+   "total": 632,
    "chip": "bboost",
    "squad": [
     "Kinsky",
@@ -2058,47 +2058,10 @@
    ]
   },
   {
-   "team": "net six and chill",
-   "manager": "william batterbury",
-   "rank": 7,
-   "total": 584,
-   "chip": null,
-   "squad": [
-    "Kinsky",
-    "Maguire",
-    "Gvardiol",
-    "Calafiori",
-    "B.Fernandes",
-    "E.Le F\u00e9e",
-    "Rogers",
-    "Ndiaye",
-    "Haaland",
-    "Jo\u00e3o Pedro",
-    "Calvert-Lewin",
-    "Lammens",
-    "O'Shea",
-    "Ajer",
-    "Gro\u00df"
-   ],
-   "captain": "B.Fernandes",
-   "differentials_vs_me": [
-    "Maguire",
-    "Gvardiol",
-    "B.Fernandes",
-    "Ndiaye",
-    "Kinsky",
-    "O'Shea",
-    "Ajer",
-    "Lammens",
-    "Calvert-Lewin",
-    "Gro\u00df"
-   ]
-  },
-  {
    "team": "T_R",
    "manager": "Tom Roberts",
-   "rank": 8,
-   "total": 584,
+   "rank": 7,
+   "total": 585,
    "chip": null,
    "squad": [
     "Raya",
@@ -2129,6 +2092,43 @@
     "Dubravka",
     "Kusi-Asare",
     "Hughes",
+    "Gro\u00df"
+   ]
+  },
+  {
+   "team": "net six and chill",
+   "manager": "william batterbury",
+   "rank": 8,
+   "total": 584,
+   "chip": null,
+   "squad": [
+    "Kinsky",
+    "Maguire",
+    "Gvardiol",
+    "Calafiori",
+    "B.Fernandes",
+    "E.Le F\u00e9e",
+    "Rogers",
+    "Ndiaye",
+    "Haaland",
+    "Jo\u00e3o Pedro",
+    "Calvert-Lewin",
+    "Lammens",
+    "O'Shea",
+    "Ajer",
+    "Gro\u00df"
+   ],
+   "captain": "B.Fernandes",
+   "differentials_vs_me": [
+    "Maguire",
+    "Gvardiol",
+    "B.Fernandes",
+    "Ndiaye",
+    "Kinsky",
+    "O'Shea",
+    "Ajer",
+    "Lammens",
+    "Calvert-Lewin",
     "Gro\u00df"
    ]
   },
@@ -2210,7 +2210,7 @@
    "team": "hitmeinthesaka",
    "manager": "Liam Fearnley",
    "rank": 11,
-   "total": 539,
+   "total": 540,
    "chip": null,
    "squad": [
     "Raya",
@@ -2507,7 +2507,7 @@
    "team": "Accringtonali FC",
    "manager": "Kyle Broadhurst",
    "rank": 9,
-   "total": 628,
+   "total": 629,
    "chip": null,
    "squad": [
     "Tzolakis",
@@ -3213,12 +3213,12 @@
    "i_own": false
   },
   {
-   "name": "Maguire",
-   "team": "MUN",
-   "pos": "DEF",
-   "price": 4.6,
+   "name": "Bruno G.",
+   "team": "ARS",
+   "pos": "MID",
+   "price": 6.7,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.6,
+   "owned_globally_pct": 2.1,
    "i_own": false
   },
   {
@@ -3228,6 +3228,24 @@
    "price": 11.6,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 20.0,
+   "i_own": false
+  },
+  {
+   "name": "Hughes",
+   "team": "CRY",
+   "pos": "MID",
+   "price": 4.3,
+   "owned_in_league_pct": 8.0,
+   "owned_globally_pct": 5.4,
+   "i_own": false
+  },
+  {
+   "name": "Maguire",
+   "team": "MUN",
+   "pos": "DEF",
+   "price": 4.6,
+   "owned_in_league_pct": 8.0,
+   "owned_globally_pct": 4.6,
    "i_own": false
   },
   {
@@ -3246,24 +3264,6 @@
    "price": 4.5,
    "owned_in_league_pct": 8.0,
    "owned_globally_pct": 3.9,
-   "i_own": false
-  },
-  {
-   "name": "Bruno G.",
-   "team": "ARS",
-   "pos": "MID",
-   "price": 6.7,
-   "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 2.1,
-   "i_own": false
-  },
-  {
-   "name": "Hughes",
-   "team": "CRY",
-   "pos": "MID",
-   "price": 4.3,
-   "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 5.4,
    "i_own": false
   },
   {
@@ -3438,21 +3438,21 @@
    "i_own": false
   },
   {
-   "name": "O'Shea",
-   "team": "IPS",
-   "pos": "DEF",
-   "price": 4.0,
-   "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.7,
-   "i_own": false
-  },
-  {
    "name": "Kusi-Asare",
    "team": "FUL",
    "pos": "FWD",
    "price": 4.3,
    "owned_in_league_pct": 4.0,
    "owned_globally_pct": 4.1,
+   "i_own": false
+  },
+  {
+   "name": "O'Shea",
+   "team": "IPS",
+   "pos": "DEF",
+   "price": 4.0,
+   "owned_in_league_pct": 4.0,
+   "owned_globally_pct": 2.7,
    "i_own": false
   },
   {
