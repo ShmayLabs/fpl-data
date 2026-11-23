@@ -4,7 +4,7 @@
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-23T04:52:00Z",
+ "generated_utc": "2026-11-23T08:52:51Z",
  "next_gw": 12,
  "next_deadline_utc": "2026-11-27T18:30:00Z",
  "gw_finished": false,
@@ -216,7 +216,7 @@
    "team": "TOT",
    "pos": "DEF",
    "price": 5.2,
-   "owned_by": 18.7,
+   "owned_by": 18.8,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -368,7 +368,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.8,
-   "owned_by": 78.2,
+   "owned_by": 78.1,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -1645,7 +1645,7 @@
    "pos": "MID",
    "price": 5.7,
    "points": 15,
-   "owned_by": 0.9
+   "owned_by": 1.0
   },
   {
    "name": "Hill",
@@ -1661,7 +1661,7 @@
    "pos": "MID",
    "price": 7.4,
    "points": 14,
-   "owned_by": 8.2
+   "owned_by": 8.4
   },
   {
    "name": "McBurnie",
@@ -2776,7 +2776,7 @@
    "pos": "FWD",
    "price": 15.8,
    "owned_in_league_pct": 92.0,
-   "owned_globally_pct": 78.2,
+   "owned_globally_pct": 78.1,
    "i_own": true
   },
   {
@@ -2812,7 +2812,7 @@
    "pos": "FWD",
    "price": 6.6,
    "owned_in_league_pct": 56.0,
-   "owned_globally_pct": 26.8,
+   "owned_globally_pct": 26.9,
    "i_own": false
   },
   {
@@ -2839,7 +2839,7 @@
    "pos": "MID",
    "price": 9.8,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 27.7,
+   "owned_globally_pct": 27.6,
    "i_own": false
   },
   {
@@ -2893,7 +2893,7 @@
    "pos": "GK",
    "price": 6.3,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 46.8,
+   "owned_globally_pct": 46.7,
    "i_own": false
   },
   {
@@ -3019,7 +3019,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 18.7,
+   "owned_globally_pct": 18.8,
    "i_own": true
   },
   {
@@ -3190,7 +3190,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.3,
+   "owned_globally_pct": 4.2,
    "i_own": false
   },
   {
@@ -3388,7 +3388,7 @@
    "pos": "FWD",
    "price": 5.7,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 4.1,
+   "owned_globally_pct": 4.0,
    "i_own": false
   },
   {
