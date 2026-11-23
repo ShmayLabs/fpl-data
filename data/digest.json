@@ -3,7 +3,7 @@
   "FLAGGED: Tarkowski (EVE) -- Suspended until 13 Dec (0% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-23T23:24:32Z",
+ "generated_utc": "2026-11-23T23:46:57Z",
  "next_gw": 12,
  "next_deadline_utc": "2026-11-27T18:30:00Z",
  "gw_finished": false,
@@ -176,18 +176,18 @@
   },
   {
    "event": 11,
-   "points": 39,
-   "total_points": 675,
-   "rank": 2767262,
-   "rank_sort": 2786844,
-   "overall_rank": 1188535,
+   "points": 41,
+   "total_points": 677,
+   "rank": 2299204,
+   "rank_sort": 2315372,
+   "overall_rank": 1142747,
    "percentile_rank": 25,
-   "overall_rank_percentage": "11",
+   "overall_rank_percentage": "10",
    "bank": 5,
    "value": 1016,
    "event_transfers": 2,
    "event_transfers_cost": 0,
-   "points_on_bench": 11
+   "points_on_bench": 7
   }
  ],
  "squad": [
@@ -1663,7 +1663,7 @@
    "pos": "MID",
    "price": 5.5,
    "points": 16,
-   "owned_by": 1.7
+   "owned_by": 1.8
   },
   {
    "name": "Okafor",
@@ -2974,7 +2974,7 @@
    "pos": "DEF",
    "price": 4.1,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 6.3,
+   "owned_globally_pct": 6.2,
    "i_own": false
   },
   {
@@ -3010,7 +3010,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 19.7,
+   "owned_globally_pct": 19.6,
    "i_own": false
   },
   {
@@ -3712,7 +3712,7 @@
    "pos": "MID",
    "price": 5.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 1.7,
+   "owned_globally_pct": 1.8,
    "i_own": false
   },
   {
