@@ -4,7 +4,7 @@
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-23T12:14:42Z",
+ "generated_utc": "2026-11-23T12:37:06Z",
  "next_gw": 12,
  "next_deadline_utc": "2026-11-27T18:30:00Z",
  "gw_finished": false,
@@ -292,7 +292,7 @@
    "team": "CHE",
    "pos": "MID",
    "price": 8.3,
-   "owned_by": 54.7,
+   "owned_by": 54.6,
    "is_captain": false,
    "is_vice": true,
    "on_bench": false,
@@ -1669,7 +1669,7 @@
    "pos": "FWD",
    "price": 5.5,
    "points": 13,
-   "owned_by": 1.8
+   "owned_by": 1.9
   },
   {
    "name": "Ngumoha",
@@ -1725,7 +1725,7 @@
    "pos": "MID",
    "price": 4.9,
    "points": 10,
-   "owned_by": 1.7
+   "owned_by": 1.8
   },
   {
    "name": "Strand Larsen",
@@ -2785,7 +2785,7 @@
    "pos": "MID",
    "price": 8.3,
    "owned_in_league_pct": 68.0,
-   "owned_globally_pct": 54.7,
+   "owned_globally_pct": 54.6,
    "i_own": true
   },
   {
