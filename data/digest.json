@@ -4,7 +4,7 @@
   "NOT YET PLAYED: Tarkowski (EVE) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-23T04:07:16Z",
+ "generated_utc": "2026-11-23T04:29:39Z",
  "next_gw": 12,
  "next_deadline_utc": "2026-11-27T18:30:00Z",
  "gw_finished": false,
@@ -1765,7 +1765,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 9,
-   "owned_by": 16.8
+   "owned_by": 16.9
   },
   {
    "name": "Szoboszlai",
@@ -2974,7 +2974,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 16.8,
+   "owned_globally_pct": 16.9,
    "i_own": false
   },
   {
