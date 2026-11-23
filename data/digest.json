@@ -3,7 +3,7 @@
   "FLAGGED: Tarkowski (EVE) -- Suspended until 13 Dec (0% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-23T21:32:28Z",
+ "generated_utc": "2026-11-23T21:54:51Z",
  "next_gw": 12,
  "next_deadline_utc": "2026-11-27T18:30:00Z",
  "gw_finished": false,
@@ -367,7 +367,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.8,
-   "owned_by": 78.0,
+   "owned_by": 77.9,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -394,9 +394,9 @@
    "chance_next": null,
    "news": "",
    "gw_points": 2,
-   "gw_minutes": 60,
-   "form": "8.7",
-   "total_points": 56,
+   "gw_minutes": 68,
+   "form": "9.0",
+   "total_points": 57,
    "fixture_state": "in_progress",
    "zero_minutes_means": null
   },
@@ -733,31 +733,31 @@
     },
     {
      "rank": 19,
+     "team": "Crew Alexander",
+     "player": "Alex Brumby",
+     "gw": 57,
+     "total": 651
+    },
+    {
+     "rank": 20,
      "team": "Ctrl Alt De Ligt",
      "player": "Ian Cox",
      "gw": 43,
      "total": 650
     },
     {
-     "rank": 20,
+     "rank": 21,
      "team": "Boundary Park Blues",
      "player": "Ben McNamara",
      "gw": 38,
      "total": 648
     },
     {
-     "rank": 21,
+     "rank": 22,
      "team": "Woodys Wanderers",
      "player": "Stephen Wood",
      "gw": 29,
      "total": 645
-    },
-    {
-     "rank": 22,
-     "team": "Crew Alexander",
-     "player": "Alex Brumby",
-     "gw": 50,
-     "total": 644
     },
     {
      "rank": 23,
@@ -874,8 +874,8 @@
      "rank": 13,
      "team": "King Scarles",
      "player": "Tom Horsman",
-     "gw": 33,
-     "total": 578
+     "gw": 34,
+     "total": 579
     },
     {
      "rank": 14,
@@ -1746,6 +1746,22 @@
    "owned_by": 1.0
   },
   {
+   "name": "Janelt",
+   "team": "BRE",
+   "pos": "MID",
+   "price": 5.0,
+   "points": 10,
+   "owned_by": 1.5
+  },
+  {
+   "name": "Anthony",
+   "team": "BRE",
+   "pos": "MID",
+   "price": 5.9,
+   "points": 10,
+   "owned_by": 0.2
+  },
+  {
    "name": "Rudoni",
    "team": "COV",
    "pos": "MID",
@@ -1818,14 +1834,6 @@
    "owned_by": 33.3
   },
   {
-   "name": "Van den Berg",
-   "team": "BRE",
-   "pos": "DEF",
-   "price": 4.9,
-   "points": 8,
-   "owned_by": 0.1
-  },
-  {
    "name": "Emegha",
    "team": "CHE",
    "pos": "FWD",
@@ -1848,14 +1856,6 @@
    "price": 5.7,
    "points": 8,
    "owned_by": 2.9
-  },
-  {
-   "name": "Mukiele",
-   "team": "SUN",
-   "pos": "DEF",
-   "price": 5.3,
-   "points": 8,
-   "owned_by": 1.4
   }
  ],
  "rival_count": 25,
@@ -2674,7 +2674,7 @@
    "team": "King Scarles",
    "manager": "Tom Horsman",
    "rank": 13,
-   "total": 578,
+   "total": 579,
    "chip": null,
    "squad": [
     "Raya",
@@ -2794,7 +2794,7 @@
    "pos": "FWD",
    "price": 15.8,
    "owned_in_league_pct": 92.0,
-   "owned_globally_pct": 78.0,
+   "owned_globally_pct": 77.9,
    "i_own": true
   },
   {
@@ -3118,7 +3118,7 @@
    "pos": "DEF",
    "price": 5.9,
    "owned_in_league_pct": 12.0,
-   "owned_globally_pct": 12.4,
+   "owned_globally_pct": 12.3,
    "i_own": false
   },
   {
@@ -3199,7 +3199,7 @@
    "pos": "DEF",
    "price": 5.1,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.0,
+   "owned_globally_pct": 4.1,
    "i_own": false
   },
   {
@@ -3451,7 +3451,7 @@
    "pos": "DEF",
    "price": 4.3,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 2.9,
+   "owned_globally_pct": 2.8,
    "i_own": false
   },
   {
