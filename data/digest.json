@@ -3,7 +3,7 @@
   "FLAGGED: Tarkowski (EVE) -- Suspended until 13 Dec (0% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-26T14:57:14Z",
+ "generated_utc": "2026-11-26T15:19:35Z",
  "next_gw": 12,
  "next_deadline_utc": "2026-11-27T18:30:00Z",
  "gw_finished": true,
@@ -1687,7 +1687,7 @@
    "pos": "MID",
    "price": 7.4,
    "points": 14,
-   "owned_by": 11.5
+   "owned_by": 11.6
   },
   {
    "name": "McBurnie",
@@ -2857,7 +2857,7 @@
    "pos": "MID",
    "price": 9.8,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 27.0,
+   "owned_globally_pct": 26.9,
    "i_own": false
   },
   {
