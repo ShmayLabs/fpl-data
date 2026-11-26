@@ -3,7 +3,7 @@
   "FLAGGED: Tarkowski (EVE) -- Suspended until 13 Dec (0% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-26T15:19:35Z",
+ "generated_utc": "2026-11-26T15:41:55Z",
  "next_gw": 12,
  "next_deadline_utc": "2026-11-27T18:30:00Z",
  "gw_finished": true,
@@ -272,7 +272,7 @@
    "team": "ARS",
    "pos": "DEF",
    "price": 5.9,
-   "owned_by": 48.1,
+   "owned_by": 48.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -367,7 +367,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.8,
-   "owned_by": 77.0,
+   "owned_by": 76.9,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -1671,7 +1671,7 @@
    "pos": "MID",
    "price": 5.7,
    "points": 15,
-   "owned_by": 1.5
+   "owned_by": 1.6
   },
   {
    "name": "Hill",
@@ -2794,7 +2794,7 @@
    "pos": "FWD",
    "price": 15.8,
    "owned_in_league_pct": 92.0,
-   "owned_globally_pct": 77.0,
+   "owned_globally_pct": 76.9,
    "i_own": true
   },
   {
@@ -2812,7 +2812,7 @@
    "pos": "DEF",
    "price": 5.9,
    "owned_in_league_pct": 64.0,
-   "owned_globally_pct": 48.1,
+   "owned_globally_pct": 48.0,
    "i_own": true
   },
   {
@@ -2830,7 +2830,7 @@
    "pos": "FWD",
    "price": 6.6,
    "owned_in_league_pct": 56.0,
-   "owned_globally_pct": 27.7,
+   "owned_globally_pct": 27.8,
    "i_own": false
   },
   {
