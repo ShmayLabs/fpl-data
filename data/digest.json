@@ -3,7 +3,7 @@
   "FLAGGED: Tarkowski (EVE) -- Suspended until 13 Dec (0% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-26T16:48:56Z",
+ "generated_utc": "2026-11-26T17:11:15Z",
  "next_gw": 12,
  "next_deadline_utc": "2026-11-27T18:30:00Z",
  "gw_finished": true,
@@ -2902,7 +2902,7 @@
    "pos": "GK",
    "price": 4.4,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 16.4,
+   "owned_globally_pct": 16.5,
    "i_own": false
   },
   {
@@ -3244,7 +3244,7 @@
    "pos": "MID",
    "price": 11.6,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 20.1,
+   "owned_globally_pct": 20.2,
    "i_own": false
   },
   {
@@ -3298,7 +3298,7 @@
    "pos": "MID",
    "price": 6.6,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 4.5,
+   "owned_globally_pct": 4.4,
    "i_own": false
   },
   {
@@ -3685,7 +3685,7 @@
    "pos": "MID",
    "price": 5.2,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 8.9,
+   "owned_globally_pct": 9.0,
    "i_own": false
   },
   {
