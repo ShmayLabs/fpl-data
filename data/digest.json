@@ -15,7 +15,7 @@
   "NOT YET PLAYED: Mbeumo (MUN) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "FLAGGED: Tarkowski (EVE) -- Suspended until 13 Dec (0% chance)."
  ],
- "generated_utc": "2026-11-27T20:47:06Z",
+ "generated_utc": "2026-11-27T21:09:31Z",
  "next_gw": 13,
  "next_deadline_utc": "2026-12-01T18:30:00Z",
  "gw_finished": false,
@@ -326,7 +326,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 1,
-   "gw_minutes": 43,
+   "gw_minutes": 45,
    "form": "4.2",
    "total_points": 58,
    "fixture_state": "in_progress",
@@ -489,7 +489,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.2,
-   "owned_by": 15.3,
+   "owned_by": 15.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -510,7 +510,7 @@
    "team": "EVE",
    "pos": "DEF",
    "price": 6.2,
-   "owned_by": 15.3,
+   "owned_by": 15.2,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1678,7 +1678,7 @@
    "team": "NFO",
    "pos": "DEF",
    "price": 5.2,
-   "points": 5,
+   "points": 4,
    "owned_by": 3.9
   },
   {
@@ -1694,7 +1694,7 @@
    "team": "NFO",
    "pos": "MID",
    "price": 5.5,
-   "points": 2,
+   "points": 3,
    "owned_by": 0.1
   },
   {
@@ -1776,6 +1776,14 @@
    "price": 5.3,
    "points": 1,
    "owned_by": 1.9
+  },
+  {
+   "name": "Emegha",
+   "team": "CHE",
+   "pos": "FWD",
+   "price": 4.9,
+   "points": 1,
+   "owned_by": 0.2
   },
   {
    "name": "Sels",
@@ -3014,7 +3022,7 @@
    "pos": "DEF",
    "price": 6.2,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 15.3,
+   "owned_globally_pct": 15.2,
    "i_own": true
   },
   {
