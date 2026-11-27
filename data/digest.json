@@ -15,7 +15,7 @@
   "NOT YET PLAYED: Mbeumo (MUN) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "FLAGGED: Tarkowski (EVE) -- Suspended until 13 Dec (0% chance)."
  ],
- "generated_utc": "2026-11-27T21:31:54Z",
+ "generated_utc": "2026-11-27T21:54:17Z",
  "next_gw": 13,
  "next_deadline_utc": "2026-12-01T18:30:00Z",
  "gw_finished": false,
@@ -326,7 +326,7 @@
    "chance_next": null,
    "news": "",
    "gw_points": 2,
-   "gw_minutes": 70,
+   "gw_minutes": 90,
    "form": "4.5",
    "total_points": 59,
    "fixture_state": "in_progress",
@@ -590,8 +590,8 @@
      "rank": 9,
      "team": "The Goal Hangers",
      "player": "Nik Barlow",
-     "gw": 2,
-     "total": 567
+     "gw": 1,
+     "total": 566
     },
     {
      "rank": 10,
@@ -638,8 +638,8 @@
      "rank": 4,
      "team": "Expected Toulouse",
      "player": "Joe McClelland",
-     "gw": 7,
-     "total": 707
+     "gw": 11,
+     "total": 711
     },
     {
      "rank": 5,
@@ -727,23 +727,23 @@
     },
     {
      "rank": 17,
+     "team": "Woodys Wanderers",
+     "player": "Stephen Wood",
+     "gw": 15,
+     "total": 660
+    },
+    {
+     "rank": 18,
      "team": "Crew Alexander",
      "player": "Alex Brumby",
      "gw": 4,
      "total": 655
     },
     {
-     "rank": 18,
+     "rank": 19,
      "team": "Spring Thyme Rovers",
      "player": "Derek Holden",
      "gw": 2,
-     "total": 655
-    },
-    {
-     "rank": 19,
-     "team": "Woodys Wanderers",
-     "player": "Stephen Wood",
-     "gw": 10,
      "total": 655
     },
     {
@@ -776,17 +776,17 @@
     },
     {
      "rank": 24,
-     "team": "Maddcatts",
-     "player": "Craig Cattrall",
-     "gw": 2,
+     "team": "OneDirection_Top",
+     "player": "Paul Dickinson",
+     "gw": 15,
      "total": 635
     },
     {
      "rank": 25,
-     "team": "Enter Team Name",
-     "player": "Andy Grundy",
-     "gw": 0,
-     "total": 634
+     "team": "Maddcatts",
+     "player": "Craig Cattrall",
+     "gw": 2,
+     "total": 635
     }
    ]
   },
@@ -854,8 +854,8 @@
      "rank": 9,
      "team": "Accringtonali FC",
      "player": "Kyle Broadhurst",
-     "gw": 7,
-     "total": 646
+     "gw": 11,
+     "total": 650
     },
     {
      "rank": 10,
@@ -1666,52 +1666,44 @@
  },
  "top_scorers_this_gw": [
   {
-   "name": "Igor Jesus",
+   "name": "Gibbs-White",
    "team": "NFO",
-   "pos": "FWD",
-   "price": 5.6,
-   "points": 9,
-   "owned_by": 1.1
+   "pos": "MID",
+   "price": 7.8,
+   "points": 14,
+   "owned_by": 8.7
   },
   {
    "name": "Emegha",
    "team": "CHE",
    "pos": "FWD",
    "price": 4.9,
-   "points": 7,
+   "points": 12,
    "owned_by": 0.2
-  },
-  {
-   "name": "Gibbs-White",
-   "team": "NFO",
-   "pos": "MID",
-   "price": 7.8,
-   "points": 7,
-   "owned_by": 8.6
-  },
-  {
-   "name": "Delap",
-   "team": "NFO",
-   "pos": "FWD",
-   "price": 5.3,
-   "points": 6,
-   "owned_by": 1.9
   },
   {
    "name": "Neto",
    "team": "CHE",
    "pos": "MID",
    "price": 6.6,
-   "points": 5,
+   "points": 9,
    "owned_by": 4.2
   },
   {
-   "name": "Mu\u00f1oz",
+   "name": "Igor Jesus",
    "team": "NFO",
-   "pos": "DEF",
-   "price": 5.2,
+   "pos": "FWD",
+   "price": 5.6,
+   "points": 6,
+   "owned_by": 1.1
+  },
+  {
+   "name": "Schlager",
+   "team": "NFO",
+   "pos": "MID",
+   "price": 4.9,
    "points": 5,
-   "owned_by": 3.9
+   "owned_by": 0.1
   },
   {
    "name": "Caicedo",
@@ -1720,6 +1712,46 @@
    "price": 5.3,
    "points": 4,
    "owned_by": 1.0
+  },
+  {
+   "name": "Lavia",
+   "team": "CHE",
+   "pos": "MID",
+   "price": 5.0,
+   "points": 4,
+   "owned_by": 0.2
+  },
+  {
+   "name": "Delap",
+   "team": "NFO",
+   "pos": "FWD",
+   "price": 5.3,
+   "points": 4,
+   "owned_by": 1.9
+  },
+  {
+   "name": "Mu\u00f1oz",
+   "team": "NFO",
+   "pos": "DEF",
+   "price": 5.2,
+   "points": 4,
+   "owned_by": 3.9
+  },
+  {
+   "name": "McAtee",
+   "team": "NFO",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 4,
+   "owned_by": 0.1
+  },
+  {
+   "name": "Murillo",
+   "team": "NFO",
+   "pos": "DEF",
+   "price": 5.5,
+   "points": 3,
+   "owned_by": 1.9
   },
   {
    "name": "Martinez",
@@ -1743,71 +1775,7 @@
    "pos": "MID",
    "price": 9.8,
    "points": 2,
-   "owned_by": 25.6
-  },
-  {
-   "name": "Lavia",
-   "team": "CHE",
-   "pos": "MID",
-   "price": 5.0,
-   "points": 2,
-   "owned_by": 0.2
-  },
-  {
-   "name": "Sels",
-   "team": "NFO",
-   "pos": "GK",
-   "price": 5.0,
-   "points": 2,
-   "owned_by": 1.3
-  },
-  {
-   "name": "N.Williams",
-   "team": "NFO",
-   "pos": "DEF",
-   "price": 4.8,
-   "points": 2,
-   "owned_by": 4.7
-  },
-  {
-   "name": "Milenkovi\u0107",
-   "team": "NFO",
-   "pos": "DEF",
-   "price": 5.4,
-   "points": 2,
-   "owned_by": 0.7
-  },
-  {
-   "name": "Murillo",
-   "team": "NFO",
-   "pos": "DEF",
-   "price": 5.5,
-   "points": 2,
-   "owned_by": 1.9
-  },
-  {
-   "name": "Jair Cunha",
-   "team": "NFO",
-   "pos": "DEF",
-   "price": 4.4,
-   "points": 2,
-   "owned_by": 0.2
-  },
-  {
-   "name": "McAtee",
-   "team": "NFO",
-   "pos": "MID",
-   "price": 5.5,
-   "points": 2,
-   "owned_by": 0.1
-  },
-  {
-   "name": "Schlager",
-   "team": "NFO",
-   "pos": "MID",
-   "price": 4.9,
-   "points": 2,
-   "owned_by": 0.1
+   "owned_by": 25.5
   },
   {
    "name": "Henderson",
@@ -1842,12 +1810,60 @@
    "owned_by": 0.5
   },
   {
-   "name": "Chavarria",
+   "name": "Palestra",
    "team": "CHE",
    "pos": "DEF",
-   "price": 4.9,
+   "price": 5.3,
+   "points": 1,
+   "owned_by": 0.5
+  },
+  {
+   "name": "Quenda",
+   "team": "CHE",
+   "pos": "MID",
+   "price": 5.2,
+   "points": 1,
+   "owned_by": 0.0
+  },
+  {
+   "name": "Sels",
+   "team": "NFO",
+   "pos": "GK",
+   "price": 5.0,
+   "points": 1,
+   "owned_by": 1.3
+  },
+  {
+   "name": "N.Williams",
+   "team": "NFO",
+   "pos": "DEF",
+   "price": 4.8,
+   "points": 1,
+   "owned_by": 4.7
+  },
+  {
+   "name": "Milenkovi\u0107",
+   "team": "NFO",
+   "pos": "DEF",
+   "price": 5.4,
+   "points": 1,
+   "owned_by": 0.7
+  },
+  {
+   "name": "Jair Cunha",
+   "team": "NFO",
+   "pos": "DEF",
+   "price": 4.4,
    "points": 1,
    "owned_by": 0.2
+  },
+  {
+   "name": "Ndoye",
+   "team": "NFO",
+   "pos": "MID",
+   "price": 5.5,
+   "points": 1,
+   "owned_by": 0.4
   }
  ],
  "rival_count": 25,
@@ -2142,7 +2158,7 @@
    "team": "The Goal Hangers",
    "manager": "Nik Barlow",
    "rank": 9,
-   "total": 567,
+   "total": 566,
    "chip": null,
    "squad": [
     "Verbruggen",
@@ -2514,7 +2530,7 @@
    "team": "Accringtonali FC",
    "manager": "Kyle Broadhurst",
    "rank": 9,
-   "total": 646,
+   "total": 650,
    "chip": null,
    "squad": [
     "Tzolakis",
@@ -2878,7 +2894,7 @@
    "pos": "MID",
    "price": 9.8,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 25.6,
+   "owned_globally_pct": 25.5,
    "i_own": false
   },
   {
@@ -3040,7 +3056,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 16.8,
+   "owned_globally_pct": 16.9,
    "i_own": false
   },
   {
