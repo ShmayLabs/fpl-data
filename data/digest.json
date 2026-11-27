@@ -4,7 +4,7 @@
   "FLAGGED: Tarkowski (EVE) -- Suspended until 13 Dec (0% chance).",
   "FLAGGED: Jo\u00e3o Pedro (CHE) -- Thigh injury - Unknown return date (0% chance)."
  ],
- "generated_utc": "2026-11-27T08:20:27Z",
+ "generated_utc": "2026-11-27T08:42:53Z",
  "next_gw": 12,
  "next_deadline_utc": "2026-11-27T18:30:00Z",
  "gw_finished": true,
@@ -254,7 +254,7 @@
    "team": "LEE",
    "pos": "DEF",
    "price": 4.8,
-   "owned_by": 12.3,
+   "owned_by": 12.4,
    "is_captain": false,
    "is_vice": false,
    "on_bench": false,
@@ -368,7 +368,7 @@
    "team": "MCI",
    "pos": "FWD",
    "price": 15.7,
-   "owned_by": 76.2,
+   "owned_by": 76.1,
    "is_captain": true,
    "is_vice": false,
    "on_bench": false,
@@ -425,7 +425,7 @@
    "team": "MUN",
    "pos": "MID",
    "price": 7.8,
-   "owned_by": 17.1,
+   "owned_by": 17.0,
    "is_captain": false,
    "is_vice": false,
    "on_bench": true,
@@ -1688,7 +1688,7 @@
    "pos": "MID",
    "price": 7.5,
    "points": 14,
-   "owned_by": 13.3
+   "owned_by": 13.4
   },
   {
    "name": "McBurnie",
@@ -1808,7 +1808,7 @@
    "pos": "FWD",
    "price": 6.0,
    "points": 9,
-   "owned_by": 18.4
+   "owned_by": 18.5
   },
   {
    "name": "Szoboszlai",
@@ -2795,7 +2795,7 @@
    "pos": "FWD",
    "price": 15.7,
    "owned_in_league_pct": 92.0,
-   "owned_globally_pct": 76.2,
+   "owned_globally_pct": 76.1,
    "i_own": true
   },
   {
@@ -2831,7 +2831,7 @@
    "pos": "FWD",
    "price": 6.6,
    "owned_in_league_pct": 56.0,
-   "owned_globally_pct": 28.0,
+   "owned_globally_pct": 28.1,
    "i_own": false
   },
   {
@@ -2885,7 +2885,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 36.0,
-   "owned_globally_pct": 30.6,
+   "owned_globally_pct": 30.5,
    "i_own": false
   },
   {
@@ -2912,7 +2912,7 @@
    "pos": "DEF",
    "price": 4.8,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 12.3,
+   "owned_globally_pct": 12.4,
    "i_own": true
   },
   {
@@ -2921,7 +2921,7 @@
    "pos": "MID",
    "price": 7.8,
    "owned_in_league_pct": 28.0,
-   "owned_globally_pct": 17.1,
+   "owned_globally_pct": 17.0,
    "i_own": true
   },
   {
@@ -2993,7 +2993,7 @@
    "pos": "FWD",
    "price": 6.0,
    "owned_in_league_pct": 20.0,
-   "owned_globally_pct": 18.4,
+   "owned_globally_pct": 18.5,
    "i_own": false
   },
   {
@@ -3011,7 +3011,7 @@
    "pos": "DEF",
    "price": 5.5,
    "owned_in_league_pct": 16.0,
-   "owned_globally_pct": 18.9,
+   "owned_globally_pct": 18.8,
    "i_own": false
   },
   {
@@ -3245,7 +3245,7 @@
    "pos": "MID",
    "price": 11.6,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 20.4,
+   "owned_globally_pct": 20.5,
    "i_own": false
   },
   {
@@ -3317,7 +3317,7 @@
    "pos": "DEF",
    "price": 5.2,
    "owned_in_league_pct": 8.0,
-   "owned_globally_pct": 8.4,
+   "owned_globally_pct": 8.5,
    "i_own": false
   },
   {
