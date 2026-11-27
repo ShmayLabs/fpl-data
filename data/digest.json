@@ -15,7 +15,7 @@
   "NOT YET PLAYED: Mbeumo (MUN) shows 0 minutes but his match is not_kicked_off -- do NOT read this as him being dropped.",
   "FLAGGED: Tarkowski (EVE) -- Suspended until 13 Dec (0% chance)."
  ],
- "generated_utc": "2026-11-27T21:54:17Z",
+ "generated_utc": "2026-11-27T22:16:40Z",
  "next_gw": 13,
  "next_deadline_utc": "2026-12-01T18:30:00Z",
  "gw_finished": false,
@@ -329,7 +329,7 @@
    "gw_minutes": 90,
    "form": "4.5",
    "total_points": 59,
-   "fixture_state": "in_progress",
+   "fixture_state": "played",
    "zero_minutes_means": null
   },
   {
@@ -1670,7 +1670,7 @@
    "team": "NFO",
    "pos": "MID",
    "price": 7.8,
-   "points": 14,
+   "points": 13,
    "owned_by": 8.7
   },
   {
@@ -3632,7 +3632,7 @@
    "pos": "MID",
    "price": 7.5,
    "owned_in_league_pct": 4.0,
-   "owned_globally_pct": 3.7,
+   "owned_globally_pct": 3.6,
    "i_own": false
   },
   {
